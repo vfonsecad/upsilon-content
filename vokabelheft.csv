@@ -1,8 +1,33 @@
 German,English,Category
-Hund,Dog,Animals
-Katze,Cat,Animals
-Apfel,Apple,Fruits
-Banane,Banana,Fruits
-Der Apfel,The apple,Der
-Der Tag,The day,Der
-Der Monat,The month,Der
+Montag,Monday,Die Wochentage
+Dienstag,Tuesday,Die Wochentage
+Mittwoch,Wednesday,Die Wochentage
+Donnerstag,Thursday,Die Wochentage
+Freitag,Friday,Die Wochentage
+Samstag,Saturday,Die Wochentage
+Sonntag,Sunday,Die Wochentage
+Jänner,January,Die Monate
+Februar,February,Die Monate
+März,March,Die Monate
+April,April,Die Monate
+Mai,May,Die Monate
+Juni,June,Die Monate
+Juli,July,Die Monate
+August,August,Die Monate
+September ,September,Die Monate
+Oktober,October,Die Monate
+November,November,Die Monate
+Dezember,Dezember,Die Monate
+Winter,Winter,(Die) Jahreszeit 
+Frühling,Spring,(Die) Jahreszeit 
+Sommer,Summer,(Die) Jahreszeit 
+Herbst,Fall/Autum,(Die) Jahreszeit 
+Der Winter,The winter,Die Jahreszeit
+Der Frühling ,The spring,Die Jahreszeit
+Der Sommer,The summer,Die Jahreszeit
+Der Herbst,The autum,Die Jahreszeit
+heute,today,Days mode
+morgen,tomorrow,Days mode
+übermorgen,the day after tomorrow,Days mode
+vorgestern,the day before yesterday,Days mode
+gestern,yesterday,Days mode
