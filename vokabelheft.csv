@@ -17,7 +17,7 @@ August,August,Die Monate
 September ,September,Die Monate
 Oktober,October,Die Monate
 November,November,Die Monate
-Dezember,Dezember,Die Monate
+Dezember,December,Die Monate
 Winter,Winter,(Die) Jahreszeit 
 Frühling,Spring,(Die) Jahreszeit 
 Sommer,Summer,(Die) Jahreszeit 
@@ -32,4 +32,7 @@ morgen,tomorrow,Days mode
 vorgestern,the day before yesterday,Days mode
 gestern,yesterday,Days mode
 wei hei&t du?,what's your name?,Basic sentences
-wie geht's?,how's it going?,Basic sentences 
+wie geht's?,how's it going?,Basic sentences
+gehen,to go,Die Verben
+verstehen,to understand,Die Verben
+telefonieren,to call on the phone,Die Verben
