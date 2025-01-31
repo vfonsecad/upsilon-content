@@ -1,130 +1,64 @@
 German,English,Category
-Montag,Monday,die Wochentage
-Dienstag,Tuesday,die Wochentage
-Mittwoch,Wednesday,die Wochentage
-Donnerstag,Thursday,die Wochentage
-Freitag,Friday,die Wochentage
-Samstag,Saturday,die Wochentage
-Sonntag,Sunday,die Wochentage
-Jänner,January,die Monate
-Februar,February,die Monate
-März,March,die Monate
-April,April,die Monate
-Mai,May,die Monate
-Juni,June,die Monate
-Juli,July,die Monate
-August,August,die Monate
-September ,September,die Monate
-Oktober,October,die Monate
-November,November,die Monate
-Dezember,December,die Monate
-der Winter,The winter,die Jahreszeit
-der Frühling ,The spring,die Jahreszeit
-der Sommer,The summer,die Jahreszeit
-der Herbst,The autum,die Jahreszeit
-heute,today,Days mode
-morgen,tomorrow,Days mode
-übermorgen,the day after tomorrow,Days mode
-vorgestern,the day before yesterday,Days mode
-gestern,yesterday,Days mode
-wie hei&t du?,what's your name?,Basic sentences
-wie geht's?,how's it going?,Basic sentences
-gehen,to go,die Verben
-verstehen,to understand,die Verben
-telefonieren,to call on the phone,die Verben
-der Computer,The computer,Der
-der Stuhl,The chair,Der
-das Handy,The phone,Das
-der Laptop,The laptop,Der
-der Tisch,The table,Der
-das Foto,The photo,Das
-das Bild,The image,Das
-der Schlüssel,The key,Der
-der Schrank,The wardrobe,Der
-das Papier,The paper,Das
-der Stift,The pencil,Der
-der Kühlschrank,The fridge,Der
-das Notizbuch,The notebook,Das
-das Sofa,The sofa,Das
-die Handtasche,The purse,Die
-die Kaffeemaschine,The coffee machine,Die
-das Bett,The bed,Das
-die Bank,The bank,Die
-der Geschirrspüler,The dishwasher,Der
-das Regal,The shelf,Das
-die Tafel,The board,Die
-die Waschmaschine,The washing machine,Die
-das Fenster,The window,Das
-die Tür,The door,Die
-die Kassa,The cashier,Die
-die Flasche,The bottle,Die
-am Abend,in the evening,Times of the day
-am Vormittag,in the morning (before noon),Times of the day
-am Mittag,At noon,Times of the day
-die Nacht,The night,Die
-am Nachmittag,in the afternoon,Times of the day
-am Morgen,in the morning,Times of the day
-in der Nacht,At night,Times of the day
-in der Früh,in the early morning,Times of the day
-der Tag,The day,Der
-leben,to live (alive),die Verben
-sitzen,to sit,die Verben
-kommen,to come,die Verben
-denken,to think,die Verben
-wohnen,to live (in a place),die Verben
-hören,to hear / to listen,die Verben
-kochen,to cook,die Verben
-sprechen,to speak,die Verben
-trinken,to drink,die Verben
-lernen,to learn,die Verben
-schreiben,to write,die Verben
-spielen,to play,die Verben
-lieben,to love,die Verben
-schwimmen,to swim,die Verben
-machen,to do / to make,die Verben
-lachen,to laugh,die Verben
-zahlen,to count,die Verben
-zählen,to pay,die Verben
-rennen,to run,die Verben
-üben,to practice,die Verben
-sein,to be,die Verben
-haben,to have,die Verben
-richtig,right,Adjectives
-wichtig,important,Adjectives
-stark,strong,Adjectives
-spannend,interesting,Adjectives
-falsch,wrong,Adjectives
-gut,good,Adjectives
-schlecht,bad,Adjectives
-spät,late,Adjectives
-früh,early,Adjectives
-snel,fast,Adjectives
-hart,hard,Adjectives
-gleich,identical,Adjectives
-weich,soft,Adjectives
-langsam,slow,Adjectives
-schön,nice,Adjectives
-pünktlich,punctual,Adjectives
-unpünktlich,unpunctual,Adjectives
-müde,tired,Adjectives
-zwischen,between,Preprosition
-zurück,back,Preprosition
-vorwarts,forward,Preprosition
-rückwarts,backward,Preprosition
-am Montag,On Monday,Combinations
-im Februar,in February,Combinations
-am Mittag,At noon,Combinations
-in der Früh,in the early morning,Combinations
-in der Nacht,At night,Combinations
-Deutsch is genau so!,That is German!,Basic sentences
-wie spät ist es?,What time is it? (s),Basic sentences
-wie viel Uhr ist es?,What time is it? (v),Basic sentences
-viel zu snel,much too fast,Combinations
-die Stunde,The hour,Die
-die Minute,The minute,Die
-die Sekunde,The second,Die
-die Zeit,The time,Die
-die Uhr,The clock,Die
-mehr Personen kommen nicht,No more people come,Basic sentences
-verkaufen,to sell,die Verben
-tanzen,to dance,die Verben
+der Computer,The computer,der
+der Stuhl,The chair,der
+das Handy,The phone,das
+der Laptop,The laptop,der
+der Tisch,The table,der
+das Foto,The photo,das
+das Bild,The image,das
+der Schlüssel,The key,der
+der Schrank,The wardrobe,der
+das Papier,The paper,das
+der Stift,The pencil,der
+der Kühlschrank,The fridge,der
+das Notizbuch,The notebook,das
+das Sofa,The sofa,das
+die Handtasche,The purse,die
+die Kaffeemaschine,The coffee machine,die
+das Bett,The bed,das
+die Bank,The bank,die
+der Geschirrspüler,The dishwasher,der
+das Regal,The shelf,das
+die Tafel,The board,die
+die Waschmaschine,The washing machine,die
+das Fenster,The window,das
+die Tür,The door,die
+die Kassa,The cashier,die
+die Flasche,The bottle,die
+die Nacht,The night,die
+der Tag,The day,der
+die Stunde,The hour,die
+die Minute,The minute,die
+die Sekunde,The second,die
+die Zeit,The time,die
+die Uhr,The clock,die
+die Person,the person,die
+die Telefonnummer,the phone number,die
+die Adresse,the address,die
+der Name,the name,der
+das Kind,the child,das
+das Land,the country,das
+die Sprache,the language,die
+der Fernseher,the TV,der
+das Glas,the glass,das
+das Geschirr,the dishes,das
+der Löffel,the spoon,der
+der Kugelschreiber,the pen,der
+der Radiergummi,the eraser,der
+der Spitzer,the sharpener,der
+der Rucksack,the backpack,der
+die Postleitzahl,the postcode,die
+die Stiege,the unit of apartments,die
+die Schere,the scissors,die
+das Buch,the book,das
+das Video,the video,das
+das Bier,the beer,das
+der Ort,"the town, the city",der
+das Wort,the word,das
+das Ende,the end,das
+der Monat,the month,der
+die Woche,the week,die
+das Jahr,the year,das
+das Auto,the car,das
+der Kurs,the course,der
+die Frage,the question,die
