@@ -1,0 +1,168 @@
+German,English,Category
+Montag,Monday,die Wochentage
+Dienstag,Tuesday,die Wochentage
+Mittwoch,Wednesday,die Wochentage
+Donnerstag,Thursday,die Wochentage
+Freitag,Friday,die Wochentage
+Samstag,Saturday,die Wochentage
+Sonntag,Sunday,die Wochentage
+Jänner,January,die Monate
+Februar,February,die Monate
+März,March,die Monate
+April,April,die Monate
+Mai,May,die Monate
+Juni,June,die Monate
+Juli,July,die Monate
+August,August,die Monate
+September ,September,die Monate
+Oktober,October,die Monate
+November,November,die Monate
+Dezember,December,die Monate
+der Winter,The winter,die Jahreszeit
+der Frühling ,The spring,die Jahreszeit
+der Sommer,The summer,die Jahreszeit
+der Herbst,The autum,die Jahreszeit
+heute,today,Days mode
+morgen,tomorrow,Days mode
+übermorgen,the day after tomorrow,Days mode
+vorgestern,the day before yesterday,Days mode
+gestern,yesterday,Days mode
+gehen,to go,die Verben
+verstehen,to understand,die Verben
+telefonieren,to call on the phone,die Verben
+der Computer,The computer,DerDasDie
+der Stuhl,The chair,DerDasDie
+das Handy,The phone,DerDasDie
+der Laptop,The laptop,DerDasDie
+der Tisch,The table,DerDasDie
+das Foto,The photo,DerDasDie
+das Bild,The image,DerDasDie
+der Schlüssel,The key,DerDasDie
+der Schrank,The wardrobe,DerDasDie
+das Papier,The paper,DerDasDie
+der Stift,The pencil,DerDasDie
+der Kühlschrank,The fridge,DerDasDie
+das Notizbuch,The notebook,DerDasDie
+das Sofa,The sofa,DerDasDie
+die Handtasche,The purse,DerDasDie
+die Kaffeemaschine,The coffee machine,DerDasDie
+das Bett,The bed,DerDasDie
+die Bank,The bank,DerDasDie
+der Geschirrspüler,The dishwasher,DerDasDie
+das Regal,The shelf,DerDasDie
+die Tafel,The board,DerDasDie
+die Waschmaschine,The washing machine,DerDasDie
+das Fenster,The window,DerDasDie
+die Tür,The door,DerDasDie
+die Kassa,The cash register,DerDasDie
+die Flasche,The bottle,DerDasDie
+am Abend,in the evening,Times of the day
+am Vormittag,in the morning (before noon),Times of the day
+am Mittag,At noon,Times of the day
+die Nacht,The night,DerDasDie
+am Nachmittag,in the afternoon,Times of the day
+am Morgen,in the morning,Times of the day
+in der Nacht,At night,Times of the day
+in der Früh,in the early morning,Times of the day
+der Tag,The day,DerDasDie
+leben,to live (alive),die Verben
+sitzen,to sit,die Verben
+kommen,to come,die Verben
+denken,to think,die Verben
+wohnen,to live (in a place),die Verben
+hören,to hear / to listen,die Verben
+kochen,to cook,die Verben
+sprechen,to speak,die Verben
+trinken,to drink,die Verben
+lernen,to learn,die Verben
+schreiben,to write,die Verben
+spielen,to play,die Verben
+lieben,to love,die Verben
+schwimmen,to swim,die Verben
+machen,to do / to make,die Verben
+lachen,to laugh,die Verben
+zahlen,to count,die Verben
+zählen,to pay,die Verben
+rennen,to run,die Verben
+üben,to practice,die Verben
+sein,to be,die Verben
+haben,to have,die Verben
+richtig,right,Adjectives
+wichtig,important,Adjectives
+stark,strong,Adjectives
+spannend,interesting,Adjectives
+falsch,wrong,Adjectives
+gut,good,Adjectives
+schlecht,bad,Adjectives
+spät,late,Adjectives
+früh,early,Adjectives
+snel,fast,Adjectives
+hart,hard,Adjectives
+gleich,identical,Adjectives
+weich,soft,Adjectives
+langsam,slow,Adjectives
+schön,nice,Adjectives
+pünktlich,punctual,Adjectives
+unpünktlich,unpunctual,Adjectives
+müde,tired,Adjectives
+zwischen,between,Preprosition
+zurück,back,Preprosition
+vorwarts,forward,Preprosition
+rückwarts,backward,Preprosition
+am Montag,On Monday,Combinations
+im Februar,in February,Combinations
+am Mittag,At noon,Combinations
+in der Früh,in the early morning,Combinations
+in der Nacht,At night,Combinations
+viel zu snel,much too fast,Combinations
+die Stunde,The hour,DerDasDie
+die Minute,The minute,DerDasDie
+die Sekunde,The second,DerDasDie
+die Zeit,The time,DerDasDie
+die Uhr,The clock,DerDasDie
+verkaufen,to sell,die Verben
+tanzen,to dance,die Verben
+die Person,the person,DerDasDie
+die Telefonnummer,the phone number,DerDasDie
+die Adresse,the address,DerDasDie
+der Name,the name,DerDasDie
+das Kind,the child,DerDasDie
+das Land,the country,DerDasDie
+die Sprache,the language,DerDasDie
+der Fernseher,the TV,DerDasDie
+das Glas,the glass,DerDasDie
+das Geschirr,the dishes,DerDasDie
+der Löffel,the spoon,DerDasDie
+der Kugelschreiber,the pen,DerDasDie
+der Radiergummi,the eraser,DerDasDie
+der Spitzer,the sharpener,DerDasDie
+der Rucksack,the backpack,DerDasDie
+die Postleitzahl,the postcode,DerDasDie
+die Stiege,the unit of apartments,DerDasDie
+die Schere,the scissors,DerDasDie
+das Buch,the book,DerDasDie
+das Video,the video,DerDasDie
+das Bier,the beer,DerDasDie
+der Ort,"the town, the city",DerDasDie
+wählen,to choose,die Verben
+radieren,to erase,die Verben
+verheiratet,married,Adjectives
+geschieden,divorced,Adjectives
+ledig,single,Adjectives
+verwitwet,widow,Adjectives
+fern,far,Adjectives
+nah,close,Adjectives
+zeigen,to show,die Verben
+frühstücken,to eat breakfast,die Verben
+bedeuten,to mean,die Verben
+warten,to wait,die Verben
+treffen,to meet,die Verben
+buchstabieren,to spell,die Verben
+das Wort,the word,DerDasDie
+das Ende,the end,DerDasDie
+der Monat,the month,DerDasDie
+die Woche,the week,DerDasDie
+das Jahr,the year,DerDasDie
+das Auto,the car,DerDasDie
+der Kurs,the course,DerDasDie
+die Frage,the question,DerDasDie
