@@ -1,7 +1,3 @@
----
-type: Journal
----
-
 | German   | English  | Category |
 | -------- | -------- | -------- |
 |	der Computer	|	The computer	|	Nouns	|
