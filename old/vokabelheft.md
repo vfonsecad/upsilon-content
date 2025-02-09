@@ -1,4 +1,3 @@
-
 | German   | English  | Category |
 | -------- | -------- | -------- |
 |	der Computer	|	The computer	|	Nouns	|
@@ -266,4 +265,3 @@
 |	das Salz	|	the salt	|	Nouns food	|
 |	der Pfeffer	|	the pepper	|	Nouns food	|
 |	das Ei	|	the egg	|	Nouns food	|
-
