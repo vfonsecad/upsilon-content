@@ -1,3 +1,6 @@
+---
+type: Journal
+---
 
 | German   | English  | Category |
 | -------- | -------- | -------- |
@@ -266,4 +269,3 @@
 |	das Salz	|	the salt	|	Nouns food	|
 |	der Pfeffer	|	the pepper	|	Nouns food	|
 |	das Ei	|	the egg	|	Nouns food	|
-
