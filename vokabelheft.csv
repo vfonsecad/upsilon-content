@@ -42,7 +42,7 @@ die Sprache,El idioma -- the language,Nouns
 der Fernseher,La televisión -- the TV,Nouns
 das Glas,El vaso -- the glass,Nouns
 das Geschirr,Los platos -- the dishes,Nouns
-der Löffel,La cuchara -- the spoon,Nouns
+der Löffel,La cuchara -- the spoon,Nouns food
 der Kugelschreiber,El bolígrafo -- the pen,Nouns
 der Radiergummi,El borrador -- the eraser,Nouns
 der Spitzer,El sacapuntas -- the sharpener,Nouns
@@ -417,3 +417,5 @@ tanzen,bailar -- to dance,Verben
 wandern,caminar -- hiking,Verben
 möchten,me gustaria -- I would like to (infinitive),Verben
 hätten gerne,me gustaria -- I would like to (gerne),Verben
+das Messer, el cuchillo -- the knife,Nouns food
+die Gabel, el tenedor -- the fork,Nouns food
