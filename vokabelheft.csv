@@ -258,8 +258,8 @@ die Birne,La pera -- the pear,Nouns food
 das Gemüse,La verdura -- the vegetables,Nouns food
 das Obst,La fruta -- the fruit,Nouns food
 der Paprika,La pimienta -- the bell pepper,Nouns food
-das Huhn,El pollo -- the chicken,Nouns food
-das Lachs,El salmón -- the salmon,Nouns food
+das Hähnchen,El pollo -- the chicken,Nouns food
+der Lachs,El salmón -- the salmon,Nouns food
 das Öl,El aceite -- the oil,Nouns food
 das Salz,La sal -- the salt,Nouns food
 der Pfeffer,La pimienta -- the pepper,Nouns food
@@ -358,7 +358,7 @@ die Flasche,La botella -- the bottle,Nouns food
 die Dose,La lata -- the can,Nouns food
 das Sackerl,La bolsa -- the bag (of chips),Nouns food
 das Packerl,El paquete -- the packet (small),Nouns food
-die Scheiben,Las ventanas -- the slices,Nouns food
+die Scheiben,Las tajadas -- the slices,Nouns food
 kosten,costo -- to cost,Verben 
 retten,ahorrar -- to save,Verben 
 rechnen,calcular -- to calculate,Verben 
