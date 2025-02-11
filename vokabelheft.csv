@@ -1,370 +1,419 @@
 German,English,Category
-der Computer,The computer,Nouns
-der Stuhl,The chair,Nouns
-das Handy,The phone,Nouns
-der Laptop,The laptop,Nouns
-der Tisch,The table,Nouns
-das Foto,The photo,Nouns
-das Bild,The image,Nouns
-der Schlüssel,The key,Nouns
-der Kasten,The wardrobe,Nouns
-das Papier,The paper,Nouns
-der Stift,The pencil,Nouns
-der Kühlschrank,The fridge,Nouns
-das Notizbuch,The notebook,Nouns
-das Sofa,The sofa,Nouns
-die Handtasche,The purse,Nouns
-die Kaffeemaschine,The coffee machine,Nouns
-das Bett,The bed,Nouns
-die Bank,The bank,Nouns
-der Geschirrspüler,The dishwasher,Nouns
-das Regal,The shelf,Nouns
-die Tafel,The board,Nouns
-die Waschmaschine,The washing machine,Nouns
-das Fenster,The window,Nouns
-die Tür,The door,Nouns
-die Kassa,The cash register,Nouns
-die Flasche,The bottle,Nouns
-die Nacht,The night,Nouns
-der Tag,The day,Nouns
-die Stunde,The hour,Nouns
-die Minute,The minute,Nouns
-die Sekunde,The second,Nouns
-die Zeit,The time,Nouns
-die Uhr,The clock,Nouns
-die Person,the person,Nouns
-die Telefonnummer,the phone number,Nouns
-die Adresse,the address,Nouns
-der Name,the name,Nouns
-das Kind,the child,Nouns
-das Land,the country,Nouns
-die Sprache,the language,Nouns
-der Fernseher,the TV,Nouns
-das Glas,the glass,Nouns
-das Geschirr,the dishes,Nouns
-der Löffel,the spoon,Nouns
-der Kugelschreiber,the pen,Nouns
-der Radiergummi,the eraser,Nouns
-der Spitzer,the sharpener,Nouns
-der Rucksack,the backpack,Nouns
-die Postleitzahl,the postcode,Nouns
-die Stiege,the staircase,Nouns
-die Schere,the scissors,Nouns
-das Buch,the book,Nouns
-das Video,the video,Nouns
-das Bier,the beer,Nouns
-der Ort,"the town, the city",Nouns
-das Wort,the word,Nouns
-das Ende,the end,Nouns
-der Monat,the month,Nouns
-die Woche,the week,Nouns
-das Jahr,the year,Nouns
-das Auto,the car,Nouns
-der Kurs,the course,Nouns
-die Frage,the question,Nouns
-schnell,fast,Adjectives
-langsam,slow,Adjectives
-richtig,right,Adjectives
-falsch,wrong,Adjectives
-schön,nice,Adjectives
-hässlich,not nice,Adjectives
-gro&,big,Adjectives
-klein,small,Adjectives
-trocken,dry,Adjectives
-nass,wet,Adjectives
-alt,old,Adjectives
-jung,young,Adjectives
-frish,fresch,Adjectives
-neu,new,Adjectives
-gut,good,Adjectives
-schlecht,bad,Adjectives
-lang,long,Adjectives
-kurz,short,Adjectives
-hart,hard,Adjectives
-weich,soft,Adjectives
-kalt,cold,Adjectives
-hei&t,hot,Adjectives
-kühl,cool,Adjectives
-warm,warm,Adjectives
-früh,early,Adjectives
-spät,late,Adjectives
-pünktlich,punctual,Adjectives
-unpünktlich,unpunctual,Adjectives
-gesund,healthy,Adjectives
-krank,sick,Adjectives
-ungesund,unhealthy,Adjectives
-leer,empty,Adjectives
-voll,full,Adjectives
-schwer,heavy,Adjectives
-leicht,light,Adjectives
-hell,bright,Adjectives
-dunkel,dark,Adjectives
-laut,loud,Adjectives
-leise,quiet,Adjectives
-bequem,comfortable,Adjectives
-unbequem,uncomfortable,Adjectives
-viel,a lot,Adjectives
-wenig,a few,Adjectives
-dünn,thin,Adjectives
-dick,thick,Adjectives
-glücklich,happy,Adjectives
-traurig,sad,Adjectives
-sauber,clean,Adjectives
-schmutzig,dirty,Adjectives
-interessant,interesting,Adjectives
-modern,modern,Adjectives
-kaputt,broken,Adjectives
-normal,normal,Adjectives
-die Tasse,the cup,Nouns
-das Gegenteil,the opposite word,Nouns
-die Bahn,the railway,Nouns
-der Zug,the train,Nouns
-die Gruppe,the group,Nouns
-die Karte,the map,Nouns
-das Haar,the hair,Nouns
-die Schokolade,the chocolate,Nouns
-die Regel,the rule,Nouns
-die Matratze,the mattress,Nouns
-die Bedeutung,the meaning,Nouns
-der Ball,the ball,Nouns
-der Hunger,the hunger,Nouns
-die Pause,the pause,Nouns
-der Punkt,"the dot, period",Nouns
-die List,the list,Nouns
-der Bus,the bus,Nouns
-das Taxi,the taxi,Nouns
-der Salat,the salad,Nouns
-der Nachbar,the neighbor,Nouns
-der Name,the name,Nouns
-die Toilette,the toilet,Nouns
-das Handtuch,the towel,Nouns
-das Zimmer,the room,Nouns
-die Küche,the kitchen,Nouns
-das Büro,the office,Nouns
-der Sessel,the sofa chair,Nouns
-treffen,to meet,Verben 
-werfen,to throw,Verben 
-nehmen,to take,Verben 
-sprechen,to speak,Verben 
-sehen,to see,Verben 
-geben,to give,Verben 
-messen,to measure,Verben 
-helfen,to help,Verben 
-brechen,to break,Verben 
-lesen,to read,Verben 
-schreiben,to write,Verben 
-essen,to eat,Verben 
-vergessen,to forget,Verben 
-schlafen,to sleep,Verben 
-laufen,to run,Verben 
-fahren,to ride,Verben 
-waschen,to wash,Verben 
-fangen,to catch,Verben 
-fallen,to fall,Verben 
-tragen,to carry,Verben 
-schlagen,to beat,Verben 
-halten,"to stop, to hold",Verben 
-spielen,to play,Verben 
-denken,to think,Verben 
-sitzen,to sit,Verben 
-kommen,to come,Verben 
-wohnen,to live in a place,Verben 
-leben,to live (alive),Verben 
-stehen,to stand up,Verben 
-verstehen,to understand,Verben 
-hören,"to hear, to listen",Verben 
-kochen,to cook,Verben 
-singen,to sing,Verben 
-zählen,to count,Verben 
-zahlen,to pay,Verben 
-lernen,to learn,Verben 
-machen,to do,Verben 
-lachen,to laugh,Verben 
-schwimmen,to swim,Verben 
-lieben,to love,Verben 
-üben,to practice,Verben 
-Montag,Monday,die Wochentage
-Dienstag,Tuesday,die Wochentage
-Mittwoch,Wednesday,die Wochentage
-Donnerstag,Thursday,die Wochentage
-Freitag,Friday,die Wochentage
-Samstag,Saturday,die Wochentage
-Sonntag,Sunday,die Wochentage
-Jänner,January,die Monate
-Februar,February,die Monate
-März,March,die Monate
-April,April,die Monate
-Mai,May,die Monate
-Juni,June,die Monate
-Juli,July,die Monate
-August,August,die Monate
-September ,September,die Monate
-Oktober,October,die Monate
-November,November,die Monate
-Dezember,December,die Monate
-der Winter,The winter,die Jahreszeit
-der Frühling ,The spring,die Jahreszeit
-der Sommer,The summer,die Jahreszeit
-der Herbst,The autum,die Jahreszeit
-am Abend,in the evening,Times of the day
-am Vormittag,in the morning (before noon),Times of the day
-am Mittag,At noon,Times of the day
-am Nachmittag,in the afternoon,Times of the day
-am Morgen,in the morning,Times of the day
-in der Nacht,At night,Times of the day
-in der Früh,in the early morning,Times of the day
-wählen,to choose,Verben 
-radieren,to erase,Verben 
-verheiratet,married,Adjectives
-geschieden,divorced,Adjectives
-ledig,single,Adjectives
-verwitwet,widow,Adjectives
-fern,far,Adjectives
-nah,close,Adjectives
-zeigen,to show,Verben 
-frühstücken,to eat breakfast,Verben 
-bedeuten,to mean,Verben 
-warten,to wait,Verben 
-wie,how,W Frage
-wer,who,W Frage
-was,what,W Frage
-welche,which,W Frage
-wo,where,W Frage
-woher,where from,W Frage
-wohin,where to,W Frage
-wann,when,W Frage
-wie viel,how many,W Frage
-wie alt,how old,W Frage
-um wie viel Uhr,at what time,W Frage
-der Wein,the wine,Nouns food
-der Erdapfel,the potato,Nouns food
-der Apfel,the apple,Nouns food
-der Paradeiser,the tomato,Nouns food
-der Käse,the cheese,Nouns food
-der Tee,the tea,Nouns food
-das Wasser,the water,Nouns food
-der Joghurt,the yogurt,Nouns food
-der Kaffee,the coffee,Nouns food
-der Reis,the rice,Nouns food
-die Banane,the banana,Nouns food
-die Butter,the butter,Nouns food
-die Milch,the milk,Nouns food
-die Nudeln,the noodles,Nouns food
-die Schokolade,the chocolate,Nouns food
-das Bier,the beer,Nouns food
-die Wurst,the sausage,Nouns food
-das Brot,the bread,Nouns food
-die Birne,the pear,Nouns food
-das Gemüse,the vegetables,Nouns food
-das Obst,the fruit,Nouns food
-der Paprika,the bell pepper,Nouns food
-das Huhn,the chicken,Nouns food
-das Lachs,the salmon,Nouns food
-das Öl,the oil,Nouns food
-das Salz,the salt,Nouns food
-der Pfeffer,the pepper,Nouns food
-das Ei,the egg,Nouns food
-der Baum,the tree,Nouns nature
-der Reiskocher,the rice cooker,Nouns kitchen
-der Freund,the friend,Nouns
-der Wecker,the alarm clock,Nouns house
-der Elefant,the elephant,Nouns animals
-das Fahrrad,the bike,Nouns
-die Vakzine,the vaccine,Nouns
-der Stress,the stress,Nouns
-das Vitamin,the vitamin,Nouns
-die Wohnung,the apartment,Nouns house
-das Fleisch,the meat,Nouns food
-der Schinken,the ham,Nouns food
-der Saft,the juice,Nouns food
-der Kuchen,the cake,Nouns food
-der Zucker,the sugar,Nouns food
-der Keks,the cookies,Nouns food
-der Wasserkocher,the water boiler,Nouns kitchen
-das Getränk,the drink,Nouns food
-Das Gebäck,the backed products,Nouns food
-das Stück,the piece,Nouns food
-das Produkt,the product,Nouns food
-eine Liter,one liter,Nouns food
-500 Gramm,500 grams,Nouns food
-ein halbes Kilo,half a kilo,Nouns food
-Stunden,hours,Plurals
-Tassen,cups,Plurals
-Flaschen,bottles,Plurals
-Adressen,addresses,Plurals
-Toiletten,toilets,Plurals
-Stiegen,staircases,Plurals
-Namen,names,Plurals
-Minuten,minutes,Plurals
-Sekunden,seconds,Plurals
-Karten,cards,Plurals
-Scheren,scissors (plural),Plurals
-Gruppen,groups,Plurals
-Enden,finales,Plurals
-Küchen,cakes,Plurals
-Fragen,questions,Plurals
-Nummern,numbers (Nummer),Plurals
-Zahlen,numbers (Zahl),Plurals
-Sprachen,languages,Plurals
-Taschen,purses,Plurals
-Maschinen,machines,Plurals
-Zeiten,times,Plurals
-Bahnen,railways,Plurals
-Uhren,clocks,Plurals
-Abenden,evenings,Plurals
-Tage,days,Plurals
-Punkte,"points, dots",Plurals
-Orte,towns,Plurals
-Tische,tables,Plurals
-Biere,beers,Plurals
-Salate,salads,Plurals
-Gegenteile,the opposite nouns,Plurals
-Regale,shelves,Plurals
-Monate,months,Plurals
-Stifte,pencils,Plurals
-Projekte,projects,Plurals
-Städte,cities,Plurals
-Rucksäcke,backpacks,Plurals
-Bänke,banks,Plurals
-Bahnhöfe,train stations,Plurals
-Nächte,nights,Plurals
-Stühle,chairs,Plurals
-Säfte,juices,Plurals
-Taxis,taxis,Plurals
-Autos,cars,Plurals
-Sofas,couches,Plurals
-Avocados,avocadoes,Plurals
-Mangos,mangoes,Plurals
-Ruculas,ruculas,Plurals
-Opas,grandpas,Plurals
-Omas,grandmas,Plurals
-Mamas,moms,Plurals
-Papas,dads,Plurals
-Bilder,images,Plurals
-Kinder,children,Plurals
-Wörter,words,Plurals
-Länder,countries,Plurals
-Fernseher,TV’s,Plurals
-Löffel,spoons,Plurals
-Computer,computers,Plurals
-Spitzer,sharpeners,Plurals
-Schlüssel,keys,Plurals
-Kugelschreiber,pens,Plurals
-die Packung,the packet (big),Nouns food
-der Becher,the cup (e.g. yogurt),Nouns food
-die Kiste,the crate,Nouns food
-das Glas,the glass (e.g. mermelade),Nouns food
-die Flasche,the bottle,Nouns food
-die Dose,the can,Nouns food
-das Sackerl,the bag (of chips),Nouns food
-das Packerl,the packet (small),Nouns food
-die Scheiben,the slices,Nouns food
-kosten,to cost,Verben 
-retten,to save,Verben 
-rechnen,to calculate,Verben 
-arbeiten,to work,Verben 
-warten,to wait,Verben 
-baden,to bath,Verben 
-reden,to talk,Verben 
-finden,to find,Verben 
-atmen,to breathe,Verben 
+der Computer,La computadora -- The computer,Nouns
+der Stuhl,La silla -- The chair,Nouns
+das Handy,El teléfono -- The phone,Nouns
+der Laptop,La computadora portátil -- The laptop,Nouns
+der Tisch,La mesa -- The table,Nouns
+das Foto,La foto -- The photo,Nouns
+das Bild,La imagen -- The image,Nouns
+der Schlüssel,La clave -- The key,Nouns
+der Kasten,La caja -- The wardrobe,Nouns
+das Papier,El papel -- The paper,Nouns
+der Stift,El lapiz -- The pencil,Nouns
+der Kühlschrank,El refrigerador -- The fridge,Nouns
+das Notizbuch,El cuaderno -- The notebook,Nouns
+das Sofa,El sofá -- The sofa,Nouns
+die Handtasche,El bolso -- The purse,Nouns
+die Kaffeemaschine,La máquina de café -- The coffee machine,Nouns
+das Bett,La cama -- The bed,Nouns
+die Bank,El banco -- The bank,Nouns
+der Geschirrspüler,El lavavajillas -- The dishwasher,Nouns
+das Regal,El estante -- The shelf,Nouns
+die Tafel,La pizarra -- The board,Nouns
+die Waschmaschine,La lavadora -- The washing machine,Nouns
+das Fenster,La ventana -- The window,Nouns
+die Tür,La puerta -- The door,Nouns
+die Kassa,La caja registradora -- The cash register,Nouns
+die Flasche,La botella -- The bottle,Nouns
+die Nacht,La noche -- The night,Nouns
+der Tag,El día -- The day,Nouns
+die Stunde,La hora -- The hour,Nouns
+die Minute,El minuto -- The minute,Nouns
+die Sekunde,El segundo -- The second,Nouns
+die Zeit,el tiempo -- The time,Nouns
+die Uhr,El reloj -- The clock,Nouns
+die Person,La persona -- the person,Nouns
+die Telefonnummer,El número de teléfono -- the phone number,Nouns
+die Adresse,La dirección -- the address,Nouns
+der Name,El nombre -- the name,Nouns
+das Kind,El niño -- the child,Nouns
+das Land,El país -- the country,Nouns
+die Sprache,El idioma -- the language,Nouns
+der Fernseher,La televisión -- the TV,Nouns
+das Glas,El vaso -- the glass,Nouns
+das Geschirr,Los platos -- the dishes,Nouns
+der Löffel,La cuchara -- the spoon,Nouns
+der Kugelschreiber,El bolígrafo -- the pen,Nouns
+der Radiergummi,El borrador -- the eraser,Nouns
+der Spitzer,El sacapuntas -- the sharpener,Nouns
+der Rucksack,La mochila -- the backpack,Nouns
+die Postleitzahl,El código postal -- the postcode,Nouns
+die Stiege,Las escaleras -- the staircase,Nouns
+die Schere,Las tijeras -- the scissors,Nouns
+das Buch,Biblia -- the book,Nouns
+das Video,El vídeo -- the video,Nouns
+das Bier,La cerveza -- the beer,Nouns
+der Ort,"El lugar -- the town, the city",Nouns
+das Wort,La palabra -- the word,Nouns
+das Ende,el fin -- the end,Nouns
+der Monat,El mes -- the month,Nouns
+die Woche,la semana -- the week,Nouns
+das Jahr,El año -- the year,Nouns
+das Auto,El coche -- the car,Nouns
+der Kurs,el curso -- the course,Nouns
+die Frage,La pregunta -- the question,Nouns
+schnell,rápido -- fast,Adjectives
+langsam,lento -- slow,Adjectives
+richtig,correcto -- right,Adjectives
+falsch,incorrecto -- wrong,Adjectives
+schön,lindo -- nice,Adjectives
+hässlich,feo -- not nice,Adjectives
+gro&,grande -- big,Adjectives
+klein,pequeño -- small,Adjectives
+trocken,seco -- dry,Adjectives
+nass,húmedo -- wet,Adjectives
+alt,viejo -- old,Adjectives
+jung,joven -- young,Adjectives
+frish,fresco -- fresch,Adjectives
+neu,nuevo -- new,Adjectives
+gut,bien -- good,Adjectives
+schlecht,malo -- bad,Adjectives
+lang,largo -- long,Adjectives
+kurz,corto -- short,Adjectives
+hart,duro -- hard,Adjectives
+weich,suave -- soft,Adjectives
+kalt,frío -- cold,Adjectives
+hei&t,Hola -- hot,Adjectives
+kühl,Frío -- cool,Adjectives
+warm,cálido -- warm,Adjectives
+früh,temprano -- early,Adjectives
+spät,tarde -- late,Adjectives
+pünktlich,a tiempo -- punctual,Adjectives
+unpünktlich,impuntual -- unpunctual,Adjectives
+gesund,saludable -- healthy,Adjectives
+krank,enfermo -- sick,Adjectives
+ungesund,malsano -- unhealthy,Adjectives
+leer,vacío -- empty,Adjectives
+voll,lleno -- full,Adjectives
+schwer,difícil -- heavy,Adjectives
+leicht,luz -- light,Adjectives
+hell,brillante -- bright,Adjectives
+dunkel,oscuro -- dark,Adjectives
+laut,alto -- loud,Adjectives
+leise,tranquilo -- quiet,Adjectives
+bequem,cómodo -- comfortable,Adjectives
+unbequem,incómodo -- uncomfortable,Adjectives
+viel,mucho -- a lot,Adjectives
+wenig,pocos -- a few,Adjectives
+dünn,delgado -- thin,Adjectives
+dick,grueso -- thick,Adjectives
+glücklich,feliz -- happy,Adjectives
+traurig,triste -- sad,Adjectives
+sauber,limpio -- clean,Adjectives
+schmutzig,sucio -- dirty,Adjectives
+interessant,interesante -- interesting,Adjectives
+modern,moderno -- modern,Adjectives
+kaputt,roto -- broken,Adjectives
+normal,normal -- normal,Adjectives
+die Tasse,la copa -- the cup,Nouns
+das Gegenteil,lo contrario -- the opposite word,Nouns
+die Bahn,El tren -- the railway,Nouns
+der Zug,El tren -- the train,Nouns
+die Gruppe,El grupo -- the group,Nouns
+die Karte,El mapa -- the map,Nouns
+das Haar,El cabello -- the hair,Nouns
+die Schokolade,El chocolate -- the chocolate,Nouns
+die Regel,La regla -- the rule,Nouns
+die Matratze,El colchón -- the mattress,Nouns
+die Bedeutung,El significado -- the meaning,Nouns
+der Ball,La pelota -- the ball,Nouns
+der Hunger,hambre -- the hunger,Nouns
+die Pause,El descanso -- the pause,Nouns
+der Punkt,"el punto -- the dot, period",Nouns
+die List,La lista -- the list,Nouns
+der Bus,El autobús -- the bus,Nouns
+das Taxi,El taxi -- the taxi,Nouns
+der Salat,La ensalada -- the salad,Nouns
+der Nachbar,El vecino -- the neighbor,Nouns
+der Name,El nombre -- the name,Nouns
+die Toilette,El baño -- the toilet,Nouns
+das Handtuch,La toalla -- the towel,Nouns
+das Zimmer,La habitación -- the room,Nouns
+die Küche,La cocina -- the kitchen,Nouns
+das Büro,La oficina -- the office,Nouns
+der Sessel,El sillón -- the sofa chair,Nouns
+treffen,encontrarse -- to meet,Verben 
+werfen,tirar -- to throw,Verben 
+nehmen,llevar -- to take,Verben 
+sprechen,hablar -- to speak,Verben 
+sehen,ver -- to see,Verben 
+geben,dar -- to give,Verben 
+messen,medida -- to measure,Verben 
+helfen,ayuda -- to help,Verben 
+brechen,romper -- to break,Verben 
+lesen,leer -- to read,Verben 
+schreiben,escribir -- to write,Verben 
+essen,comer -- to eat,Verben 
+vergessen,olvidar -- to forget,Verben 
+schlafen,dormir -- to sleep,Verben 
+laufen,correr -- to run,Verben 
+fahren,conducir -- to ride,Verben 
+waschen,lavar -- to wash,Verben 
+fangen,atrapar -- to catch,Verben 
+fallen,caer -- to fall,Verben 
+tragen,llevar -- to carry,Verben 
+schlagen,golpear -- to beat,Verben 
+halten,"sostener -- to stop, to hold",Verben 
+spielen,jugar -- to play,Verben 
+denken,pensar -- to think,Verben 
+sitzen,sentarse -- to sit,Verben 
+kommen,venir -- to come,Verben 
+wohnen,residir -- to live in a place,Verben 
+leben,vida -- to live (alive),Verben 
+stehen,pararse -- to stand up,Verben 
+verstehen,entender -- to understand,Verben 
+hören,"escuchar -- to hear, to listen",Verben 
+kochen,cocinar -- to cook,Verben 
+singen,cantar -- to sing,Verben 
+zählen,contar -- to count,Verben 
+zahlen,pagar -- to pay,Verben 
+lernen,aprender -- to learn,Verben 
+machen,hacer -- to do,Verben 
+lachen,reír -- to laugh,Verben 
+schwimmen,nadar -- to swim,Verben 
+lieben,amar -- to love,Verben 
+üben,práctica -- to practice,Verben 
+Montag,Lunes -- Monday,die Wochentage
+Dienstag,Martes -- Tuesday,die Wochentage
+Mittwoch,Miércoles -- Wednesday,die Wochentage
+Donnerstag,Jueves -- Thursday,die Wochentage
+Freitag,Viernes -- Friday,die Wochentage
+Samstag,Sábado -- Saturday,die Wochentage
+Sonntag,Domingo -- Sunday,die Wochentage
+Jänner,Enero -- January,die Monate
+Februar,Febrero -- February,die Monate
+März,Marzo -- March,die Monate
+April,Abril -- April,die Monate
+Mai,Puede -- May,die Monate
+Juni,Junio -- June,die Monate
+Juli,Julio -- July,die Monate
+August,Agosto -- August,die Monate
+September ,Septiembre -- September,die Monate
+Oktober,Octubre -- October,die Monate
+November,Noviembre -- November,die Monate
+Dezember,Diciembre -- December,die Monate
+der Winter,El invierno -- The winter,die Jahreszeit
+der Frühling ,La primavera -- The spring,die Jahreszeit
+der Sommer,el verano -- The summer,die Jahreszeit
+der Herbst,El otoño -- The autum,die Jahreszeit
+am Abend,por la tarde -- in the evening,Times of the day
+am Vormittag,por la mañana -- in the morning (before noon),Times of the day
+am Mittag,Al mediodía -- At noon,Times of the day
+am Nachmittag,por la tarde -- in the afternoon,Times of the day
+am Morgen,por la mañana -- in the morning,Times of the day
+in der Nacht,por la noche -- At night,Times of the day
+in der Früh,temprano por la mañana -- in the early morning,Times of the day
+wählen,elegir -- to choose,Verben 
+radieren,borrar -- to erase,Verben 
+verheiratet,casado -- married,Adjectives
+geschieden,divorciado -- divorced,Adjectives
+ledig,soltero -- single,Adjectives
+verwitwet,viudo -- widow,Adjectives
+fern,remoto -- far,Adjectives
+nah,cerca -- close,Adjectives
+zeigen,espectáculo -- to show,Verben 
+frühstücken,desayuno -- to eat breakfast,Verben 
+bedeuten,significar -- to mean,Verben 
+warten,esperar -- to wait,Verben 
+wie,Cómo -- how,W Frage
+wer,OMS -- who,W Frage
+was,Qué -- what,W Frage
+welche,cual -- which,W Frage
+wo,dónde -- where,W Frage
+woher,De donde -- where from,W Frage
+wohin,dónde -- where to,W Frage
+wann,Cuando -- when,W Frage
+wie viel,cuánto -- how many,W Frage
+wie alt,cuántos años -- how old,W Frage
+um wie viel Uhr,A qué hora -- at what time,W Frage
+der Wein,El vino -- the wine,Nouns food
+der Erdapfel,La patata -- the potato,Nouns food
+der Apfel,La manzana -- the apple,Nouns food
+der Paradeiser,El tomate -- the tomato,Nouns food
+der Käse,El queso -- the cheese,Nouns food
+der Tee,El té -- the tea,Nouns food
+das Wasser,El agua -- the water,Nouns food
+der Joghurt,El yogur -- the yogurt,Nouns food
+der Kaffee,El café -- the coffee,Nouns food
+der Reis,El arroz -- the rice,Nouns food
+die Banane,El plátano -- the banana,Nouns food
+die Butter,La mantequilla -- the butter,Nouns food
+die Milch,La leche -- the milk,Nouns food
+die Nudeln,Los fideos -- the noodles,Nouns food
+die Schokolade,El chocolate -- the chocolate,Nouns food
+das Bier,La cerveza -- the beer,Nouns food
+die Wurst,La salchicha -- the sausage,Nouns food
+das Brot,El pan -- the bread,Nouns food
+die Birne,La pera -- the pear,Nouns food
+das Gemüse,La verdura -- the vegetables,Nouns food
+das Obst,La fruta -- the fruit,Nouns food
+der Paprika,La pimienta -- the bell pepper,Nouns food
+das Huhn,El pollo -- the chicken,Nouns food
+das Lachs,El salmón -- the salmon,Nouns food
+das Öl,El aceite -- the oil,Nouns food
+das Salz,La sal -- the salt,Nouns food
+der Pfeffer,La pimienta -- the pepper,Nouns food
+das Ei,El huevo -- the egg,Nouns food
+der Baum,El arbol -- the tree,Nouns nature
+der Reiskocher,La olla arrocera -- the rice cooker,Nouns kitchen
+der Freund,El amigo -- the friend,Nouns
+der Wecker,El despertador -- the alarm clock,Nouns house
+der Elefant,El elefante -- the elephant,Nouns animals
+das Fahrrad,La bicicleta -- the bike,Nouns
+die Vakzine,La vacuna -- the vaccine,Nouns
+der Stress,El estrés -- the stress,Nouns
+das Vitamin,La vitamina -- the vitamin,Nouns
+die Wohnung,El apartamento -- the apartment,Nouns house
+das Fleisch,La carne -- the meat,Nouns food
+der Schinken,El jamón -- the ham,Nouns food
+der Saft,El jugo -- the juice,Nouns food
+der Kuchen,El pastel -- the cake,Nouns food
+der Zucker,El azúcar -- the sugar,Nouns food
+der Keks,La galleta -- the cookies,Nouns food
+der Wasserkocher,La tetera -- the water boiler,Nouns kitchen
+das Getränk,La bebida -- the drink,Nouns food
+Das Gebäck,La repostería -- the backed products,Nouns food
+das Stück,La pieza -- the piece,Nouns food
+das Produkt,El producto -- the product,Nouns food
+eine Liter,un litro -- one liter,Nouns food
+500 Gramm,500 gramos -- 500 grams,Nouns food
+ein halbes Kilo,medio kilo -- half a kilo,Nouns food
+Stunden,Horas -- hours,Plurals
+Tassen,tazas -- cups,Plurals
+Flaschen,botellas -- bottles,Plurals
+Adressen,direcciones -- addresses,Plurals
+Toiletten,baños -- toilets,Plurals
+Stiegen,escaleras -- staircases,Plurals
+Namen,nombres -- names,Plurals
+Minuten,minutos -- minutes,Plurals
+Sekunden,artículos de segunda clase -- seconds,Plurals
+Karten,tarjetas -- cards,Plurals
+Scheren,tijeras -- scissors (plural),Plurals
+Gruppen,grupos -- groups,Plurals
+Enden,termina -- finales,Plurals
+Küchen,cocinas -- cakes,Plurals
+Fragen,Preguntas -- questions,Plurals
+Nummern,números -- numbers (Nummer),Plurals
+Zahlen,Pagar -- numbers (Zahl),Plurals
+Sprachen,Idiomas -- languages,Plurals
+Taschen,bolsas -- purses,Plurals
+Maschinen,máquinas -- machines,Plurals
+Zeiten,veces -- times,Plurals
+Bahnen,Ferrocarriles -- railways,Plurals
+Uhren,relojes -- clocks,Plurals
+Abenden,tardes -- evenings,Plurals
+Tage,días -- days,Plurals
+Punkte,"agujas -- points, dots",Plurals
+Orte,lugares -- towns,Plurals
+Tische,mesas -- tables,Plurals
+Biere,Cervezas -- beers,Plurals
+Salate,ensaladas -- salads,Plurals
+Gegenteile,opuestos -- the opposite nouns,Plurals
+Regale,estantes -- shelves,Plurals
+Monate,Meses -- months,Plurals
+Stifte,bolígrafos -- pencils,Plurals
+Projekte,Proyectos -- projects,Plurals
+Städte,ciudades -- cities,Plurals
+Rucksäcke,Mochilas -- backpacks,Plurals
+Bänke,bancos -- banks,Plurals
+Bahnhöfe,estaciones de tren -- train stations,Plurals
+Nächte,noches -- nights,Plurals
+Stühle,sillas -- chairs,Plurals
+Säfte,jugos -- juices,Plurals
+Taxis,Taxis -- taxis,Plurals
+Autos,carros -- cars,Plurals
+Sofas,sofás -- couches,Plurals
+Avocados,aguacates -- avocadoes,Plurals
+Mangos,mangos -- mangoes,Plurals
+Ruculas,Rúcula -- ruculas,Plurals
+Opas,abuelos -- grandpas,Plurals
+Omas,abuelas -- grandmas,Plurals
+Mamas,mamás -- moms,Plurals
+Papas,Papás -- dads,Plurals
+Bilder,Fotos -- images,Plurals
+Kinder,Niños -- children,Plurals
+Wörter,Palabras -- words,Plurals
+Länder,Países -- countries,Plurals
+Fernseher,TELEVISOR -- TV’s,Plurals
+Löffel,Cuchara -- spoons,Plurals
+Computer,computadora -- computers,Plurals
+Spitzer,Spitzer -- sharpeners,Plurals
+Schlüssel,Llave -- keys,Plurals
+Kugelschreiber,Bolígrafo -- pens,Plurals
+die Packung,El paquete -- the packet (big),Nouns food
+der Becher,La taza -- the cup (e.g. yogurt),Nouns food
+die Kiste,la caja -- the crate,Nouns food
+das Glas,El vaso -- the glass (e.g. mermelade),Nouns food
+die Flasche,La botella -- the bottle,Nouns food
+die Dose,La lata -- the can,Nouns food
+das Sackerl,La bolsa -- the bag (of chips),Nouns food
+das Packerl,El paquete -- the packet (small),Nouns food
+die Scheiben,Las ventanas -- the slices,Nouns food
+kosten,costo -- to cost,Verben 
+retten,ahorrar -- to save,Verben 
+rechnen,calcular -- to calculate,Verben 
+arbeiten,trabajar -- to work,Verben 
+warten,esperar -- to wait,Verben 
+baden,bañarse -- to bath,Verben 
+reden,hablar -- to talk,Verben 
+finden,encontrar -- to find,Verben 
+atmen,respirar -- to breathe,Verben 
+ganz,completo,Adjectives
+fertig,"finished, terminado",Adjectives
+genug,"enough,suficiente",Adjectives
+vielleicht,"maybe, tal vez",Adverben
+ergänzen,"to complete, completar",Verben
+liegen,to lay,Verben
+analyzeren,to analyze,Verben
+suchen,to search,Verben
+bilden,to form (a sentence),Verben
+fütteren,to feed,Verben
+malen,to paint,Verben
+das Sonderangebot,"la oferta, the offer",Nouns
+die Semmel,el pan austriaco,Nouns food
+das Müsli,el cereal mu...,Nouns food
+die Marille,el melocoton,Nouns food
+der Sauerrahm,la crema acida,Nouns food
+die Kundin,La cliente,Nouns
+der Kunde,El cliente,Nouns
+der Verkäufer,el vendedor,Nouns
+die Verkäuferin,la vendedora,Nouns
+die Sache,"la cosa, the thing",Nouns
+das Ding,"la cosa, the thing (Ding)",Nouns
+der Markt,el mercado,Nouns
+der Projektor,el proyector,Nouns
+aufstehen,levantarse -- to get up,Trennbare Verben
+die Hauseaufgaben,La tarea -- the homework,Noun
+einkaufen,ir de compras--to go shopping,Trennbare Verben
+zurückkommen,volver--to come back,Trennbare Verben
+ankommen,llegar--to arrive,Trennbare Verben
+fernsehen,ver la televisión--to watch television,Trennbare Verben
+aufstehen,levantarse--to get up,Trennbare Verben
+weggehen,irse--to go away,Trennbare Verben
+losfahren,partir--to set off,Trennbare Verben
+abfahren,salir--to depart,Trennbare Verben
+einladen,invitar--to invite,Trennbare Verben
+aufessen,comerse todo--to eat up,Trennbare Verben
+anschauen,mirar--to look at,Trennbare Verben
+anrufen,llamar--to call,Trennbare Verben
+ausgehen,salir--to go out,Trennbare Verben
+mitbringen,traer--to bring along,Trennbare Verben
+dabeihaben,llevar consigo--to have with one,Trennbare Verben
+mitmachen,participar--to participate,Trennbare Verben
+fernsehen,ver la televisión--to watch television,Trennbare Verben
+aufräumen,ordenar--to tidy up,Trennbare Verben
+wegräumen,guardar--to put away,Trennbare Verben
+tanzen,bailar -- to dance,Verben
+wandern,caminar -- hiking,Verben
+möchten,me gustaria -- I would like to (infinitive),Verben
+hätten gerne,me gustaria -- I would like to (gerne),Verben
