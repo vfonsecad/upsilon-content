@@ -142,47 +142,47 @@ das Zimmer,La habitación -- the room,Nouns
 die Küche,La cocina -- the kitchen,Nouns
 das Büro,La oficina -- the office,Nouns
 der Sessel,El sillón -- the sofa chair,Nouns
-treffen,encontrarse -- to meet,Verben 
-werfen,tirar -- to throw,Verben 
-nehmen,llevar -- to take,Verben 
-sprechen,hablar -- to speak,Verben 
-sehen,ver -- to see,Verben 
-geben,dar -- to give,Verben 
-messen,medida -- to measure,Verben 
-helfen,ayuda -- to help,Verben 
-brechen,romper -- to break,Verben 
-lesen,leer -- to read,Verben 
-schreiben,escribir -- to write,Verben 
-essen,comer -- to eat,Verben 
-vergessen,olvidar -- to forget,Verben 
-schlafen,dormir -- to sleep,Verben 
-laufen,correr -- to run,Verben 
-fahren,conducir -- to ride,Verben 
-waschen,lavar -- to wash,Verben 
-fangen,atrapar -- to catch,Verben 
-fallen,caer -- to fall,Verben 
-tragen,llevar -- to carry,Verben 
-schlagen,golpear -- to beat,Verben 
-halten,"sostener -- to stop, to hold",Verben 
-spielen,jugar -- to play,Verben 
-denken,pensar -- to think,Verben 
-sitzen,sentarse -- to sit,Verben 
-kommen,venir -- to come,Verben 
-wohnen,residir -- to live in a place,Verben 
-leben,vida -- to live (alive),Verben 
-stehen,pararse -- to stand up,Verben 
-verstehen,entender -- to understand,Verben 
-hören,"escuchar -- to hear, to listen",Verben 
-kochen,cocinar -- to cook,Verben 
-singen,cantar -- to sing,Verben 
-zählen,contar -- to count,Verben 
-zahlen,pagar -- to pay,Verben 
-lernen,aprender -- to learn,Verben 
-machen,hacer -- to do,Verben 
-lachen,reír -- to laugh,Verben 
-schwimmen,nadar -- to swim,Verben 
-lieben,amar -- to love,Verben 
-üben,práctica -- to practice,Verben 
+treffen,encontrarse -- to meet,Verben
+werfen,tirar -- to throw,Verben
+nehmen,llevar -- to take,Verben
+sprechen,hablar -- to speak,Verben
+sehen,ver -- to see,Verben
+geben,dar -- to give,Verben
+messen,medida -- to measure,Verben
+helfen,ayuda -- to help,Verben
+brechen,romper -- to break,Verben
+lesen,leer -- to read,Verben
+schreiben,escribir -- to write,Verben
+essen,comer -- to eat,Verben
+vergessen,olvidar -- to forget,Verben
+schlafen,dormir -- to sleep,Verben
+laufen,correr -- to run,Verben
+fahren,conducir -- to ride,Verben
+waschen,lavar -- to wash,Verben
+fangen,atrapar -- to catch,Verben
+fallen,caer -- to fall,Verben
+tragen,llevar -- to carry,Verben
+schlagen,golpear -- to beat,Verben
+halten,"sostener -- to stop, to hold",Verben
+spielen,jugar -- to play,Verben
+denken,pensar -- to think,Verben
+sitzen,sentarse -- to sit,Verben
+kommen,venir -- to come,Verben
+wohnen,residir -- to live in a place,Verben
+leben,vida -- to live (alive),Verben
+stehen,pararse -- to stand up,Verben
+verstehen,entender -- to understand,Verben
+hören,"escuchar -- to hear, to listen",Verben
+kochen,cocinar -- to cook,Verben
+singen,cantar -- to sing,Verben
+zählen,contar -- to count,Verben
+zahlen,pagar -- to pay,Verben
+lernen,aprender -- to learn,Verben
+machen,hacer -- to do,Verben
+lachen,reír -- to laugh,Verben
+schwimmen,nadar -- to swim,Verben
+lieben,amar -- to love,Verben
+üben,práctica -- to practice,Verben
 Montag,Lunes -- Monday,die Wochentage
 Dienstag,Martes -- Tuesday,die Wochentage
 Mittwoch,Miércoles -- Wednesday,die Wochentage
@@ -213,18 +213,18 @@ am Nachmittag,por la tarde -- in the afternoon,Times of the day
 am Morgen,por la mañana -- in the morning,Times of the day
 in der Nacht,por la noche -- At night,Times of the day
 in der Früh,temprano por la mañana -- in the early morning,Times of the day
-wählen,elegir -- to choose,Verben 
-radieren,borrar -- to erase,Verben 
+wählen,elegir -- to choose,Verben
+radieren,borrar -- to erase,Verben
 verheiratet,casado -- married,Adjectives
 geschieden,divorciado -- divorced,Adjectives
 ledig,soltero -- single,Adjectives
 verwitwet,viudo -- widow,Adjectives
 fern,remoto -- far,Adjectives
 nah,cerca -- close,Adjectives
-zeigen,espectáculo -- to show,Verben 
-frühstücken,desayuno -- to eat breakfast,Verben 
-bedeuten,significar -- to mean,Verben 
-warten,esperar -- to wait,Verben 
+zeigen,espectáculo -- to show,Verben
+frühstücken,desayuno -- to eat breakfast,Verben
+bedeuten,significar -- to mean,Verben
+warten,esperar -- to wait,Verben
 wie,Cómo -- how,W Frage
 wer,OMS -- who,W Frage
 was,Qué -- what,W Frage
@@ -359,15 +359,15 @@ die Dose,La lata -- the can,Nouns food
 das Sackerl,La bolsa -- the bag (of chips),Nouns food
 das Packerl,El paquete -- the packet (small),Nouns food
 die Scheiben,Las tajadas -- the slices,Nouns food
-kosten,costo -- to cost,Verben 
-retten,ahorrar -- to save,Verben 
-rechnen,calcular -- to calculate,Verben 
-arbeiten,trabajar -- to work,Verben 
-warten,esperar -- to wait,Verben 
-baden,bañarse -- to bath,Verben 
-reden,hablar -- to talk,Verben 
-finden,encontrar -- to find,Verben 
-atmen,respirar -- to breathe,Verben 
+kosten,costo -- to cost,Verben
+retten,ahorrar -- to save,Verben
+rechnen,calcular -- to calculate,Verben
+arbeiten,trabajar -- to work,Verben
+warten,esperar -- to wait,Verben
+baden,bañarse -- to bath,Verben
+reden,hablar -- to talk,Verben
+finden,encontrar -- to find,Verben
+atmen,respirar -- to breathe,Verben
 ganz,completo,Adjectives
 fertig,"finished, terminado",Adjectives
 genug,"enough,suficiente",Adjectives
