@@ -77,7 +77,6 @@ das Bild,La imagen -- The image,Haus
 das Fenster,La ventana -- The window,Haus
 das Foto,La foto -- The photo,Haus
 das Geschirr,Los platos -- the dishes,Haus
-German,Translation,Category
 Computer,computadores -- computers,Arbeit
 das Büro,La oficina -- the office,Arbeit
 das Papier,El papel -- The paper,Arbeit
@@ -209,7 +208,8 @@ die Postleitzahl,El código postal -- the postcode,Kontaktdaten
 die Telefonnummer,El número de teléfono -- the phone number,Kontaktdaten
 Namen,nombres -- names,Kontaktdaten
 Nummern,números -- numbers (Nummer),Kontaktdaten
-das Haar,El cabello -- the hair,Körper
+das Haar,El cabello -- the hair,der Körper
+die Haare,Los cabellos – the hairs,der Körper
 der Baum,El arbol -- the tree,Natur
 das Kind,El niño -- the child,Personen
 der Freund,El amigo -- the friend,Personen
@@ -522,3 +522,34 @@ der Iran,Irán - Iran,Geographie/Kultur
 Serbien,Serbia - Serbia,Geographie/Kultur
 Griechenland,Grecia - Greece,Geographie/Kultur
 der Termin,La cita – the appointment,Arbeit
+die Wahl,la elección - choice,Wissen
+die Notbremsung,la frenada de emergencia - emergency brake,Verkehrsmittel
+die Haltegriffe,los asideros - handrails,Verkehrsmittel
+der Schnitzel,el schnitzel - schnitzel,Essen
+die Blume,la flor - flower,Natur
+die Blumen,las flores - flowers,Natur
+der See,el lago - lake,Natur
+das Meer,el mar - sea,Natur
+die Station,la estación - station,Stadt
+die Erde,la tierra - earth,Geographie/Kultur
+die Welt,el mundo - world,Geographie/Kultur
+die Straße,la calle - street,Stadt
+der Berzik,el Berzik - Berzik,Stadt
+das Rotes Kreuze,la Cruz Roja - Red Cross,Stadt
+der Wecker,el despertador - alarm clock,Haus
+die Hauptstadt,la capital - capital,Geographie/Kultur
+das Bundesland,el estado - federal state,Geographie/Kultur
+die Bundesländer,los estados federales - federal states,Geographie/Kultur
+die Landeshauptstadt,la capital del estado - state capital,Geographie/Kultur
+der Salon,el salón - living room,Stadt
+die Menschen,las personas - people,Personen
+die Geschichte,la historia - history,Wissen
+die Lust,el deseo - desire,Wissen
+der Kurs,el curso - course,Schule
+der Zuwanderer,el inmigrante - immigrant,Wanderung
+der Einwanderer,el inmigrante - immigrant,Wanderung
+die Gründe,las razones - reasons,Wissen
+der Grund,la razón - reason,Wissen
+die Wanderung,la migración - migration,Wanderung
+das Studium,los estudios - studies,Schule
+die Schätzung,la estimación - estimate,Wissen
