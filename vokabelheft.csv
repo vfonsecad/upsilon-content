@@ -1550,7 +1550,7 @@ hat geschlagen,schlagen,Perfekt (zB hat gemacht / ist gegangen)
 hat gehalten,halten,Perfekt (zB hat gemacht / ist gegangen)
 hat gespielt,spielen,Perfekt (zB hat gemacht / ist gegangen)
 hat gedacht,denken,Perfekt (zB hat gemacht / ist gegangen)
-hat gesessen,sitzen,Perfekt (zB hat gemacht / ist gegangen)
+ist gesessen,sitzen,Perfekt (zB hat gemacht / ist gegangen)
 ist gekommen,kommen,Perfekt (zB hat gemacht / ist gegangen)
 hat gewohnt,wohnen,Perfekt (zB hat gemacht / ist gegangen)
 hat gelebt,leben,Perfekt (zB hat gemacht / ist gegangen)
@@ -1724,3 +1724,33 @@ ledig,soltero -- single,Adjektive
 verwitwet,viudo -- widow,Adjektive
 fern,remoto -- far,Adjektive
 nah,cerca -- close,Adjektive
+die Heizung,la calefacción - the heating,Haus
+die Ausstellung,la exposición - the exhibition,Stadt
+die Zukunft,el futuro - the future,Politk
+der Unterschied,la diferencia - the difference,Wissen
+die Erbsen,los guisantes - the peas,Essen
+die Fisolen,las judías verdes - the green beans,Essen
+das Talent,el talento - the talent,Wissen
+die Frustration,la frustración - the frustration,Wissen
+der Installateur,el fontanero/el instalador - the plumber/the installer,Haus
+das Ergebnis,el resultado - the result,Arbeit
+die Ergebnisse,los resultados - the results,Arbeit
+das Rezept,la receta - the recipe,Essen
+der Krieg,la guerra - the war,Politk
+die Freundschaft,la amistad - the friendship,Personen
+genervt,molesto/a - annoyed,Adjektive
+aufgeregt,emocionado/a - excited,Adjektive
+überrascht,sorprendido/a - surprised,Adjektive
+neugierig,curioso/a - curious,Adjektive
+nervös,nervioso/a - nervous,Adjektive
+ängstlich,ansioso/a/temeroso/a - anxious/fearful,Adjektive
+unsicher,inseguro/a - insecure,Adjektive
+glücklich,feliz - happy,Adjektive
+hat motiviert,motivieren,Perfekt (zB hat gemacht / ist gegangen)
+hat abgeholt,abholen,Perfekt (zB hat gemacht / ist gegangen)
+hat kennengelernt,kennenlernen,Perfekt (zB hat gemacht / ist gegangen)
+hat nostrifiziert,nostrifizieren,Perfekt (zB hat gemacht / ist gegangen)
+hat notiert,notieren,Perfekt (zB hat gemacht / ist gegangen)
+hat storniert,stornieren,Perfekt (zB hat gemacht / ist gegangen)
+hat gewonnen,gewinnen,Perfekt (zB hat gemacht / ist gegangen)
+hat gefühlt,fühlen,Perfekt (zB hat gemacht / ist gegangen)
