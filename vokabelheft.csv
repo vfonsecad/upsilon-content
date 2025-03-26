@@ -1754,3 +1754,95 @@ hat notiert,notieren,Perfekt (zB hat gemacht / ist gegangen)
 hat storniert,stornieren,Perfekt (zB hat gemacht / ist gegangen)
 hat gewonnen,gewinnen,Perfekt (zB hat gemacht / ist gegangen)
 hat gefühlt,fühlen,Perfekt (zB hat gemacht / ist gegangen)
+der Chef,the boss,Noun--special
+das Anliegen,the concern/request,Noun--special
+die Idee,the idea,Noun--special
+der Vorschlag,the suggestion/proposal,Noun--special
+das Team,the team,Noun--special
+der Kollege,the colleague,Noun--special
+der Team Lead,the team lead,Noun--special
+das Software Development Team,the software development team,Noun--special
+die Sache,the matter/thing,Noun--special
+letzte,last/previous,Adjective--special
+offen,open,Adjective--special
+erste,first,Adjective--special
+zusammensetzt,sit together,Verb--special
+auslotet,explore/evaluate,Verb--special
+sucht,is looking for,Verb--special
+hatte,had,Verb--special
+besprochen,discussed,Verb--special
+freut,is looking forward to,Verb--special
+die Anfrage,the request,Noun--special
+der arbeitsrechtliche Teil,the labor law part,Noun--special
+die Auskunft,the information,Noun--special
+die Beendigung,the termination,Noun--special
+die Bildungskarenz,the educational leave,Noun--special
+das Einvernehmen,the mutual agreement,Noun--special
+der Anspruch,the claim,Noun--special
+der Arbeitsplatz,the workplace,Noun--special
+die Reformierung,the reform,Noun--special
+die Regelung,the regulation,Noun--special
+die Abschaffung,the abolition,Noun--special
+der Arbeitgeber,the employer,Noun--special
+die Vereinbarung,the agreement,Noun--special
+die Bildungsmaßnahme,the educational measure,Noun--special
+das Gespräch,the conversation,Noun--special
+die Rücktrittsmöglichkeiten,the withdrawal options,Noun--special
+der Fall,the case,Noun--special
+der Kurs,the course,Noun--special
+das Arbeitsmarktservice,the employment service,Noun--special
+die Landesgeschäftsstelle,the regional office,Noun--special
+der Kontakt,the contact,Noun--special
+das Gesetz,the law,Noun--special
+die Problemstellung,the issue,Noun--special
+die Homepage,the homepage,Noun--special
+der Bezug,the financial entitlement,Noun--special
+die Sozialversicherung,the social insurance,Noun--special
+das Arbeitsverhältnis,the employment relationship,Noun--special
+die Auswirkungen,the consequences,Noun--special
+die Kündigung,the termination/resignation,Noun--special
+der Austritt,the exit,Noun--special
+die Auflösung,the dissolution,Noun--special
+das Weiterbildungsgeld,the further education allowance,Noun--special
+die Interessenvertretung,the interest representation,Noun--special
+die Wirtschaftskammer,the chamber of commerce,Noun--special
+die Informationen,the information,Noun--special
+arbeitsrechtlich,labor law-related,Adjective--special
+beiderseitig,mutual,Adjective--special
+einseitig,unilateral,Adjective--special
+vorzeitig,premature/early,Adjective--special
+vorübergehend,temporary,Adjective--special
+nachweislich,demonstrably,Adjective--special
+passend,suitable,Adjective--special
+rechtzeitig,timely,Adjective--special
+finanziell,financial,Adjective--special
+sozial,social,Adjective--special
+unberechtigt,unjustified,Adjective--special
+einvernehmlich,consensual,Adjective--special
+zuständig,responsible,Adjective--special
+abschließend,conclusive,Adjective--special
+erhalten,to receive,Verb--special
+erteilen,to provide/grant,Verb--special
+beenden,to terminate,Verb--special
+haben,to have,Verb--special
+beachten,to observe/consider,Verb--special
+beschließen,to decide,Verb--special
+vereinbaren,to agree on,Verb--special
+empfehlen,to recommend,Verb--special
+finden,to find,Verb--special
+treten,to step into/contact,Verb--special
+klären,to clarify,Verb--special
+gewähren,to grant,Verb--special
+bestehen,to exist/persist,Verb--special
+erlassen,to issue (a law),Verb--special
+entnehmen,to take from,Verb--special
+bleiben,to stay/remain,Verb--special
+müssen,must/have to,Verb--special
+versichern,to insure,Verb--special
+bestehen,to exist/persist,Verb--special
+führen,to lead to,Verb--special
+stehen,to be available,Verb--special
+machen,to do/make,Verb--special
+gründen,to establish/found,Verb--special
+verweisen,to refer (to someone),Verb--special
+helfen,to help,Verb--special
