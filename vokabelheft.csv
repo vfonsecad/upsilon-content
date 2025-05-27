@@ -1790,43 +1790,43 @@ das Produkt,the product,Essen
 hat besucht,besuchen,Perfekt (zB hat gemacht / ist gegangen)
 die Muttersprache,the mother tongue,Geographie/Kultur
 vergesst,ihr [vergessen],Präsens
-"Ist <p style=""background-color:powderblue;"">die Ananas</p> rot?","Nein, sie ist gelb",lektion-0001
-"Ist <p style=""background-color:powderblue;"">der Brokkoli</p> grün?","Ja, er ist grün",lektion-0001
-Die Banane ist g—b,Die Banane ist gelb,lektion-0001
-"Wie ist <p style=""background-color:powderblue;"">das Wetter</p> im Winter?",Es ist kalt,lektion-0001
-Der Apfel ist r--,Der Apfel ist rot,lektion-0001
-"Was ist grün: <p style=""background-color:powderblue;"">der Apfel</p>  oder <p style=""background-color:powderblue;"">die Karotte</p>?",Der Apfel ist grün,lektion-0001
-"Ist <p style=""background-color:powderblue;"">die Tomate</p> blau?","Nein, sie ist rot",lektion-0001
-"Wie ist <p style=""background-color:powderblue;"">der Kürbis</p>?",Er ist orange und rund,lektion-0001
-"Ist <p style=""background-color:powderblue;"">die Zitrone</p> süß?","Nein, sie ist sauer",lektion-0001
-Wie ist der Himmel?,Er ist blau,lektion-0001
-Wie ist der Salat?,Er ist grün und frisch,lektion-0001
-Ist die Aubergine lila?,"Ja, sie ist lila",lektion-0001
-"Was ist gelb: die Zitrone, die Himbeere oder die Erdbeere?",Die Zitrone ist gelb,lektion-0001
-Ist das Wetter warm im Winter?,"Nein, es ist kalt",lektion-0001
-Wie ist der Schnee: warm oder kalt?,Er ist kalt,lektion-0001
-Wie ist die Gurke: kurz oder lang?,Sie ist lang,lektion-0001
-Ist der Himmel grün?,"Nein, er ist blau",lektion-0001
-Wie ist das Wetter im Sommer?,Es ist warm und sonnig,lektion-0001
-Ist der Spinat gelb?,"Nein, er ist grün",lektion-0001
-Wie ist die Tomate?,Sie ist rot,lektion-0001
-Wie ist die Himbeere?,Sie ist rot und klein,lektion-0001
-Ist der Kürbis blau?,"Nein, er ist orange",lektion-0001
-Wie ist das Wetter im Herbst?,Es ist kühl und windig,lektion-0001
-"Was ist rot: der Apfel, die Gurke oder die Zwiebel?",Der Apfel ist rot,lektion-0001
-Ist die Paprika braun?,"Nein, sie ist rot, gelb, orange oder grün",lektion-0001
-Wie ist der Brokkoli?,Er ist grün,lektion-0001
-Ist die Erdbeere lila?,"Nein, sie ist rot",lektion-0001
-"Was ist kalt: der Tee, das Eis oder die Suppe?",Das Eis ist kalt,lektion-0001
-Wie ist der Regen?,Er ist nass und kühl,lektion-0001
-Ist der Mais schwarz?,"Nein, er ist gelb",lektion-0001
-Wie ist die Zwiebel: rund oder eckig?,Sie ist rund und weiß,lektion-0001
-Wie ist die Orange?,Sie ist rund und orange,lektion-0001
-Ist der Erdapfel (die Kartoffel) blau?,"Nein, er (sie) ist braun",lektion-0001
-Ist die Zucchini rosa?,"Nein, sie ist grün",lektion-0001
-"Was ist rund: der Kürbis, die Karotte oder die Gurke?",Der Kürbis ist rund,lektion-0001
-Wie ist der Himmel im Sommer?,Er ist blau und klar,lektion-0001
-Ist der Spinat rot?,"Nein, er ist grün",lektion-0001
-Wie ist der Nebel?,Er ist grau und dick,lektion-0001
-Ist der Himmel gelb?,"Nein, er ist blau",lektion-0001
-Wie ist der Himmel im Winter?,Er ist bewölkt ,lektion-0001
+"Nein, sie ist gelb","Ist <p style=""background-color:powderblue;"">die Ananas</p> rot?",lektion-0001
+"Ja, er ist grün","Ist <p style=""background-color:powderblue;"">der Brokkoli</p> grün?",lektion-0001
+Die Banane ist gelb,Die Banane ist g—b,lektion-0001
+Es ist kalt,"Wie ist <p style=""background-color:powderblue;"">das Wetter</p> im Winter?",lektion-0001
+Der Apfel ist rot,Der Apfel ist r--,lektion-0001
+Der Apfel ist grün,"Was ist grün: <p style=""background-color:powderblue;"">der Apfel</p>  oder <p style=""background-color:powderblue;"">die Karotte</p>?",lektion-0001
+"Nein, sie ist rot","Ist <p style=""background-color:powderblue;"">die Tomate</p> blau?",lektion-0001
+Er ist orange und rund,"Wie ist <p style=""background-color:powderblue;"">der Kürbis</p>?",lektion-0001
+"Nein, sie ist sauer","Ist <p style=""background-color:powderblue;"">die Zitrone</p> süß?",lektion-0001
+Er ist blau,Wie ist der Himmel?,lektion-0001
+Er ist grün und frisch,Wie ist der Salat?,lektion-0001
+"Ja, sie ist lila",Ist die Aubergine lila?,lektion-0001
+Die Zitrone ist gelb,"Was ist gelb: die Zitrone, die Himbeere oder die Erdbeere?",lektion-0001
+"Nein, es ist kalt",Ist das Wetter warm im Winter?,lektion-0001
+Er ist kalt,Wie ist der Schnee: warm oder kalt?,lektion-0001
+Sie ist lang,Wie ist die Gurke: kurz oder lang?,lektion-0001
+"Nein, er ist blau",Ist der Himmel grün?,lektion-0001
+Es ist warm und sonnig,Wie ist das Wetter im Sommer?,lektion-0001
+"Nein, er ist grün",Ist der Spinat gelb?,lektion-0001
+Sie ist rot,Wie ist die Tomate?,lektion-0001
+Sie ist rot und klein,Wie ist die Himbeere?,lektion-0001
+"Nein, er ist orange",Ist der Kürbis blau?,lektion-0001
+Es ist kühl und windig,Wie ist das Wetter im Herbst?,lektion-0001
+Der Apfel ist rot,"Was ist rot: der Apfel, die Gurke oder die Zwiebel?",lektion-0001
+"Nein, sie ist rot, gelb, orange oder grün",Ist die Paprika braun?,lektion-0001
+Er ist grün,Wie ist der Brokkoli?,lektion-0001
+"Nein, sie ist rot",Ist die Erdbeere lila?,lektion-0001
+Das Eis ist kalt,"Was ist kalt: der Tee, das Eis oder die Suppe?",lektion-0001
+Er ist nass und kühl,Wie ist der Regen?,lektion-0001
+"Nein, er ist gelb",Ist der Mais schwarz?,lektion-0001
+Sie ist rund und weiß,Wie ist die Zwiebel: rund oder eckig?,lektion-0001
+Sie ist rund und orange,Wie ist die Orange?,lektion-0001
+"Nein, er (sie) ist braun",Ist der Erdapfel (die Kartoffel) blau?,lektion-0001
+"Nein, sie ist grün",Ist die Zucchini rosa?,lektion-0001
+Der Kürbis ist rund,"Was ist rund: der Kürbis, die Karotte oder die Gurke?",lektion-0001
+Er ist blau und klar,Wie ist der Himmel im Sommer?,lektion-0001
+"Nein, er ist grün",Ist der Spinat rot?,lektion-0001
+Er ist grau und dick,Wie ist der Nebel?,lektion-0001
+"Nein, er ist blau",Ist der Himmel gelb?,lektion-0001
+Er ist bewölkt ,Wie ist der Himmel im Winter?,lektion-0001
