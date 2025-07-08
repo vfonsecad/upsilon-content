@@ -1,7 +1,7 @@
 [
   {
     "question": "Wo wächst der Apfel?",
-    "answer": "In Deutschland"
+    "answer": "In Deutschland, Österreich und der Schweiz"
   },
   {
     "question": "Woher kommt die Banane?",
@@ -13,7 +13,7 @@
   },
   {
     "question": "Wo wächst die Erdbeere?",
-    "answer": "In Deutschland"
+    "answer": "In vielen Ländern. Auch in Deutschland"
   },
   {
     "question": "Woher kommt die Kiwi?",
@@ -25,7 +25,7 @@
   },
   {
     "question": "Wo wächst die Weintraube?",
-    "answer": "In Frankreich"
+    "answer": "In Frankreich und Italien"
   },
   {
     "question": "Wo sagt man 'die Marille'?",
@@ -77,15 +77,15 @@
   },
   {
     "question": "Wie ist die Banane?",
-    "answer": "Gelb"
+    "answer": "Gelb und lang"
   },
   {
     "question": "Wie ist die Orange?",
-    "answer": "Orange"
+    "answer": "Orange und rund"
   },
   {
     "question": "Wie ist die Erdbeere?",
-    "answer": "Rot"
+    "answer": "Rot und klein"
   },
   {
     "question": "Wie ist die Kiwi innen?",
@@ -105,7 +105,7 @@
   },
   {
     "question": "Wie ist die Marille?",
-    "answer": "Orange"
+    "answer": "Orange und süß"
   },
   {
     "question": "Wie ist der Pfirsich?",
