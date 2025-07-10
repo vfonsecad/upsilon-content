@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Wann sind die Arbeitstage?",
+    "answer": "Am Montag, am Dienstag, am Mittwoch, am Donnerstag und am Freitag"
+  },
+  {
+    "question": "Wann ist die Wochenende?",
+    "answer": "Am Samstag und am Sonntag"
+  },
+  {
+    "question": "Wann ist der Frühling?",
+    "answer": "Im März, April und Mai"
+  },
+  {
+    "question": "Wann ist der Sommer?",
+    "answer": "Im Juni, Juli und August"
+  },
+  {
+    "question": "Wann ist der Herbst?",
+    "answer": "Im September, Oktober und November"
+  },
+  {
+    "question": "Wann ist der Winter?",
+    "answer": "Im Dezember, Januar und Februar"
+  }
+]
