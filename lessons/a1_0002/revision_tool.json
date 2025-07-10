@@ -9,18 +9,82 @@
   },
   {
     "question": "Wann ist der Frühling?",
-    "answer": "Im März, April und Mai"
+    "answer": "Im März, April und Mai."
   },
   {
     "question": "Wann ist der Sommer?",
-    "answer": "Im Juni, Juli und August"
+    "answer": "Im Juni, Juli und August."
   },
   {
     "question": "Wann ist der Herbst?",
-    "answer": "Im September, Oktober und November"
+    "answer": "Im September, Oktober und November."
   },
   {
     "question": "Wann ist der Winter?",
-    "answer": "Im Dezember, Januar und Februar"
+    "answer": "Im Dezember, Januar und Februar."
+  },
+  {
+    "question": "Montag, ..., Mittwoch",
+    "answer": "Dienstag"
+  },
+  {
+    "question": "Dienstag, ..., Donnerstag",
+    "answer": "Mittwoch"
+  },
+  {
+    "question": "Mittwoch, ..., Freitag",
+    "answer": "Donnerstag"
+  },
+  {
+    "question": "Donnerstag, ..., Samstag",
+    "answer": "Freitag"
+  },
+  {
+    "question": "Freitag, ..., Sonntag",
+    "answer": "Samstag"
+  },
+  {
+    "question": "Samstag, ..., Montag",
+    "answer": "Sonntag"
+  },
+  {
+    "question": "Jänner, ..., März",
+    "answer": "Februar"
+  },
+  {
+    "question": "März, ..., Mai",
+    "answer": "April"
+  },
+{
+    "question": "April, ..., Juni",
+    "answer": "Mai"
+  },
+  {
+    "question": "Mai, ..., Juli",
+    "answer": "Juni"
+  },
+  {
+    "question": "Juli, ..., September",
+    "answer": "August"
+  },
+  {
+    "question": "September, ..., November",
+    "answer": "Oktober"
+  },
+  {
+    "question": "November, ..., Jänner",
+    "answer": "Dezember"
+  },
+  {
+    "question": "Frühling, ..., Herbst",
+    "answer": "Sommer"
+  },
+  {
+    "question": "Sommer, ..., Winter",
+    "answer": "Herbst"
+  },
+  {
+    "question": "Herbst, ..., Frühling",
+    "answer": "Winter"
   }
 ]
