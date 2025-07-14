@@ -1,0 +1,466 @@
+[
+  {
+    "question": "Globalization",
+    "answer": "die Globalisierung"
+  },
+  {
+    "question": "Economy",
+    "answer": "die Wirtschaft"
+  },
+  {
+    "question": "Areas",
+    "answer": "die Bereiche"
+  },
+  {
+    "question": "Home economics / Household management",
+    "answer": "die Hauswirtschaft"
+  },
+  {
+    "question": "Business administration",
+    "answer": "die Betriebswirtschaft"
+  },
+  {
+    "question": "National economy / Economics",
+    "answer": "die Volkswirtschaft"
+  },
+  {
+    "question": "Products",
+    "answer": "die Produkte"
+  },
+  {
+    "question": "Country",
+    "answer": "das Land"
+  },
+  {
+    "question": "Markets",
+    "answer": "die Märkte"
+  },
+  {
+    "question": "Consumer behavior",
+    "answer": "das Konsumverhalten"
+  },
+  {
+    "question": "Companies / Enterprises",
+    "answer": "die Unternehmen"
+  },
+  {
+    "question": "Structures",
+    "answer": "die Strukturen"
+  },
+  {
+    "question": "Companies / Firms",
+    "answer": "die Firmen"
+  },
+  {
+    "question": "Management / Leadership",
+    "answer": "die Leitung"
+  },
+  {
+    "question": "Department management",
+    "answer": "die Abteilungsleitung"
+  },
+  {
+    "question": "Customer service",
+    "answer": "der Kundendienst"
+  },
+  {
+    "question": "Relationships",
+    "answer": "die Beziehungen"
+  },
+  {
+    "question": "Customers",
+    "answer": "die Kundinnen und Kunden"
+  },
+  {
+    "question": "Innovation",
+    "answer": "die Innovation"
+  },
+  {
+    "question": "Brand",
+    "answer": "die Marke"
+  },
+  {
+    "question": "Research and Development (R&D)",
+    "answer": "die Forschung und Entwicklung"
+  },
+  {
+    "question": "Property / Ownership",
+    "answer": "das Eigentum"
+  },
+  {
+    "question": "Ideas",
+    "answer": "die Ideen"
+  },
+  {
+    "question": "Decisions",
+    "answer": "die Entscheidungen"
+  },
+  {
+    "question": "Strategies",
+    "answer": "die Strategien"
+  },
+  {
+    "question": "Decision / Resolution",
+    "answer": "der Entschluss"
+  },
+  {
+    "question": "Providers / Suppliers",
+    "answer": "die Anbieter"
+  },
+  {
+    "question": "Opinions",
+    "answer": "die Meinungen"
+  },
+  {
+    "question": "Opportunities",
+    "answer": "die Chancen"
+  },
+  {
+    "question": "Risks",
+    "answer": "die Risiken"
+  },
+  {
+    "question": "People",
+    "answer": "die Menschen"
+  },
+  {
+    "question": "Invasion",
+    "answer": "die Invasion"
+  },
+  {
+    "question": "Conquest / Capture",
+    "answer": "die Eroberung"
+  },
+  {
+    "question": "Corporations / Groups",
+    "answer": "die Konzerne"
+  },
+  {
+    "question": "Handling / Dealing",
+    "answer": "der Umgang"
+  },
+  {
+    "question": "Trade",
+    "answer": "der Handel"
+  },
+  {
+    "question": "affected",
+    "answer": "betroffen"
+  },
+  {
+    "question": "international",
+    "answer": "international"
+  },
+  {
+    "question": "good",
+    "answer": "gut"
+  },
+  {
+    "question": "important",
+    "answer": "wichtig"
+  },
+  {
+    "question": "flexible",
+    "answer": "flexibel"
+  },
+  {
+    "question": "new",
+    "answer": "neu"
+  },
+  {
+    "question": "strong",
+    "answer": "stark"
+  },
+  {
+    "question": "known / famous",
+    "answer": "bekannt"
+  },
+  {
+    "question": "intellectual / spiritual",
+    "answer": "geistig"
+  },
+  {
+    "question": "special / particular",
+    "answer": "besonders"
+  },
+  {
+    "question": "economic / commercially",
+    "answer": "wirtschaftlich"
+  },
+  {
+    "question": "easy / simple",
+    "answer": "einfach"
+  },
+  {
+    "question": "dense / tight / crowded",
+    "answer": "dicht"
+  },
+  {
+    "question": "large / big",
+    "answer": "groß"
+  },
+  {
+    "question": "fair",
+    "answer": "fair"
+  },
+  {
+    "question": "sustainable",
+    "answer": "nachhaltig"
+  },
+  {
+    "question": "global",
+    "answer": "global"
+  },
+  {
+    "question": "to influence (infinitive)",
+    "answer": "beeinflussen"
+  },
+  {
+    "question": "to influence (present / er/sie/es)",
+    "answer": "beeinflusst"
+  },
+  {
+    "question": "to influence (perfect / hat/ist + Partizip II)",
+    "answer": "hat beeinflusst"
+  },
+  {
+    "question": "to be (infinitive)",
+    "answer": "sein"
+  },
+  {
+    "question": "to be (present / er/sie/es)",
+    "answer": "ist"
+  },
+  {
+    "question": "to be (perfect / hat/ist + Partizip II)",
+    "answer": "ist gewesen"
+  },
+  {
+    "question": "can / to be able to (infinitive)",
+    "answer": "können"
+  },
+  {
+    "question": "can / to be able to (present / er/sie/es)",
+    "answer": "kann"
+  },
+  {
+    "question": "can / to be able to (perfect / hat/ist + Partizip II)",
+    "answer": "hat gekonnt"
+  },
+  {
+    "question": "to become / to be (in passive voice) (infinitive)",
+    "answer": "werden"
+  },
+  {
+    "question": "to become / to be (in passive voice) (present / er/sie/es)",
+    "answer": "wird"
+  },
+  {
+    "question": "to become / to be (in passive voice) (perfect / hat/ist + Partizip II)",
+    "answer": "ist geworden"
+  },
+  {
+    "question": "to change (infinitive)",
+    "answer": "verändern"
+  },
+  {
+    "question": "to change (present / er/sie/es)",
+    "answer": "verändert"
+  },
+  {
+    "question": "to change (perfect / hat/ist + Partizip II)",
+    "answer": "hat verändert"
+  },
+  {
+    "question": "must / to have to (infinitive)",
+    "answer": "müssen"
+  },
+  {
+    "question": "must / to have to (present / er/sie/es)",
+    "answer": "muss"
+  },
+  {
+    "question": "must / to have to (perfect / hat/ist + Partizip II)",
+    "answer": "hat gemusst"
+  },
+  {
+    "question": "to react (infinitive)",
+    "answer": "reagieren"
+  },
+  {
+    "question": "to react (present / er/sie/es)",
+    "answer": "reagiert"
+  },
+  {
+    "question": "to react (perfect / hat/ist + Partizip II)",
+    "answer": "hat reagiert"
+  },
+  {
+    "question": "to help (infinitive)",
+    "answer": "helfen"
+  },
+  {
+    "question": "to help (present / er/sie/es)",
+    "answer": "hilft"
+  },
+  {
+    "question": "to help (perfect / hat/ist + Partizip II)",
+    "answer": "hat geholfen"
+  },
+  {
+    "question": "to build up (infinitive)",
+    "answer": "aufbauen"
+  },
+  {
+    "question": "to build up (present / er/sie/es)",
+    "answer": "baut auf"
+  },
+  {
+    "question": "to build up (perfect / hat/ist + Partizip II)",
+    "answer": "hat aufgebaut"
+  },
+  {
+    "question": "to want (infinitive)",
+    "answer": "wollen"
+  },
+  {
+    "question": "to want (present / er/sie/es)",
+    "answer": "will"
+  },
+  {
+    "question": "to want (perfect / hat/ist + Partizip II)",
+    "answer": "hat gewollt"
+  },
+  {
+    "question": "to make (infinitive)",
+    "answer": "machen"
+  },
+  {
+    "question": "to make (present / er/sie/es)",
+    "answer": "macht"
+  },
+  {
+    "question": "to make (perfect / hat/ist + Partizip II)",
+    "answer": "hat gemacht"
+  },
+  {
+    "question": "to invest (infinitive)",
+    "answer": "investieren"
+  },
+  {
+    "question": "to invest (present / er/sie/es)",
+    "answer": "investiert"
+  },
+  {
+    "question": "to invest (perfect / hat/ist + Partizip II)",
+    "answer": "hat investiert"
+  },
+  {
+    "question": "to protect (infinitive)",
+    "answer": "schützen"
+  },
+  {
+    "question": "to protect (present / er/sie/es)",
+    "answer": "schützt"
+  },
+  {
+    "question": "to protect (perfect / hat/ist + Partizip II)",
+    "answer": "hat geschützt"
+  },
+  {
+    "question": "to produce / to manufacture (infinitive)",
+    "answer": "herstellen"
+  },
+  {
+    "question": "to produce / to manufacture (present / er/sie/es)",
+    "answer": "stellt her"
+  },
+  {
+    "question": "to produce / to manufacture (perfect / hat/ist + Partizip II)",
+    "answer": "hat hergestellt"
+  },
+  {
+    "question": "to go (infinitive)",
+    "answer": "gehen"
+  },
+  {
+    "question": "to go (present / er/sie/es)",
+    "answer": "geht"
+  },
+  {
+    "question": "to go (perfect / hat/ist + Partizip II)",
+    "answer": "ist gegangen"
+  },
+  {
+    "question": "to grasp / to make (a decision) (infinitive)",
+    "answer": "fassen"
+  },
+  {
+    "question": "to grasp / to make (a decision) (present / er/sie/es)",
+    "answer": "fasst"
+  },
+  {
+    "question": "to grasp / to make (a decision) (perfect / hat/ist + Partizip II)",
+    "answer": "hat gefasst"
+  },
+  {
+    "question": "to open up / to develop (a market) (infinitive)",
+    "answer": "erschließen"
+  },
+  {
+    "question": "to open up / to develop (a market) (present / er/sie/es)",
+    "answer": "erschließt"
+  },
+  {
+    "question": "to open up / to develop (a market) (perfect / hat/ist + Partizip II)",
+    "answer": "hat erschlossen"
+  },
+  {
+    "question": "to mean / to be called (infinitive)",
+    "answer": "heißen"
+  },
+  {
+    "question": "to mean / to be called (present / er/sie/es)",
+    "answer": "heißt"
+  },
+  {
+    "question": "to mean / to be called (perfect / hat/ist + Partizip II)",
+    "answer": "hat geheißen"
+  },
+  {
+    "question": "to give / there is/are (infinitive)",
+    "answer": "geben"
+  },
+  {
+    "question": "to give / there is/are (present / er/sie/es)",
+    "answer": "gibt"
+  },
+  {
+    "question": "to give / there is/are (perfect / hat/ist + Partizip II)",
+    "answer": "hat gegeben"
+  },
+  {
+    "question": "to offer (infinitive)",
+    "answer": "bieten"
+  },
+  {
+    "question": "to offer (present / er/sie/es)",
+    "answer": "bietet"
+  },
+  {
+    "question": "to offer (perfect / hat/ist + Partizip II)",
+    "answer": "hat geboten"
+  },
+  {
+    "question": "to speak (infinitive)",
+    "answer": "sprechen"
+  },
+  {
+    "question": "to speak (present / er/sie/es)",
+    "answer": "spricht"
+  },
+  {
+    "question": "to speak (perfect / hat/ist + Partizip II)",
+    "answer": "hat gesprochen"
+  }
+]
