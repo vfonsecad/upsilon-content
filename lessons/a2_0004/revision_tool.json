@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Wo findet man Obst, Gemüse und gute Restaurants in Wien?",
+    "answer": "Am Naschmarkt"
+  },
+    {
+    "question": "Was hat Obst, Gemüse und gute Restaurants in Wien?",
+    "answer": "Der Naschmarkt"
+  },
+  {
+    "question": "Mit wem besuchen die Leute am Abend oder am Wochenende den Heurigen?",
+    "answer": "Mit ihren Freunden"
+  },
+  {
+    "question": "Wen treffen die Leute am Abend oder am Wochenende beim Heurigen?",
+    "answer": "Ihre Freunde"
+  },
+  {
+    "question": "Was trinken die Leute mit ihren Freunden beim Heurigen?",
+    "answer": "Ein Glas Wein"
+  },
+  {
+    "question": "Wie fährt man oft in Wien?",
+    "answer": "Mit der U-Bahn oder mit der Straßenbahn"
+  },
+  {
+    "question": "Was braucht man nicht in Wien?",
+    "answer": "Ein Auto"
+  },
+  {
+    "question": "Wann findet man in Wien keine geöffneten Supermärkte?",
+    "answer": "Am Sonntag"
+  },
+  {
+    "question": "Wo gibt es manchmal geöffnete Supermärkte in Wien?",
+    "answer": "In den Bahnhöfen"
+  },
+  {
+    "question": "Was ist in Bratislava am Sonntag geöffnet?",
+    "answer": "Supermärkte, Geschäfte und Banken"
+  },
+  {
+    "question": "Wo kann man in Bratislava am Sonntag einkaufen?",
+    "answer": "In den Supermärkte und in den Geschäften"
+  },
+  {
+    "question": "Was besuchen viele Menschen im Winter?",
+    "answer": "Die Weihnachtsmärkte"
+  },
+  {
+    "question": "Wo kaufen viele Menschen in Wien im Winter Geschenke?",
+    "answer": "Auf den Weihnachtsmärkten"
+  },
+  {
+    "question": "Was wärmt die Menschen im Winter?",
+    "answer": "Ein Glas Punsch"
+  },
+{
+    "question": "Was trinken die Leute im Winter auf den Weihnachtsmärkten?",
+    "answer": "Ein Glas Punsch"
+  }
+]
