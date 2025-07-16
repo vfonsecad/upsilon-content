@@ -1,0 +1,2466 @@
+[
+  {
+    "question": "The decision",
+    "answer": "die Entscheidung"
+  },
+  {
+    "question": "The statement",
+    "answer": "die Aussage"
+  },
+  {
+    "question": "The father",
+    "answer": "der Vater"
+  },
+  {
+    "question": "The child",
+    "answer": "das Kind"
+  },
+  {
+    "question": "The shock",
+    "answer": "der Schock"
+  },
+  {
+    "question": "The month",
+    "answer": "der Monat"
+  },
+  {
+    "question": "The baby",
+    "answer": "das Baby"
+  },
+  {
+    "question": "The woman",
+    "answer": "die Frau"
+  },
+  {
+    "question": "The life",
+    "answer": "das Leben"
+  },
+  {
+    "question": "The motherhood",
+    "answer": "die Mutterschaft"
+  },
+  {
+    "question": "The year",
+    "answer": "das Jahr"
+  },
+  {
+    "question": "The daughter",
+    "answer": "die Tochter"
+  },
+  {
+    "question": "The time",
+    "answer": "die Zeit"
+  },
+  {
+    "question": "The moment",
+    "answer": "der Moment"
+  },
+  {
+    "question": "The (future) dad",
+    "answer": "der zukünftige Papa"
+  },
+  {
+    "question": "The facial expression",
+    "answer": "der Gesichtsausdruck"
+  },
+  {
+    "question": "The sense / mind",
+    "answer": "der Sinn"
+  },
+  {
+    "question": "The pregnancy",
+    "answer": "die Schwangerschaft"
+  },
+  {
+    "question": "The belly",
+    "answer": "der Bauch"
+  },
+  {
+    "question": "The baby bump (round belly)",
+    "answer": "der Kugelbauch"
+  },
+  {
+    "question": "The feeling / sensing",
+    "answer": "das Spüren"
+  },
+  {
+    "question": "The family",
+    "answer": "die Familie"
+  },
+  {
+    "question": "The dream and wishful thinking",
+    "answer": "die Traum- und Wunschvorstellung"
+  },
+  {
+    "question": "The temporary job / assembly job",
+    "answer": "der Montagejob"
+  },
+  {
+    "question": "The world",
+    "answer": "die Welt"
+  },
+  {
+    "question": "The overwhelmingness / overstraining",
+    "answer": "die Überforderung"
+  },
+  {
+    "question": "The parents",
+    "answer": "die Eltern"
+  },
+  {
+    "question": "The phenomenon",
+    "answer": "das Phänomen"
+  },
+  {
+    "question": "The rarity",
+    "answer": "die Seltenheit"
+  },
+  {
+    "question": "The groups",
+    "answer": "die Gruppen"
+  },
+  {
+    "question": "The mothers",
+    "answer": "die Mütter"
+  },
+  {
+    "question": "The women",
+    "answer": "die Frauen"
+  },
+  {
+    "question": "The desire to have children",
+    "answer": "der Kinderwunsch"
+  },
+  {
+    "question": "The framework conditions",
+    "answer": "die Rahmenbedingungen"
+  },
+  {
+    "question": "The job choice",
+    "answer": "die Jobwahl"
+  },
+  {
+    "question": "The partner choice",
+    "answer": "die Partnerwahl"
+  },
+  {
+    "question": "The rope / stick (idiom: to make trouble)",
+    "answer": "der Strick"
+  },
+  {
+    "question": "The longing",
+    "answer": "die Sehnsucht"
+  },
+  {
+    "question": "The freedom",
+    "answer": "die Freiheit"
+  },
+  {
+    "question": "The apartment",
+    "answer": "die Wohnung"
+  },
+  {
+    "question": "The task / duty",
+    "answer": "die Aufgabe"
+  },
+  {
+    "question": "The human being",
+    "answer": "der Mensch"
+  },
+  {
+    "question": "The needs",
+    "answer": "die Bedürfnisse"
+  },
+  {
+    "question": "The camera",
+    "answer": "die Kamera"
+  },
+  {
+    "question": "The everyday life",
+    "answer": "der Alltag"
+  },
+  {
+    "question": "The processes / sequences",
+    "answer": "die Abläufe"
+  },
+  {
+    "question": "The roles",
+    "answer": "die Rollen"
+  },
+  {
+    "question": "The book",
+    "answer": "das Buch"
+  },
+  {
+    "question": "The washing machine",
+    "answer": "die Waschmaschine"
+  },
+  {
+    "question": "The diapers",
+    "answer": "die Windeln"
+  },
+  {
+    "question": "The millennia",
+    "answer": "die Jahrtausende"
+  },
+  {
+    "question": "The patriarchy",
+    "answer": "das Patriachat"
+  },
+  {
+    "question": "The navel",
+    "answer": "der Nabel"
+  },
+  {
+    "question": "The care work",
+    "answer": "die Fürsorgearbeit"
+  },
+  {
+    "question": "The resources",
+    "answer": "die Ressourcen"
+  },
+  {
+    "question": "The society",
+    "answer": "die Gesellschaft"
+  },
+  {
+    "question": "The crises",
+    "answer": "die Krisen"
+  },
+  {
+    "question": "The Corona (pandemic)",
+    "answer": "das Corona"
+  },
+  {
+    "question": "The homeschooling",
+    "answer": "das Homeschooling"
+  },
+  {
+    "question": "The work",
+    "answer": "die Arbeit"
+  },
+  {
+    "question": "The raven mother (bad mother)",
+    "answer": "die Rabenmutter"
+  },
+  {
+    "question": "The situation",
+    "answer": "die Situation"
+  },
+  {
+    "question": "The street",
+    "answer": "die Straße"
+  },
+  {
+    "question": "The closeness / intimacy",
+    "answer": "die Nähe"
+  },
+  {
+    "question": "The connection",
+    "answer": "die Verbundenheit"
+  },
+  {
+    "question": "The symptoms",
+    "answer": "die Symptome"
+  },
+  {
+    "question": "The racing heart",
+    "answer": "das Herzrasen"
+  },
+  {
+    "question": "The cold sweat",
+    "answer": "der kalte Schweiß"
+  },
+  {
+    "question": "The air",
+    "answer": "die Luft"
+  },
+  {
+    "question": "The fear",
+    "answer": "die Angst"
+  },
+  {
+    "question": "The emergency doctor",
+    "answer": "der Notarzt"
+  },
+  {
+    "question": "The panic attack",
+    "answer": "die Panikattacke"
+  },
+  {
+    "question": "The regret",
+    "answer": "die Reue"
+  },
+  {
+    "question": "The feelings of regret",
+    "answer": "die Reuegefühle"
+  },
+  {
+    "question": "The point",
+    "answer": "der Punkt"
+  },
+  {
+    "question": "The regularity",
+    "answer": "die Regelmäßigkeit"
+  },
+  {
+    "question": "The model",
+    "answer": "das Modell"
+  },
+  {
+    "question": "The feeling",
+    "answer": "das Gefühl"
+  },
+  {
+    "question": "The support",
+    "answer": "die Unterstützung"
+  },
+  {
+    "question": "The separation case",
+    "answer": "der Trennungsfall"
+  },
+  {
+    "question": "The maintenance obligations",
+    "answer": "die Unterhaltsverpflichtungen"
+  },
+  {
+    "question": "The state / condition",
+    "answer": "der Zustand"
+  },
+  {
+    "question": "The challenges",
+    "answer": "die Herausforderungen"
+  },
+  {
+    "question": "The relief",
+    "answer": "die Entlastung"
+  },
+  {
+    "question": "The responsibility",
+    "answer": "die Verantwortung"
+  },
+  {
+    "question": "The possibility",
+    "answer": "die Möglichkeit"
+  },
+  {
+    "question": "The mother role",
+    "answer": "die Mutterrolle"
+  },
+  {
+    "question": "The person",
+    "answer": "die Person"
+  },
+  {
+    "question": "The effect",
+    "answer": "der Effekt"
+  },
+  {
+    "question": "The topic of motherhood",
+    "answer": "das Mutterschafts-Thema"
+  },
+  {
+    "question": "The events",
+    "answer": "die Ereignisse"
+  },
+  {
+    "question": "The insights / realizations",
+    "answer": "die Erkenntnisse"
+  },
+  {
+    "question": "The performance",
+    "answer": "die Performance"
+  },
+  {
+    "question": "The reflection processes",
+    "answer": "die Reflexionsprozesse"
+  },
+  {
+    "question": "The therapy attempts",
+    "answer": "die Therapieversuche"
+  },
+  {
+    "question": "The psychotherapists",
+    "answer": "die Psychotherapeuten"
+  },
+  {
+    "question": "The heads",
+    "answer": "die Köpfe"
+  },
+  {
+    "question": "The old, traditional role model",
+    "answer": "das alte, traditionelle Rollenbild"
+  },
+  {
+    "question": "The perspectives",
+    "answer": "die Perspektiven"
+  },
+  {
+    "question": "The advice",
+    "answer": "der Rat"
+  },
+  {
+    "question": "The step",
+    "answer": "der Schritt"
+  },
+  {
+    "question": "The garden",
+    "answer": "der Garten"
+  },
+  {
+    "question": "The share / part",
+    "answer": "der Anteil"
+  },
+  {
+    "question": "The patterns",
+    "answer": "die Muster"
+  },
+  {
+    "question": "The childhood",
+    "answer": "die Kindheit"
+  },
+  {
+    "question": "The functioning",
+    "answer": "das Funktionieren"
+  },
+  {
+    "question": "The achievements / services",
+    "answer": "die Leistungen"
+  },
+  {
+    "question": "The construction site",
+    "answer": "die Baustelle"
+  },
+  {
+    "question": "The times (e.g. DDR times)",
+    "answer": "die Zeiten"
+  },
+  {
+    "question": "The project",
+    "answer": "das Projekt"
+  },
+  {
+    "question": "The workshop",
+    "answer": "der Workshop"
+  },
+  {
+    "question": "The learning process",
+    "answer": "der Lernprozess"
+  },
+  {
+    "question": "The strategy",
+    "answer": "die Strategie"
+  },
+  {
+    "question": "The experience",
+    "answer": "die Erfahrung"
+  },
+  {
+    "question": "The exchange",
+    "answer": "der Austausch"
+  },
+  {
+    "question": "The type / kind",
+    "answer": "die Art"
+  },
+  {
+    "question": "The group",
+    "answer": "die Gruppe"
+  },
+  {
+    "question": "The pressure",
+    "answer": "der Druck"
+  },
+  {
+    "question": "The problem",
+    "answer": "das Problem"
+  },
+  {
+    "question": "The session",
+    "answer": "die Sitzung"
+  },
+  {
+    "question": "The essential / main point",
+    "answer": "das Wesentliche"
+  },
+  {
+    "question": "The exhaustion",
+    "answer": "die Erschöpfung"
+  },
+  {
+    "question": "The main factor",
+    "answer": "der Hauptfaktor"
+  },
+  {
+    "question": "The rejection",
+    "answer": "die Ablehnung"
+  },
+  {
+    "question": "The sentence",
+    "answer": "der Satz"
+  },
+  {
+    "question": "The breath",
+    "answer": "das Atmen"
+  },
+  {
+    "question": "The mothers' circle",
+    "answer": "der Mütterkreis"
+  },
+  {
+    "question": "The processing process",
+    "answer": "der Verarbeitungsprozess"
+  },
+  {
+    "question": "The example",
+    "answer": "das Beispiel"
+  },
+  {
+    "question": "The comments",
+    "answer": "die Kommentare"
+  },
+  {
+    "question": "happy",
+    "answer": "glücklich"
+  },
+  {
+    "question": "ready",
+    "answer": "bereit"
+  },
+  {
+    "question": "old",
+    "answer": "alt"
+  },
+  {
+    "question": "lost",
+    "answer": "verloren"
+  },
+  {
+    "question": "pregnant",
+    "answer": "schwanger"
+  },
+  {
+    "question": "good",
+    "answer": "gut"
+  },
+  {
+    "question": "apparent / noticeable",
+    "answer": "angemerkt"
+  },
+  {
+    "question": "alone",
+    "answer": "alleine"
+  },
+  {
+    "question": "definitely",
+    "answer": "definitiv"
+  },
+  {
+    "question": "sufficient",
+    "answer": "ausreichend"
+  },
+  {
+    "question": "whole / entire",
+    "answer": "ganz"
+  },
+  {
+    "question": "angry",
+    "answer": "wütend"
+  },
+  {
+    "question": "sad",
+    "answer": "traurig"
+  },
+  {
+    "question": "total",
+    "answer": "total"
+  },
+  {
+    "question": "present",
+    "answer": "präsent"
+  },
+  {
+    "question": "regretting",
+    "answer": "bereuend"
+  },
+  {
+    "question": "bad",
+    "answer": "schlecht"
+  },
+  {
+    "question": "social",
+    "answer": "gesellschaftlich"
+  },
+  {
+    "question": "professional",
+    "answer": "beruflich"
+  },
+  {
+    "question": "absurd",
+    "answer": "absurd"
+  },
+  {
+    "question": "accepted",
+    "answer": "akzeptiert"
+  },
+  {
+    "question": "physical",
+    "answer": "körperlich"
+  },
+  {
+    "question": "cold",
+    "answer": "kalt"
+  },
+  {
+    "question": "panicked",
+    "answer": "panisch"
+  },
+  {
+    "question": "quickly",
+    "answer": "schnell"
+  },
+  {
+    "question": "clear",
+    "answer": "klar"
+  },
+  {
+    "question": "absolutely / unconditionally",
+    "answer": "unbedingt"
+  },
+  {
+    "question": "self",
+    "answer": "selbst"
+  },
+  {
+    "question": "different / otherwise",
+    "answer": "anders"
+  },
+  {
+    "question": "accepted",
+    "answer": "angenommen"
+  },
+  {
+    "question": "most exhausting",
+    "answer": "anstrengendste"
+  },
+  {
+    "question": "great (colloquial)",
+    "answer": "super"
+  },
+  {
+    "question": "confirmed",
+    "answer": "bestätigt"
+  },
+  {
+    "question": "important",
+    "answer": "wichtig"
+  },
+  {
+    "question": "serious",
+    "answer": "ernst"
+  },
+  {
+    "question": "together / jointly",
+    "answer": "gemeinsam"
+  },
+  {
+    "question": "intense / crazy (colloquial)",
+    "answer": "krass"
+  },
+  {
+    "question": "hardest",
+    "answer": "schwersten"
+  },
+  {
+    "question": "responsible",
+    "answer": "verantwortlich"
+  },
+  {
+    "question": "therapeutic",
+    "answer": "therapeutisch"
+  },
+  {
+    "question": "artistic",
+    "answer": "künstlerisch"
+  },
+  {
+    "question": "clearly",
+    "answer": "deutlich"
+  },
+  {
+    "question": "better",
+    "answer": "besseren"
+  },
+  {
+    "question": "new",
+    "answer": "neu"
+  },
+  {
+    "question": "up-to-date",
+    "answer": "zeitgemäß"
+  },
+  {
+    "question": "content / satisfied",
+    "answer": "zufrieden"
+  },
+  {
+    "question": "necessary",
+    "answer": "notwendig"
+  },
+  {
+    "question": "affected",
+    "answer": "betroffen"
+  },
+  {
+    "question": "honest",
+    "answer": "ehrlich"
+  },
+  {
+    "question": "unhappy",
+    "answer": "unglücklich"
+  },
+  {
+    "question": "discontent / dissatisfied",
+    "answer": "unzufrieden"
+  },
+  {
+    "question": "constant / continuous",
+    "answer": "ständig"
+  },
+  {
+    "question": "similar",
+    "answer": "ähnlich"
+  },
+  {
+    "question": "single parent",
+    "answer": "alleinerziehend"
+  },
+  {
+    "question": "exciting",
+    "answer": "spannend"
+  },
+  {
+    "question": "certain",
+    "answer": "gewiss"
+  },
+  {
+    "question": "strong",
+    "answer": "stark"
+  },
+  {
+    "question": "weak",
+    "answer": "schwach"
+  },
+  {
+    "question": "huge",
+    "answer": "riesig"
+  },
+  {
+    "question": "extreme",
+    "answer": "extrem"
+  },
+  {
+    "question": "stressful",
+    "answer": "stressig"
+  },
+  {
+    "question": "relieved",
+    "answer": "erleichtert"
+  },
+  {
+    "question": "strengthened",
+    "answer": "gestärkt"
+  },
+  {
+    "question": "to give birth (infinitive)",
+    "answer": "gebären"
+  },
+  {
+    "question": "to give birth (present / er/sie/es)",
+    "answer": "gebiert"
+  },
+  {
+    "question": "to give birth (perfect / hat/ist + Partizip II)",
+    "answer": "hat geboren"
+  },
+  {
+    "question": "to be born (infinitive)",
+    "answer": "geboren werden"
+  },
+  {
+    "question": "to be born (present / er/sie/es)",
+    "answer": "wird geboren"
+  },
+  {
+    "question": "to be born (perfect / hat/ist + Partizip II)",
+    "answer": "ist geboren worden"
+  },
+  {
+    "question": "to think (infinitive)",
+    "answer": "denken"
+  },
+  {
+    "question": "to think (present / er/sie/es)",
+    "answer": "denkt"
+  },
+  {
+    "question": "to think (perfect / hat/ist + Partizip II)",
+    "answer": "hat gedacht"
+  },
+  {
+    "question": "to become (infinitive)",
+    "answer": "werden"
+  },
+  {
+    "question": "to become (present / er/sie/es)",
+    "answer": "wird"
+  },
+  {
+    "question": "to become (perfect / hat/ist + Partizip II)",
+    "answer": "ist geworden"
+  },
+  {
+    "question": "to make/do (infinitive)",
+    "answer": "machen"
+  },
+  {
+    "question": "to make/do (present / er/sie/es)",
+    "answer": "macht"
+  },
+  {
+    "question": "to make/do (perfect / hat/ist + Partizip II)",
+    "answer": "hat gemacht"
+  },
+  {
+    "question": "to be (infinitive)",
+    "answer": "sein"
+  },
+  {
+    "question": "to be (present / er/sie/es)",
+    "answer": "ist"
+  },
+  {
+    "question": "to be (perfect / hat/ist + Partizip II)",
+    "answer": "ist gewesen"
+  },
+  {
+    "question": "to fall (infinitive)",
+    "answer": "fallen"
+  },
+  {
+    "question": "to fall (present / er/sie/es)",
+    "answer": "fällt"
+  },
+  {
+    "question": "to fall (perfect / hat/ist + Partizip II)",
+    "answer": "ist gefallen"
+  },
+  {
+    "question": "can / to be able to (infinitive)",
+    "answer": "können"
+  },
+  {
+    "question": "can / to be able to (present / er/sie/es)",
+    "answer": "kann"
+  },
+  {
+    "question": "can / to be able to (perfect / hat/ist + Partizip II)",
+    "answer": "hat gekonnt"
+  },
+  {
+    "question": "to sit (infinitive)",
+    "answer": "sitzen"
+  },
+  {
+    "question": "to sit (present / er/sie/es)",
+    "answer": "sitzt"
+  },
+  {
+    "question": "to sit (perfect / hat/ist + Partizip II)",
+    "answer": "hat gesessen"
+  },
+  {
+    "question": "to leave sitting (infinitive)",
+    "answer": "sitzen lassen"
+  },
+  {
+    "question": "to leave sitting (present / er/sie/es)",
+    "answer": "lässt sitzen"
+  },
+  {
+    "question": "to leave sitting (perfect / hat/ist + Partizip II)",
+    "answer": "hat sitzen lassen"
+  },
+  {
+    "question": "to feel (infinitive)",
+    "answer": "fühlen"
+  },
+  {
+    "question": "to feel (present / er/sie/es)",
+    "answer": "fühlt (sich)"
+  },
+  {
+    "question": "to feel (perfect / hat/ist + Partizip II)",
+    "answer": "hat (sich) gefühlt"
+  },
+  {
+    "question": "to begin (infinitive)",
+    "answer": "anfangen"
+  },
+  {
+    "question": "to begin (present / er/sie/es)",
+    "answer": "fängt an"
+  },
+  {
+    "question": "to begin (perfect / hat/ist + Partizip II)",
+    "answer": "hat angefangen"
+  },
+  {
+    "question": "to regret (infinitive)",
+    "answer": "bereuen"
+  },
+  {
+    "question": "to regret (present / er/sie/es)",
+    "answer": "bereut"
+  },
+  {
+    "question": "to regret (perfect / hat/ist + Partizip II)",
+    "answer": "hat bereut"
+  },
+  {
+    "question": "to be called (infinitive)",
+    "answer": "heißen"
+  },
+  {
+    "question": "to be called (present / er/sie/es)",
+    "answer": "heißt"
+  },
+  {
+    "question": "to be called (perfect / hat/ist + Partizip II)",
+    "answer": "hat geheißen"
+  },
+  {
+    "question": "to have (infinitive)",
+    "answer": "haben"
+  },
+  {
+    "question": "to have (present / er/sie/es)",
+    "answer": "hat"
+  },
+  {
+    "question": "to have (perfect / hat/ist + Partizip II)",
+    "answer": "hat gehabt"
+  },
+  {
+    "question": "to become pregnant (infinitive)",
+    "answer": "schwanger werden"
+  },
+  {
+    "question": "to become pregnant (present / er/sie/es)",
+    "answer": "wird schwanger"
+  },
+  {
+    "question": "to become pregnant (perfect / hat/ist + Partizip II)",
+    "answer": "ist schwanger geworden"
+  },
+  {
+    "question": "to get to know (infinitive)",
+    "answer": "kennenlernen"
+  },
+  {
+    "question": "to get to know (present / er/sie/es)",
+    "answer": "lernt kennen"
+  },
+  {
+    "question": "to get to know (perfect / hat/ist + Partizip II)",
+    "answer": "hat kennengelernt"
+  },
+  {
+    "question": "to tell (infinitive)",
+    "answer": "erzählen"
+  },
+  {
+    "question": "to tell (present / er/sie/es)",
+    "answer": "erzählt"
+  },
+  {
+    "question": "to tell (perfect / hat/ist + Partizip II)",
+    "answer": "hat erzählt"
+  },
+  {
+    "question": "to remember (infinitive)",
+    "answer": "sich erinnern"
+  },
+  {
+    "question": "to remember (present / er/sie/es)",
+    "answer": "erinnert sich"
+  },
+  {
+    "question": "to remember (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich erinnert"
+  },
+  {
+    "question": "to notice / to be apparent (infinitive)",
+    "answer": "anmerken"
+  },
+  {
+    "question": "to notice / to be apparent (present / er/sie/es)",
+    "answer": "merkt an"
+  },
+  {
+    "question": "to notice / to be apparent (perfect / hat/ist + Partizip II)",
+    "answer": "hat angemerkt"
+  },
+  {
+    "question": "to see (infinitive)",
+    "answer": "sehen"
+  },
+  {
+    "question": "to see (present / er/sie/es)",
+    "answer": "sieht"
+  },
+  {
+    "question": "to see (perfect / hat/ist + Partizip II)",
+    "answer": "hat gesehen"
+  },
+  {
+    "question": "to come (infinitive)",
+    "answer": "kommen"
+  },
+  {
+    "question": "to come (present / er/sie/es)",
+    "answer": "kommt"
+  },
+  {
+    "question": "to come (perfect / hat/ist + Partizip II)",
+    "answer": "ist gekommen"
+  },
+  {
+    "question": "to manage / to create (infinitive)",
+    "answer": "schaffen"
+  },
+  {
+    "question": "to manage / to create (present / er/sie/es)",
+    "answer": "schafft"
+  },
+  {
+    "question": "to manage / to create (perfect / hat/ist + Partizip II)",
+    "answer": "hat geschafft"
+  },
+  {
+    "question": "to want (infinitive)",
+    "answer": "wollen"
+  },
+  {
+    "question": "to want (present / er/sie/es)",
+    "answer": "will"
+  },
+  {
+    "question": "to want (perfect / hat/ist + Partizip II)",
+    "answer": "hat gewollt"
+  },
+  {
+    "question": "to keep (infinitive)",
+    "answer": "behalten"
+  },
+  {
+    "question": "to keep (present / er/sie/es)",
+    "answer": "behält"
+  },
+  {
+    "question": "to keep (perfect / hat/ist + Partizip II)",
+    "answer": "hat behalten"
+  },
+  {
+    "question": "to happen (infinitive)",
+    "answer": "passieren"
+  },
+  {
+    "question": "to happen (present / er/sie/es)",
+    "answer": "passiert"
+  },
+  {
+    "question": "to happen (perfect / hat/ist + Partizip II)",
+    "answer": "ist passiert"
+  },
+  {
+    "question": "to be sufficient (infinitive)",
+    "answer": "ausreichen"
+  },
+  {
+    "question": "to be sufficient (present / er/sie/es)",
+    "answer": "reicht aus"
+  },
+  {
+    "question": "to be sufficient (perfect / hat/ist + Partizip II)",
+    "answer": "hat ausgereicht"
+  },
+  {
+    "question": "to live (infinitive)",
+    "answer": "leben"
+  },
+  {
+    "question": "to live (present / er/sie/es)",
+    "answer": "lebt"
+  },
+  {
+    "question": "to live (perfect / hat/ist + Partizip II)",
+    "answer": "hat gelebt"
+  },
+  {
+    "question": "to turn / to change (infinitive)",
+    "answer": "sich wenden"
+  },
+  {
+    "question": "to turn / to change (present / er/sie/es)",
+    "answer": "wendet sich"
+  },
+  {
+    "question": "to turn / to change (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich gewendet"
+  },
+  {
+    "question": "to let survive (infinitive)",
+    "answer": "überleben lassen"
+  },
+  {
+    "question": "to let survive (present / er/sie/es)",
+    "answer": "lässt überleben"
+  },
+  {
+    "question": "to let survive (perfect / hat/ist + Partizip II)",
+    "answer": "hat überleben lassen"
+  },
+  {
+    "question": "to break down (infinitive)",
+    "answer": "zusammenbrechen"
+  },
+  {
+    "question": "to break down (present / er/sie/es)",
+    "answer": "bricht zusammen"
+  },
+  {
+    "question": "to break down (perfect / hat/ist + Partizip II)",
+    "answer": "ist zusammengebrochen"
+  },
+  {
+    "question": "to determine / make out (infinitive)",
+    "answer": "ausmachen"
+  },
+  {
+    "question": "to determine / make out (present / er/sie/es)",
+    "answer": "macht aus"
+  },
+  {
+    "question": "to determine / make out (perfect / hat/ist + Partizip II)",
+    "answer": "hat ausgemacht"
+  },
+  {
+    "question": "to urge / to push (infinitive)",
+    "answer": "drängen"
+  },
+  {
+    "question": "to urge / to push (present / er/sie/es)",
+    "answer": "drängt"
+  },
+  {
+    "question": "to urge / to push (perfect / hat/ist + Partizip II)",
+    "answer": "hat gedrängt"
+  },
+  {
+    "question": "to suffer (infinitive)",
+    "answer": "leiden"
+  },
+  {
+    "question": "to suffer (present / er/sie/es)",
+    "answer": "leidet"
+  },
+  {
+    "question": "to suffer (perfect / hat/ist + Partizip II)",
+    "answer": "hat gelitten"
+  },
+  {
+    "question": "to accuse (infinitive)",
+    "answer": "vorwerfen"
+  },
+  {
+    "question": "to accuse (present / er/sie/es)",
+    "answer": "wirft vor"
+  },
+  {
+    "question": "to accuse (perfect / hat/ist + Partizip II)",
+    "answer": "hat vorgeworfen"
+  },
+  {
+    "question": "to accept (infinitive)",
+    "answer": "akzeptieren"
+  },
+  {
+    "question": "to accept (present / er/sie/es)",
+    "answer": "akzeptiert"
+  },
+  {
+    "question": "to accept (perfect / hat/ist + Partizip II)",
+    "answer": "hat akzeptiert"
+  },
+  {
+    "question": "to turn / to twist (infinitive)",
+    "answer": "drehen"
+  },
+  {
+    "question": "to turn / to twist (present / er/sie/es)",
+    "answer": "dreht"
+  },
+  {
+    "question": "to turn / to twist (perfect / hat/ist + Partizip II)",
+    "answer": "hat gedreht"
+  },
+  {
+    "question": "to grab / to pack (infinitive)",
+    "answer": "packen"
+  },
+  {
+    "question": "to grab / to pack (present / er/sie/es)",
+    "answer": "packt"
+  },
+  {
+    "question": "to grab / to pack (perfect / hat/ist + Partizip II)",
+    "answer": "hat gepackt"
+  },
+  {
+    "question": "to love (infinitive)",
+    "answer": "lieben"
+  },
+  {
+    "question": "to love (present / er/sie/es)",
+    "answer": "liebt"
+  },
+  {
+    "question": "to love (perfect / hat/ist + Partizip II)",
+    "answer": "hat geliebt"
+  },
+  {
+    "question": "to search (infinitive)",
+    "answer": "suchen"
+  },
+  {
+    "question": "to search (present / er/sie/es)",
+    "answer": "sucht"
+  },
+  {
+    "question": "to search (perfect / hat/ist + Partizip II)",
+    "answer": "hat gesucht"
+  },
+  {
+    "question": "to suffocate (infinitive)",
+    "answer": "ersticken"
+  },
+  {
+    "question": "to suffocate (present / er/sie/es)",
+    "answer": "erstickt"
+  },
+  {
+    "question": "to suffocate (perfect / hat/ist + Partizip II)",
+    "answer": "ist erstickt"
+  },
+  {
+    "question": "to fill out / to fulfill (infinitive)",
+    "answer": "ausfüllen"
+  },
+  {
+    "question": "to fill out / to fulfill (present / er/sie/es)",
+    "answer": "füllt aus"
+  },
+  {
+    "question": "to fill out / to fulfill (perfect / hat/ist + Partizip II)",
+    "answer": "hat ausgefüllt"
+  },
+  {
+    "question": "to notice (infinitive)",
+    "answer": "merken"
+  },
+  {
+    "question": "to notice (present / er/sie/es)",
+    "answer": "merkt"
+  },
+  {
+    "question": "to notice (perfect / hat/ist + Partizip II)",
+    "answer": "hat gemerkt"
+  },
+  {
+    "question": "to go crazy / to spin out (infinitive)",
+    "answer": "durchdrehen"
+  },
+  {
+    "question": "to go crazy / to spin out (present / er/sie/es)",
+    "answer": "dreht durch"
+  },
+  {
+    "question": "to go crazy / to spin out (perfect / hat/ist + Partizip II)",
+    "answer": "ist durchgedreht"
+  },
+  {
+    "question": "to take care of (infinitive)",
+    "answer": "sich kümmern"
+  },
+  {
+    "question": "to take care of (present / er/sie/es)",
+    "answer": "kümmert sich"
+  },
+  {
+    "question": "to take care of (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich gekümmert"
+  },
+  {
+    "question": "to take out / to get out (infinitive)",
+    "answer": "rausholen"
+  },
+  {
+    "question": "to take out / to get out (present / er/sie/es)",
+    "answer": "holt raus"
+  },
+  {
+    "question": "to take out / to get out (perfect / hat/ist + Partizip II)",
+    "answer": "hat rausgeholt"
+  },
+  {
+    "question": "to photograph (infinitive)",
+    "answer": "fotografieren"
+  },
+  {
+    "question": "to photograph (present / er/sie/es)",
+    "answer": "fotografiert"
+  },
+  {
+    "question": "to photograph (perfect / hat/ist + Partizip II)",
+    "answer": "hat fotografiert"
+  },
+  {
+    "question": "to represent (infinitive)",
+    "answer": "darstellen"
+  },
+  {
+    "question": "to represent (present / er/sie/es)",
+    "answer": "stellt dar"
+  },
+  {
+    "question": "to represent (perfect / hat/ist + Partizip II)",
+    "answer": "hat dargestellt"
+  },
+  {
+    "question": "to fulfill (infinitive)",
+    "answer": "erfüllen"
+  },
+  {
+    "question": "to fulfill (present / er/sie/es)",
+    "answer": "erfüllt"
+  },
+  {
+    "question": "to fulfill (perfect / hat/ist + Partizip II)",
+    "answer": "hat erfüllt"
+  },
+  {
+    "question": "to change diapers / to wrap (infinitive)",
+    "answer": "wickeln"
+  },
+  {
+    "question": "to change diapers / to wrap (present / er/sie/es)",
+    "answer": "wickelt"
+  },
+  {
+    "question": "to change diapers / to wrap (perfect / hat/ist + Partizip II)",
+    "answer": "hat gewickelt"
+  },
+  {
+    "question": "to breastfeed (infinitive)",
+    "answer": "stillen"
+  },
+  {
+    "question": "to breastfeed (present / er/sie/es)",
+    "answer": "stillt"
+  },
+  {
+    "question": "to breastfeed (perfect / hat/ist + Partizip II)",
+    "answer": "hat gestillt"
+  },
+  {
+    "question": "to comfort (infinitive)",
+    "answer": "trösten"
+  },
+  {
+    "question": "to comfort (present / er/sie/es)",
+    "answer": "tröstet"
+  },
+  {
+    "question": "to comfort (perfect / hat/ist + Partizip II)",
+    "answer": "hat getröstet"
+  },
+  {
+    "question": "to play (infinitive)",
+    "answer": "spielen"
+  },
+  {
+    "question": "to play (present / er/sie/es)",
+    "answer": "spielt"
+  },
+  {
+    "question": "to play (perfect / hat/ist + Partizip II)",
+    "answer": "hat gespielt"
+  },
+  {
+    "question": "to read aloud (infinitive)",
+    "answer": "vorlesen"
+  },
+  {
+    "question": "to read aloud (present / er/sie/es)",
+    "answer": "liest vor"
+  },
+  {
+    "question": "to read aloud (perfect / hat/ist + Partizip II)",
+    "answer": "hat vorgelesen"
+  },
+  {
+    "question": "to clean (infinitive)",
+    "answer": "putzen"
+  },
+  {
+    "question": "to clean (present / er/sie/es)",
+    "answer": "putzt"
+  },
+  {
+    "question": "to clean (perfect / hat/ist + Partizip II)",
+    "answer": "hat geputzt"
+  },
+  {
+    "question": "to cook (infinitive)",
+    "answer": "kochen"
+  },
+  {
+    "question": "to cook (present / er/sie/es)",
+    "answer": "kocht"
+  },
+  {
+    "question": "to cook (perfect / hat/ist + Partizip II)",
+    "answer": "hat gekocht"
+  },
+  {
+    "question": "to clean up (infinitive)",
+    "answer": "saubermachen"
+  },
+  {
+    "question": "to clean up (present / er/sie/es)",
+    "answer": "macht sauber"
+  },
+  {
+    "question": "to clean up (perfect / hat/ist + Partizip II)",
+    "answer": "hat saubergemacht"
+  },
+  {
+    "question": "to dust (infinitive)",
+    "answer": "staubwischen"
+  },
+  {
+    "question": "to dust (present / er/sie/es)",
+    "answer": "wischt Staub"
+  },
+  {
+    "question": "to dust (perfect / hat/ist + Partizip II)",
+    "answer": "hat staubgewischt"
+  },
+  {
+    "question": "to fill (infinitive)",
+    "answer": "füllen"
+  },
+  {
+    "question": "to fill (present / er/sie/es)",
+    "answer": "füllt"
+  },
+  {
+    "question": "to fill (perfect / hat/ist + Partizip II)",
+    "answer": "hat gefüllt"
+  },
+  {
+    "question": "to change (infinitive)",
+    "answer": "wechseln"
+  },
+  {
+    "question": "to change (present / er/sie/es)",
+    "answer": "wechselt"
+  },
+  {
+    "question": "to change (perfect / hat/ist + Partizip II)",
+    "answer": "hat gewechselt"
+  },
+  {
+    "question": "to declare (infinitive)",
+    "answer": "erklären"
+  },
+  {
+    "question": "to declare (present / er/sie/es)",
+    "answer": "erklärt"
+  },
+  {
+    "question": "to declare (perfect / hat/ist + Partizip II)",
+    "answer": "hat erklärt"
+  },
+  {
+    "question": "to burden with (infinitive)",
+    "answer": "aufbürden"
+  },
+  {
+    "question": "to burden with (present / er/sie/es)",
+    "answer": "bürdet auf"
+  },
+  {
+    "question": "to burden with (perfect / hat/ist + Partizip II)",
+    "answer": "hat aufgebürdet"
+  },
+  {
+    "question": "to withhold (infinitive)",
+    "answer": "vorenthalten"
+  },
+  {
+    "question": "to withhold (present / er/sie/es)",
+    "answer": "enthält vor"
+  },
+  {
+    "question": "to withhold (perfect / hat/ist + Partizip II)",
+    "answer": "hat vorenthalten"
+  },
+  {
+    "question": "should / are supposed to (infinitive)",
+    "answer": "sollen"
+  },
+  {
+    "question": "should / are supposed to (present / er/sie/es)",
+    "answer": "soll"
+  },
+  {
+    "question": "should / are supposed to (perfect / hat/ist + Partizip II)",
+    "answer": "hat gesollt"
+  },
+  {
+    "question": "to do / to handle (infinitive)",
+    "answer": "erledigen"
+  },
+  {
+    "question": "to do / to handle (present / er/sie/es)",
+    "answer": "erledigt"
+  },
+  {
+    "question": "to do / to handle (perfect / hat/ist + Partizip II)",
+    "answer": "hat erledigt"
+  },
+  {
+    "question": "to look (infinitive)",
+    "answer": "schauen"
+  },
+  {
+    "question": "to look (present / er/sie/es)",
+    "answer": "schaut"
+  },
+  {
+    "question": "to look (perfect / hat/ist + Partizip II)",
+    "answer": "hat geschaut"
+  },
+  {
+    "question": "to complain (infinitive)",
+    "answer": "sich beschweren"
+  },
+  {
+    "question": "to complain (present / er/sie/es)",
+    "answer": "beschwert sich"
+  },
+  {
+    "question": "to complain (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich beschwert"
+  },
+  {
+    "question": "to be considered (infinitive)",
+    "answer": "gelten"
+  },
+  {
+    "question": "to be considered (present / er/sie/es)",
+    "answer": "gilt"
+  },
+  {
+    "question": "to be considered (perfect / hat/ist + Partizip II)",
+    "answer": "hat gegolten"
+  },
+  {
+    "question": "to move / to pull (infinitive)",
+    "answer": "ziehen"
+  },
+  {
+    "question": "to move / to pull (present / er/sie/es)",
+    "answer": "zieht"
+  },
+  {
+    "question": "to move / to pull (perfect / hat/ist + Partizip II)",
+    "answer": "ist gezogen"
+  },
+  {
+    "question": "to live / to reside (infinitive)",
+    "answer": "wohnen"
+  },
+  {
+    "question": "to live / to reside (present / er/sie/es)",
+    "answer": "wohnt"
+  },
+  {
+    "question": "to live / to reside (perfect / hat/ist + Partizip II)",
+    "answer": "hat gewohnt"
+  },
+  {
+    "question": "to visit (infinitive)",
+    "answer": "besuchen"
+  },
+  {
+    "question": "to visit (present / er/sie/es)",
+    "answer": "besucht"
+  },
+  {
+    "question": "to visit (perfect / hat/ist + Partizip II)",
+    "answer": "hat besucht"
+  },
+  {
+    "question": "to say (infinitive)",
+    "answer": "sagen"
+  },
+  {
+    "question": "to say (present / er/sie/es)",
+    "answer": "sagt"
+  },
+  {
+    "question": "to say (perfect / hat/ist + Partizip II)",
+    "answer": "hat gesagt"
+  },
+  {
+    "question": "to get (infinitive)",
+    "answer": "kriegen"
+  },
+  {
+    "question": "to get (present / er/sie/es)",
+    "answer": "kriegt"
+  },
+  {
+    "question": "to get (perfect / hat/ist + Partizip II)",
+    "answer": "hat gekriegt"
+  },
+  {
+    "question": "to call (infinitive)",
+    "answer": "rufen"
+  },
+  {
+    "question": "to call (present / er/sie/es)",
+    "answer": "ruft"
+  },
+  {
+    "question": "to call (perfect / hat/ist + Partizip II)",
+    "answer": "hat gerufen"
+  },
+  {
+    "question": "to need (infinitive)",
+    "answer": "brauchen"
+  },
+  {
+    "question": "to need (present / er/sie/es)",
+    "answer": "braucht"
+  },
+  {
+    "question": "to need (perfect / hat/ist + Partizip II)",
+    "answer": "hat gebraucht"
+  },
+  {
+    "question": "must / to have to (infinitive)",
+    "answer": "müssen"
+  },
+  {
+    "question": "must / to have to (present / er/sie/es)",
+    "answer": "muss"
+  },
+  {
+    "question": "must / to have to (perfect / hat/ist + Partizip II)",
+    "answer": "hat gemusst"
+  },
+  {
+    "question": "to name (infinitive)",
+    "answer": "benennen"
+  },
+  {
+    "question": "to name (present / er/sie/es)",
+    "answer": "benennt"
+  },
+  {
+    "question": "to name (perfect / hat/ist + Partizip II)",
+    "answer": "hat benannt"
+  },
+  {
+    "question": "to take along (infinitive)",
+    "answer": "mitnehmen"
+  },
+  {
+    "question": "to take along (present / er/sie/es)",
+    "answer": "nimmt mit"
+  },
+  {
+    "question": "to take along (perfect / hat/ist + Partizip II)",
+    "answer": "hat mitgenommen"
+  },
+  {
+    "question": "to mean (infinitive)",
+    "answer": "bedeuten"
+  },
+  {
+    "question": "to mean (present / er/sie/es)",
+    "answer": "bedeutet"
+  },
+  {
+    "question": "to mean (perfect / hat/ist + Partizip II)",
+    "answer": "hat bedeutet"
+  },
+  {
+    "question": "to meet / to make (a decision) (infinitive)",
+    "answer": "treffen"
+  },
+  {
+    "question": "to meet / to make (a decision) (present / er/sie/es)",
+    "answer": "trifft"
+  },
+  {
+    "question": "to meet / to make (a decision) (perfect / hat/ist + Partizip II)",
+    "answer": "hat getroffen"
+  },
+  {
+    "question": "to undo (infinitive)",
+    "answer": "rückgängig machen"
+  },
+  {
+    "question": "to undo (present / er/sie/es)",
+    "answer": "macht rückgängig"
+  },
+  {
+    "question": "to undo (perfect / hat/ist + Partizip II)",
+    "answer": "hat rückgängig gemacht"
+  },
+  {
+    "question": "to appear / to set in (infinitive)",
+    "answer": "sich einstellen"
+  },
+  {
+    "question": "to appear / to set in (present / er/sie/es)",
+    "answer": "stellt sich ein"
+  },
+  {
+    "question": "to appear / to set in (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich eingestellt"
+  },
+  {
+    "question": "to accept (infinitive)",
+    "answer": "annehmen"
+  },
+  {
+    "question": "to accept (present / er/sie/es)",
+    "answer": "nimmt an"
+  },
+  {
+    "question": "to accept (perfect / hat/ist + Partizip II)",
+    "answer": "hat angenommen"
+  },
+  {
+    "question": "to continue (infinitive)",
+    "answer": "weitermachen"
+  },
+  {
+    "question": "to continue (present / er/sie/es)",
+    "answer": "macht weiter"
+  },
+  {
+    "question": "to continue (perfect / hat/ist + Partizip II)",
+    "answer": "hat weitergemacht"
+  },
+  {
+    "question": "to involve (infinitive)",
+    "answer": "einbeziehen"
+  },
+  {
+    "question": "to involve (present / er/sie/es)",
+    "answer": "bezieht ein"
+  },
+  {
+    "question": "to involve (perfect / hat/ist + Partizip II)",
+    "answer": "hat einbezogen"
+  },
+  {
+    "question": "to fight (infinitive)",
+    "answer": "kämpfen"
+  },
+  {
+    "question": "to fight (present / er/sie/es)",
+    "answer": "kämpft"
+  },
+  {
+    "question": "to fight (perfect / hat/ist + Partizip II)",
+    "answer": "hat gekämpft"
+  },
+  {
+    "question": "to find (infinitive)",
+    "answer": "finden"
+  },
+  {
+    "question": "to find (present / er/sie/es)",
+    "answer": "findet"
+  },
+  {
+    "question": "to find (perfect / hat/ist + Partizip II)",
+    "answer": "hat gefunden"
+  },
+  {
+    "question": "to develop (infinitive)",
+    "answer": "entwickeln"
+  },
+  {
+    "question": "to develop (present / er/sie/es)",
+    "answer": "entwickelt"
+  },
+  {
+    "question": "to develop (perfect / hat/ist + Partizip II)",
+    "answer": "hat entwickelt"
+  },
+  {
+    "question": "to run / to go (infinitive)",
+    "answer": "laufen"
+  },
+  {
+    "question": "to run / to go (present / er/sie/es)",
+    "answer": "läuft"
+  },
+  {
+    "question": "to run / to go (perfect / hat/ist + Partizip II)",
+    "answer": "ist gelaufen"
+  },
+  {
+    "question": "to confirm (infinitive)",
+    "answer": "bestätigen"
+  },
+  {
+    "question": "to confirm (present / er/sie/es)",
+    "answer": "bestätigt"
+  },
+  {
+    "question": "to confirm (perfect / hat/ist + Partizip II)",
+    "answer": "hat bestätigt"
+  },
+  {
+    "question": "to sit down (infinitive)",
+    "answer": "sich hinsetzen"
+  },
+  {
+    "question": "to sit down (present / er/sie/es)",
+    "answer": "setzt sich hin"
+  },
+  {
+    "question": "to sit down (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich hingesetzt"
+  },
+  {
+    "question": "to take seriously (infinitive)",
+    "answer": "ernst nehmen"
+  },
+  {
+    "question": "to take seriously (present / er/sie/es)",
+    "answer": "nimmt ernst"
+  },
+  {
+    "question": "to take seriously (perfect / hat/ist + Partizip II)",
+    "answer": "hat ernst genommen"
+  },
+  {
+    "question": "to listen (infinitive)",
+    "answer": "zuhören"
+  },
+  {
+    "question": "to listen (present / er/sie/es)",
+    "answer": "hört zu"
+  },
+  {
+    "question": "to listen (perfect / hat/ist + Partizip II)",
+    "answer": "hat zugehört"
+  },
+  {
+    "question": "to discuss (infinitive)",
+    "answer": "besprechen"
+  },
+  {
+    "question": "to discuss (present / er/sie/es)",
+    "answer": "bespricht"
+  },
+  {
+    "question": "to discuss (perfect / hat/ist + Partizip II)",
+    "answer": "hat besprochen"
+  },
+  {
+    "question": "to need (infinitive)",
+    "answer": "benötigen"
+  },
+  {
+    "question": "to need (present / er/sie/es)",
+    "answer": "benötigt"
+  },
+  {
+    "question": "to need (perfect / hat/ist + Partizip II)",
+    "answer": "hat benötigt"
+  },
+  {
+    "question": "to comply with (infinitive)",
+    "answer": "nachkommen"
+  },
+  {
+    "question": "to comply with (present / er/sie/es)",
+    "answer": "kommt nach"
+  },
+  {
+    "question": "to comply with (perfect / hat/ist + Partizip II)",
+    "answer": "ist nachgekommen"
+  },
+  {
+    "question": "to learn (infinitive)",
+    "answer": "lernen"
+  },
+  {
+    "question": "to learn (present / er/sie/es)",
+    "answer": "lernt"
+  },
+  {
+    "question": "to learn (perfect / hat/ist + Partizip II)",
+    "answer": "hat gelernt"
+  },
+  {
+    "question": "to forgive (infinitive)",
+    "answer": "vergeben"
+  },
+  {
+    "question": "to forgive (present / er/sie/es)",
+    "answer": "vergibt"
+  },
+  {
+    "question": "to forgive (perfect / hat/ist + Partizip II)",
+    "answer": "hat vergeben"
+  },
+  {
+    "question": "to feel (infinitive)",
+    "answer": "spüren"
+  },
+  {
+    "question": "to feel (present / er/sie/es)",
+    "answer": "spürt"
+  },
+  {
+    "question": "to feel (perfect / hat/ist + Partizip II)",
+    "answer": "hat gespürt"
+  },
+  {
+    "question": "to lie / to be located (infinitive)",
+    "answer": "liegen"
+  },
+  {
+    "question": "to lie / to be located (present / er/sie/es)",
+    "answer": "liegt"
+  },
+  {
+    "question": "to lie / to be located (perfect / hat/ist + Partizip II)",
+    "answer": "hat gelegen"
+  },
+  {
+    "question": "to perceive (infinitive)",
+    "answer": "wahrnehmen"
+  },
+  {
+    "question": "to perceive (present / er/sie/es)",
+    "answer": "nimmt wahr"
+  },
+  {
+    "question": "to perceive (perfect / hat/ist + Partizip II)",
+    "answer": "hat wahrgenommen"
+  },
+  {
+    "question": "to do (infinitive)",
+    "answer": "tun"
+  },
+  {
+    "question": "to do (present / er/sie/es)",
+    "answer": "tut"
+  },
+  {
+    "question": "to do (perfect / hat/ist + Partizip II)",
+    "answer": "hat getan"
+  },
+  {
+    "question": "to use (infinitive)",
+    "answer": "nutzen"
+  },
+  {
+    "question": "to use (present / er/sie/es)",
+    "answer": "nutzt"
+  },
+  {
+    "question": "to use (perfect / hat/ist + Partizip II)",
+    "answer": "hat genutzt"
+  },
+  {
+    "question": "to deal with (infinitive)",
+    "answer": "sich beschäftigen"
+  },
+  {
+    "question": "to deal with (present / er/sie/es)",
+    "answer": "beschäftigt sich"
+  },
+  {
+    "question": "to deal with (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich beschäftigt"
+  },
+  {
+    "question": "to process (infinitive)",
+    "answer": "verarbeiten"
+  },
+  {
+    "question": "to process (present / er/sie/es)",
+    "answer": "verarbeitet"
+  },
+  {
+    "question": "to process (perfect / hat/ist + Partizip II)",
+    "answer": "hat verarbeitet"
+  },
+  {
+    "question": "to recognize (infinitive)",
+    "answer": "erkennen"
+  },
+  {
+    "question": "to recognize (present / er/sie/es)",
+    "answer": "erkennt"
+  },
+  {
+    "question": "to recognize (perfect / hat/ist + Partizip II)",
+    "answer": "hat erkannt"
+  },
+  {
+    "question": "to implement (infinitive)",
+    "answer": "umsetzen"
+  },
+  {
+    "question": "to implement (present / er/sie/es)",
+    "answer": "setzt um"
+  },
+  {
+    "question": "to implement (perfect / hat/ist + Partizip II)",
+    "answer": "hat umgesetzt"
+  },
+  {
+    "question": "to work (infinitive)",
+    "answer": "arbeiten"
+  },
+  {
+    "question": "to work (present / er/sie/es)",
+    "answer": "arbeitet"
+  },
+  {
+    "question": "to work (perfect / hat/ist + Partizip II)",
+    "answer": "hat gearbeitet"
+  },
+  {
+    "question": "to pick up (infinitive)",
+    "answer": "abholen"
+  },
+  {
+    "question": "to pick up (present / er/sie/es)",
+    "answer": "holt ab"
+  },
+  {
+    "question": "to pick up (perfect / hat/ist + Partizip II)",
+    "answer": "hat abgeholt"
+  },
+  {
+    "question": "to provide / to achieve (infinitive)",
+    "answer": "erbringen"
+  },
+  {
+    "question": "to provide / to achieve (present / er/sie/es)",
+    "answer": "erbringt"
+  },
+  {
+    "question": "to provide / to achieve (perfect / hat/ist + Partizip II)",
+    "answer": "hat erbracht"
+  },
+  {
+    "question": "to finish (infinitive)",
+    "answer": "beenden"
+  },
+  {
+    "question": "to finish (present / er/sie/es)",
+    "answer": "beendet"
+  },
+  {
+    "question": "to finish (perfect / hat/ist + Partizip II)",
+    "answer": "hat beendet"
+  },
+  {
+    "question": "to demonstrate / to live by example (infinitive)",
+    "answer": "vorleben"
+  },
+  {
+    "question": "to demonstrate / to live by example (present / er/sie/es)",
+    "answer": "lebt vor"
+  },
+  {
+    "question": "to demonstrate / to live by example (perfect / hat/ist + Partizip II)",
+    "answer": "hat vorgelebt"
+  },
+  {
+    "question": "to rest (infinitive)",
+    "answer": "sich ausruhen"
+  },
+  {
+    "question": "to rest (present / er/sie/es)",
+    "answer": "ruht sich aus"
+  },
+  {
+    "question": "to rest (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich ausgeruht"
+  },
+  {
+    "question": "to lean back (infinitive)",
+    "answer": "sich zurücklehnen"
+  },
+  {
+    "question": "to lean back (present / er/sie/es)",
+    "answer": "lehnt sich zurück"
+  },
+  {
+    "question": "to lean back (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich zurückgelehnt"
+  },
+  {
+    "question": "to let be (infinitive)",
+    "answer": "sein lassen"
+  },
+  {
+    "question": "to let be (present / er/sie/es)",
+    "answer": "lässt sein"
+  },
+  {
+    "question": "to let be (perfect / hat/ist + Partizip II)",
+    "answer": "hat sein lassen"
+  },
+  {
+    "question": "to be allowed to (infinitive)",
+    "answer": "dürfen"
+  },
+  {
+    "question": "to be allowed to (present / er/sie/es)",
+    "answer": "darf"
+  },
+  {
+    "question": "to be allowed to (perfect / hat/ist + Partizip II)",
+    "answer": "hat gedurft"
+  },
+  {
+    "question": "to get out / to come out (infinitive)",
+    "answer": "rauskommen"
+  },
+  {
+    "question": "to get out / to come out (present / er/sie/es)",
+    "answer": "kommt raus"
+  },
+  {
+    "question": "to get out / to come out (perfect / hat/ist + Partizip II)",
+    "answer": "ist rausgekommen"
+  },
+  {
+    "question": "to long for (infinitive)",
+    "answer": "sich sehnen"
+  },
+  {
+    "question": "to long for (present / er/sie/es)",
+    "answer": "sehnt sich"
+  },
+  {
+    "question": "to long for (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich gesehnt"
+  },
+  {
+    "question": "to exchange / to discuss (infinitive)",
+    "answer": "sich austauschen"
+  },
+  {
+    "question": "to exchange / to discuss (present / er/sie/es)",
+    "answer": "tauscht sich aus"
+  },
+  {
+    "question": "to exchange / to discuss (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich ausgetauscht"
+  },
+  {
+    "question": "to continue / to go on (infinitive)",
+    "answer": "weitergehen"
+  },
+  {
+    "question": "to continue / to go on (present / er/sie/es)",
+    "answer": "geht weiter"
+  },
+  {
+    "question": "to continue / to go on (perfect / hat/ist + Partizip II)",
+    "answer": "ist weitergegangen"
+  },
+  {
+    "question": "to allow (infinitive)",
+    "answer": "erlauben"
+  },
+  {
+    "question": "to allow (present / er/sie/es)",
+    "answer": "erlaubt"
+  },
+  {
+    "question": "to allow (perfect / hat/ist + Partizip II)",
+    "answer": "hat erlaubt"
+  },
+  {
+    "question": "to fail / to drop out (infinitive)",
+    "answer": "ausfallen"
+  },
+  {
+    "question": "to fail / to drop out (present / er/sie/es)",
+    "answer": "fällt aus"
+  },
+  {
+    "question": "to fail / to drop out (perfect / hat/ist + Partizip II)",
+    "answer": "ist ausgefallen"
+  },
+  {
+    "question": "to get sick (infinitive)",
+    "answer": "krank werden"
+  },
+  {
+    "question": "to get sick (present / er/sie/es)",
+    "answer": "wird krank"
+  },
+  {
+    "question": "to get sick (perfect / hat/ist + Partizip II)",
+    "answer": "ist krank geworden"
+  },
+  {
+    "question": "to hate (infinitive)",
+    "answer": "hassen"
+  },
+  {
+    "question": "to hate (present / er/sie/es)",
+    "answer": "hasst"
+  },
+  {
+    "question": "to hate (perfect / hat/ist + Partizip II)",
+    "answer": "hat gehasst"
+  },
+  {
+    "question": "to steal (infinitive)",
+    "answer": "stehlen"
+  },
+  {
+    "question": "to steal (present / er/sie/es)",
+    "answer": "stiehlt"
+  },
+  {
+    "question": "to steal (perfect / hat/ist + Partizip II)",
+    "answer": "hat gestohlen"
+  },
+  {
+    "question": "to be missing (infinitive)",
+    "answer": "fehlen"
+  },
+  {
+    "question": "to be missing (present / er/sie/es)",
+    "answer": "fehlt"
+  },
+  {
+    "question": "to be missing (perfect / hat/ist + Partizip II)",
+    "answer": "hat gefehlt"
+  },
+  {
+    "question": "to breathe (infinitive)",
+    "answer": "atmen"
+  },
+  {
+    "question": "to breathe (present / er/sie/es)",
+    "answer": "atmet"
+  },
+  {
+    "question": "to breathe (perfect / hat/ist + Partizip II)",
+    "answer": "hat geatmet"
+  },
+  {
+    "question": "to serve (infinitive)",
+    "answer": "dienen"
+  },
+  {
+    "question": "to serve (present / er/sie/es)",
+    "answer": "dient"
+  },
+  {
+    "question": "to serve (perfect / hat/ist + Partizip II)",
+    "answer": "hat gedient"
+  },
+  {
+    "question": "to set in motion (infinitive)",
+    "answer": "in Gang setzen"
+  },
+  {
+    "question": "to set in motion (present / er/sie/es)",
+    "answer": "setzt in Gang"
+  },
+  {
+    "question": "to set in motion (perfect / hat/ist + Partizip II)",
+    "answer": "hat in Gang gesetzt"
+  },
+  {
+    "question": "to reflect (infinitive)",
+    "answer": "reflektieren"
+  },
+  {
+    "question": "to reflect (present / er/sie/es)",
+    "answer": "reflektiert"
+  },
+  {
+    "question": "to reflect (perfect / hat/ist + Partizip II)",
+    "answer": "hat reflektiert"
+  },
+  {
+    "question": "to reflect / to be mirrored (infinitive)",
+    "answer": "sich widerspiegeln"
+  },
+  {
+    "question": "to reflect / to be mirrored (present / er/sie/es)",
+    "answer": "spiegelt sich wider"
+  },
+  {
+    "question": "to reflect / to be mirrored (perfect / hat/ist + Partizip II)",
+    "answer": "hat sich widergespiegelt"
+  },
+  {
+    "question": "to trigger (infinitive)",
+    "answer": "auslösen"
+  },
+  {
+    "question": "to trigger (present / er/sie/es)",
+    "answer": "löst aus"
+  },
+  {
+    "question": "to trigger (perfect / hat/ist + Partizip II)",
+    "answer": "hat ausgelöst"
+  },
+  {
+    "question": "to feel / to perceive (infinitive)",
+    "answer": "empfinden"
+  },
+  {
+    "question": "to feel / to perceive (present / er/sie/es)",
+    "answer": "empfindet"
+  },
+  {
+    "question": "to feel / to perceive (perfect / hat/ist + Partizip II)",
+    "answer": "hat empfunden"
+  },
+  {
+    "question": "to evaluate (infinitive)",
+    "answer": "bewerten"
+  },
+  {
+    "question": "to evaluate (present / er/sie/es)",
+    "answer": "bewertet"
+  },
+  {
+    "question": "to evaluate (perfect / hat/ist + Partizip II)",
+    "answer": "hat bewertet"
+  },
+  {
+    "question": "to try (infinitive)",
+    "answer": "versuchen"
+  },
+  {
+    "question": "to try (present / er/sie/es)",
+    "answer": "versucht"
+  },
+  {
+    "question": "to try (perfect / hat/ist + Partizip II)",
+    "answer": "hat versucht"
+  },
+  {
+    "question": "to deal with (infinitive)",
+    "answer": "umgehen"
+  },
+  {
+    "question": "to deal with (present / er/sie/es)",
+    "answer": "geht um"
+  },
+  {
+    "question": "to deal with (perfect / hat/ist + Partizip II)",
+    "answer": "ist umgegangen"
+  },
+  {
+    "question": "to hope (infinitive)",
+    "answer": "hoffen"
+  },
+  {
+    "question": "to hope (present / er/sie/es)",
+    "answer": "hofft"
+  },
+  {
+    "question": "to hope (perfect / hat/ist + Partizip II)",
+    "answer": "hat gehofft"
+  },
+  {
+    "question": "to please (infinitive)",
+    "answer": "gefallen"
+  },
+  {
+    "question": "to please (present / er/sie/es)",
+    "answer": "gefällt"
+  },
+  {
+    "question": "to please (perfect / hat/ist + Partizip II)",
+    "answer": "hat gefallen"
+  },
+  {
+    "question": "to press (infinitive)",
+    "answer": "drücken"
+  },
+  {
+    "question": "to press (present / er/sie/es)",
+    "answer": "drückt"
+  },
+  {
+    "question": "to press (perfect / hat/ist + Partizip II)",
+    "answer": "hat gedrückt"
+  },
+  {
+    "question": "to interest (infinitive)",
+    "answer": "interessieren"
+  },
+  {
+    "question": "to interest (present / er/sie/es)",
+    "answer": "interessiert"
+  },
+  {
+    "question": "to interest (perfect / hat/ist + Partizip II)",
+    "answer": "hat interessiert"
+  },
+  {
+    "question": "to write (infinitive)",
+    "answer": "schreiben"
+  },
+  {
+    "question": "to write (present / er/sie/es)",
+    "answer": "schreibt"
+  },
+  {
+    "question": "to write (perfect / hat/ist + Partizip II)",
+    "answer": "hat geschrieben"
+  }
+]
