@@ -1,0 +1,306 @@
+[
+  {
+    "question": "llamarse",
+    "answer": "heißen"
+  },
+  {
+    "question": "yo me llamo",
+    "answer": "ich heiße"
+  },
+  {
+    "question": "tú te llamas",
+    "answer": "du heißt"
+  },
+  {
+    "question": "él se llama",
+    "answer": "er heißt"
+  },
+  {
+    "question": "ella se llama",
+    "answer": "sie heißt"
+  },
+  {
+    "question": "eso se llama",
+    "answer": "es heißt"
+  },
+  {
+    "question": "nosotros nos llamamos",
+    "answer": "wir heißen"
+  },
+  {
+    "question": "vosotros os llamáis",
+    "answer": "ihr heißt"
+  },
+  {
+    "question": "ellos se llaman",
+    "answer": "sie heißen"
+  },
+  {
+    "question": "usted se llama",
+    "answer": "Sie heißen"
+  },
+  {
+    "question": "venir",
+    "answer": "kommen"
+  },
+  {
+    "question": "yo vengo",
+    "answer": "ich komme"
+  },
+  {
+    "question": "tú vienes",
+    "answer": "du kommst"
+  },
+  {
+    "question": "él viene",
+    "answer": "er kommt"
+  },
+  {
+    "question": "ella viene",
+    "answer": "sie kommt"
+  },
+  {
+    "question": "eso viene",
+    "answer": "es kommt"
+  },
+  {
+    "question": "nosotros venimos",
+    "answer": "wir kommen"
+  },
+  {
+    "question": "vosotros venís",
+    "answer": "ihr kommt"
+  },
+  {
+    "question": "ellos vienen",
+    "answer": "sie kommen"
+  },
+  {
+    "question": "usted viene",
+    "answer": "Sie kommen"
+  },
+  {
+    "question": "vivir (residir)",
+    "answer": "wohnen"
+  },
+  {
+    "question": "yo vivo",
+    "answer": "ich wohne"
+  },
+  {
+    "question": "tú vives",
+    "answer": "du wohnst"
+  },
+  {
+    "question": "él vive",
+    "answer": "er wohnt"
+  },
+  {
+    "question": "ella vive",
+    "answer": "sie wohnt"
+  },
+  {
+    "question": "eso vive",
+    "answer": "es wohnt"
+  },
+  {
+    "question": "nosotros vivimos",
+    "answer": "wir wohnen"
+  },
+  {
+    "question": "vosotros vivís",
+    "answer": "ihr wohnt"
+  },
+  {
+    "question": "ellos viven",
+    "answer": "sie wohnen"
+  },
+  {
+    "question": "usted vive",
+    "answer": "Sie wohnen"
+  },
+  {
+    "question": "ser / estar",
+    "answer": "sein"
+  },
+  {
+    "question": "yo soy / estoy",
+    "answer": "ich bin"
+  },
+  {
+    "question": "tú eres / estás",
+    "answer": "du bist"
+  },
+  {
+    "question": "él es / está",
+    "answer": "er ist"
+  },
+  {
+    "question": "ella es / está",
+    "answer": "sie ist"
+  },
+  {
+    "question": "eso es / está",
+    "answer": "es ist"
+  },
+  {
+    "question": "nosotros somos / estamos",
+    "answer": "wir sind"
+  },
+  {
+    "question": "vosotros sois / estáis",
+    "answer": "ihr seid"
+  },
+  {
+    "question": "ellos son / están",
+    "answer": "sie sind"
+  },
+  {
+    "question": "usted es / está",
+    "answer": "Sie sind"
+  },
+  {
+    "question": "viajar",
+    "answer": "reisen"
+  },
+  {
+    "question": "yo viajo",
+    "answer": "ich reise"
+  },
+  {
+    "question": "tú viajas",
+    "answer": "du reist"
+  },
+  {
+    "question": "él viaja",
+    "answer": "er reist"
+  },
+  {
+    "question": "ella viaja",
+    "answer": "sie reist"
+  },
+  {
+    "question": "eso viaja",
+    "answer": "es reist"
+  },
+  {
+    "question": "nosotros viajamos",
+    "answer": "wir reisen"
+  },
+  {
+    "question": "vosotros viajáis",
+    "answer": "ihr reist"
+  },
+  {
+    "question": "ellos viajan",
+    "answer": "sie reisen"
+  },
+  {
+    "question": "usted viaja",
+    "answer": "Sie reisen"
+  },
+  {
+    "question": "vivir (existir)",
+    "answer": "leben"
+  },
+  {
+    "question": "yo vivo",
+    "answer": "ich lebe"
+  },
+  {
+    "question": "tú vives",
+    "answer": "du lebst"
+  },
+  {
+    "question": "él vive",
+    "answer": "er lebt"
+  },
+  {
+    "question": "ella vive",
+    "answer": "sie lebt"
+  },
+  {
+    "question": "eso vive",
+    "answer": "es lebt"
+  },
+  {
+    "question": "nosotros vivimos",
+    "answer": "wir leben"
+  },
+  {
+    "question": "vosotros vivís",
+    "answer": "ihr lebt"
+  },
+  {
+    "question": "ellos viven",
+    "answer": "sie leben"
+  },
+  {
+    "question": "usted vive",
+    "answer": "Sie leben"
+  },
+  {
+    "question": "el padre",
+    "answer": "der Vater"
+  },
+  {
+    "question": "la madre",
+    "answer": "die Mutter"
+  },
+  {
+    "question": "los padres",
+    "answer": "die Eltern"
+  },
+  {
+    "question": "el hermano",
+    "answer": "der Bruder"
+  },
+  {
+    "question": "la hermana",
+    "answer": "die Schwester"
+  },
+  {
+    "question": "el hijo",
+    "answer": "der Sohn"
+  },
+  {
+    "question": "la hija",
+    "answer": "die Tochter"
+  },
+  {
+    "question": "el abuelo",
+    "answer": "der Großvater"
+  },
+  {
+    "question": "la abuela",
+    "answer": "die Großmutter"
+  },
+  {
+    "question": "los abuelos",
+    "answer": "die Großeltern"
+  },
+  {
+    "question": "el tío",
+    "answer": "der Onkel"
+  },
+  {
+    "question": "la tía",
+    "answer": "die Tante"
+  },
+  {
+    "question": "el esposo / el marido",
+    "answer": "der Mann"
+  },
+  {
+    "question": "la esposa / la mujer",
+    "answer": "die Frau"
+  },
+  {
+    "question": "el novio",
+    "answer": "der Freund"
+  },
+  {
+    "question": "la novia",
+    "answer": "die Freundin"
+  }
+]

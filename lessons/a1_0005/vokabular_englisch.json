@@ -1,0 +1,419 @@
+[
+  {
+    "question": "to be called",
+    "answer": "heißen"
+  },
+  {
+    "question": "I am called",
+    "answer": "ich heiße"
+  },
+  {
+    "question": "you are called",
+    "answer": "du heißt"
+  },
+  {
+    "question": "he is called",
+    "answer": "er heißt"
+  },
+  {
+    "question": "she is called",
+    "answer": "sie heißt"
+  },
+  {
+    "question": "it is called",
+    "answer": "es heißt"
+  },
+  {
+    "question": "we are called",
+    "answer": "wir heißen"
+  },
+  {
+    "question": "you (plural) are called",
+    "answer": "ihr heißt"
+  },
+  {
+    "question": "they are called",
+    "answer": "sie heißen"
+  },
+  {
+    "question": "you (formal) are called",
+    "answer": "Sie heißen"
+  },
+  {
+    "question": "to come",
+    "answer": "kommen"
+  },
+  {
+    "question": "I come",
+    "answer": "ich komme"
+  },
+  {
+    "question": "you come",
+    "answer": "du kommst"
+  },
+  {
+    "question": "he comes",
+    "answer": "er kommt"
+  },
+  {
+    "question": "she comes",
+    "answer": "sie kommt"
+  },
+  {
+    "question": "it comes",
+    "answer": "es kommt"
+  },
+  {
+    "question": "we come",
+    "answer": "wir kommen"
+  },
+  {
+    "question": "you (plural) come",
+    "answer": "ihr kommt"
+  },
+  {
+    "question": "they come",
+    "answer": "sie kommen"
+  },
+  {
+    "question": "you (formal) come",
+    "answer": "Sie kommen"
+  },
+  {
+    "question": "to live (reside)",
+    "answer": "wohnen"
+  },
+  {
+    "question": "I live",
+    "answer": "ich wohne"
+  },
+  {
+    "question": "you live",
+    "answer": "du wohnst"
+  },
+  {
+    "question": "he lives",
+    "answer": "er wohnt"
+  },
+  {
+    "question": "she lives",
+    "answer": "sie wohnt"
+  },
+  {
+    "question": "it lives",
+    "answer": "es wohnt"
+  },
+  {
+    "question": "we live",
+    "answer": "wir wohnen"
+  },
+  {
+    "question": "you (plural) live",
+    "answer": "ihr wohnt"
+  },
+  {
+    "question": "they live",
+    "answer": "sie wohnen"
+  },
+  {
+    "question": "you (formal) live",
+    "answer": "Sie wohnen"
+  },
+  {
+    "question": "to be",
+    "answer": "sein"
+  },
+  {
+    "question": "I am",
+    "answer": "ich bin"
+  },
+  {
+    "question": "you are",
+    "answer": "du bist"
+  },
+  {
+    "question": "he is",
+    "answer": "er ist"
+  },
+  {
+    "question": "she is",
+    "answer": "sie ist"
+  },
+  {
+    "question": "it is",
+    "answer": "es ist"
+  },
+  {
+    "question": "we are",
+    "answer": "wir sind"
+  },
+  {
+    "question": "you (plural) are",
+    "answer": "ihr seid"
+  },
+  {
+    "question": "they are",
+    "answer": "sie sind"
+  },
+  {
+    "question": "you (formal) are",
+    "answer": "Sie sind"
+  },
+  {
+    "question": "to travel",
+    "answer": "reisen"
+  },
+  {
+    "question": "I travel",
+    "answer": "ich reise"
+  },
+  {
+    "question": "you travel",
+    "answer": "du reist"
+  },
+  {
+    "question": "he travels",
+    "answer": "er reist"
+  },
+  {
+    "question": "she travels",
+    "answer": "sie reist"
+  },
+  {
+    "question": "it travels",
+    "answer": "es reist"
+  },
+  {
+    "question": "we travel",
+    "answer": "wir reisen"
+  },
+  {
+    "question": "you (plural) travel",
+    "answer": "ihr reist"
+  },
+  {
+    "question": "they travel",
+    "answer": "sie reisen"
+  },
+  {
+    "question": "you (formal) travel",
+    "answer": "Sie reisen"
+  },
+  {
+    "question": "to live (exist)",
+    "answer": "leben"
+  },
+  {
+    "question": "I live (exist)",
+    "answer": "ich lebe"
+  },
+  {
+    "question": "you live (exist)",
+    "answer": "du lebst"
+  },
+  {
+    "question": "he lives (exist)",
+    "answer": "er lebt"
+  },
+  {
+    "question": "she lives (exist)",
+    "answer": "sie lebt"
+  },
+  {
+    "question": "it lives (exist)",
+    "answer": "es lebt"
+  },
+  {
+    "question": "we live (exist)",
+    "answer": "wir leben"
+  },
+  {
+    "question": "you (plural) live (exist)",
+    "answer": "ihr lebt"
+  },
+  {
+    "question": "they live (exist)",
+    "answer": "sie leben"
+  },
+  {
+    "question": "you (formal) live (exist)",
+    "answer": "Sie leben"
+  },
+  {
+    "question": "person",
+    "answer": "die Person"
+  },
+  {
+    "question": "family",
+    "answer": "die Familie"
+  },
+  {
+    "question": "profession",
+    "answer": "der Beruf"
+  },
+  {
+    "question": "teacher (female)",
+    "answer": "die Lehrerin"
+  },
+  {
+    "question": "man / husband",
+    "answer": "der Mann"
+  },
+  {
+    "question": "daughter",
+    "answer": "die Tochter"
+  },
+  {
+    "question": "son",
+    "answer": "der Sohn"
+  },
+  {
+    "question": "parents",
+    "answer": "die Eltern"
+  },
+  {
+    "question": "name",
+    "answer": "der Name"
+  },
+  {
+    "question": "cook / chef",
+    "answer": "der Koch"
+  },
+  {
+    "question": "wife / woman",
+    "answer": "die Frau"
+  },
+  {
+    "question": "doctor (male)",
+    "answer": "der Arzt"
+  },
+  {
+    "question": "doctor (female)",
+    "answer": "die Ärztin"
+  },
+  {
+    "question": "student (male)",
+    "answer": "der Student"
+  },
+  {
+    "question": "student (female)",
+    "answer": "die Studentin"
+  },
+  {
+    "question": "brother",
+    "answer": "der Bruder"
+  },
+  {
+    "question": "salesperson",
+    "answer": "der Verkäufer"
+  },
+  {
+    "question": "grandparents",
+    "answer": "die Großeltern"
+  },
+  {
+    "question": "grandmother",
+    "answer": "die Großmutter"
+  },
+  {
+    "question": "sister",
+    "answer": "die Schwester"
+  },
+  {
+    "question": "dog",
+    "answer": "der Hund"
+  },
+  {
+    "question": "boyfriend / friend (male)",
+    "answer": "der Freund"
+  },
+  {
+    "question": "programmer (female)",
+    "answer": "die Programmiererin"
+  },
+  {
+    "question": "programmer (male)",
+    "answer": "der Programmierer"
+  },
+  {
+    "question": "aunt",
+    "answer": "die Tante"
+  },
+  {
+    "question": "uncle",
+    "answer": "der Onkel"
+  },
+  {
+    "question": "country",
+    "answer": "das Land"
+  },
+  {
+    "question": "city",
+    "answer": "die Stadt"
+  },
+  {
+    "question": "the father",
+    "answer": "der Vater"
+  },
+  {
+    "question": "the mother",
+    "answer": "die Mutter"
+  },
+  {
+    "question": "the parents",
+    "answer": "die Eltern"
+  },
+  {
+    "question": "the brother",
+    "answer": "der Bruder"
+  },
+  {
+    "question": "the sister",
+    "answer": "die Schwester"
+  },
+  {
+    "question": "the son",
+    "answer": "der Sohn"
+  },
+  {
+    "question": "the daughter",
+    "answer": "die Tochter"
+  },
+  {
+    "question": "the grandfather",
+    "answer": "der Großvater"
+  },
+  {
+    "question": "the grandmother",
+    "answer": "die Großmutter"
+  },
+  {
+    "question": "the grandparents",
+    "answer": "die Großeltern"
+  },
+  {
+    "question": "the uncle",
+    "answer": "der Onkel"
+  },
+  {
+    "question": "the aunt",
+    "answer": "die Tante"
+  },
+  {
+    "question": "the husband",
+    "answer": "der Mann"
+  },
+  {
+    "question": "the wife",
+    "answer": "die Frau"
+  },
+  {
+    "question": "the boyfriend",
+    "answer": "der Freund"
+  },
+  {
+    "question": "the girlfriend",
+    "answer": "die Freundin"
+  }
+]
+
