@@ -1,0 +1,14 @@
+{    "Personendaten":[
+        "der Name",
+        "der Vorname",
+        "der Nachname",
+        "das Geburtsdatum",
+        "der Geburtsort",
+        "die Adresse",
+        "die Telefonnummer",
+        "die E-Mail-Adresse",
+        "die Nationalität",
+        "der Beruf",
+        "das Geschlecht"
+]
+}

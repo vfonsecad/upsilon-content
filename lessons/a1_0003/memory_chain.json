@@ -1,0 +1,29 @@
+{ "Tage": [
+        "am Montag",
+        "am Dienstag",
+        "am Mittwoch",
+        "am Donnerstag",
+        "am Freitag",
+        "am Samstag",
+        "am Sonntag"
+    ],
+  "Monate": [
+        "im Jänner",
+        "im Februar",
+        "im März",
+        "im April",
+        "im Mai",
+        "im Juni",
+        "im Juli",
+        "im August",
+        "im September",
+        "im Oktober",
+        "im November",
+        "im Dezember"
+    ],
+    "Jahreszeiten":[
+        "im Frühling",
+        "im Sommer",
+        "im Herbst",
+        "im Winter"]
+}
