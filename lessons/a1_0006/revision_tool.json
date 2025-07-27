@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Woher kommt Lena?",
+    "answer": "Lena kommt aus Georgien."
+  },
+  {
+    "question": "Wie alt ist Lena?",
+    "answer": "Lena ist 40 Jahre alt."
+  },
+  {
+    "question": "Wo wohnt Lena?",
+    "answer": "Lena wohnt in Tbilisi."
+  },
+  {
+    "question": "Wie viele Geschwister hat Lena?",
+    "answer": "Lena hat drei Geschwister."
+  },
+  {
+    "question": "Wie heißen die Eltern von Lena? (Ihr)",
+    "answer": "Ihre Eltern heißen Petra und Lar."
+  },
+  {
+    "question": "Wie alt sind die Eltern von Lena?",
+    "answer": "Sie sind 70 Jahre alt."
+  },
+  {
+    "question": "Wo wohnen die Eltern von Lena?",
+    "answer": "Sie wohnen in der Türkei."
+  },
+  {
+    "question": "Wie heißen die Geschwister von Lena?",
+    "answer": "Sie heißen Al, Mara und Tali."
+  },
+  {
+    "question": "Wie alt ist Al?",
+    "answer": "Al ist 20 Jahre alt."
+  },
+  {
+    "question": "Wo wohnt Mara?",
+    "answer": "Sie wohnt in der Türkei."
+  },
+  {
+    "question": "Wie heißt der Hund von Lena?",
+    "answer": "Er heißt Max."
+  },
+  {
+    "question": "Was machen Lena und Max am Wochenende?",
+    "answer": "Sie laufen und spielen"
+  },
+  {
+    "question": "Wann reisen Lena und Max zusammen?",
+    "answer": "Sie reisen im Sommer zusammen."
+  },
+  {
+    "question": "Was kauft Lena am Wochenende?",
+    "answer": "Obst und Gemüse"
+  },
+  {
+    "question": "Was trinkt Max immer?",
+    "answer": "Wasser"
+  },
+  {"question": "Was hat Lena? (Hund)",
+    "answer": "Einen Hund"},
+    
+{"question": "Was hat Lena? (Geschwister)",
+    "answer": "Drei Geschwister"}
+]
