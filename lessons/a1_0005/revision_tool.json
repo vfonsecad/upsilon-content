@@ -1,82 +1,168 @@
+// [
+//   {
+//     "question": "Wie heißt die Frau aus Berlin?",
+//     "answer": "Anna"
+//   },
+//   {
+//     "question": "Wo wohnt Anna?",
+//     "answer": "In Berlin"
+//   },
+//   {
+//     "question": "Was ist der Beruf von Anna?",
+//     "answer": "Lehrerin"
+//   },
+//   {
+//     "question": "Wie alt ist die Tochter von Anna?",
+//     "answer": "5 Jahre alt"
+//   },
+//   {
+//     "question": "Wie heißt der Mann von Anna?",
+//     "answer": "Max"
+//   },
+//   {
+//     "question": "Woher kommt Leo?",
+//     "answer": "Aus Italien"
+//   },
+//   {
+//     "question": "Was ist der Beruf von Leo?",
+//     "answer": "Koch"
+//   },
+//   {
+//     "question": "Wie alt ist der Sohn von Leo?",
+//     "answer": "15 Jahre alt"
+//   },
+//   {
+//     "question": "Wie heißt die Frau von Leo?",
+//     "answer": "Sofia"
+//   },
+//   {
+//     "question": "Wo wohnt Maria?",
+//     "answer": "In Wien"
+//   },
+//   {
+//     "question": "Was ist der Beruf von Maria?",
+//     "answer": "Studentin"
+//   },
+//   {
+//     "question": "Wie alt ist der Bruder von Maria?",
+//     "answer": "25 Jahre alt"
+//   },
+//   {
+//     "question": "Wo wohnen die Eltern von Maria?",
+//     "answer": "In Graz"
+//   },
+//   {
+//     "question": "Woher kommt die Großmutter von Maria?",
+//     "answer": "Aus Mexiko"
+//   },
+//   {
+//     "question": "Wie alt ist David?",
+//     "answer": "38 Jahre alt"
+//   },
+//   {
+//     "question": "Was ist der Beruf von David?",
+//     "answer": "Architekt"
+//   },
+//   {
+//     "question": "Wie heißt der Hund von David?",
+//     "answer": "Bello"
+//   },
+//   {
+//     "question": "Wo wohnt Lena?",
+//     "answer": "In Warschau"
+//   },
+//   {
+//     "question": "Wie alt ist der Freund von Lena?",
+//     "answer": "30 Jahre alt"
+//   },
+//   {
+//     "question": "Sind Lena und der Freund von Lena verheiratet?",
+//     "answer": "Nein"
+//   }
+// ]
 [
   {
-    "question": "Wie heißt die Frau aus Berlin?",
-    "answer": "Anna"
+    "question": "Anna ___ aus Deutschland.",
+    "answer": "kommt"
   },
   {
-    "question": "Wo wohnt Anna?",
-    "answer": "In Berlin"
+    "question": "(Anna)___ ___ ist Lehrerin.",
+    "answer": "Ihr Beruf"
   },
   {
-    "question": "Was ist der Beruf von Anna?",
-    "answer": "Lehrerin"
+    "question": "(Anna) ___ ___ heißt Max.",
+    "answer": "Ihr Mann"
   },
   {
-    "question": "Wie alt ist die Tochter von Anna?",
-    "answer": "5 Jahre alt"
+    "question": "(Anna) ___ ___ heißt Mia.",
+    "answer": "Ihre Tochter"
   },
   {
-    "question": "Wie heißt der Mann von Anna?",
-    "answer": "Max"
+    "question": "Leo ___ in Rom.",
+    "answer": "wohnt"
   },
   {
-    "question": "Woher kommt Leo?",
-    "answer": "Aus Italien"
+    "question": "(Leo) ___ ___ heißt Sofia.",
+    "answer": "Seine Frau"
   },
   {
-    "question": "Was ist der Beruf von Leo?",
-    "answer": "Koch"
+    "question": "(Leo) ___ ___ heißt Marco.",
+    "answer": "Sein Sohn"
   },
   {
-    "question": "Wie alt ist der Sohn von Leo?",
-    "answer": "15 Jahre alt"
+    "question": "Leo ___ Koch.",
+    "answer": "ist"
   },
   {
-    "question": "Wie heißt die Frau von Leo?",
-    "answer": "Sofia"
+    "question": "Maria ___ Studentin.",
+    "answer": "ist"
   },
   {
-    "question": "Wo wohnt Maria?",
-    "answer": "In Wien"
+    "question": "(Maria) ___ ___ heißt Lukas.",
+    "answer": "Ihr Bruder"
   },
   {
-    "question": "Was ist der Beruf von Maria?",
-    "answer": "Studentin"
+    "question": "(Maria) ___ ___ sind 70 Jahre alt.",
+    "answer": "Ihre Großeltern"
   },
   {
-    "question": "Wie alt ist der Bruder von Maria?",
-    "answer": "25 Jahre alt"
+    "question": "(Maria) ___ ___ heißt Cristina.",
+    "answer": "Ihre Großmutter"
   },
   {
-    "question": "Wo wohnen die Eltern von Maria?",
-    "answer": "In Graz"
+    "question": "David ___ aus der Schweiz.",
+    "answer": "kommt"
   },
   {
-    "question": "Woher kommt die Großmutter von Maria?",
-    "answer": "Aus Mexiko"
+    "question": "(David) ___ ___ wohnt in Bern.",
+    "answer": "Seine Schwester"
   },
   {
-    "question": "Wie alt ist David?",
-    "answer": "38 Jahre alt"
+    "question": "(David) ___ ___ leben in Deutschland.",
+    "answer": "Seine Eltern"
   },
   {
-    "question": "Was ist der Beruf von David?",
-    "answer": "Architekt"
+    "question": "(David) ___ ___ heißt Bello.",
+    "answer": "Sein Hund"
   },
   {
-    "question": "Wie heißt der Hund von David?",
-    "answer": "Bello"
+    "question": "Lena ___ in Warschau.",
+    "answer": "wohnt"
   },
   {
-    "question": "Wo wohnt Lena?",
-    "answer": "In Warschau"
+    "question": "(Lena) ___ ___ heißt Jan.",
+    "answer": "Ihr Freund"
   },
   {
-    "question": "Wie alt ist der Freund von Lena?",
-    "answer": "30 Jahre alt"
+    "question": "(Lena) ___ ___ wohnen in Österreich.",
+    "answer": "Ihre Großeltern"
   },
   {
-    "question": "Sind Lena und der Freund von Lena verheiratet?",
-    "answer": "Nein"
+    "question": "(Lena) ___ ___ heißt Maria.",
+    "answer": "Ihre Tante"
+  },
+  {
+    "question": "(Lena) ___ ___ heißt Peter.",
+    "answer": "Ihr Onkel"
   }
 ]
