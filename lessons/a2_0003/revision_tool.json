@@ -1,62 +1,82 @@
 [
   {
-    "question": "Was ist Wien?",
-    "answer": "Wien ist die Hauptstadt von Österreich"
+    "question": "Schönbrunn / Stephansdom / gehört / Leute / haben / Viele / und / vom",
+    "answer": "Viele Leute haben vom Stephansdom und Schönbrunn gehört."
   },
   {
-    "question": "Wo liegt der Stephansdom?",
-    "answer": "Der Stephansdom liegt im Zentrum"
+    "question": "Stephansdom / Zentrum / Der / im / liegt",
+    "answer": "Der Stephansdom liegt im Zentrum."
   },
   {
-    "question": "Wo liegt Schönbrunn?",
-    "answer": "Schönbrunn liegt im Westen"
+    "question": "Westen / im / Schönbrunn / liegt",
+    "answer": "Schönbrunn liegt im Westen."
   },
   {
-    "question": "Mit welcher U-Bahn-Linie kann man den Stephansdom erreichen?",
-    "answer": "Man kann den Stephansdom mit der Linie U1 oder U3 erreichen"
+    "question": "Linie / oder / Man / der / kann / den / U1 / mit / Stephansdom / U3 / erreichen",
+    "answer": "Man kann den Stephansdom mit der Linie U1 oder U3 erreichen."
   },
   {
-    "question": "Sind die Tickets für den Stephansdom und Schönbrunn kostenlos?",
-    "answer": "Leider nicht, aber es gibt freie Teile"
+    "question": "kann / besuchen / Museen / Man / viele",
+    "answer": "Man kann viele Museen besuchen."
   },
   {
-    "question": "Was ist ein sehr bekanntes Gericht in Wien?",
-    "answer": "Wiener Schnitzel ist sehr bekannt"
+    "question": "Zum / Beispiel / Kunsthistorische / das / gibt / es / Museum",
+    "answer": "Zum Beispiel gibt es das Kunsthistorische Museum."
   },
   {
-    "question": "Wie ist die Sacher Torte?",
-    "answer": "Sie ist süß und lecker"
+    "question": "auch / die / kann / Man / besichtigen / Albertina",
+    "answer": "Man kann auch die Albertina besichtigen."
   },
   {
-    "question": "Was trinken viele Leute gern in Wien?",
-    "answer": "Viele Leute trinken gern Kaffee in einem Kaffeehaus"
+    "question": "kann / essen / Schnitzel / Wiener / man / In / Wien",
+    "answer": "In Wien kann man Wiener Schnitzel essen."
   },
   {
-    "question": "Was kann man im Sommer an der Donau machen?",
-    "answer": "Man kann an der Donau spazieren gehen oder schwimmen"
+    "question": "trinken / gern / Leute / Kaffee / Viele / auch",
+    "answer": "Viele Leute trinken auch gern Kaffee in einem Wiener Kaffeehaus."
   },
   {
-    "question": "Was kann man im Winter in Wien trinken?",
-    "answer": "Man kann Punsch trinken"
+    "question": "kann / Riesenrad / Sommer / fahren / im / man / Prater / Im",
+    "answer": "Im Sommer kann man im Prater Riesenrad fahren."
   },
   {
-    "question": "Welche drei Städte kann man von Wien aus leicht erreichen?",
-    "answer": "Man kann Bratislava, Budapest und Prag erreichen"
+    "question": "gehen / Donau / an / kann / Man / der / spazieren / auch",
+    "answer": "Man kann auch an der Donau spazieren gehen."
   },
   {
-    "question": "Was brauchen Hunde in öffentlichen Verkehrsmitteln in Wien?",
-    "answer": "Hunde brauchen einen Maulkorb und ein Ticket"
+    "question": "besuchen / kann / Weihnachtsmärkte / man / Winter / Im",
+    "answer": "Im Winter kann man Weihnachtsmärkte besuchen."
   },
   {
-    "question": "Welche Art von Musik hört man viel in Wien?",
-    "answer": "Man hört viel klassische Musik"
+    "question": "laufen / Man / kann / Schlittschuh / auch",
+    "answer": "Man kann auch Schlittschuh laufen."
   },
   {
-    "question": "Welche berühmten Komponisten haben in Wien gelebt?",
-    "answer": "Wolfgang Amadeus Mozart und Johann Strauss haben hier gelebt"
+    "question": "leicht / Wien / Bratislava / Von / erreichen / man / kann",
+    "answer": "Von Wien kann man Bratislava leicht erreichen."
   },
   {
-    "question": "Welche Tanzform ist sehr wichtig in Wien?",
-    "answer": "Der Walzer ist sehr wichtig in Wien"
+    "question": "nach / kann / Budapest / Man / fahren / Prag / oder",
+    "answer": "Man kann nach Budapest oder Prag fahren."
+  },
+  {
+    "question": "öffentliches / sehr / Wien / hat / Netz / gutes / ein",
+    "answer": "Wien hat ein sehr gutes öffentliches Netz."
+  },
+  {
+    "question": "U-Bahn / mit / Man / fahren / kann / der",
+    "answer": "Man kann mit der U-Bahn fahren."
+  },
+  {
+    "question": "in / Parks / Hunde / viele / Man / sieht",
+    "answer": "Man sieht viele Hunde in Parks."
+  },
+  {
+    "question": "viel / klassische / hört / Wien / Musik / man / In",
+    "answer": "In Wien hört man viel klassische Musik."
+  },
+  {
+    "question": "Konzerte / besuchen / kann / Man",
+    "answer": "Man kann Konzerte besuchen."
   }
 ]

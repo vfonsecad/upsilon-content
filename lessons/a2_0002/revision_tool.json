@@ -1,62 +1,82 @@
 [
   {
-    "question": "Was macht man in Deutschland oft am Morgen?",
-    "answer": "Man steht oft früh auf"
+    "question": "ist / Frau / junge / eine / Anna",
+    "answer": "Anna ist eine junge Frau."
   },
   {
-    "question": "Was isst man in Deutschland schnell?",
-    "answer": "Man isst das Frühstück schnell"
+    "question": "gern / Länder / neue / sieht / sie / und / reist",
+    "answer": "Sie reist gern und sieht gern neue Länder."
   },
   {
-    "question": "Was machen die Menschen in Deutschland den ganzen Tag?",
-    "answer": "Die Menschen arbeiten den ganzen Tag"
+    "question": "aus / Deutschland / sie / kommt",
+    "answer": "Sie kommt aus Deutschland."
   },
   {
-    "question": "Wohin ist Anna zuerst gereist?",
-    "answer": "Anna ist zuerst nach Italien gereist"
+    "question": "hat / gelernt / sie / viel",
+    "answer": "Sie hat viel gelernt."
   },
   {
-    "question": "Wann isst Anna in Deutschland mit ihrer Familie zu Abend?",
-    "answer": "Anna isst mit ihrer Familie oft um 18 Uhr zu Abend"
+    "question": "Italien / sie / ist / gereist / nach",
+    "answer": "Sie ist nach Italien gereist."
   },
   {
-    "question": "Was hat Anna in Italien gesehen, dass die Leute viel später machen?",
-    "answer": "Anna hat gesehen, dass die Leute viel später essen"
+    "question": "später / essen / die Leute / viel",
+    "answer": "Die Leute essen viel später."
   },
   {
-    "question": "Wann hat Anna oft in Italien gegessen?",
-    "answer": "Anna hat oft erst um 20 Uhr oder 21 Uhr gegessen"
+    "question": "oft / um / gegessen / sie / 21 Uhr / hat",
+    "answer": "Sie hat oft um 21 Uhr gegessen."
   },
   {
-    "question": "Was haben die Familien in Italien viel zusammen gemacht?",
-    "answer": "Die Familien in Italien haben viel Zeit zusammen verbracht"
+    "question": "Japan / sie / ist / geflogen / nach",
+    "answer": "Sie ist nach Japan geflogen."
   },
   {
-    "question": "Wie haben die Familien in Italien oft gesprochen?",
-    "answer": "Sie haben oft laut gesprochen und viel gelacht"
+    "question": "die Menschen / höflich / sehr / waren",
+    "answer": "Die Menschen waren sehr höflich."
   },
   {
-    "question": "Wie sind die Züge in Japan?",
-    "answer": "Die Züge in Japan sind meistens pünktlich"
+    "question": "Japan / in / gelernt / hat / sie",
+    "answer": "In Japan hat sie gelernt."
   },
   {
-    "question": "Wie ist die Kommunikation in Deutschland und in Japan?",
-    "answer": "In Deutschland ist die Kommunikation direkt. In Japan kann die Kommunikation sehr indirekt sein"
+    "question": "Kommunikation / sehr / indirekt / ist / die",
+    "answer": "Die Kommunikation ist sehr indirekt."
   },
   {
-    "question": "Was sagt die beste Freundin von Anna immer direkt?",
-    "answer": "Was sie denkt"
+    "question": "Spanien / hat / sie / besucht",
+    "answer": "Sie hat Spanien besucht."
   },
   {
-    "question": "Wohin ist Anna zuletzt gereist?",
-    "answer": "Anna ist zuletzt nach Spanien gereist"
+    "question": "Geschäfte / Mittag / geschlossen / haben / die",
+    "answer": "Die Geschäfte haben Mittag geschlossen."
   },
   {
-    "question": "Was machen die Geschäfte in Deutschland morgens und abends?",
-    "answer": "Die Geschäfte in Deutschland öffnen morgens und schließen abends"
+    "question": "oft / eine / gemacht / die Leute / Siesta / haben",
+    "answer": "Die Leute haben oft eine Siesta gemacht."
   },
   {
-    "question": "Was haben die Leute in Spanien mittags oft gemacht?",
-    "answer": "Die Leute haben oft eine Siesta gemacht"
+    "question": "essen / die / spät / Spanier / sehr",
+    "answer": "Die Spanier essen sehr spät."
+  },
+  {
+    "question": "geht / früher / man / ins Bett / oft",
+    "answer": "Man geht oft früher ins Bett."
+  },
+  {
+    "question": "haben / draußen / die Leute / gesessen",
+    "answer": "Die Leute haben draußen gesessen."
+  },
+  {
+    "question": "Reisen / viele / Unterschiede / entdeckt / sie / hat / auf / ihren",
+    "answer": "Sie hat auf ihren Reisen viele Unterschiede entdeckt."
+  },
+  {
+    "question": "sie / die / Kulturen / gefunden / hat / interessant",
+    "answer": "Sie hat die Kulturen interessant gefunden."
+  },
+  {
+    "question": "über / Menschen / gelernt / sie / die / hat / und / Welt / viel",
+    "answer": "Sie hat viel über die Welt und die Menschen gelernt."
   }
 ]
