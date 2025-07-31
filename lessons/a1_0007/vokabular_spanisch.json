@@ -1,0 +1,266 @@
+[
+  {
+    "question": "el almuerzo",
+    "answer": "das Mittagessen"
+  },
+  {
+    "question": "el pastel / la torta",
+    "answer": "der Kuchen"
+  },
+  {
+    "question": "la semana laboral",
+    "answer": "die Arbeitswoche"
+  },
+  {
+    "question": "los colegas",
+    "answer": "die Kollegen"
+  },
+  {
+    "question": "la bebida",
+    "answer": "das Getränk"
+  },
+  {
+    "question": "la tarjeta",
+    "answer": "die Karte"
+  },
+  {
+    "question": "el juego de mesa",
+    "answer": "das Brettspiel"
+  },
+  {
+    "question": "la actividad",
+    "answer": "die Aktivität"
+  },
+  {
+    "question": "España",
+    "answer": "Spanien"
+  },
+  {
+    "question": "Italia",
+    "answer": "Italien"
+  },
+  {
+    "question": "Austria",
+    "answer": "Österreich"
+  },
+  {
+    "question": "Francia",
+    "answer": "Frankreich"
+  },
+  {
+    "question": "la navidad",
+    "answer": "das Weihnachten"
+  },
+  {
+    "question": "la fiesta",
+    "answer": "die Party"
+  },
+  {
+    "question": "el plato / el platillo",
+    "answer": "das Gericht"
+  },
+  {
+    "question": "la carne",
+    "answer": "das Fleisch"
+  },
+  {
+    "question": "el pollo",
+    "answer": "das Huhn"
+  },
+  {
+    "question": "la carne de res",
+    "answer": "das Rindfleisch"
+  },
+  {
+    "question": "el queso",
+    "answer": "der Käse"
+  },
+  {
+    "question": "la verdura",
+    "answer": "das Gemüse"
+  },
+  {
+    "question": "la cebolla",
+    "answer": "die Zwiebel"
+  },
+  {
+    "question": "la zanahoria",
+    "answer": "die Karotte"
+  },
+  {
+    "question": "la patata",
+    "answer": "der Erdapfel"
+  },
+  {
+    "question": "el tomate",
+    "answer": "der Paradeiser"
+  },
+  {
+    "question": "el pimiento",
+    "answer": "der Paprika"
+  },
+  {
+    "question": "la espinaca",
+    "answer": "der Spinat"
+  },
+  {
+    "question": "el horno",
+    "answer": "der Ofen"
+  },
+  {
+    "question": "la sartén",
+    "answer": "die Pfanne"
+  },
+  {
+    "question": "la receta",
+    "answer": "das Rezept"
+  },
+  {
+    "question": "la calabaza",
+    "answer": "der Kürbis"
+  },
+  {
+    "question": "el pepino",
+    "answer": "die Gurke"
+  },
+  {
+    "question": "la berenjena",
+    "answer": "die Aubergine"
+  },
+  {
+    "question": "el calabacín",
+    "answer": "die Zucchini"
+  },
+  {
+    "question": "el brócoli",
+    "answer": "der Brokkoli"
+  },
+  {
+    "question": "la col",
+    "answer": "der Kohl"
+  },
+  {
+    "question": "la especia",
+    "answer": "das Gewürz"
+  },
+  {
+    "question": "el aceite",
+    "answer": "das Öl"
+  },
+  {
+    "question": "la sal",
+    "answer": "das Salz"
+  },
+  {
+    "question": "la pimienta",
+    "answer": "der Pfeffer"
+  },
+  {
+    "question": "el ajo",
+    "answer": "der Knoblauch"
+  },
+  {
+    "question": "la ensalada",
+    "answer": "der Salat"
+  },
+  {
+    "question": "el vino",
+    "answer": "der Wein"
+  },
+  {
+    "question": "la cerveza",
+    "answer": "das Bier"
+  },
+  {
+    "question": "el zumo de fruta",
+    "answer": "der Obstsaft"
+  },
+  {
+    "question": "la botella",
+    "answer": "die Flasche"
+  },
+  {
+    "question": "el país",
+    "answer": "das Land"
+  },
+  {
+    "question": "cocinar",
+    "answer": "kochen"
+  },
+  {
+    "question": "hornear",
+    "answer": "backen"
+  },
+  {
+    "question": "celebrar",
+    "answer": "feiern"
+  },
+  {
+    "question": "comprar",
+    "answer": "kaufen"
+  },
+  {
+    "question": "jugar",
+    "answer": "spielen"
+  },
+  {
+    "question": "tener",
+    "answer": "haben"
+  },
+  {
+    "question": "venir",
+    "answer": "kommen"
+  },
+  {
+    "question": "trabajar",
+    "answer": "arbeiten"
+  },
+  {
+    "question": "hacer",
+    "answer": "machen"
+  },
+  {
+    "question": "ser/estar",
+    "answer": "sein"
+  },
+  {
+    "question": "gustar",
+    "answer": "mögen"
+  },
+  {
+    "question": "cortar",
+    "answer": "schneiden"
+  },
+  {
+    "question": "freír/asar",
+    "answer": "braten"
+  },
+  {
+    "question": "asar a la parrilla",
+    "answer": "grillen"
+  },
+  {
+    "question": "comer",
+    "answer": "essen"
+  },
+  {
+    "question": "beber",
+    "answer": "trinken"
+  },
+  {
+    "question": "georgiano",
+    "answer": "georgisch"
+  },
+  {
+    "question": "europeo",
+    "answer": "europäisch"
+  },
+  {
+    "question": "caro",
+    "answer": "teuer"
+  },
+  {
+    "question": "delicioso",
+    "answer": "lecker"
+  }
+]
