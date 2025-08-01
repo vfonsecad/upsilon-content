@@ -12,8 +12,8 @@
     "answer": "Lena wohnt in Tbilisi."
   },
   {
-    "question": "Wie viele Geschwister hat Lena?",
-    "answer": "Lena hat drei Geschwister."
+    "question": "Lena hat drei ___",
+    "answer": "Geschwister."
   },
   {
     "question": "Wie heißen die Eltern von Lena? (Ihr)",

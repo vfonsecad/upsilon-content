@@ -1,0 +1,388 @@
+{
+  "conjugation_drills": [
+    {
+      "question": "ich / kochen",
+      "answer": "ich koche"
+    },
+    {
+      "question": "du / kochen",
+      "answer": "du kochst"
+    },
+    {
+      "question": "er/sie/es / kochen",
+      "answer": "er/sie/es kocht"
+    },
+    {
+      "question": "wir / kochen",
+      "answer": "wir kochen"
+    },
+    {
+      "question": "ihr / kochen",
+      "answer": "ihr kocht"
+    },
+    {
+      "question": "sie/Sie / kochen",
+      "answer": "sie/Sie kochen"
+    },
+    {
+      "question": "ich / backen",
+      "answer": "ich backe"
+    },
+    {
+      "question": "du / backen",
+      "answer": "du bäckst"
+    },
+    {
+      "question": "er/sie/es / backen",
+      "answer": "er/sie/es bäckt"
+    },
+    {
+      "question": "wir / backen",
+      "answer": "wir backen"
+    },
+    {
+      "question": "ihr / backen",
+      "answer": "ihr backt"
+    },
+    {
+      "question": "sie/Sie / backen",
+      "answer": "sie/Sie backen"
+    },
+    {
+      "question": "ich / feiern",
+      "answer": "ich feiere"
+    },
+    {
+      "question": "du / feiern",
+      "answer": "du feierst"
+    },
+    {
+      "question": "er/sie/es / feiern",
+      "answer": "er/sie/es feiert"
+    },
+    {
+      "question": "wir / feiern",
+      "answer": "wir feiern"
+    },
+    {
+      "question": "ihr / feiern",
+      "answer": "ihr feiert"
+    },
+    {
+      "question": "sie/Sie / feiern",
+      "answer": "sie/Sie feiern"
+    },
+    {
+      "question": "ich / kaufen",
+      "answer": "ich kaufe"
+    },
+    {
+      "question": "du / kaufen",
+      "answer": "du kaufst"
+    },
+    {
+      "question": "er/sie/es / kaufen",
+      "answer": "er/sie/es kauft"
+    },
+    {
+      "question": "wir / kaufen",
+      "answer": "wir kaufen"
+    },
+    {
+      "question": "ihr / kaufen",
+      "answer": "ihr kauft"
+    },
+    {
+      "question": "sie/Sie / kaufen",
+      "answer": "sie/Sie kaufen"
+    },
+    {
+      "question": "ich / spielen",
+      "answer": "ich spiele"
+    },
+    {
+      "question": "du / spielen",
+      "answer": "du spielst"
+    },
+    {
+      "question": "er/sie/es / spielen",
+      "answer": "er/sie/es spielt"
+    },
+    {
+      "question": "wir / spielen",
+      "answer": "wir spielen"
+    },
+    {
+      "question": "ihr / spielen",
+      "answer": "ihr spielt"
+    },
+    {
+      "question": "sie/Sie / spielen",
+      "answer": "sie/Sie spielen"
+    },
+    {
+      "question": "ich / haben",
+      "answer": "ich habe"
+    },
+    {
+      "question": "du / haben",
+      "answer": "du hast"
+    },
+    {
+      "question": "er/sie/es / haben",
+      "answer": "er/sie/es hat"
+    },
+    {
+      "question": "wir / haben",
+      "answer": "wir haben"
+    },
+    {
+      "question": "ihr / haben",
+      "answer": "ihr habt"
+    },
+    {
+      "question": "sie/Sie / haben",
+      "answer": "sie/Sie haben"
+    },
+    {
+      "question": "ich / kommen",
+      "answer": "ich komme"
+    },
+    {
+      "question": "du / kommen",
+      "answer": "du kommst"
+    },
+    {
+      "question": "er/sie/es / kommen",
+      "answer": "er/sie/es kommt"
+    },
+    {
+      "question": "wir / kommen",
+      "answer": "wir kommen"
+    },
+    {
+      "question": "ihr / kommen",
+      "answer": "ihr kommt"
+    },
+    {
+      "question": "sie/Sie / kommen",
+      "answer": "sie/Sie kommen"
+    },
+    {
+      "question": "ich / arbeiten",
+      "answer": "ich arbeite"
+    },
+    {
+      "question": "du / arbeiten",
+      "answer": "du arbeitest"
+    },
+    {
+      "question": "er/sie/es / arbeiten",
+      "answer": "er/sie/es arbeitet"
+    },
+    {
+      "question": "wir / arbeiten",
+      "answer": "wir arbeiten"
+    },
+    {
+      "question": "ihr / arbeiten",
+      "answer": "ihr arbeitet"
+    },
+    {
+      "question": "sie/Sie / arbeiten",
+      "answer": "sie/Sie arbeiten"
+    },
+    {
+      "question": "ich / machen",
+      "answer": "ich mache"
+    },
+    {
+      "question": "du / machen",
+      "answer": "du machst"
+    },
+    {
+      "question": "er/sie/es / machen",
+      "answer": "er/sie/es macht"
+    },
+    {
+      "question": "wir / machen",
+      "answer": "wir machen"
+    },
+    {
+      "question": "ihr / machen",
+      "answer": "ihr macht"
+    },
+    {
+      "question": "sie/Sie / machen",
+      "answer": "sie/Sie machen"
+    },
+    {
+      "question": "ich / sein",
+      "answer": "ich bin"
+    },
+    {
+      "question": "du / sein",
+      "answer": "du bist"
+    },
+    {
+      "question": "er/sie/es / sein",
+      "answer": "er/sie/es ist"
+    },
+    {
+      "question": "wir / sein",
+      "answer": "wir sind"
+    },
+    {
+      "question": "ihr / sein",
+      "answer": "ihr seid"
+    },
+    {
+      "question": "sie/Sie / sein",
+      "answer": "sie/Sie sind"
+    },
+    {
+      "question": "ich / mögen",
+      "answer": "ich mag"
+    },
+    {
+      "question": "du / mögen",
+      "answer": "du magst"
+    },
+    {
+      "question": "er/sie/es / mögen",
+      "answer": "er/sie/es mag"
+    },
+    {
+      "question": "wir / mögen",
+      "answer": "wir mögen"
+    },
+    {
+      "question": "ihr / mögen",
+      "answer": "ihr mögt"
+    },
+    {
+      "question": "sie/Sie / mögen",
+      "answer": "sie/Sie mögen"
+    },
+    {
+      "question": "ich / schneiden",
+      "answer": "ich schneide"
+    },
+    {
+      "question": "du / schneiden",
+      "answer": "du schneidest"
+    },
+    {
+      "question": "er/sie/es / schneiden",
+      "answer": "er/sie/es schneidet"
+    },
+    {
+      "question": "wir / schneiden",
+      "answer": "wir schneiden"
+    },
+    {
+      "question": "ihr / schneiden",
+      "answer": "ihr schneidet"
+    },
+    {
+      "question": "sie/Sie / schneiden",
+      "answer": "sie/Sie schneiden"
+    },
+    {
+      "question": "ich / braten",
+      "answer": "ich brate"
+    },
+    {
+      "question": "du / braten",
+      "answer": "du brätst"
+    },
+    {
+      "question": "er/sie/es / braten",
+      "answer": "er/sie/es brät"
+    },
+    {
+      "question": "wir / braten",
+      "answer": "wir braten"
+    },
+    {
+      "question": "ihr / braten",
+      "answer": "ihr bratet"
+    },
+    {
+      "question": "sie/Sie / braten",
+      "answer": "sie/Sie braten"
+    },
+    {
+      "question": "ich / grillen",
+      "answer": "ich grille"
+    },
+    {
+      "question": "du / grillen",
+      "answer": "du grillst"
+    },
+    {
+      "question": "er/sie/es / grillen",
+      "answer": "er/sie/es grillt"
+    },
+    {
+      "question": "wir / grillen",
+      "answer": "wir grillen"
+    },
+    {
+      "question": "ihr / grillen",
+      "answer": "ihr grillt"
+    },
+    {
+      "question": "sie/Sie / grillen",
+      "answer": "sie/Sie grillen"
+    },
+    {
+      "question": "ich / essen",
+      "answer": "ich esse"
+    },
+    {
+      "question": "du / essen",
+      "answer": "du isst"
+    },
+    {
+      "question": "er/sie/es / essen",
+      "answer": "er/sie/es isst"
+    },
+    {
+      "question": "wir / essen",
+      "answer": "wir essen"
+    },
+    {
+      "question": "ihr / essen",
+      "answer": "ihr esst"
+    },
+    {
+      "question": "sie/Sie / essen",
+      "answer": "sie/Sie essen"
+    },
+    {
+      "question": "ich / trinken",
+      "answer": "ich trinke"
+    },
+    {
+      "question": "du / trinken",
+      "answer": "du trinkst"
+    },
+    {
+      "question": "er/sie/es / trinken",
+      "answer": "er/sie/es trinkt"
+    },
+    {
+      "question": "wir / trinken",
+      "answer": "wir trinken"
+    },
+    {
+      "question": "ihr / trinken",
+      "answer": "ihr trinkt"
+    },
+    {
+      "question": "sie/Sie / trinken",
+      "answer": "sie/Sie trinken"
+    }
+  ]
+}
