@@ -1,0 +1,362 @@
+[
+  {
+    "question": "ich / arbeiten",
+    "answer": "ich arbeite"
+  },
+  {
+    "question": "du / arbeiten",
+    "answer": "du arbeitest"
+  },
+  {
+    "question": "er/sie/es / arbeiten",
+    "answer": "sie arbeitet"
+  },
+  {
+    "question": "wir / arbeiten",
+    "answer": "wir arbeiten"
+  },
+  {
+    "question": "ihr / arbeiten",
+    "answer": "ihr arbeitet"
+  },
+  {
+    "question": "sie/Sie / arbeiten",
+    "answer": "Sie arbeiten"
+  },
+  {
+    "question": "ich / liegen",
+    "answer": "ich liege"
+  },
+  {
+    "question": "du / liegen",
+    "answer": "du liegst"
+  },
+  {
+    "question": "er/sie/es / liegen",
+    "answer": "sie liegt"
+  },
+  {
+    "question": "wir / liegen",
+    "answer": "wir liegen"
+  },
+  {
+    "question": "ihr / liegen",
+    "answer": "ihr liegt"
+  },
+  {
+    "question": "sie/Sie / liegen",
+    "answer": "Sie liegen"
+  },
+  {
+    "question": "ich / planen",
+    "answer": "ich plane"
+  },
+  {
+    "question": "du / planen",
+    "answer": "du planst"
+  },
+  {
+    "question": "er/sie/es / planen",
+    "answer": "sie plant"
+  },
+  {
+    "question": "wir / planen",
+    "answer": "wir planen"
+  },
+  {
+    "question": "ihr / planen",
+    "answer": "ihr plant"
+  },
+  {
+    "question": "sie/Sie / planen",
+    "answer": "Sie planen"
+  },
+  {
+    "question": "ich / verkaufen",
+    "answer": "ich verkaufe"
+  },
+  {
+    "question": "du / verkaufen",
+    "answer": "du verkaufst"
+  },
+  {
+    "question": "er/sie/es / verkaufen",
+    "answer": "sie verkauft"
+  },
+  {
+    "question": "wir / verkaufen",
+    "answer": "wir verkaufen"
+  },
+  {
+    "question": "ihr / verkaufen",
+    "answer": "ihr verkauft"
+  },
+  {
+    "question": "sie/Sie / verkaufen",
+    "answer": "Sie verkaufen"
+  },
+  {
+    "question": "ich / beginnen",
+    "answer": "ich beginne"
+  },
+  {
+    "question": "du / beginnen",
+    "answer": "du beginnst"
+  },
+  {
+    "question": "er/sie/es / beginnen",
+    "answer": "sie beginnt"
+  },
+  {
+    "question": "wir / beginnen",
+    "answer": "wir beginnen"
+  },
+  {
+    "question": "ihr / beginnen",
+    "answer": "ihr beginnt"
+  },
+  {
+    "question": "sie/Sie / beginnen",
+    "answer": "Sie beginnen"
+  },
+  {
+    "question": "ich / telefonieren",
+    "answer": "ich telefoniere"
+  },
+  {
+    "question": "du / telefonieren",
+    "answer": "du telefonierst"
+  },
+  {
+    "question": "er/sie/es / telefonieren",
+    "answer": "sie telefoniert"
+  },
+  {
+    "question": "wir / telefonieren",
+    "answer": "wir telefonieren"
+  },
+  {
+    "question": "ihr / telefonieren",
+    "answer": "ihr telefoniert"
+  },
+  {
+    "question": "sie/Sie / telefonieren",
+    "answer": "Sie telefonieren"
+  },
+  {
+    "question": "ich / kommen",
+    "answer": "ich komme"
+  },
+  {
+    "question": "du / kommen",
+    "answer": "du kommst"
+  },
+  {
+    "question": "er/sie/es / kommen",
+    "answer": "sie kommt"
+  },
+  {
+    "question": "wir / kommen",
+    "answer": "wir kommen"
+  },
+  {
+    "question": "ihr / kommen",
+    "answer": "ihr kommt"
+  },
+  {
+    "question": "sie/Sie / kommen",
+    "answer": "Sie kommen"
+  },
+  {
+    "question": "ich / heißen",
+    "answer": "ich heiße"
+  },
+  {
+    "question": "du / heißen",
+    "answer": "du heißt"
+  },
+  {
+    "question": "er/sie/es / heißen",
+    "answer": "sie heißt"
+  },
+  {
+    "question": "wir / heißen",
+    "answer": "wir heißen"
+  },
+  {
+    "question": "ihr / heißen",
+    "answer": "ihr heißt"
+  },
+  {
+    "question": "sie/Sie / heißen",
+    "answer": "Sie heißen"
+  },
+  {
+    "question": "ich / machen",
+    "answer": "ich mache"
+  },
+  {
+    "question": "du / machen",
+    "answer": "du machst"
+  },
+  {
+    "question": "er/sie/es / machen",
+    "answer": "sie macht"
+  },
+  {
+    "question": "wir / machen",
+    "answer": "wir machen"
+  },
+  {
+    "question": "ihr / machen",
+    "answer": "ihr macht"
+  },
+  {
+    "question": "sie/Sie / machen",
+    "answer": "Sie machen"
+  },
+  {
+    "question": "ich / fahren",
+    "answer": "ich fahre"
+  },
+  {
+    "question": "du / fahren",
+    "answer": "du fährst"
+  },
+  {
+    "question": "er/sie/es / fahren",
+    "answer": "sie fährt"
+  },
+  {
+    "question": "wir / fahren",
+    "answer": "wir fahren"
+  },
+  {
+    "question": "ihr / fahren",
+    "answer": "ihr fahrt"
+  },
+  {
+    "question": "sie/Sie / fahren",
+    "answer": "Sie fahren"
+  },
+  {
+    "question": "ich / wohnen",
+    "answer": "ich wohne"
+  },
+  {
+    "question": "du / wohnen",
+    "answer": "du wohnst"
+  },
+  {
+    "question": "er/sie/es / wohnen",
+    "answer": "sie wohnt"
+  },
+  {
+    "question": "wir / wohnen",
+    "answer": "wir wohnen"
+  },
+  {
+    "question": "ihr / wohnen",
+    "answer": "ihr wohnt"
+  },
+  {
+    "question": "sie/Sie / wohnen",
+    "answer": "Sie wohnen"
+  },
+  {
+    "question": "ich / brauchen",
+    "answer": "ich brauche"
+  },
+  {
+    "question": "du / brauchen",
+    "answer": "du brauchst"
+  },
+  {
+    "question": "er/sie/es / brauchen",
+    "answer": "sie braucht"
+  },
+  {
+    "question": "wir / brauchen",
+    "answer": "wir brauchen"
+  },
+  {
+    "question": "ihr / brauchen",
+    "answer": "ihr braucht"
+  },
+  {
+    "question": "sie/Sie / brauchen",
+    "answer": "Sie brauchen"
+  },
+  {
+    "question": "ich / gehen",
+    "answer": "ich gehe"
+  },
+  {
+    "question": "du / gehen",
+    "answer": "du gehst"
+  },
+  {
+    "question": "er/sie/es / gehen",
+    "answer": "sie geht"
+  },
+  {
+    "question": "wir / gehen",
+    "answer": "wir gehen"
+  },
+  {
+    "question": "ihr / gehen",
+    "answer": "ihr geht"
+  },
+  {
+    "question": "sie/Sie / gehen",
+    "answer": "Sie gehen"
+  },
+  {
+    "question": "ich / spielen",
+    "answer": "ich spiele"
+  },
+  {
+    "question": "du / spielen",
+    "answer": "du spielst"
+  },
+  {
+    "question": "er/sie/es / spielen",
+    "answer": "sie spielt"
+  },
+  {
+    "question": "wir / spielen",
+    "answer": "wir spielen"
+  },
+  {
+    "question": "ihr / spielen",
+    "answer": "ihr spielt"
+  },
+  {
+    "question": "sie/Sie / spielen",
+    "answer": "Sie spielen"
+  },
+  {
+    "question": "ich / essen",
+    "answer": "ich esse"
+  },
+  {
+    "question": "du / essen",
+    "answer": "du isst"
+  },
+  {
+    "question": "er/sie/es / essen",
+    "answer": "sie isst"
+  },
+  {
+    "question": "wir / essen",
+    "answer": "wir essen"
+  },
+  {
+    "question": "ihr / essen",
+    "answer": "ihr esst"
+  },
+  {
+    "question": "sie/Sie / essen",
+    "answer": "Sie essen"
+  }
+]

@@ -9,7 +9,7 @@
   },
   {
     "question": "er/sie/es / kochen",
-    "answer": "er/sie/es kocht"
+    "answer": "er kocht"
   },
   {
     "question": "wir / kochen",
@@ -21,7 +21,7 @@
   },
   {
     "question": "sie/Sie / kochen",
-    "answer": "sie/Sie kochen"
+    "answer": "Sie kochen"
   },
   {
     "question": "ich / backen",
@@ -33,7 +33,7 @@
   },
   {
     "question": "er/sie/es / backen",
-    "answer": "er/sie/es bäckt"
+    "answer": "er bäckt"
   },
   {
     "question": "wir / backen",
@@ -45,7 +45,7 @@
   },
   {
     "question": "sie/Sie / backen",
-    "answer": "sie/Sie backen"
+    "answer": "Sie backen"
   },
   {
     "question": "ich / feiern",
@@ -57,7 +57,7 @@
   },
   {
     "question": "er/sie/es / feiern",
-    "answer": "er/sie/es feiert"
+    "answer": "er feiert"
   },
   {
     "question": "wir / feiern",
@@ -69,7 +69,7 @@
   },
   {
     "question": "sie/Sie / feiern",
-    "answer": "sie/Sie feiern"
+    "answer": "Sie feiern"
   },
   {
     "question": "ich / kaufen",
@@ -81,7 +81,7 @@
   },
   {
     "question": "er/sie/es / kaufen",
-    "answer": "er/sie/es kauft"
+    "answer": "er kauft"
   },
   {
     "question": "wir / kaufen",
@@ -93,7 +93,7 @@
   },
   {
     "question": "sie/Sie / kaufen",
-    "answer": "sie/Sie kaufen"
+    "answer": "Sie kaufen"
   },
   {
     "question": "ich / spielen",
@@ -105,7 +105,7 @@
   },
   {
     "question": "er/sie/es / spielen",
-    "answer": "er/sie/es spielt"
+    "answer": "er spielt"
   },
   {
     "question": "wir / spielen",
@@ -117,7 +117,7 @@
   },
   {
     "question": "sie/Sie / spielen",
-    "answer": "sie/Sie spielen"
+    "answer": "Sie spielen"
   },
   {
     "question": "ich / haben",
@@ -129,7 +129,7 @@
   },
   {
     "question": "er/sie/es / haben",
-    "answer": "er/sie/es hat"
+    "answer": "er hat"
   },
   {
     "question": "wir / haben",
@@ -141,7 +141,7 @@
   },
   {
     "question": "sie/Sie / haben",
-    "answer": "sie/Sie haben"
+    "answer": "Sie haben"
   },
   {
     "question": "ich / kommen",
@@ -153,7 +153,7 @@
   },
   {
     "question": "er/sie/es / kommen",
-    "answer": "er/sie/es kommt"
+    "answer": "er kommt"
   },
   {
     "question": "wir / kommen",
@@ -165,7 +165,7 @@
   },
   {
     "question": "sie/Sie / kommen",
-    "answer": "sie/Sie kommen"
+    "answer": "Sie kommen"
   },
   {
     "question": "ich / arbeiten",
@@ -177,7 +177,7 @@
   },
   {
     "question": "er/sie/es / arbeiten",
-    "answer": "er/sie/es arbeitet"
+    "answer": "er arbeitet"
   },
   {
     "question": "wir / arbeiten",
@@ -189,7 +189,7 @@
   },
   {
     "question": "sie/Sie / arbeiten",
-    "answer": "sie/Sie arbeiten"
+    "answer": "Sie arbeiten"
   },
   {
     "question": "ich / machen",
@@ -201,7 +201,7 @@
   },
   {
     "question": "er/sie/es / machen",
-    "answer": "er/sie/es macht"
+    "answer": "er macht"
   },
   {
     "question": "wir / machen",
@@ -213,7 +213,7 @@
   },
   {
     "question": "sie/Sie / machen",
-    "answer": "sie/Sie machen"
+    "answer": "Sie machen"
   },
   {
     "question": "ich / sein",
@@ -225,7 +225,7 @@
   },
   {
     "question": "er/sie/es / sein",
-    "answer": "er/sie/es ist"
+    "answer": "er ist"
   },
   {
     "question": "wir / sein",
@@ -237,7 +237,7 @@
   },
   {
     "question": "sie/Sie / sein",
-    "answer": "sie/Sie sind"
+    "answer": "Sie sind"
   },
   {
     "question": "ich / mögen",
@@ -249,7 +249,7 @@
   },
   {
     "question": "er/sie/es / mögen",
-    "answer": "er/sie/es mag"
+    "answer": "er mag"
   },
   {
     "question": "wir / mögen",
@@ -261,7 +261,7 @@
   },
   {
     "question": "sie/Sie / mögen",
-    "answer": "sie/Sie mögen"
+    "answer": "Sie mögen"
   },
   {
     "question": "ich / schneiden",
@@ -273,7 +273,7 @@
   },
   {
     "question": "er/sie/es / schneiden",
-    "answer": "er/sie/es schneidet"
+    "answer": "er schneidet"
   },
   {
     "question": "wir / schneiden",
@@ -285,7 +285,7 @@
   },
   {
     "question": "sie/Sie / schneiden",
-    "answer": "sie/Sie schneiden"
+    "answer": "Sie schneiden"
   },
   {
     "question": "ich / braten",
@@ -297,7 +297,7 @@
   },
   {
     "question": "er/sie/es / braten",
-    "answer": "er/sie/es brät"
+    "answer": "er brät"
   },
   {
     "question": "wir / braten",
@@ -309,7 +309,7 @@
   },
   {
     "question": "sie/Sie / braten",
-    "answer": "sie/Sie braten"
+    "answer": "Sie braten"
   },
   {
     "question": "ich / grillen",
@@ -321,7 +321,7 @@
   },
   {
     "question": "er/sie/es / grillen",
-    "answer": "er/sie/es grillt"
+    "answer": "er grillt"
   },
   {
     "question": "wir / grillen",
@@ -333,7 +333,7 @@
   },
   {
     "question": "sie/Sie / grillen",
-    "answer": "sie/Sie grillen"
+    "answer": "Sie grillen"
   },
   {
     "question": "ich / essen",
@@ -345,7 +345,7 @@
   },
   {
     "question": "er/sie/es / essen",
-    "answer": "er/sie/es isst"
+    "answer": "er isst"
   },
   {
     "question": "wir / essen",
@@ -357,7 +357,7 @@
   },
   {
     "question": "sie/Sie / essen",
-    "answer": "sie/Sie essen"
+    "answer": "Sie essen"
   },
   {
     "question": "ich / trinken",
@@ -369,7 +369,7 @@
   },
   {
     "question": "er/sie/es / trinken",
-    "answer": "er/sie/es trinkt"
+    "answer": "er trinkt"
   },
   {
     "question": "wir / trinken",
@@ -381,6 +381,6 @@
   },
   {
     "question": "sie/Sie / trinken",
-    "answer": "sie/Sie trinken"
+    "answer": "Sie trinken"
   }
 ]
