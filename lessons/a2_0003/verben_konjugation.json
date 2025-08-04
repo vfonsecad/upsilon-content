@@ -1,0 +1,506 @@
+[
+{
+    "question": "ich / können",
+    "answer": "ich kann"
+},
+{
+    "question": "du / können",
+    "answer": "du kannst"
+},
+{
+    "question": "er/sie/es / können",
+    "answer": "er/sie/es kann"
+},
+{
+    "question": "wir / können",
+    "answer": "wir können"
+},
+{
+    "question": "ihr / können",
+    "answer": "ihr könnt"
+},
+{
+    "question": "sie/Sie / können",
+    "answer": "sie/Sie können"
+},
+{
+    "question": "ich / machen",
+    "answer": "ich mache"
+},
+{
+    "question": "du / machen",
+    "answer": "du machst"
+},
+{
+    "question": "er/sie/es / machen",
+    "answer": "er/sie/es macht"
+},
+{
+    "question": "wir / machen",
+    "answer": "wir machen"
+},
+{
+    "question": "ihr / machen",
+    "answer": "ihr macht"
+},
+{
+    "question": "sie/Sie / machen",
+    "answer": "sie/Sie machen"
+},
+{
+    "question": "ich / haben",
+    "answer": "ich habe"
+},
+{
+    "question": "du / haben",
+    "answer": "du hast"
+},
+{
+    "question": "er/sie/es / haben",
+    "answer": "er/sie/es hat"
+},
+{
+    "question": "wir / haben",
+    "answer": "wir haben"
+},
+{
+    "question": "ihr / haben",
+    "answer": "ihr habt"
+},
+{
+    "question": "sie/Sie / haben",
+    "answer": "sie/Sie haben"
+},
+{
+    "question": "ich / hören",
+    "answer": "ich höre"
+},
+{
+    "question": "du / hören",
+    "answer": "du hörst"
+},
+{
+    "question": "er/sie/es / hören",
+    "answer": "er/sie/es hört"
+},
+{
+    "question": "wir / hören",
+    "answer": "wir hören"
+},
+{
+    "question": "ihr / hören",
+    "answer": "ihr hört"
+},
+{
+    "question": "sie/Sie / hören",
+    "answer": "sie/Sie hören"
+},
+{
+    "question": "ich / liegen",
+    "answer": "ich liege"
+},
+{
+    "question": "du / liegen",
+    "answer": "du liegst"
+},
+{
+    "question": "er/sie/es / liegen",
+    "answer": "er/sie/es liegt"
+},
+{
+    "question": "wir / liegen",
+    "answer": "wir liegen"
+},
+{
+    "question": "ihr / liegen",
+    "answer": "ihr liegt"
+},
+{
+    "question": "sie/Sie / liegen",
+    "answer": "sie/Sie liegen"
+},
+{
+    "question": "ich / erreichen",
+    "answer": "ich erreiche"
+},
+{
+    "question": "du / erreichen",
+    "answer": "du erreichst"
+},
+{
+    "question": "er/sie/es / erreichen",
+    "answer": "er/sie/es erreicht"
+},
+{
+    "question": "wir / erreichen",
+    "answer": "wir erreichen"
+},
+{
+    "question": "ihr / erreichen",
+    "answer": "ihr erreicht"
+},
+{
+    "question": "sie/Sie / erreichen",
+    "answer": "sie/Sie erreichen"
+},
+{
+    "question": "ich / geben",
+    "answer": "ich gebe"
+},
+{
+    "question": "du / geben",
+    "answer": "du gibst"
+},
+{
+    "question": "er/sie/es / geben",
+    "answer": "er/sie/es gibt"
+},
+{
+    "question": "wir / geben",
+    "answer": "wir geben"
+},
+{
+    "question": "ihr / geben",
+    "answer": "ihr gebt"
+},
+{
+    "question": "sie/Sie / geben",
+    "answer": "sie/Sie geben"
+},
+{
+    "question": "ich / besichtigen",
+    "answer": "ich besichtige"
+},
+{
+    "question": "du / besichtigen",
+    "answer": "du besichtigst"
+},
+{
+    "question": "er/sie/es / besichtigen",
+    "answer": "er/sie/es besichtigt"
+},
+{
+    "question": "wir / besichtigen",
+    "answer": "wir besichtigen"
+},
+{
+    "question": "ihr / besichtigen",
+    "answer": "ihr besichtigt"
+},
+{
+    "question": "sie/Sie / besichtigen",
+    "answer": "sie/Sie besichtigen"
+},
+{
+    "question": "ich / essen",
+    "answer": "ich esse"
+},
+{
+    "question": "du / essen",
+    "answer": "du isst"
+},
+{
+    "question": "er/sie/es / essen",
+    "answer": "er/sie/es isst"
+},
+{
+    "question": "wir / essen",
+    "answer": "wir essen"
+},
+{
+    "question": "ihr / essen",
+    "answer": "ihr esst"
+},
+{
+    "question": "sie/Sie / essen",
+    "answer": "sie/Sie essen"
+},
+{
+    "question": "ich / probieren",
+    "answer": "ich probiere"
+},
+{
+    "question": "du / probieren",
+    "answer": "du probierst"
+},
+{
+    "question": "er/sie/es / probieren",
+    "answer": "er/sie/es probiert"
+},
+{
+    "question": "wir / probieren",
+    "answer": "wir probieren"
+},
+{
+    "question": "ihr / probieren",
+    "answer": "ihr probiert"
+},
+{
+    "question": "sie/Sie / probieren",
+    "answer": "sie/Sie probieren"
+},
+{
+    "question": "ich / trinken",
+    "answer": "ich trinke"
+},
+{
+    "question": "du / trinken",
+    "answer": "du trinkst"
+},
+{
+    "question": "er/sie/es / trinken",
+    "answer": "er/sie/es trinkt"
+},
+{
+    "question": "wir / trinken",
+    "answer": "wir trinken"
+},
+{
+    "question": "ihr / trinken",
+    "answer": "ihr trinkt"
+},
+{
+    "question": "sie/Sie / trinken",
+    "answer": "sie/Sie trinken"
+},
+{
+    "question": "ich / fahren",
+    "answer": "ich fahre"
+},
+{
+    "question": "du / fahren",
+    "answer": "du fährst"
+},
+{
+    "question": "er/sie/es / fahren",
+    "answer": "er/sie/es fährt"
+},
+{
+    "question": "wir / fahren",
+    "answer": "wir fahren"
+},
+{
+    "question": "ihr / fahren",
+    "answer": "ihr fahrt"
+},
+{
+    "question": "sie/Sie / fahren",
+    "answer": "sie/Sie fahren"
+},
+{
+    "question": "ich / spazieren gehen",
+    "answer": "ich gehe spazieren"
+},
+{
+    "question": "du / spazieren gehen",
+    "answer": "du gehst spazieren"
+},
+{
+    "question": "er/sie/es / spazieren gehen",
+    "answer": "er/sie/es geht spazieren"
+},
+{
+    "question": "wir / spazieren gehen",
+    "answer": "wir gehen spazieren"
+},
+{
+    "question": "ihr / spazieren gehen",
+    "answer": "ihr geht spazieren"
+},
+{
+    "question": "sie/Sie / spazieren gehen",
+    "answer": "sie/Sie gehen spazieren"
+},
+{
+    "question": "ich / gehen",
+    "answer": "ich gehe"
+},
+{
+    "question": "du / gehen",
+    "answer": "du gehst"
+},
+{
+    "question": "er/sie/es / gehen",
+    "answer": "er/sie/es geht"
+},
+{
+    "question": "wir / gehen",
+    "answer": "wir gehen"
+},
+{
+    "question": "ihr / gehen",
+    "answer": "ihr geht"
+},
+{
+    "question": "sie/Sie / gehen",
+    "answer": "sie/Sie gehen"
+},
+{
+    "question": "ich / sich entspannen",
+    "answer": "ich entspanne mich"
+},
+{
+    "question": "du / sich entspannen",
+    "answer": "du entspannst dich"
+},
+{
+    "question": "er/sie/es / sich entspannen",
+    "answer": "er/sie/es entspannt sich"
+},
+{
+    "question": "wir / sich entspannen",
+    "answer": "wir entspannen uns"
+},
+{
+    "question": "ihr / sich entspannen",
+    "answer": "ihr entspannt euch"
+},
+{
+    "question": "sie/Sie / sich entspannen",
+    "answer": "sie/Sie entspannen sich"
+},
+{
+    "question": "ich / besuchen",
+    "answer": "ich besuche"
+},
+{
+    "question": "du / besuchen",
+    "answer": "du besuchst"
+},
+{
+    "question": "er/sie/es / besuchen",
+    "answer": "er/sie/es besucht"
+},
+{
+    "question": "wir / besuchen",
+    "answer": "wir besuchen"
+},
+{
+    "question": "ihr / besuchen",
+    "answer": "ihr besucht"
+},
+{
+    "question": "sie/Sie / besuchen",
+    "answer": "sie/Sie besuchen"
+},
+{
+    "question": "ich / laufen",
+    "answer": "ich laufe"
+},
+{
+    "question": "du / laufen",
+    "answer": "du läufst"
+},
+{
+    "question": "er/sie/es / laufen",
+    "answer": "er/sie/es läuft"
+},
+{
+    "question": "wir / laufen",
+    "answer": "wir laufen"
+},
+{
+    "question": "ihr / laufen",
+    "answer": "ihr lauft"
+},
+{
+    "question": "sie/Sie / laufen",
+    "answer": "sie/Sie laufen"
+},
+{
+    "question": "ich / müssen",
+    "answer": "ich muss"
+},
+{
+    "question": "du / müssen",
+    "answer": "du musst"
+},
+{
+    "question": "er/sie/es / müssen",
+    "answer": "er/sie/es muss"
+},
+{
+    "question": "wir / müssen",
+    "answer": "wir müssen"
+},
+{
+    "question": "ihr / müssen",
+    "answer": "ihr müsst"
+},
+{
+    "question": "sie/Sie / müssen",
+    "answer": "sie/Sie müssen"
+},
+{
+    "question": "ich / mieten",
+    "answer": "ich miete"
+},
+{
+    "question": "du / mieten",
+    "answer": "du mietest"
+},
+{
+    "question": "er/sie/es / mieten",
+    "answer": "er/sie/es mietet"
+},
+{
+    "question": "wir / mieten",
+    "answer": "wir mieten"
+},
+{
+    "question": "ihr / mieten",
+    "answer": "ihr mietet"
+},
+{
+    "question": "sie/Sie / mieten",
+    "answer": "sie/Sie mieten"
+},
+{
+    "question": "ich / sehen",
+    "answer": "ich sehe"
+},
+{
+    "question": "du / sehen",
+    "answer": "du siehst"
+},
+{
+    "question": "er/sie/es / sehen",
+    "answer": "er/sie/es sieht"
+},
+{
+    "question": "wir / sehen",
+    "answer": "wir sehen"
+},
+{
+    "question": "ihr / sehen",
+    "answer": "ihr seht"
+},
+{
+    "question": "sie/Sie / sehen",
+    "answer": "sie/Sie sehen"
+},
+{
+    "question": "ich / brauchen",
+    "answer": "ich brauche"
+},
+{
+    "question": "du / brauchen",
+    "answer": "du brauchst"
+},
+{
+    "question": "er/sie/es / brauchen",
+    "answer": "er/sie/es braucht"
+},
+{
+    "question": "wir / brauchen",
+    "answer": "wir brauchen"
+},
+{
+    "question": "ihr / brauchen",
+    "answer": "ihr braucht"
+},
+{
+    "question": "sie/Sie / brauchen",
+    "answer": "sie/Sie brauchen"
+}
+]

@@ -1,0 +1,674 @@
+[
+    {
+      "question": "ich / reisen",
+      "answer": "ich reise"
+    },
+    {
+      "question": "du / reisen",
+      "answer": "du reist"
+    },
+    {
+      "question": "er/sie/es / reisen",
+      "answer": "er/sie/es reist"
+    },
+    {
+      "question": "wir / reisen",
+      "answer": "wir reisen"
+    },
+    {
+      "question": "ihr / reisen",
+      "answer": "ihr reist"
+    },
+    {
+      "question": "sie/Sie / reisen",
+      "answer": "sie/Sie reisen"
+    },
+    {
+      "question": "ich / sehen",
+      "answer": "ich sehe"
+    },
+    {
+      "question": "du / sehen",
+      "answer": "du siehst"
+    },
+    {
+      "question": "er/sie/es / sehen",
+      "answer": "er/sie/es sieht"
+    },
+    {
+      "question": "wir / sehen",
+      "answer": "wir sehen"
+    },
+    {
+      "question": "ihr / sehen",
+      "answer": "ihr seht"
+    },
+    {
+      "question": "sie/Sie / sehen",
+      "answer": "sie/Sie sehen"
+    },
+    {
+      "question": "ich / kommen",
+      "answer": "ich komme"
+    },
+    {
+      "question": "du / kommen",
+      "answer": "du kommst"
+    },
+    {
+      "question": "er/sie/es / kommen",
+      "answer": "er/sie/es kommt"
+    },
+    {
+      "question": "wir / kommen",
+      "answer": "wir kommen"
+    },
+    {
+      "question": "ihr / kommen",
+      "answer": "ihr kommt"
+    },
+    {
+      "question": "sie/Sie / kommen",
+      "answer": "sie/Sie kommen"
+    },
+    {
+      "question": "ich / besuchen",
+      "answer": "ich besuche"
+    },
+    {
+      "question": "du / besuchen",
+      "answer": "du besuchst"
+    },
+    {
+      "question": "er/sie/es / besuchen",
+      "answer": "er/sie/es besucht"
+    },
+    {
+      "question": "wir / besuchen",
+      "answer": "wir besuchen"
+    },
+    {
+      "question": "ihr / besuchen",
+      "answer": "ihr besucht"
+    },
+    {
+      "question": "sie/Sie / besuchen",
+      "answer": "sie/Sie besuchen"
+    },
+    {
+      "question": "ich / lernen",
+      "answer": "ich lerne"
+    },
+    {
+      "question": "du / lernen",
+      "answer": "du lernst"
+    },
+    {
+      "question": "er/sie/es / lernen",
+      "answer": "er/sie/es lernt"
+    },
+    {
+      "question": "wir / lernen",
+      "answer": "wir lernen"
+    },
+    {
+      "question": "ihr / lernen",
+      "answer": "ihr lernt"
+    },
+    {
+      "question": "sie/Sie / lernen",
+      "answer": "sie/Sie lernen"
+    },
+    {
+      "question": "ich / essen",
+      "answer": "ich esse"
+    },
+    {
+      "question": "du / essen",
+      "answer": "du isst"
+    },
+    {
+      "question": "er/sie/es / essen",
+      "answer": "er/sie/es isst"
+    },
+    {
+      "question": "wir / essen",
+      "answer": "wir essen"
+    },
+    {
+      "question": "ihr / essen",
+      "answer": "ihr esst"
+    },
+    {
+      "question": "sie/Sie / essen",
+      "answer": "sie/Sie essen"
+    },
+    {
+      "question": "ich / bemerken",
+      "answer": "ich bemerke"
+    },
+    {
+      "question": "du / bemerken",
+      "answer": "du bemerkst"
+    },
+    {
+      "question": "er/sie/es / bemerken",
+      "answer": "er/sie/es bemerkt"
+    },
+    {
+      "question": "wir / bemerken",
+      "answer": "wir bemerken"
+    },
+    {
+      "question": "ihr / bemerken",
+      "answer": "ihr bemerkt"
+    },
+    {
+      "question": "sie/Sie / bemerken",
+      "answer": "sie/Sie bemerken"
+    },
+    {
+      "question": "ich / verbringen",
+      "answer": "ich verbringe"
+    },
+    {
+      "question": "du / verbringen",
+      "answer": "du verbringst"
+    },
+    {
+      "question": "er/sie/es / verbringen",
+      "answer": "er/sie/es verbringt"
+    },
+    {
+      "question": "wir / verbringen",
+      "answer": "wir verbringen"
+    },
+    {
+      "question": "ihr / verbringen",
+      "answer": "ihr verbringt"
+    },
+    {
+      "question": "sie/Sie / verbringen",
+      "answer": "sie/Sie verbringen"
+    },
+    {
+      "question": "ich / sprechen",
+      "answer": "ich spreche"
+    },
+    {
+      "question": "du / sprechen",
+      "answer": "du sprichst"
+    },
+    {
+      "question": "er/sie/es / sprechen",
+      "answer": "er/sie/es spricht"
+    },
+    {
+      "question": "wir / sprechen",
+      "answer": "wir sprechen"
+    },
+    {
+      "question": "ihr / sprechen",
+      "answer": "ihr sprecht"
+    },
+    {
+      "question": "sie/Sie / sprechen",
+      "answer": "sie/Sie sprechen"
+    },
+    {
+      "question": "ich / lachen",
+      "answer": "ich lache"
+    },
+    {
+      "question": "du / lachen",
+      "answer": "du lachst"
+    },
+    {
+      "question": "er/sie/es / lachen",
+      "answer": "er/sie/es lacht"
+    },
+    {
+      "question": "wir / lachen",
+      "answer": "wir lachen"
+    },
+    {
+      "question": "ihr / lachen",
+      "answer": "ihr lacht"
+    },
+    {
+      "question": "sie/Sie / lachen",
+      "answer": "sie/Sie lachen"
+    },
+    {
+      "question": "ich / fliegen",
+      "answer": "ich fliege"
+    },
+    {
+      "question": "du / fliegen",
+      "answer": "du fliegst"
+    },
+    {
+      "question": "er/sie/es / fliegen",
+      "answer": "er/sie/es fliegt"
+    },
+    {
+      "question": "wir / fliegen",
+      "answer": "wir fliegen"
+    },
+    {
+      "question": "ihr / fliegen",
+      "answer": "ihr fliegt"
+    },
+    {
+      "question": "sie/Sie / fliegen",
+      "answer": "sie/Sie fliegen"
+    },
+    {
+      "question": "ich / fahren",
+      "answer": "ich fahre"
+    },
+    {
+      "question": "du / fahren",
+      "answer": "du fährst"
+    },
+    {
+      "question": "er/sie/es / fahren",
+      "answer": "er/sie/es fährt"
+    },
+    {
+      "question": "wir / fahren",
+      "answer": "wir fahren"
+    },
+    {
+      "question": "ihr / fahren",
+      "answer": "ihr fahrt"
+    },
+    {
+      "question": "sie/Sie / fahren",
+      "answer": "sie/Sie fahren"
+    },
+    {
+      "question": "ich / erleben",
+      "answer": "ich erlebe"
+    },
+    {
+      "question": "du / erleben",
+      "answer": "du erlebst"
+    },
+    {
+      "question": "er/sie/es / erleben",
+      "answer": "er/sie/es erlebt"
+    },
+    {
+      "question": "wir / erleben",
+      "answer": "wir erleben"
+    },
+    {
+      "question": "ihr / erleben",
+      "answer": "ihr erlebt"
+    },
+    {
+      "question": "sie/Sie / erleben",
+      "answer": "sie/Sie erleben"
+    },
+    {
+      "question": "ich / zeigen",
+      "answer": "ich zeige"
+    },
+    {
+      "question": "du / zeigen",
+      "answer": "du zeigst"
+    },
+    {
+      "question": "er/sie/es / zeigen",
+      "answer": "er/sie/es zeigt"
+    },
+    {
+      "question": "wir / zeigen",
+      "answer": "wir zeigen"
+    },
+    {
+      "question": "ihr / zeigen",
+      "answer": "ihr zeigt"
+    },
+    {
+      "question": "sie/Sie / zeigen",
+      "answer": "sie/Sie zeigen"
+    },
+    {
+      "question": "ich / verbeugen",
+      "answer": "ich verbeuge"
+    },
+    {
+      "question": "du / verbeugen",
+      "answer": "du verbeugst"
+    },
+    {
+      "question": "er/sie/es / verbeugen",
+      "answer": "er/sie/es verbeugt"
+    },
+    {
+      "question": "wir / verbeugen",
+      "answer": "wir verbeugen"
+    },
+    {
+      "question": "ihr / verbeugen",
+      "answer": "ihr verbeugt"
+    },
+    {
+      "question": "sie/Sie / verbeugen",
+      "answer": "sie/Sie verbeugen"
+    },
+    {
+      "question": "ich / beeindrucken",
+      "answer": "ich beeindrucke"
+    },
+    {
+      "question": "du / beeindrucken",
+      "answer": "du beeindruckst"
+    },
+    {
+      "question": "er/sie/es / beeindrucken",
+      "answer": "er/sie/es beeindruckt"
+    },
+    {
+      "question": "wir / beeindrucken",
+      "answer": "wir beeindrucken"
+    },
+    {
+      "question": "ihr / beeindrucken",
+      "answer": "ihr beeindruckt"
+    },
+    {
+      "question": "sie/Sie / beeindrucken",
+      "answer": "sie/Sie beeindrucken"
+    },
+    {
+      "question": "ich / sagen",
+      "answer": "ich sage"
+    },
+    {
+      "question": "du / sagen",
+      "answer": "du sagst"
+    },
+    {
+      "question": "er/sie/es / sagen",
+      "answer": "er/sie/es sagt"
+    },
+    {
+      "question": "wir / sagen",
+      "answer": "wir sagen"
+    },
+    {
+      "question": "ihr / sagen",
+      "answer": "ihr sagt"
+    },
+    {
+      "question": "sie/Sie / sagen",
+      "answer": "sie/Sie sagen"
+    },
+    {
+      "question": "ich / denken",
+      "answer": "ich denke"
+    },
+    {
+      "question": "du / denken",
+      "answer": "du denkst"
+    },
+    {
+      "question": "er/sie/es / denken",
+      "answer": "er/sie/es denkt"
+    },
+    {
+      "question": "wir / denken",
+      "answer": "wir denken"
+    },
+    {
+      "question": "ihr / denken",
+      "answer": "ihr denkt"
+    },
+    {
+      "question": "sie/Sie / denken",
+      "answer": "sie/Sie denken"
+    },
+    {
+      "question": "ich / können",
+      "answer": "ich kann"
+    },
+    {
+      "question": "du / können",
+      "answer": "du kannst"
+    },
+    {
+      "question": "er/sie/es / können",
+      "answer": "er/sie/es kann"
+    },
+    {
+      "question": "wir / können",
+      "answer": "wir können"
+    },
+    {
+      "question": "ihr / können",
+      "answer": "ihr könnt"
+    },
+    {
+      "question": "sie/Sie / können",
+      "answer": "sie/Sie können"
+    },
+    {
+      "question": "ich / öffnen",
+      "answer": "ich öffne"
+    },
+    {
+      "question": "du / öffnen",
+      "answer": "du öffnest"
+    },
+    {
+      "question": "er/sie/es / öffnen",
+      "answer": "er/sie/es öffnet"
+    },
+    {
+      "question": "wir / öffnen",
+      "answer": "wir öffnen"
+    },
+    {
+      "question": "ihr / öffnen",
+      "answer": "ihr öffnet"
+    },
+    {
+      "question": "sie/Sie / öffnen",
+      "answer": "sie/Sie öffnen"
+    },
+    {
+      "question": "ich / schließen",
+      "answer": "ich schließe"
+    },
+    {
+      "question": "du / schließen",
+      "answer": "du schließt"
+    },
+    {
+      "question": "er/sie/es / schließen",
+      "answer": "er/sie/es schließt"
+    },
+    {
+      "question": "wir / schließen",
+      "answer": "wir schließen"
+    },
+    {
+      "question": "ihr / schließen",
+      "answer": "ihr schließt"
+    },
+    {
+      "question": "sie/Sie / schließen",
+      "answer": "sie/Sie schließen"
+    },
+    {
+      "question": "ich / machen",
+      "answer": "ich mache"
+    },
+    {
+      "question": "du / machen",
+      "answer": "du machst"
+    },
+    {
+      "question": "er/sie/es / machen",
+      "answer": "er/sie/es macht"
+    },
+    {
+      "question": "wir / machen",
+      "answer": "wir machen"
+    },
+    {
+      "question": "ihr / machen",
+      "answer": "ihr macht"
+    },
+    {
+      "question": "sie/Sie / machen",
+      "answer": "sie/Sie machen"
+    },
+    {
+      "question": "ich / gehen",
+      "answer": "ich gehe"
+    },
+    {
+      "question": "du / gehen",
+      "answer": "du gehst"
+    },
+    {
+      "question": "er/sie/es / gehen",
+      "answer": "er/sie/es geht"
+    },
+    {
+      "question": "wir / gehen",
+      "answer": "wir gehen"
+    },
+    {
+      "question": "ihr / gehen",
+      "answer": "ihr geht"
+    },
+    {
+      "question": "sie/Sie / gehen",
+      "answer": "sie/Sie gehen"
+    },
+    {
+      "question": "ich / sitzen",
+      "answer": "ich sitze"
+    },
+    {
+      "question": "du / sitzen",
+      "answer": "du sitzt"
+    },
+    {
+      "question": "er/sie/es / sitzen",
+      "answer": "er/sie/es sitzt"
+    },
+    {
+      "question": "wir / sitzen",
+      "answer": "wir sitzen"
+    },
+    {
+      "question": "ihr / sitzen",
+      "answer": "ihr sitzt"
+    },
+    {
+      "question": "sie/Sie / sitzen",
+      "answer": "sie/Sie sitzen"
+    },
+    {
+      "question": "ich / reden",
+      "answer": "ich rede"
+    },
+    {
+      "question": "du / reden",
+      "answer": "du redest"
+    },
+    {
+      "question": "er/sie/es / reden",
+      "answer": "er/sie/es redet"
+    },
+    {
+      "question": "wir / reden",
+      "answer": "wir reden"
+    },
+    {
+      "question": "ihr / reden",
+      "answer": "ihr redet"
+    },
+    {
+      "question": "sie/Sie / reden",
+      "answer": "sie/Sie reden"
+    },
+    {
+      "question": "ich / entdecken",
+      "answer": "ich entdecke"
+    },
+    {
+      "question": "du / entdecken",
+      "answer": "du entdeckst"
+    },
+    {
+      "question": "er/sie/es / entdecken",
+      "answer": "er/sie/es entdeckt"
+    },
+    {
+      "question": "wir / entdecken",
+      "answer": "wir entdecken"
+    },
+    {
+      "question": "ihr / entdecken",
+      "answer": "ihr entdeckt"
+    },
+    {
+      "question": "sie/Sie / entdecken",
+      "answer": "sie/Sie entdecken"
+    },
+    {
+      "question": "ich / lieben",
+      "answer": "ich liebe"
+    },
+    {
+      "question": "du / lieben",
+      "answer": "du liebst"
+    },
+    {
+      "question": "er/sie/es / lieben",
+      "answer": "er/sie/es liebt"
+    },
+    {
+      "question": "wir / lieben",
+      "answer": "wir lieben"
+    },
+    {
+      "question": "ihr / lieben",
+      "answer": "ihr liebt"
+    },
+    {
+      "question": "sie/Sie / lieben",
+      "answer": "sie/Sie lieben"
+    },
+    {
+      "question": "ich / finden",
+      "answer": "ich finde"
+    },
+    {
+      "question": "du / finden",
+      "answer": "du findest"
+    },
+    {
+      "question": "er/sie/es / finden",
+      "answer": "er/sie/es findet"
+    },
+    {
+      "question": "wir / finden",
+      "answer": "wir finden"
+    },
+    {
+      "question": "ihr / finden",
+      "answer": "ihr findet"
+    },
+    {
+      "question": "sie/Sie / finden",
+      "answer": "sie/Sie finden"
+    }
+  ]
