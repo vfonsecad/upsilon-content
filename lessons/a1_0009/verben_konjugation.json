@@ -1,0 +1,458 @@
+[
+  {
+    "question": "ich / haben",
+    "answer": "ich habe"
+  },
+  {
+    "question": "du / haben",
+    "answer": "du hast"
+  },
+  {
+    "question": "es / haben",
+    "answer": "es hat"
+  },
+  {
+    "question": "wir / haben",
+    "answer": "wir haben"
+  },
+  {
+    "question": "ihr / haben",
+    "answer": "ihr habt"
+  },
+  {
+    "question": "Sie / haben",
+    "answer": "Sie haben"
+  },
+  {
+    "question": "ich / sein",
+    "answer": "ich bin"
+  },
+  {
+    "question": "du / sein",
+    "answer": "du bist"
+  },
+  {
+    "question": "es / sein",
+    "answer": "es ist"
+  },
+  {
+    "question": "wir / sein",
+    "answer": "wir sind"
+  },
+  {
+    "question": "ihr / sein",
+    "answer": "ihr seid"
+  },
+  {
+    "question": "Sie / sein",
+    "answer": "Sie sind"
+  },
+  {
+    "question": "ich / machen",
+    "answer": "ich mache"
+  },
+  {
+    "question": "du / machen",
+    "answer": "du machst"
+  },
+  {
+    "question": "es / machen",
+    "answer": "es macht"
+  },
+  {
+    "question": "wir / machen",
+    "answer": "wir machen"
+  },
+  {
+    "question": "ihr / machen",
+    "answer": "ihr macht"
+  },
+  {
+    "question": "Sie / machen",
+    "answer": "Sie machen"
+  },
+  {
+    "question": "ich / besuchen",
+    "answer": "ich besuche"
+  },
+  {
+    "question": "du / besuchen",
+    "answer": "du besuchst"
+  },
+  {
+    "question": "es / besuchen",
+    "answer": "es besucht"
+  },
+  {
+    "question": "wir / besuchen",
+    "answer": "wir besuchen"
+  },
+  {
+    "question": "ihr / besuchen",
+    "answer": "ihr besucht"
+  },
+  {
+    "question": "Sie / besuchen",
+    "answer": "Sie besuchen"
+  },
+  {
+    "question": "ich / bekommen",
+    "answer": "ich bekomme"
+  },
+  {
+    "question": "du / bekommen",
+    "answer": "du bekommst"
+  },
+  {
+    "question": "es / bekommen",
+    "answer": "es bekommt"
+  },
+  {
+    "question": "wir / bekommen",
+    "answer": "wir bekommen"
+  },
+  {
+    "question": "ihr / bekommen",
+    "answer": "ihr bekommt"
+  },
+  {
+    "question": "Sie / bekommen",
+    "answer": "Sie bekommen"
+  },
+  {
+    "question": "ich / kommen",
+    "answer": "ich komme"
+  },
+  {
+    "question": "du / kommen",
+    "answer": "du kommst"
+  },
+  {
+    "question": "es / kommen",
+    "answer": "es kommt"
+  },
+  {
+    "question": "wir / kommen",
+    "answer": "wir kommen"
+  },
+  {
+    "question": "ihr / kommen",
+    "answer": "ihr kommt"
+  },
+  {
+    "question": "Sie / kommen",
+    "answer": "Sie kommen"
+  },
+  {
+    "question": "ich / sprechen",
+    "answer": "ich spreche"
+  },
+  {
+    "question": "du / sprechen",
+    "answer": "du sprichst"
+  },
+  {
+    "question": "es / sprechen",
+    "answer": "es spricht"
+  },
+  {
+    "question": "wir / sprechen",
+    "answer": "wir sprechen"
+  },
+  {
+    "question": "ihr / sprechen",
+    "answer": "ihr sprecht"
+  },
+  {
+    "question": "Sie / sprechen",
+    "answer": "Sie sprechen"
+  },
+  {
+    "question": "ich / brauchen",
+    "answer": "ich brauche"
+  },
+  {
+    "question": "du / brauchen",
+    "answer": "du brauchst"
+  },
+  {
+    "question": "es / brauchen",
+    "answer": "es braucht"
+  },
+  {
+    "question": "wir / brauchen",
+    "answer": "wir brauchen"
+  },
+  {
+    "question": "ihr / brauchen",
+    "answer": "ihr braucht"
+  },
+  {
+    "question": "Sie / brauchen",
+    "answer": "Sie brauchen"
+  },
+  {
+    "question": "ich / suchen",
+    "answer": "ich suche"
+  },
+  {
+    "question": "du / suchen",
+    "answer": "du suchst"
+  },
+  {
+    "question": "es / suchen",
+    "answer": "es sucht"
+  },
+  {
+    "question": "wir / suchen",
+    "answer": "wir suchen"
+  },
+  {
+    "question": "ihr / suchen",
+    "answer": "ihr sucht"
+  },
+  {
+    "question": "Sie / suchen",
+    "answer": "Sie suchen"
+  },
+  {
+    "question": "ich / schicken",
+    "answer": "ich schicke"
+  },
+  {
+    "question": "du / schicken",
+    "answer": "du schickst"
+  },
+  {
+    "question": "es / schicken",
+    "answer": "es schickt"
+  },
+  {
+    "question": "wir / schicken",
+    "answer": "wir schicken"
+  },
+  {
+    "question": "ihr / schicken",
+    "answer": "ihr schickt"
+  },
+  {
+    "question": "Sie / schicken",
+    "answer": "Sie schicken"
+  },
+  {
+    "question": "ich / antworten",
+    "answer": "ich antworte"
+  },
+  {
+    "question": "du / antworten",
+    "answer": "du antwortest"
+  },
+  {
+    "question": "es / antworten",
+    "answer": "es antwortet"
+  },
+  {
+    "question": "wir / antworten",
+    "answer": "wir antworten"
+  },
+  {
+    "question": "ihr / antworten",
+    "answer": "ihr antwortet"
+  },
+  {
+    "question": "Sie / antworten",
+    "answer": "Sie antworten"
+  },
+  {
+    "question": "ich / geben",
+    "answer": "ich gebe"
+  },
+  {
+    "question": "du / geben",
+    "answer": "du gibst"
+  },
+  {
+    "question": "es / geben",
+    "answer": "es gibt"
+  },
+  {
+    "question": "wir / geben",
+    "answer": "wir geben"
+  },
+  {
+    "question": "ihr / geben",
+    "answer": "ihr gebt"
+  },
+  {
+    "question": "Sie / geben",
+    "answer": "Sie geben"
+  },
+  {
+    "question": "ich / telefonieren",
+    "answer": "ich telefoniere"
+  },
+  {
+    "question": "du / telefonieren",
+    "answer": "du telefonierst"
+  },
+  {
+    "question": "es / telefonieren",
+    "answer": "es telefoniert"
+  },
+  {
+    "question": "wir / telefonieren",
+    "answer": "wir telefonieren"
+  },
+  {
+    "question": "ihr / telefonieren",
+    "answer": "ihr telefoniert"
+  },
+  {
+    "question": "Sie / telefonieren",
+    "answer": "Sie telefonieren"
+  },
+  {
+    "question": "ich / organisieren",
+    "answer": "ich organisiere"
+  },
+  {
+    "question": "du / organisieren",
+    "answer": "du organisierst"
+  },
+  {
+    "question": "es / organisieren",
+    "answer": "es organisiert"
+  },
+  {
+    "question": "wir / organisieren",
+    "answer": "wir organisieren"
+  },
+  {
+    "question": "ihr / organisieren",
+    "answer": "ihr organisiert"
+  },
+  {
+    "question": "Sie / organisieren",
+    "answer": "Sie organisieren"
+  },
+  {
+    "question": "ich / fahren",
+    "answer": "ich fahre"
+  },
+  {
+    "question": "du / fahren",
+    "answer": "du fährst"
+  },
+  {
+    "question": "es / fahren",
+    "answer": "es fährt"
+  },
+  {
+    "question": "wir / fahren",
+    "answer": "wir fahren"
+  },
+  {
+    "question": "ihr / fahren",
+    "answer": "ihr fahrt"
+  },
+  {
+    "question": "Sie / fahren",
+    "answer": "Sie fahren"
+  },
+  {
+    "question": "ich / kosten",
+    "answer": "ich koste"
+  },
+  {
+    "question": "du / kosten",
+    "answer": "du kostest"
+  },
+  {
+    "question": "es / kosten",
+    "answer": "es kostet"
+  },
+  {
+    "question": "wir / kosten",
+    "answer": "wir kosten"
+  },
+  {
+    "question": "ihr / kosten",
+    "answer": "ihr kostet"
+  },
+  {
+    "question": "Sie / kosten",
+    "answer": "Sie kosten"
+  },
+  {
+    "question": "ich / reisen",
+    "answer": "ich reise"
+  },
+  {
+    "question": "du / reisen",
+    "answer": "du reist"
+  },
+  {
+    "question": "es / reisen",
+    "answer": "es reist"
+  },
+  {
+    "question": "wir / reisen",
+    "answer": "wir reisen"
+  },
+  {
+    "question": "ihr / reisen",
+    "answer": "ihr reist"
+  },
+  {
+    "question": "Sie / reisen",
+    "answer": "Sie reisen"
+  },
+  {
+    "question": "ich / erledigen",
+    "answer": "ich erledige"
+  },
+  {
+    "question": "du / erledigen",
+    "answer": "du erledigst"
+  },
+  {
+    "question": "es / erledigen",
+    "answer": "es erledigt"
+  },
+  {
+    "question": "wir / erledigen",
+    "answer": "wir erledigen"
+  },
+  {
+    "question": "ihr / erledigen",
+    "answer": "ihr erledigt"
+  },
+  {
+    "question": "Sie / erledigen",
+    "answer": "Sie erledigen"
+  },
+  {
+    "question": "ich / laufen",
+    "answer": "ich laufe"
+  },
+  {
+    "question": "du / laufen",
+    "answer": "du läufst"
+  },
+  {
+    "question": "es / laufen",
+    "answer": "es läuft"
+  },
+  {
+    "question": "wir / laufen",
+    "answer": "wir laufen"
+  },
+  {
+    "question": "ihr / laufen",
+    "answer": "ihr lauft"
+  },
+  {
+    "question": "Sie / laufen",
+    "answer": "Sie laufen"
+  }
+]

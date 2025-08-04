@@ -1,0 +1,178 @@
+[
+  {
+    "question": "la clienta / las clientas",
+    "answer": "die Kundin / die Kundinnen"
+  },
+  {
+    "question": "Francia",
+    "answer": "Frankreich"
+  },
+  {
+    "question": "el lunes",
+    "answer": "der Montag"
+  },
+  {
+    "question": "la mañana / las mañanas",
+    "answer": "der Morgen / die Morgen"
+  },
+  {
+    "question": "el mensaje / los mensajes",
+    "answer": "die Nachricht / die Nachrichten"
+  },
+  {
+    "question": "el accidente / los accidentes",
+    "answer": "der Unfall / die Unfälle"
+  },
+  {
+    "question": "el problema / los problemas",
+    "answer": "das Problem / die Probleme"
+  },
+  {
+    "question": "la ayuda",
+    "answer": "die Hilfe"
+  },
+  {
+    "question": "el colega / los colegas",
+    "answer": "der Kollege / die Kollegen"
+  },
+  {
+    "question": "la solución / las soluciones",
+    "answer": "die Lösung / die Lösungen"
+  },
+  {
+    "question": "la ubicación / las ubicaciones",
+    "answer": "der Standort / die Standorte"
+  },
+  {
+    "question": "la mujer / las mujeres",
+    "answer": "die Frau / die Frauen"
+  },
+  {
+    "question": "la respuesta / las respuestas",
+    "answer": "die Antwort / die Antworten"
+  },
+  {
+    "question": "la información / las informaciones",
+    "answer": "die Information / die Informationen"
+  },
+  {
+    "question": "el hospital / los hospitales",
+    "answer": "das Krankenhaus / die Krankenhäuser"
+  },
+  {
+    "question": "la ambulancia / las ambulancias",
+    "answer": "der Krankenwagen / die Krankenwagen"
+  },
+  {
+    "question": "la llamada / las llamadas",
+    "answer": "der Anruf / die Anrufe"
+  },
+  {
+    "question": "la operación / las operaciones",
+    "answer": "die Operation / die Operationen"
+  },
+  {
+    "question": "el consentimiento / los consentimientos",
+    "answer": "die Zustimmung / die Zustimmungen"
+  },
+  {
+    "question": "el seguro / los seguros",
+    "answer": "die Versicherung / die Versicherungen"
+  },
+  {
+    "question": "la oficina de seguros / las oficinas de seguros",
+    "answer": "das Versicherungsbüro / die Versicherungsbüros"
+  },
+  {
+    "question": "la dificultad / las dificultades",
+    "answer": "die Schwierigkeit / die Schwierigkeiten"
+  },
+  {
+    "question": "las vacaciones",
+    "answer": "der Urlaub / die Urlaube"
+  },
+  {
+    "question": "la amiga / las amigas",
+    "answer": "die Freundin / die Freundinnen"
+  },
+  {
+    "question": "grande",
+    "answer": "groß"
+  },
+  {
+    "question": "tener",
+    "answer": "haben"
+  },
+  {
+    "question": "ser / estar",
+    "answer": "sein"
+  },
+  {
+    "question": "hacer",
+    "answer": "machen"
+  },
+  {
+    "question": "visitar",
+    "answer": "besuchen"
+  },
+  {
+    "question": "recibir",
+    "answer": "bekommen"
+  },
+  {
+    "question": "venir",
+    "answer": "kommen"
+  },
+  {
+    "question": "hablar",
+    "answer": "sprechen"
+  },
+  {
+    "question": "necesitar",
+    "answer": "brauchen"
+  },
+  {
+    "question": "buscar",
+    "answer": "suchen"
+  },
+  {
+    "question": "enviar",
+    "answer": "schicken"
+  },
+  {
+    "question": "responder",
+    "answer": "antworten"
+  },
+  {
+    "question": "dar",
+    "answer": "geben"
+  },
+  {
+    "question": "telefonear",
+    "answer": "telefonieren"
+  },
+  {
+    "question": "organizar",
+    "answer": "organisieren"
+  },
+  {
+    "question": "conducir / ir",
+    "answer": "fahren"
+  },
+  {
+    "question": "costar",
+    "answer": "kosten"
+  },
+  {
+    "question": "viajar",
+    "answer": "reisen"
+  },
+  {
+    "question": "resolver o gestionar",
+    "answer": "erledigen"
+  },
+  {
+    "question": "correr o transcurrir",
+    "answer": "laufen"
+  }
+]
