@@ -1,506 +1,506 @@
 [
 {
     "question": "ich / können",
-    "answer": "ich kann"
+    "answer": "ich kann - ich konnte"
 },
 {
     "question": "du / können",
-    "answer": "du kannst"
+    "answer": "du kannst - du konntest"
 },
 {
     "question": "er/sie/es / können",
-    "answer": "er/sie/es kann"
+    "answer": "sie kann - sie konnte"
 },
 {
     "question": "wir / können",
-    "answer": "wir können"
+    "answer": "wir können - wir konnten"
 },
 {
     "question": "ihr / können",
-    "answer": "ihr könnt"
+    "answer": "ihr könnt - ihr konntet"
 },
 {
     "question": "sie/Sie / können",
-    "answer": "sie/Sie können"
+    "answer": "Sie können - Sie konnten"
 },
 {
     "question": "ich / machen",
-    "answer": "ich mache"
+    "answer": "ich mache - ich habe gemacht"
 },
 {
     "question": "du / machen",
-    "answer": "du machst"
+    "answer": "du machst - du hast gemacht"
 },
 {
     "question": "er/sie/es / machen",
-    "answer": "er/sie/es macht"
+    "answer": "sie macht - sie hat gemacht"
 },
 {
     "question": "wir / machen",
-    "answer": "wir machen"
+    "answer": "wir machen - wir haben gemacht"
 },
 {
     "question": "ihr / machen",
-    "answer": "ihr macht"
+    "answer": "ihr macht - ihr habt gemacht"
 },
 {
     "question": "sie/Sie / machen",
-    "answer": "sie/Sie machen"
+    "answer": "Sie machen - Sie haben gemacht"
 },
 {
     "question": "ich / haben",
-    "answer": "ich habe"
+    "answer": "ich habe - ich hatte"
 },
 {
     "question": "du / haben",
-    "answer": "du hast"
+    "answer": "du hast - du hattest"
 },
 {
     "question": "er/sie/es / haben",
-    "answer": "er/sie/es hat"
+    "answer": "sie hat - sie hatte"
 },
 {
     "question": "wir / haben",
-    "answer": "wir haben"
+    "answer": "wir haben - wir hatten"
 },
 {
     "question": "ihr / haben",
-    "answer": "ihr habt"
+    "answer": "ihr habt - ihr hattet"
 },
 {
     "question": "sie/Sie / haben",
-    "answer": "sie/Sie haben"
+    "answer": "Sie haben - Sie hatten"
 },
 {
     "question": "ich / hören",
-    "answer": "ich höre"
+    "answer": "ich höre - ich habe gehört"
 },
 {
     "question": "du / hören",
-    "answer": "du hörst"
+    "answer": "du hörst - du hast gehört"
 },
 {
     "question": "er/sie/es / hören",
-    "answer": "er/sie/es hört"
+    "answer": "sie hört - sie hat gehört"
 },
 {
     "question": "wir / hören",
-    "answer": "wir hören"
+    "answer": "wir hören - wir haben gehört"
 },
 {
     "question": "ihr / hören",
-    "answer": "ihr hört"
+    "answer": "ihr hört - ihr habt gehört"
 },
 {
     "question": "sie/Sie / hören",
-    "answer": "sie/Sie hören"
+    "answer": "Sie hören - Sie haben gehört"
 },
 {
     "question": "ich / liegen",
-    "answer": "ich liege"
+    "answer": "ich liege - ich habe gelegen"
 },
 {
     "question": "du / liegen",
-    "answer": "du liegst"
+    "answer": "du liegst - du hast gelegen"
 },
 {
     "question": "er/sie/es / liegen",
-    "answer": "er/sie/es liegt"
+    "answer": "sie liegt - sie hat gelegen"
 },
 {
     "question": "wir / liegen",
-    "answer": "wir liegen"
+    "answer": "wir liegen - wir haben gelegen"
 },
 {
     "question": "ihr / liegen",
-    "answer": "ihr liegt"
+    "answer": "ihr liegt - ihr habt gelegen"
 },
 {
     "question": "sie/Sie / liegen",
-    "answer": "sie/Sie liegen"
+    "answer": "Sie liegen - Sie haben gelegen"
 },
 {
     "question": "ich / erreichen",
-    "answer": "ich erreiche"
+    "answer": "ich erreiche - ich habe erreicht"
 },
 {
     "question": "du / erreichen",
-    "answer": "du erreichst"
+    "answer": "du erreichst - du hast erreicht"
 },
 {
     "question": "er/sie/es / erreichen",
-    "answer": "er/sie/es erreicht"
+    "answer": "sie erreicht - sie hat erreicht"
 },
 {
     "question": "wir / erreichen",
-    "answer": "wir erreichen"
+    "answer": "wir erreichen - wir haben erreicht"
 },
 {
     "question": "ihr / erreichen",
-    "answer": "ihr erreicht"
+    "answer": "ihr erreicht - ihr habt erreicht"
 },
 {
     "question": "sie/Sie / erreichen",
-    "answer": "sie/Sie erreichen"
+    "answer": "Sie erreichen - Sie haben erreicht"
 },
 {
     "question": "ich / geben",
-    "answer": "ich gebe"
+    "answer": "ich gebe - ich habe gegeben"
 },
 {
     "question": "du / geben",
-    "answer": "du gibst"
+    "answer": "du gibst - du hast gegeben"
 },
 {
     "question": "er/sie/es / geben",
-    "answer": "er/sie/es gibt"
+    "answer": "sie gibt - sie hat gegeben"
 },
 {
     "question": "wir / geben",
-    "answer": "wir geben"
+    "answer": "wir geben - wir haben gegeben"
 },
 {
     "question": "ihr / geben",
-    "answer": "ihr gebt"
+    "answer": "ihr gebt - ihr habt gegeben"
 },
 {
     "question": "sie/Sie / geben",
-    "answer": "sie/Sie geben"
+    "answer": "Sie geben - Sie haben gegeben"
 },
 {
     "question": "ich / besichtigen",
-    "answer": "ich besichtige"
+    "answer": "ich besichtige - ich habe besichtigt"
 },
 {
     "question": "du / besichtigen",
-    "answer": "du besichtigst"
+    "answer": "du besichtigst - du hast besichtigt"
 },
 {
     "question": "er/sie/es / besichtigen",
-    "answer": "er/sie/es besichtigt"
+    "answer": "sie besichtigt - sie hat besichtigt"
 },
 {
     "question": "wir / besichtigen",
-    "answer": "wir besichtigen"
+    "answer": "wir besichtigen - wir haben besichtigt"
 },
 {
     "question": "ihr / besichtigen",
-    "answer": "ihr besichtigt"
+    "answer": "ihr besichtigt - ihr habt besichtigt"
 },
 {
     "question": "sie/Sie / besichtigen",
-    "answer": "sie/Sie besichtigen"
+    "answer": "Sie besichtigen - Sie haben besichtigt"
 },
 {
     "question": "ich / essen",
-    "answer": "ich esse"
+    "answer": "ich esse - ich habe gegessen"
 },
 {
     "question": "du / essen",
-    "answer": "du isst"
+    "answer": "du isst - du hast gegessen"
 },
 {
     "question": "er/sie/es / essen",
-    "answer": "er/sie/es isst"
+    "answer": "sie isst - sie hat gegessen"
 },
 {
     "question": "wir / essen",
-    "answer": "wir essen"
+    "answer": "wir essen - wir haben gegessen"
 },
 {
     "question": "ihr / essen",
-    "answer": "ihr esst"
+    "answer": "ihr esst - ihr habt gegessen"
 },
 {
     "question": "sie/Sie / essen",
-    "answer": "sie/Sie essen"
+    "answer": "Sie essen - Sie haben gegessen"
 },
 {
     "question": "ich / probieren",
-    "answer": "ich probiere"
+    "answer": "ich probiere - ich habe probiert"
 },
 {
     "question": "du / probieren",
-    "answer": "du probierst"
+    "answer": "du probierst - du hast probiert"
 },
 {
     "question": "er/sie/es / probieren",
-    "answer": "er/sie/es probiert"
+    "answer": "sie probiert - sie hat probiert"
 },
 {
     "question": "wir / probieren",
-    "answer": "wir probieren"
+    "answer": "wir probieren - wir haben probiert"
 },
 {
     "question": "ihr / probieren",
-    "answer": "ihr probiert"
+    "answer": "ihr probiert - ihr habt probiert"
 },
 {
     "question": "sie/Sie / probieren",
-    "answer": "sie/Sie probieren"
+    "answer": "Sie probieren - Sie haben probiert"
 },
 {
     "question": "ich / trinken",
-    "answer": "ich trinke"
+    "answer": "ich trinke - ich habe getrunken"
 },
 {
     "question": "du / trinken",
-    "answer": "du trinkst"
+    "answer": "du trinkst - du hast getrunken"
 },
 {
     "question": "er/sie/es / trinken",
-    "answer": "er/sie/es trinkt"
+    "answer": "sie trinkt - sie hat getrunken"
 },
 {
     "question": "wir / trinken",
-    "answer": "wir trinken"
+    "answer": "wir trinken - wir haben getrunken"
 },
 {
     "question": "ihr / trinken",
-    "answer": "ihr trinkt"
+    "answer": "ihr trinkt - ihr habt getrunken"
 },
 {
     "question": "sie/Sie / trinken",
-    "answer": "sie/Sie trinken"
+    "answer": "Sie trinken - Sie haben getrunken"
 },
 {
     "question": "ich / fahren",
-    "answer": "ich fahre"
+    "answer": "ich fahre - ich bin gefahren"
 },
 {
     "question": "du / fahren",
-    "answer": "du fährst"
+    "answer": "du fährst - du bist gefahren"
 },
 {
     "question": "er/sie/es / fahren",
-    "answer": "er/sie/es fährt"
+    "answer": "sie fährt - sie ist gefahren"
 },
 {
     "question": "wir / fahren",
-    "answer": "wir fahren"
+    "answer": "wir fahren - wir sind gefahren"
 },
 {
     "question": "ihr / fahren",
-    "answer": "ihr fahrt"
+    "answer": "ihr fahrt - ihr seid gefahren"
 },
 {
     "question": "sie/Sie / fahren",
-    "answer": "sie/Sie fahren"
+    "answer": "Sie fahren - Sie sind gefahren"
 },
 {
     "question": "ich / spazieren gehen",
-    "answer": "ich gehe spazieren"
+    "answer": "ich gehe spazieren - ich bin spazieren gegangen"
 },
 {
     "question": "du / spazieren gehen",
-    "answer": "du gehst spazieren"
+    "answer": "du gehst spazieren - du bist spazieren gegangen"
 },
 {
     "question": "er/sie/es / spazieren gehen",
-    "answer": "er/sie/es geht spazieren"
+    "answer": "sie geht spazieren - sie ist spazieren gegangen"
 },
 {
     "question": "wir / spazieren gehen",
-    "answer": "wir gehen spazieren"
+    "answer": "wir gehen spazieren - wir sind spazieren gegangen"
 },
 {
     "question": "ihr / spazieren gehen",
-    "answer": "ihr geht spazieren"
+    "answer": "ihr geht spazieren - ihr seid spazieren gegangen"
 },
 {
     "question": "sie/Sie / spazieren gehen",
-    "answer": "sie/Sie gehen spazieren"
+    "answer": "Sie gehen spazieren - Sie sind spazieren gegangen"
 },
 {
     "question": "ich / gehen",
-    "answer": "ich gehe"
+    "answer": "ich gehe - ich bin gegangen"
 },
 {
     "question": "du / gehen",
-    "answer": "du gehst"
+    "answer": "du gehst - du bist gegangen"
 },
 {
     "question": "er/sie/es / gehen",
-    "answer": "er/sie/es geht"
+    "answer": "sie geht - sie ist gegangen"
 },
 {
     "question": "wir / gehen",
-    "answer": "wir gehen"
+    "answer": "wir gehen - wir sind gegangen"
 },
 {
     "question": "ihr / gehen",
-    "answer": "ihr geht"
+    "answer": "ihr geht - ihr seid gegangen"
 },
 {
     "question": "sie/Sie / gehen",
-    "answer": "sie/Sie gehen"
+    "answer": "Sie gehen - Sie sind gegangen"
 },
 {
     "question": "ich / sich entspannen",
-    "answer": "ich entspanne mich"
+    "answer": "ich entspanne mich - ich habe mich entspannt"
 },
 {
     "question": "du / sich entspannen",
-    "answer": "du entspannst dich"
+    "answer": "du entspannst dich - du hast dich entspannt"
 },
 {
     "question": "er/sie/es / sich entspannen",
-    "answer": "er/sie/es entspannt sich"
+    "answer": "sie entspannt sich - sie hat sich entspannt"
 },
 {
     "question": "wir / sich entspannen",
-    "answer": "wir entspannen uns"
+    "answer": "wir entspannen uns - wir haben uns entspannt"
 },
 {
     "question": "ihr / sich entspannen",
-    "answer": "ihr entspannt euch"
+    "answer": "ihr entspannt euch - ihr habt euch entspannt"
 },
 {
     "question": "sie/Sie / sich entspannen",
-    "answer": "sie/Sie entspannen sich"
+    "answer": "Sie entspannen sich - Sie haben sich entspannt"
 },
 {
     "question": "ich / besuchen",
-    "answer": "ich besuche"
+    "answer": "ich besuche - ich habe besucht"
 },
 {
     "question": "du / besuchen",
-    "answer": "du besuchst"
+    "answer": "du besuchst - du hast besucht"
 },
 {
     "question": "er/sie/es / besuchen",
-    "answer": "er/sie/es besucht"
+    "answer": "sie besucht - sie hat besucht"
 },
 {
     "question": "wir / besuchen",
-    "answer": "wir besuchen"
+    "answer": "wir besuchen - wir haben besucht"
 },
 {
     "question": "ihr / besuchen",
-    "answer": "ihr besucht"
+    "answer": "ihr besucht - ihr habt besucht"
 },
 {
     "question": "sie/Sie / besuchen",
-    "answer": "sie/Sie besuchen"
+    "answer": "Sie besuchen - Sie haben besucht"
 },
 {
     "question": "ich / laufen",
-    "answer": "ich laufe"
+    "answer": "ich laufe - ich bin gelaufen"
 },
 {
     "question": "du / laufen",
-    "answer": "du läufst"
+    "answer": "du läufst - du bist gelaufen"
 },
 {
     "question": "er/sie/es / laufen",
-    "answer": "er/sie/es läuft"
+    "answer": "sie läuft - sie ist gelaufen"
 },
 {
     "question": "wir / laufen",
-    "answer": "wir laufen"
+    "answer": "wir laufen - wir sind gelaufen"
 },
 {
     "question": "ihr / laufen",
-    "answer": "ihr lauft"
+    "answer": "ihr lauft - ihr seid gelaufen"
 },
 {
     "question": "sie/Sie / laufen",
-    "answer": "sie/Sie laufen"
+    "answer": "Sie laufen - Sie sind gelaufen"
 },
 {
     "question": "ich / müssen",
-    "answer": "ich muss"
+    "answer": "ich muss - ich habe gemusst"
 },
 {
     "question": "du / müssen",
-    "answer": "du musst"
+    "answer": "du musst - du hast gemusst"
 },
 {
     "question": "er/sie/es / müssen",
-    "answer": "er/sie/es muss"
+    "answer": "sie muss - sie hat gemusst"
 },
 {
     "question": "wir / müssen",
-    "answer": "wir müssen"
+    "answer": "wir müssen - wir haben gemusst"
 },
 {
     "question": "ihr / müssen",
-    "answer": "ihr müsst"
+    "answer": "ihr müsst - ihr habt gemusst"
 },
 {
     "question": "sie/Sie / müssen",
-    "answer": "sie/Sie müssen"
+    "answer": "Sie müssen - Sie haben gemusst"
 },
 {
     "question": "ich / mieten",
-    "answer": "ich miete"
+    "answer": "ich miete - ich habe gemietet"
 },
 {
     "question": "du / mieten",
-    "answer": "du mietest"
+    "answer": "du mietest - du hast gemietet"
 },
 {
     "question": "er/sie/es / mieten",
-    "answer": "er/sie/es mietet"
+    "answer": "sie mietet - sie hat gemietet"
 },
 {
     "question": "wir / mieten",
-    "answer": "wir mieten"
+    "answer": "wir mieten - wir haben gemietet"
 },
 {
     "question": "ihr / mieten",
-    "answer": "ihr mietet"
+    "answer": "ihr mietet - ihr habt gemietet"
 },
 {
     "question": "sie/Sie / mieten",
-    "answer": "sie/Sie mieten"
+    "answer": "Sie mieten - Sie haben gemietet"
 },
 {
     "question": "ich / sehen",
-    "answer": "ich sehe"
+    "answer": "ich sehe - ich habe gesehen"
 },
 {
     "question": "du / sehen",
-    "answer": "du siehst"
+    "answer": "du siehst - du hast gesehen"
 },
 {
     "question": "er/sie/es / sehen",
-    "answer": "er/sie/es sieht"
+    "answer": "sie sieht - sie hat gesehen"
 },
 {
     "question": "wir / sehen",
-    "answer": "wir sehen"
+    "answer": "wir sehen - wir haben gesehen"
 },
 {
     "question": "ihr / sehen",
-    "answer": "ihr seht"
+    "answer": "ihr seht - ihr habt gesehen"
 },
 {
     "question": "sie/Sie / sehen",
-    "answer": "sie/Sie sehen"
+    "answer": "Sie sehen - Sie haben gesehen"
 },
 {
     "question": "ich / brauchen",
-    "answer": "ich brauche"
+    "answer": "ich brauche - ich habe gebraucht"
 },
 {
     "question": "du / brauchen",
-    "answer": "du brauchst"
+    "answer": "du brauchst - du hast gebraucht"
 },
 {
     "question": "er/sie/es / brauchen",
-    "answer": "er/sie/es braucht"
+    "answer": "sie braucht - sie hat gebraucht"
 },
 {
     "question": "wir / brauchen",
-    "answer": "wir brauchen"
+    "answer": "wir brauchen - wir haben gebraucht"
 },
 {
     "question": "ihr / brauchen",
-    "answer": "ihr braucht"
+    "answer": "ihr braucht - ihr habt gebraucht"
 },
 {
     "question": "sie/Sie / brauchen",
-    "answer": "sie/Sie brauchen"
+    "answer": "Sie brauchen - Sie haben gebraucht"
 }
 ]
