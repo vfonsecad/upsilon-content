@@ -1,0 +1,182 @@
+[
+  {
+    "question": "la mesa / las mesas",
+    "answer": "der Tisch / die Tische"
+  },
+  {
+    "question": "el agua",
+    "answer": "das Wasser"
+  },
+  {
+    "question": "el té ",
+    "answer": "der Tee "
+  },
+  {
+    "question": "la pizza / las pizzas",
+    "answer": "die Pizza / die Pizzen"
+  },
+  {
+    "question": "el plato / los platos - (Essen)",
+    "answer": "das Gericht / die Gerichte"
+  },
+  {
+    "question": "la ensalada / las ensaladas",
+    "answer": "der Salat / die Salate"
+  },
+  {
+    "question": "el pollo / los pollos",
+    "answer": "das Hähnchen / die Hähnchen"
+  },
+  {
+    "question": "la comida / las comidas",
+    "answer": "das Essen / die Essen"
+  },
+  {
+    "question": "el cambio ",
+    "answer": "das Wechselgeld "
+  },
+  {
+    "question": "la soda / las sodas",
+    "answer": "das Soda / die Sodas"
+  },
+  {
+    "question": "el plato / los platos (Teil des Geschirrs)",
+    "answer": "der Teller / die Teller"
+  },
+  {
+    "question": "el cuchillo / los cuchillos",
+    "answer": "das Messer / die Messer"
+  },
+  {
+    "question": "la cuchara / las cucharas",
+    "answer": "der Löffel / die Löffel"
+  },
+  {
+    "question": "el vaso / los vasos",
+    "answer": "das Glas / die Gläser"
+  },
+  {
+    "question": "la botella / las botellas",
+    "answer": "die Flasche / die Flaschen"
+  },
+  {
+    "question": "la taza / las tazas",
+    "answer": "der Becher / die Becher"
+  },
+  {
+    "question": "la servilleta / las servilletas",
+    "answer": "die Serviette / die Servietten"
+  },
+  {
+    "question": "el tenedor / los tenedores",
+    "answer": "die Gabel / die Gabeln"
+  },
+  {
+    "question": "la silla / las sillas",
+    "answer": "der Stuhl / die Stühle"
+  },
+  {
+    "question": "la carta / las cartas",
+    "answer": "die Karte / die Karten"
+  },
+  {
+    "question": "la cuenta / las cuentas",
+    "answer": "die Rechnung / die Rechnungen"
+  },
+  {
+    "question": "el ingrediente / los ingredientes",
+    "answer": "die Zutat / die Zutaten"
+  },
+  {
+    "question": "el cliente / los clientes",
+    "answer": "der Kunde / die Kunden"
+  },
+  {
+    "question": "la clienta / las clientas",
+    "answer": "die Kundin / die Kundinnen"
+  },
+  {
+    "question": "el pedido / los pedidos",
+    "answer": "die Bestellung / die Bestellungen"
+  },
+  {
+    "question": "bonito/a",
+    "answer": "schön"
+  },
+  {
+    "question": "bueno/a",
+    "answer": "gut"
+  },
+  {
+    "question": "claro/a",
+    "answer": "klar"
+  },
+  {
+    "question": "fresco/a",
+    "answer": "frisch"
+  },
+  {
+    "question": "dulce",
+    "answer": "süß"
+  },
+  {
+    "question": "salado/a",
+    "answer": "salzig"
+  },
+  {
+    "question": "amargo/a",
+    "answer": "bitter"
+  },
+  {
+    "question": "venir con",
+    "answer": "mitkommen"
+  },
+  {
+    "question": "ser / estar",
+    "answer": "sein"
+  },
+  {
+    "question": "querer",
+    "answer": "möchten"
+  },
+  {
+    "question": "beber",
+    "answer": "trinken"
+  },
+  {
+    "question": "tomar / coger",
+    "answer": "nehmen"
+  },
+  {
+    "question": "pedir",
+    "answer": "bestellen"
+  },
+  {
+    "question": "hacer",
+    "answer": "machen"
+  },
+  {
+    "question": "ir",
+    "answer": "gehen"
+  },
+  {
+    "question": "pagar",
+    "answer": "bezahlen"
+  },
+  {
+    "question": "necesitar",
+    "answer": "brauchen"
+  },
+  {
+    "question": "comer",
+    "answer": "essen"
+  },
+  {
+    "question": "traer",
+    "answer": "bringen"
+  },
+  {
+    "question": "dar",
+    "answer": "geben"
+  }
+]
