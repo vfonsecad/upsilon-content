@@ -25,11 +25,14 @@
     "die Schwierigkeit / die Schwierigkeiten"
   ],
   "Verben": [
+   "brauchen",
+    "haben",
+    "sein",
     "machen",
     "besuchen",
     "bekommen",
+    "kommen",
     "sprechen",
-    "brauchen",
     "suchen",
     "schicken",
     "antworten",
@@ -37,9 +40,24 @@
     "telefonieren",
     "organisieren",
     "fahren",
-    "kosten",
     "reisen",
     "erledigen",
-    "laufen"
-  ]
+    "laufen",
+    "operieren",
+    "bleiben",
+    "bringen",
+    "essen",
+    "nehmen",
+    "chatten",
+    "lachen",
+    "wohnen",
+    "arbeiten",
+    "kochen",
+    "putzen",
+    "beenden",
+    "fliegen",
+    "bezahlen",
+    "dauern",
+    "landen"
+    ]
 }
