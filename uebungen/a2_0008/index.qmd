@@ -20,54 +20,19 @@ format:
                 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Major+Mono+Display">
 ---
 
-
 # Wörter
 
 ## 
 
 
-| Nomen                                           | Adjektive                                      | Verben                                    |
-|------------------------------------------------|-----------------------------------------------|------------------------------------------|
-| <span class="fragment" data-fragment-index="1">die Stadt / die Städte</span>       | <span class="fragment" data-fragment-index="1">steil</span>        | <span class="fragment" data-fragment-index="1">geben</span>        |
-| <span class="fragment" data-fragment-index="2">der Berg / die Berge</span>        | <span class="fragment" data-fragment-index="2">hoch</span>         |                                          |
-| <span class="fragment" data-fragment-index="2">die Standseilbahn / -bahnen</span> | <span class="fragment" data-fragment-index="2">mehr</span>         | <span class="fragment" data-fragment-index="2">kommen</span>       |
-| <span class="fragment" data-fragment-index="3">die Schiene / die Schienen</span>  |                                           | <span class="fragment" data-fragment-index="3">fahren</span>       |
-|                                                |                                               | <span class="fragment" data-fragment-index="4">verunglücken</span> |
-| <span class="fragment" data-fragment-index="5">das Foto / die Fotos</span>        |                                               | <span class="fragment" data-fragment-index="5">zeigen</span>       |
-|                                                |                                               | <span class="fragment" data-fragment-index="5">zerstören</span>    |
-: {tbl-colwidths="[50,25,25]"}
-
-
-
-## 
-
-
-| Nomen                                           | Adjektive                                      | Verben                                    |
-|------------------------------------------------|-----------------------------------------------|------------------------------------------|
-| <span class="fragment" data-fragment-index="6">das Unglück / die Unglücke</span>  |                                               | <span class="fragment" data-fragment-index="6">sterben</span>      |
-| <span class="fragment" data-fragment-index="6">der Mensch / die Menschen</span>   |                                               |                                          |
-| <span class="fragment" data-fragment-index="7">der Film / die Filme</span>        |                                               |                                          |
-| <span class="fragment" data-fragment-index="8">das Bild / die Bilder</span>       | <span class="fragment" data-fragment-index="8">gelb</span>          |                                          |
-| <span class="fragment" data-fragment-index="9">der Zustand / die Zustände</span>  |                                               | <span class="fragment" data-fragment-index="9">stehen</span>       |
-|                                                |                                               | <span class="fragment" data-fragment-index="9">liegen</span>       |
-|                                                |                                               | <span class="fragment" data-fragment-index="10">springen</span>    |
-: {tbl-colwidths="[50,25,25]"}
-
-
-## 
-
-
-| Nomen                                           | Adjektive                                      | Verben                                    |
-|------------------------------------------------|-----------------------------------------------|------------------------------------------|
-| <span class="fragment" data-fragment-index="11">das Haus / die Häuser</span>     |                                               | <span class="fragment" data-fragment-index="11">rammen</span>      |
-| <span class="fragment" data-fragment-index="12">die Polizei </span>|                                               | <span class="fragment" data-fragment-index="12">untersuchen</span> |
-|                                                |                                               | <span class="fragment" data-fragment-index="12">passieren</span>   |
-| <span class="fragment" data-fragment-index="13">der Urlauber / die Urlauber</span>|                                               | <span class="fragment" data-fragment-index="13">belieben</span>    |
-| <span class="fragment" data-fragment-index="14">die Familie / die Familien</span> |                                               | <span class="fragment" data-fragment-index="14">wollen</span>      |
-|                                                |                                               | <span class="fragment" data-fragment-index="14">mitfahren</span>   |
-| <span class="fragment" data-fragment-index="15">der Vater / die Väter</span>     |                                               | <span class="fragment" data-fragment-index="15">sagen</span>       |
-| <span class="fragment" data-fragment-index="15">die Warteschlange / -schlangen</span> | <span class="fragment" data-fragment-index="15">lang</span> | <span class="fragment" data-fragment-index="15">gehen</span>       |
-|                                                | <span class="fragment" data-fragment-index="15">froh</span> |                                          |
+| Nomen                                                       | Adjektive                                         | Verben                                   |
+|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| <span class="fragment" data-fragment-index="1">das Land / die Länder</span>             | <span class="fragment" data-fragment-index="1">reich</span>        | <span class="fragment" data-fragment-index="1">sein</span>         |
+| <span class="fragment" data-fragment-index="1">die Tradition / die Traditionen</span>   |                                                  |                                         |
+| <span class="fragment" data-fragment-index="1">die Kultur / die Kulturen</span>         |                                                  |                                         |
+| <span class="fragment" data-fragment-index="2">die Musik </span>          |                                                  |                                         |
+| <span class="fragment" data-fragment-index="2">die Kunst / die Künste</span>            |                                                  |                                         |
+| <span class="fragment" data-fragment-index="2">das Fest / die Feste</span>              | <span class="fragment" data-fragment-index="2">wichtig</span>      |                                         |
 : {tbl-colwidths="[50,25,25]"}
 
 
@@ -76,110 +41,184 @@ format:
 
 
 
-| Nomen                                           | Adjektive                                      | Verben                                    |
-|------------------------------------------------|-----------------------------------------------|------------------------------------------|
-| <span class="fragment" data-fragment-index="16">der Helfer / die Helfer</span>   |                                               | <span class="fragment" data-fragment-index="16">sich kümmern</span>|
-| <span class="fragment" data-fragment-index="16">der Tote / die Toten</span>      |                                               |                                          |
-| <span class="fragment" data-fragment-index="16">der Verletzte / die Verletzten</span> |                                           |                                          |
-| <span class="fragment" data-fragment-index="17">das Opfer / die Opfer</span>      | <span class="fragment" data-fragment-index="17">deutsch</span>      |                                          |
-| <span class="fragment" data-fragment-index="18">der Bürgermeister / </span>|                                               | <span class="fragment" data-fragment-index="18">trauern</span>     |
-| <span class="fragment" data-fragment-index="18">die Tragödie / die Tragödien</span>|                                               | <span class="fragment" data-fragment-index="18">erleben</span>     |
-| <span class="fragment" data-fragment-index="19">das Jahr / die Jahre</span>       |                                               | <span class="fragment" data-fragment-index="20">dürfen</span>      |
-|                                                |                                               | <span class="fragment" data-fragment-index="21">herausfinden</span>|
+| Nomen                                                       | Adjektive                                         | Verben                                   |
+|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| <span class="fragment" data-fragment-index="3">die Stadt / die Städte</span>            |                                                  | <span class="fragment" data-fragment-index="3">geben</span>        |
+| <span class="fragment" data-fragment-index="3">das Museum / die Museen</span>           |                                                  |                                         |
+| <span class="fragment" data-fragment-index="3">das Theater / die Theater</span>         |                                                  |                                         |
+| <span class="fragment" data-fragment-index="3">das Konzert / die Konzerte</span>        |                                                  |                                         |
+| <span class="fragment" data-fragment-index="4">die Tracht / die Trachten</span>         | <span class="fragment" data-fragment-index="4">regional</span>     | <span class="fragment" data-fragment-index="4">gehören</span>      |
+| <span class="fragment" data-fragment-index="4">der Brauch / die Bräuche</span>          |                                                  |                                         |
+| <span class="fragment" data-fragment-index="5">das Teil / die Teile</span>              |                                                  |                                         |
+| <span class="fragment" data-fragment-index="5">das Zusammensein  </span> |                                                  |                                         |
+: {tbl-colwidths="[50,25,25]"}
+
+
+## 
+
+| Nomen                                                       | Adjektive                                         | Verben                                   |
+|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| <span class="fragment" data-fragment-index="6">der Mensch / die Menschen</span>         | <span class="fragment" data-fragment-index="6">gern</span>         | <span class="fragment" data-fragment-index="6">sich treffen</span> |
+| <span class="fragment" data-fragment-index="6">das Kaffeehaus / die Kaffeehäuser</span> |                                                  |                                         |
+| <span class="fragment" data-fragment-index="7">die Familie / die Familien</span>        | <span class="fragment" data-fragment-index="7">groß</span>         | <span class="fragment" data-fragment-index="7">spielen</span>      |
+| <span class="fragment" data-fragment-index="7">der Freund / die Freunde</span>          |                                                  |                                         |
+| <span class="fragment" data-fragment-index="7">die Rolle / die Rollen</span>            |                                                  |                                         |
+| <span class="fragment" data-fragment-index="8">das Essen </span>            | <span class="fragment" data-fragment-index="8">gut</span>          | <span class="fragment" data-fragment-index="8">haben</span>        |
+| <span class="fragment" data-fragment-index="8">die Kleidung </span>    | <span class="fragment" data-fragment-index="8">traditionell</span> |                                         |
+: {tbl-colwidths="[50,25,25]"}
+
+
+## 
+
+| Nomen                                                       | Adjektive                                         | Verben                                   |
+|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| <span class="fragment" data-fragment-index="9">die Arbeit / die Arbeiten</span>         | <span class="fragment" data-fragment-index="9">interessant</span>  |                                         |
+| <span class="fragment" data-fragment-index="10">die Pünktlichkeit </span>            |                                                  |                                         |
+| <span class="fragment" data-fragment-index="11">der Termin / die Termine</span>         | <span class="fragment" data-fragment-index="11">wirklich</span>    | <span class="fragment" data-fragment-index="11">beginnen</span>    |
+|                                                             |                                                  | <span class="fragment" data-fragment-index="11">müssen</span>      |
+|                                                             | <span class="fragment" data-fragment-index="12">höflich</span>     | <span class="fragment" data-fragment-index="12">sprechen</span>    |
+|                                                             | <span class="fragment" data-fragment-index="12">respektvoll</span>|                                         |
+: {tbl-colwidths="[50,25,25]"}
+
+
+## 
+
+| Nomen                                                       | Adjektive                                         | Verben                                   |
+|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| <span class="fragment" data-fragment-index="13">die Teamarbeit </span>               | <span class="fragment" data-fragment-index="13">klar</span>        |                                         |
+| <span class="fragment" data-fragment-index="13">die Regel / die Regeln</span>           |                                                  |                                         |
+| <span class="fragment" data-fragment-index="14">das Problem / die Probleme</span>       |                                                  |                                         |
+| <span class="fragment" data-fragment-index="14">der Chef / die Chefs</span>             |                                                  |                                         |
+| <span class="fragment" data-fragment-index="14">die Chefin / die Chefinnen</span>       |                                                  |                                         |
+| <span class="fragment" data-fragment-index="15">die Firma / die Firmen</span>           |                                                  | <span class="fragment" data-fragment-index="15">unterstützen</span>|
+| <span class="fragment" data-fragment-index="15">der Betriebsrat / die Betriebsräte</span>|                                                  |                                         |
+| <span class="fragment" data-fragment-index="15">die Mitarbeiter:innen</span>            |                                                  |                                         |
 : {tbl-colwidths="[50,25,25]"}
 
 
 
 ## 
 
-Wir bauen Sätze mit den Verben auf:
+| Nomen                                                       | Adjektive                                         | Verben                                   |
+|-------------------------------------------------------------|--------------------------------------------------|-----------------------------------------|
+| <span class="fragment" data-fragment-index="16">die Arbeitnehmer:innen</span>           |                                                  |                                         |
+| <span class="fragment" data-fragment-index="16">das Recht / die Rechte</span>           |                                                  |                                         |
+| <span class="fragment" data-fragment-index="16">der Urlaub / die Urlaube</span>         |                                                  |                                         |
+| <span class="fragment" data-fragment-index="16">die Pause / die Pausen</span>           |                                                  |                                         |
+| <span class="fragment" data-fragment-index="16">die Arbeitsbedingungen</span>           |                                                  |                                         |
+: {tbl-colwidths="[50,25,25]"}
+
+
+
+
+## 
+
+Wir bauen Sätze mit auf:
 
 ::: {.incremental}
 
-- springen: Präsens, Perfekt, Hauptsatz
-    - Die Kinder springen ins Schwimmbad.
-    - Die Kinder sind ins Schwimmbad gesprungen.
-    - Die Seilbahnen sind aus den Schienen gesprungen.
-- trauern: Präsens, Perfekt, Hauptsatz
-    - Wir trauern um die Opfer und die Toten.
-    - Wir haben um die Opfer und die Toten getrauert.
+- gehören: Präsens, Frage
+    - Welche Traditionen gehören zur Kultur in Österreich?
+    - Die Kultur ist sehr reich. Dazu gehören die Musik, die Feste, die Kleidung und das Essen.
+
+- sich treffen: Präsens, Frage
+    - Die Menschen treffen sich immer bei den Festen.
+    - Das Zusammensein ist sehr wichtig. Zum Beispiel treffen sich die Menschen in Kaffeehäusern.
 
 :::
 
 
 ## 
 
-Wir bauen Sätze mit den Verben auf:
+Wir bauen Sätze mit auf:
 
 ::: {.incremental}
 
-- sich kümmern: Präsens, Perfekt, Hauptsatz
-    - Die Helfer kümmern sich um die Verletzten.
-    - Die Helfer haben sich um die Verletzten gekümmert.
-- erleben: Präsens, Perfekt, Hauptsatz
-    - Wir erleben jetzt Trauer.
-    - Wir haben nie so etwas erlebt.
+- spielen: Präsens
+    - Die Musik, das Essen und die Kleidung spielen eine wichtige Rolle in der Kultur.
+    - Die Pünktlichkeit spielt auch eine wichtige Rolle.
+
+- beginnen: Präsens mit Modalverben
+    - Die Termine sollen immer pünktlich beginnen.
+
+- unterstützen: Präsens
+    - Die Dienstbedingungen unterstützen immer die Arbeitnehmer:innen.
+    - Die Eltern unterstützen ihre Kinder.
 
 :::
 
 
-## 
-
-Wir bauen Sätze mit den Verben auf:
-
-::: {.incremental}
-
-- passieren: Frage, Perfekt, Hauptsatz + Nebensatz
-    - Was ist passiert?
-    - Sie wissen nicht, was passiert ist.
-    - Wenn es passiert, gehen wir weiter.
-- herausfinden: Modalverb + Infinitiv, Hauptsatz + Nebensatz
-    - Sie müssen jetzt herausfinden, warum die Seilbahn aus den Schienen gesprungen ist.
-
-:::
 
 
 ##
 
-::: {style="font-size: 30%"}
 
-| Nomen                                  | Adjektive | Verben        |
-|----------------------------------------|-----------|---------------|
-| die Stadt / die Städte                 | steil     | geben         |
-| der Berg / die Berge                   | hoch      |               |
-| die Standseilbahn / -bahnen            | mehr      | kommen        |
-| die Schiene / die Schienen             |           | fahren        |
-|                                       |           | verunglücken  |
-| das Foto / die Fotos                   |           | zeigen        |
-|                                       |           | zerstören     |
-| das Unglück / die Unglücke             |           | sterben       |
-| der Mensch / die Menschen              |           |               |
-| der Film / die Filme                   |           |               |
-| das Bild / die Bilder                  | gelb      |               |
-| der Zustand / die Zustände             |           | stehen        |
-|                                       |           | liegen        |
-|                                       |           | springen      |
-| das Haus / die Häuser                  |           | rammen        |
-| die Polizei / die Polizeien            |           | untersuchen   |
-|                                       |           | passieren     |
-| der Urlauber / die Urlauber            |           | belieben      |
-| die Familie / die Familien             |           | wollen        |
-|                                       |           | mitfahren     |
-| der Vater / die Väter                  |           | sagen         |
-| die Warteschlange / -schlangen         | lang      | gehen         |
-|                                         | froh      |               |
-| der Helfer / die Helfer                |           | sich kümmern  |
-| der Tote / die Toten                   |           |               |
-| der Verletzte / die Verletzten         |           |               |
-| das Opfer / die Opfer                  | deutsch   |               |
-| der Bürgermeister / -meister           |           | trauern       |
-| die Tragödie / die Tragödien           |           | erleben       |
-| das Jahr / die Jahre                   |           | dürfen        |
-|                                        |           | herausfinden  |
+:::: {.columns}
 
+::: {.column}
+
+::: {style="font-size: 45%"}
+
+
+| Nomen                                 | Adjektive     | Verben          |
+|---------------------------------------|---------------|-----------------|
+| das Land / die Länder                  | reich         | sein            |
+| die Tradition / die Traditionen        |               |                 |
+| die Kultur / die Kulturen              |               |                 |
+| die Musik                              |               |                 |
+| die Kunst / die Künste                 |               |                 |
+| das Fest / die Feste                   | wichtig       |                 |
+| die Stadt / die Städte                 |               | geben           |
+| das Museum / die Museen                |               |                 |
+| das Theater / die Theater              |               |                 |
+| das Konzert / die Konzerte             |               |                 |
+| die Tracht / die Trachten              | regional      | gehören         |
+| der Brauch / die Bräuche               |               |                 |
+| das Teil / die Teile                   |               |                 |
+| das Zusammensein                       |               |                 |
+| der Mensch / die Menschen              | gern          | sich treffen    |
+| das Kaffeehaus / die Kaffeehäuser      |               |                 |
+| die Familie / die Familien             | groß          | spielen         |
+| der Freund / die Freunde               |               |                 |
+| die Rolle / die Rollen                 |               |                 |
+| das Essen                              | gut           | haben           |
+| die Kleidung                           | traditionell  |                 |
+
+:::
+
+:::
+
+
+::: {.column}
+
+::: {style="font-size: 45%"}
+
+
+| Nomen                                 | Adjektive     | Verben          |
+|---------------------------------------|---------------|-----------------|
+| die Arbeit / die Arbeiten              | interessant   |                 |
+| die Pünktlichkeit /                    |               |                 |
+| der Termin / die Termine               | wirklich      | beginnen, müssen|
+|                                        | höflich       | sprechen        |
+|                                        | respektvoll   |                 |
+| die Teamarbeit                         | klar          |                 |
+| die Regel / die Regeln                 |               |                 |
+| das Problem / die Probleme             |               |                 |
+| der Chef / die Chefs                   |               |                 |
+| die Chefin / die Chefinnen             |               |                 |
+| die Firma / die Firmen                 |               | unterstützen    |
+| der Betriebsrat / die Betriebsräte     |               |                 |
+| der Mitarbeiter / die Mitarbeiter:innen|               |                 |
+| der Arbeitnehmer / die Arbeitnehmer:innen|             |                 |
+| das Recht / die Rechte                 |               |                 |
+| der Urlaub / die Urlaube               |               |                 |
+| die Pause / die Pausen                 |               |                 |
+| die Arbeitsbedingung / -bedingungen    |               |                 |
+
+:::
 
 :::
 
 
 
-
+::::
