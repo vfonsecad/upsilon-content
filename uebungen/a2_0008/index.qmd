@@ -60,7 +60,7 @@ format:
 | Nomen                                           | Adjektive                                      | Verben                                    |
 |------------------------------------------------|-----------------------------------------------|------------------------------------------|
 | <span class="fragment" data-fragment-index="11">das Haus / die Häuser</span>     |                                               | <span class="fragment" data-fragment-index="11">rammen</span>      |
-| <span class="fragment" data-fragment-index="12">die Polizei / die Polizeien</span>|                                               | <span class="fragment" data-fragment-index="12">untersuchen</span> |
+| <span class="fragment" data-fragment-index="12">die Polizei </span>|                                               | <span class="fragment" data-fragment-index="12">untersuchen</span> |
 |                                                |                                               | <span class="fragment" data-fragment-index="12">passieren</span>   |
 | <span class="fragment" data-fragment-index="13">der Urlauber / die Urlauber</span>|                                               | <span class="fragment" data-fragment-index="13">belieben</span>    |
 | <span class="fragment" data-fragment-index="14">die Familie / die Familien</span> |                                               | <span class="fragment" data-fragment-index="14">wollen</span>      |
@@ -82,7 +82,7 @@ format:
 | <span class="fragment" data-fragment-index="16">der Tote / die Toten</span>      |                                               |                                          |
 | <span class="fragment" data-fragment-index="16">der Verletzte / die Verletzten</span> |                                           |                                          |
 | <span class="fragment" data-fragment-index="17">das Opfer / die Opfer</span>      | <span class="fragment" data-fragment-index="17">deutsch</span>      |                                          |
-| <span class="fragment" data-fragment-index="18">der Bürgermeister / -meister</span>|                                               | <span class="fragment" data-fragment-index="18">trauern</span>     |
+| <span class="fragment" data-fragment-index="18">der Bürgermeister / </span>|                                               | <span class="fragment" data-fragment-index="18">trauern</span>     |
 | <span class="fragment" data-fragment-index="18">die Tragödie / die Tragödien</span>|                                               | <span class="fragment" data-fragment-index="18">erleben</span>     |
 | <span class="fragment" data-fragment-index="19">das Jahr / die Jahre</span>       |                                               | <span class="fragment" data-fragment-index="20">dürfen</span>      |
 |                                                |                                               | <span class="fragment" data-fragment-index="21">herausfinden</span>|
