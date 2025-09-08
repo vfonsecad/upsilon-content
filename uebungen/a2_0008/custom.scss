@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+$custom-background: #005580 !default;
+
+/*-- scss:rules --*/
+
+.reveal .footer {
+    color: #ffffff;
+    background-color: $custom-background;
+    display: block;
+    position: fixed;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    bottom: 0px !important; // Makes footer div flush with bottom of slide
+    width: 100%;
+    height: 52px;
+    z-index: 0 !important; // Sets the footer div further down the z-index
+  }
+
+.reveal .slide-logo {
+    margin-bottom: 6px !important; // Lowers logo more in line with rest of footer
+    z-index: 5 !important; // Keeps logo above footer div
+    width: 440px !important;
+    height: 70px !important;
+    max-width: unset !important;
+    max-height: unset !important;
+}

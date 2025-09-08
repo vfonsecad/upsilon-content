@@ -1,0 +1,185 @@
+---
+title: "Unsere Übung"
+subtitle: ""
+date-format: long
+format: 
+    revealjs:
+        theme: [serif]
+        embed-resources: false
+        slide-number: false
+        chalkboard: true
+        width: 1300
+        preload-iframes: true
+        # navigation-mode: grid
+        preview-links: auto
+        code-line-numbers: false
+        auto-stretch: false
+        # logo: "assets/logos/full-logo.png"
+        include-in-header: 
+            text: |
+                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Major+Mono+Display">
+---
+
+
+# Wörter
+
+## 
+
+
+| Nomen                                           | Adjektive                                      | Verben                                    |
+|------------------------------------------------|-----------------------------------------------|------------------------------------------|
+| <span class="fragment" data-fragment-index="1">die Stadt / die Städte</span>       | <span class="fragment" data-fragment-index="1">steil</span>        | <span class="fragment" data-fragment-index="1">geben</span>        |
+| <span class="fragment" data-fragment-index="2">der Berg / die Berge</span>        | <span class="fragment" data-fragment-index="2">hoch</span>         |                                          |
+| <span class="fragment" data-fragment-index="2">die Standseilbahn / -bahnen</span> | <span class="fragment" data-fragment-index="2">mehr</span>         | <span class="fragment" data-fragment-index="2">kommen</span>       |
+| <span class="fragment" data-fragment-index="3">die Schiene / die Schienen</span>  |                                           | <span class="fragment" data-fragment-index="3">fahren</span>       |
+|                                                |                                               | <span class="fragment" data-fragment-index="4">verunglücken</span> |
+| <span class="fragment" data-fragment-index="5">das Foto / die Fotos</span>        |                                               | <span class="fragment" data-fragment-index="5">zeigen</span>       |
+|                                                |                                               | <span class="fragment" data-fragment-index="5">zerstören</span>    |
+: {tbl-colwidths="[50,25,25]"}
+
+
+
+## 
+
+
+| Nomen                                           | Adjektive                                      | Verben                                    |
+|------------------------------------------------|-----------------------------------------------|------------------------------------------|
+| <span class="fragment" data-fragment-index="6">das Unglück / die Unglücke</span>  |                                               | <span class="fragment" data-fragment-index="6">sterben</span>      |
+| <span class="fragment" data-fragment-index="6">der Mensch / die Menschen</span>   |                                               |                                          |
+| <span class="fragment" data-fragment-index="7">der Film / die Filme</span>        |                                               |                                          |
+| <span class="fragment" data-fragment-index="8">das Bild / die Bilder</span>       | <span class="fragment" data-fragment-index="8">gelb</span>          |                                          |
+| <span class="fragment" data-fragment-index="9">der Zustand / die Zustände</span>  |                                               | <span class="fragment" data-fragment-index="9">stehen</span>       |
+|                                                |                                               | <span class="fragment" data-fragment-index="9">liegen</span>       |
+|                                                |                                               | <span class="fragment" data-fragment-index="10">springen</span>    |
+: {tbl-colwidths="[50,25,25]"}
+
+
+## 
+
+
+| Nomen                                           | Adjektive                                      | Verben                                    |
+|------------------------------------------------|-----------------------------------------------|------------------------------------------|
+| <span class="fragment" data-fragment-index="11">das Haus / die Häuser</span>     |                                               | <span class="fragment" data-fragment-index="11">rammen</span>      |
+| <span class="fragment" data-fragment-index="12">die Polizei / die Polizeien</span>|                                               | <span class="fragment" data-fragment-index="12">untersuchen</span> |
+|                                                |                                               | <span class="fragment" data-fragment-index="12">passieren</span>   |
+| <span class="fragment" data-fragment-index="13">der Urlauber / die Urlauber</span>|                                               | <span class="fragment" data-fragment-index="13">belieben</span>    |
+| <span class="fragment" data-fragment-index="14">die Familie / die Familien</span> |                                               | <span class="fragment" data-fragment-index="14">wollen</span>      |
+|                                                |                                               | <span class="fragment" data-fragment-index="14">mitfahren</span>   |
+| <span class="fragment" data-fragment-index="15">der Vater / die Väter</span>     |                                               | <span class="fragment" data-fragment-index="15">sagen</span>       |
+| <span class="fragment" data-fragment-index="15">die Warteschlange / -schlangen</span> | <span class="fragment" data-fragment-index="15">lang</span> | <span class="fragment" data-fragment-index="15">gehen</span>       |
+|                                                | <span class="fragment" data-fragment-index="15">froh</span> |                                          |
+: {tbl-colwidths="[50,25,25]"}
+
+
+
+## 
+
+
+
+| Nomen                                           | Adjektive                                      | Verben                                    |
+|------------------------------------------------|-----------------------------------------------|------------------------------------------|
+| <span class="fragment" data-fragment-index="16">der Helfer / die Helfer</span>   |                                               | <span class="fragment" data-fragment-index="16">sich kümmern</span>|
+| <span class="fragment" data-fragment-index="16">der Tote / die Toten</span>      |                                               |                                          |
+| <span class="fragment" data-fragment-index="16">der Verletzte / die Verletzten</span> |                                           |                                          |
+| <span class="fragment" data-fragment-index="17">das Opfer / die Opfer</span>      | <span class="fragment" data-fragment-index="17">deutsch</span>      |                                          |
+| <span class="fragment" data-fragment-index="18">der Bürgermeister / -meister</span>|                                               | <span class="fragment" data-fragment-index="18">trauern</span>     |
+| <span class="fragment" data-fragment-index="18">die Tragödie / die Tragödien</span>|                                               | <span class="fragment" data-fragment-index="18">erleben</span>     |
+| <span class="fragment" data-fragment-index="19">das Jahr / die Jahre</span>       |                                               | <span class="fragment" data-fragment-index="20">dürfen</span>      |
+|                                                |                                               | <span class="fragment" data-fragment-index="21">herausfinden</span>|
+: {tbl-colwidths="[50,25,25]"}
+
+
+
+## 
+
+Wir bauen Sätze mit den Verben auf:
+
+::: {.incremental}
+
+- springen: Präsens, Perfekt, Hauptsatz
+    - Die Kinder springen ins Schwimmbad.
+    - Die Kinder sind ins Schwimmbad gesprungen.
+    - Die Seilbahnen sind aus den Schienen gesprungen.
+- trauern: Präsens, Perfekt, Hauptsatz
+    - Wir trauern um die Opfer und die Toten.
+    - Wir haben um die Opfer und die Toten getrauert.
+
+:::
+
+
+## 
+
+Wir bauen Sätze mit den Verben auf:
+
+::: {.incremental}
+
+- sich kümmern: Präsens, Perfekt, Hauptsatz
+    - Die Helfer kümmern sich um die Verletzten.
+    - Die Helfer haben sich um die Verletzten gekümmert.
+- erleben: Präsens, Perfekt, Hauptsatz
+    - Wir erleben jetzt Trauer.
+    - Wir haben nie so etwas erlebt.
+
+:::
+
+
+## 
+
+Wir bauen Sätze mit den Verben auf:
+
+::: {.incremental}
+
+- passieren: Frage, Perfekt, Hauptsatz + Nebensatz
+    - Was ist passiert?
+    - Sie wissen nicht, was passiert ist.
+    - Wenn es passiert, gehen wir weiter.
+- herausfinden: Modalverb + Infinitiv, Hauptsatz + Nebensatz
+    - Sie müssen jetzt herausfinden, warum die Seilbahn aus den Schienen gesprungen ist.
+
+:::
+
+
+##
+
+::: {style="font-size: 30%"}
+
+| Nomen                                  | Adjektive | Verben        |
+|----------------------------------------|-----------|---------------|
+| die Stadt / die Städte                 | steil     | geben         |
+| der Berg / die Berge                   | hoch      |               |
+| die Standseilbahn / -bahnen            | mehr      | kommen        |
+| die Schiene / die Schienen             |           | fahren        |
+|                                       |           | verunglücken  |
+| das Foto / die Fotos                   |           | zeigen        |
+|                                       |           | zerstören     |
+| das Unglück / die Unglücke             |           | sterben       |
+| der Mensch / die Menschen              |           |               |
+| der Film / die Filme                   |           |               |
+| das Bild / die Bilder                  | gelb      |               |
+| der Zustand / die Zustände             |           | stehen        |
+|                                       |           | liegen        |
+|                                       |           | springen      |
+| das Haus / die Häuser                  |           | rammen        |
+| die Polizei / die Polizeien            |           | untersuchen   |
+|                                       |           | passieren     |
+| der Urlauber / die Urlauber            |           | belieben      |
+| die Familie / die Familien             |           | wollen        |
+|                                       |           | mitfahren     |
+| der Vater / die Väter                  |           | sagen         |
+| die Warteschlange / -schlangen         | lang      | gehen         |
+|                                         | froh      |               |
+| der Helfer / die Helfer                |           | sich kümmern  |
+| der Tote / die Toten                   |           |               |
+| der Verletzte / die Verletzten         |           |               |
+| das Opfer / die Opfer                  | deutsch   |               |
+| der Bürgermeister / -meister           |           | trauern       |
+| die Tragödie / die Tragödien           |           | erleben       |
+| das Jahr / die Jahre                   |           | dürfen        |
+|                                        |           | herausfinden  |
+
+
+:::
+
+
+
+
