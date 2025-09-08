@@ -111,44 +111,6 @@ format:
 
 
 
-## 
-
-Wir bauen Sätze mit auf:
-
-::: {.incremental}
-
-- gehören: Präsens, Frage
-    - Welche Traditionen gehören zur Kultur in Österreich?
-    - Die Kultur ist sehr reich. Dazu gehören die Musik, die Feste, die Kleidung und das Essen.
-
-- sich treffen: Präsens, Frage
-    - Die Menschen treffen sich immer bei den Festen.
-    - Das Zusammensein ist sehr wichtig. Zum Beispiel treffen sich die Menschen in Kaffeehäusern.
-
-:::
-
-
-## 
-
-Wir bauen Sätze mit auf:
-
-::: {.incremental}
-
-- spielen: Präsens
-    - Die Musik, das Essen und die Kleidung spielen eine wichtige Rolle in der Kultur.
-    - Die Pünktlichkeit spielt auch eine wichtige Rolle.
-
-- beginnen: Präsens mit Modalverben
-    - Die Termine sollen immer pünktlich beginnen.
-
-- unterstützen: Präsens
-    - Die Dienstbedingungen unterstützen immer die Arbeitnehmer:innen.
-    - Die Eltern unterstützen ihre Kinder.
-
-:::
-
-
-
 
 ##
 
@@ -222,3 +184,43 @@ Wir bauen Sätze mit auf:
 
 
 ::::
+
+
+
+## 
+
+Wir bauen Sätze mit auf:
+
+::: {.incremental}
+
+- gehören: Präsens, Frage
+    - Welche Traditionen gehören zur Kultur in Österreich?
+    - Die Kultur ist sehr reich. Dazu gehören die Musik, die Feste, die Kleidung und das Essen.
+
+- sich treffen: Präsens
+    - Die Menschen treffen sich immer bei den Festen.
+    - Das Zusammensein ist sehr wichtig. Zum Beispiel treffen sich die Menschen in Kaffeehäusern.
+
+:::
+
+
+## 
+
+Wir bauen Sätze mit auf:
+
+::: {.incremental}
+
+- spielen: Präsens
+    - Die Musik, das Essen und die Kleidung spielen eine wichtige Rolle in der Kultur.
+    - Die Pünktlichkeit spielt auch eine wichtige Rolle.
+
+- beginnen: Präsens mit Modalverben
+    - Die Termine sollen immer pünktlich beginnen.
+
+- unterstützen: Präsens
+    - Die Dienstbedingungen unterstützen immer die Arbeitnehmer:innen.
+    - Die Eltern unterstützen ihre Kinder.
+
+:::
+
+
