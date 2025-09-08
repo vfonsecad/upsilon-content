@@ -189,6 +189,58 @@ format:
 
 ## 
 
+Welche Wörter sind richtig oder wie passen sie im Satz?
+
+::: {.incremental}
+
+- _Auch Volksmusik, Trachten und regionale Bräuche_ [...] _Kultur._
+    - _Auch Volksmusik, Trachten und regionale Bräuche **gehören zur** Kultur._
+- _Menschen treffen sich gern in_ [...] _oder bei_ [...].
+    - _Menschen treffen sich gern in **Kaffeehäusern** oder bei **Festen**._
+- Wie sind die Feste und die Kleidung in der Kultur?
+    - _**Regional** und **traditionell**_.
+- _Familie und Freunde_ [...] _eine große Rolle_.
+    - _Familie und Freunde **spielen** eine große Rolle_.
+
+:::
+
+
+## 
+
+Welche Wörter sind richtig oder wie passen sie im Satz?
+
+::: {.incremental}
+
+- _In Österreich ist_ [...] _sehr wichtig. Wenn ein Termin um neun Uhr beginnt, muss man wirklich um neun Uhr da sein._
+    - _In Österreich ist **Pünktlichkeit** sehr wichtig._
+- Wie sprechen die Menschen miteinander in der Arbeit?
+    - _**Höflich** und **respektvoll**_.
+- Wie sollen die Regeln in der Arbeit sein?
+    - _**Klar**_.
+
+:::
+
+
+## 
+
+Welche Wörter sind richtig oder wie passen sie im Satz?
+
+::: {.incremental}
+
+- _Wenn es ein Problem bei der Arbeit gibt, spricht man zuerst mit_ [...].
+    - _Wenn es ein Problem bei der Arbeit gibt, spricht man zuerst **mit dem Chef oder der Chefin**._
+- Wie heißt der Rat in der Arbeit?
+    - _**Der Betriebsrat**_.
+- Welche Rechte haben die Arbeitnehmer:innen?
+    - _**Urlaub, Pausen und gute Arbeitsbedingungen**_.
+
+:::
+
+
+
+<!-- 
+## 
+
 Wir bauen Sätze mit auf:
 
 ::: {.incremental}
@@ -223,4 +275,4 @@ Wir bauen Sätze mit auf:
 
 :::
 
-
+ -->
