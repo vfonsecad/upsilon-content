@@ -1,2466 +1,1769 @@
-[
-  {
-    "question": "The decision",
-    "answer": "die Entscheidung"
-  },
-  {
-    "question": "The statement",
-    "answer": "die Aussage"
-  },
-  {
-    "question": "The father",
-    "answer": "der Vater"
-  },
-  {
-    "question": "The child",
-    "answer": "das Kind"
-  },
-  {
-    "question": "The shock",
-    "answer": "der Schock"
-  },
-  {
-    "question": "The month",
-    "answer": "der Monat"
-  },
-  {
-    "question": "The baby",
-    "answer": "das Baby"
-  },
-  {
-    "question": "The woman",
-    "answer": "die Frau"
-  },
-  {
-    "question": "The life",
-    "answer": "das Leben"
-  },
-  {
-    "question": "The motherhood",
-    "answer": "die Mutterschaft"
-  },
-  {
-    "question": "The year",
-    "answer": "das Jahr"
-  },
-  {
-    "question": "The daughter",
-    "answer": "die Tochter"
-  },
-  {
-    "question": "The time",
-    "answer": "die Zeit"
-  },
-  {
-    "question": "The moment",
-    "answer": "der Moment"
-  },
-  {
-    "question": "The (future) dad",
-    "answer": "der zukünftige Papa"
-  },
-  {
-    "question": "The facial expression",
-    "answer": "der Gesichtsausdruck"
-  },
-  {
-    "question": "The sense / mind",
-    "answer": "der Sinn"
-  },
-  {
-    "question": "The pregnancy",
-    "answer": "die Schwangerschaft"
-  },
-  {
-    "question": "The belly",
-    "answer": "der Bauch"
-  },
-  {
-    "question": "The baby bump (round belly)",
-    "answer": "der Kugelbauch"
-  },
-  {
-    "question": "The feeling / sensing",
-    "answer": "das Spüren"
-  },
-  {
-    "question": "The family",
-    "answer": "die Familie"
-  },
-  {
-    "question": "The dream and wishful thinking",
-    "answer": "die Traum- und Wunschvorstellung"
-  },
-  {
-    "question": "The temporary job / assembly job",
-    "answer": "der Montagejob"
-  },
-  {
-    "question": "The world",
-    "answer": "die Welt"
-  },
-  {
-    "question": "The overwhelmingness / overstraining",
-    "answer": "die Überforderung"
-  },
-  {
-    "question": "The parents",
-    "answer": "die Eltern"
-  },
-  {
-    "question": "The phenomenon",
-    "answer": "das Phänomen"
-  },
-  {
-    "question": "The rarity",
-    "answer": "die Seltenheit"
-  },
-  {
-    "question": "The groups",
-    "answer": "die Gruppen"
-  },
-  {
-    "question": "The mothers",
-    "answer": "die Mütter"
-  },
-  {
-    "question": "The women",
-    "answer": "die Frauen"
-  },
-  {
-    "question": "The desire to have children",
-    "answer": "der Kinderwunsch"
-  },
-  {
-    "question": "The framework conditions",
-    "answer": "die Rahmenbedingungen"
-  },
-  {
-    "question": "The job choice",
-    "answer": "die Jobwahl"
-  },
-  {
-    "question": "The partner choice",
-    "answer": "die Partnerwahl"
-  },
-  {
-    "question": "The rope / stick (idiom: to make trouble)",
-    "answer": "der Strick"
-  },
-  {
-    "question": "The longing",
-    "answer": "die Sehnsucht"
-  },
-  {
-    "question": "The freedom",
-    "answer": "die Freiheit"
-  },
-  {
-    "question": "The apartment",
-    "answer": "die Wohnung"
-  },
-  {
-    "question": "The task / duty",
-    "answer": "die Aufgabe"
-  },
-  {
-    "question": "The human being",
-    "answer": "der Mensch"
-  },
-  {
-    "question": "The needs",
-    "answer": "die Bedürfnisse"
-  },
-  {
-    "question": "The camera",
-    "answer": "die Kamera"
-  },
-  {
-    "question": "The everyday life",
-    "answer": "der Alltag"
-  },
-  {
-    "question": "The processes / sequences",
-    "answer": "die Abläufe"
-  },
-  {
-    "question": "The roles",
-    "answer": "die Rollen"
-  },
-  {
-    "question": "The book",
-    "answer": "das Buch"
-  },
-  {
-    "question": "The washing machine",
-    "answer": "die Waschmaschine"
-  },
-  {
-    "question": "The diapers",
-    "answer": "die Windeln"
-  },
-  {
-    "question": "The millennia",
-    "answer": "die Jahrtausende"
-  },
-  {
-    "question": "The patriarchy",
-    "answer": "das Patriachat"
-  },
-  {
-    "question": "The navel",
-    "answer": "der Nabel"
-  },
-  {
-    "question": "The care work",
-    "answer": "die Fürsorgearbeit"
-  },
-  {
-    "question": "The resources",
-    "answer": "die Ressourcen"
-  },
-  {
-    "question": "The society",
-    "answer": "die Gesellschaft"
-  },
-  {
-    "question": "The crises",
-    "answer": "die Krisen"
-  },
-  {
-    "question": "The Corona (pandemic)",
-    "answer": "das Corona"
-  },
-  {
-    "question": "The homeschooling",
-    "answer": "das Homeschooling"
-  },
-  {
-    "question": "The work",
-    "answer": "die Arbeit"
-  },
-  {
-    "question": "The raven mother (bad mother)",
-    "answer": "die Rabenmutter"
-  },
-  {
-    "question": "The situation",
-    "answer": "die Situation"
-  },
-  {
-    "question": "The street",
-    "answer": "die Straße"
-  },
-  {
-    "question": "The closeness / intimacy",
-    "answer": "die Nähe"
-  },
-  {
-    "question": "The connection",
-    "answer": "die Verbundenheit"
-  },
-  {
-    "question": "The symptoms",
-    "answer": "die Symptome"
-  },
-  {
-    "question": "The racing heart",
-    "answer": "das Herzrasen"
-  },
-  {
-    "question": "The cold sweat",
-    "answer": "der kalte Schweiß"
-  },
-  {
-    "question": "The air",
-    "answer": "die Luft"
-  },
-  {
-    "question": "The fear",
-    "answer": "die Angst"
-  },
-  {
-    "question": "The emergency doctor",
-    "answer": "der Notarzt"
-  },
-  {
-    "question": "The panic attack",
-    "answer": "die Panikattacke"
-  },
-  {
-    "question": "The regret",
-    "answer": "die Reue"
-  },
-  {
-    "question": "The feelings of regret",
-    "answer": "die Reuegefühle"
-  },
-  {
-    "question": "The point",
-    "answer": "der Punkt"
-  },
-  {
-    "question": "The regularity",
-    "answer": "die Regelmäßigkeit"
-  },
-  {
-    "question": "The model",
-    "answer": "das Modell"
-  },
-  {
-    "question": "The feeling",
-    "answer": "das Gefühl"
-  },
-  {
-    "question": "The support",
-    "answer": "die Unterstützung"
-  },
-  {
-    "question": "The separation case",
-    "answer": "der Trennungsfall"
-  },
-  {
-    "question": "The maintenance obligations",
-    "answer": "die Unterhaltsverpflichtungen"
-  },
-  {
-    "question": "The state / condition",
-    "answer": "der Zustand"
-  },
-  {
-    "question": "The challenges",
-    "answer": "die Herausforderungen"
-  },
-  {
-    "question": "The relief",
-    "answer": "die Entlastung"
-  },
-  {
-    "question": "The responsibility",
-    "answer": "die Verantwortung"
-  },
-  {
-    "question": "The possibility",
-    "answer": "die Möglichkeit"
-  },
-  {
-    "question": "The mother role",
-    "answer": "die Mutterrolle"
-  },
-  {
-    "question": "The person",
-    "answer": "die Person"
-  },
-  {
-    "question": "The effect",
-    "answer": "der Effekt"
-  },
-  {
-    "question": "The topic of motherhood",
-    "answer": "das Mutterschafts-Thema"
-  },
-  {
-    "question": "The events",
-    "answer": "die Ereignisse"
-  },
-  {
-    "question": "The insights / realizations",
-    "answer": "die Erkenntnisse"
-  },
-  {
-    "question": "The performance",
-    "answer": "die Performance"
-  },
-  {
-    "question": "The reflection processes",
-    "answer": "die Reflexionsprozesse"
-  },
-  {
-    "question": "The therapy attempts",
-    "answer": "die Therapieversuche"
-  },
-  {
-    "question": "The psychotherapists",
-    "answer": "die Psychotherapeuten"
-  },
-  {
-    "question": "The heads",
-    "answer": "die Köpfe"
-  },
-  {
-    "question": "The old, traditional role model",
-    "answer": "das alte, traditionelle Rollenbild"
-  },
-  {
-    "question": "The perspectives",
-    "answer": "die Perspektiven"
-  },
-  {
-    "question": "The advice",
-    "answer": "der Rat"
-  },
-  {
-    "question": "The step",
-    "answer": "der Schritt"
-  },
-  {
-    "question": "The garden",
-    "answer": "der Garten"
-  },
-  {
-    "question": "The share / part",
-    "answer": "der Anteil"
-  },
-  {
-    "question": "The patterns",
-    "answer": "die Muster"
-  },
-  {
-    "question": "The childhood",
-    "answer": "die Kindheit"
-  },
-  {
-    "question": "The functioning",
-    "answer": "das Funktionieren"
-  },
-  {
-    "question": "The achievements / services",
-    "answer": "die Leistungen"
-  },
-  {
-    "question": "The construction site",
-    "answer": "die Baustelle"
-  },
-  {
-    "question": "The times (e.g. DDR times)",
-    "answer": "die Zeiten"
-  },
-  {
-    "question": "The project",
-    "answer": "das Projekt"
-  },
-  {
-    "question": "The workshop",
-    "answer": "der Workshop"
-  },
-  {
-    "question": "The learning process",
-    "answer": "der Lernprozess"
-  },
-  {
-    "question": "The strategy",
-    "answer": "die Strategie"
-  },
-  {
-    "question": "The experience",
-    "answer": "die Erfahrung"
-  },
-  {
-    "question": "The exchange",
-    "answer": "der Austausch"
-  },
-  {
-    "question": "The type / kind",
-    "answer": "die Art"
-  },
-  {
-    "question": "The group",
-    "answer": "die Gruppe"
-  },
-  {
-    "question": "The pressure",
-    "answer": "der Druck"
-  },
-  {
-    "question": "The problem",
-    "answer": "das Problem"
-  },
-  {
-    "question": "The session",
-    "answer": "die Sitzung"
-  },
-  {
-    "question": "The essential / main point",
-    "answer": "das Wesentliche"
-  },
-  {
-    "question": "The exhaustion",
-    "answer": "die Erschöpfung"
-  },
-  {
-    "question": "The main factor",
-    "answer": "der Hauptfaktor"
-  },
-  {
-    "question": "The rejection",
-    "answer": "die Ablehnung"
-  },
-  {
-    "question": "The sentence",
-    "answer": "der Satz"
-  },
-  {
-    "question": "The breath",
-    "answer": "das Atmen"
-  },
-  {
-    "question": "The mothers' circle",
-    "answer": "der Mütterkreis"
-  },
-  {
-    "question": "The processing process",
-    "answer": "der Verarbeitungsprozess"
-  },
-  {
-    "question": "The example",
-    "answer": "das Beispiel"
-  },
-  {
-    "question": "The comments",
-    "answer": "die Kommentare"
-  },
-  {
-    "question": "happy",
-    "answer": "glücklich"
-  },
-  {
-    "question": "ready",
-    "answer": "bereit"
-  },
-  {
-    "question": "old",
-    "answer": "alt"
-  },
-  {
-    "question": "lost",
-    "answer": "verloren"
-  },
-  {
-    "question": "pregnant",
-    "answer": "schwanger"
-  },
-  {
-    "question": "good",
-    "answer": "gut"
-  },
-  {
-    "question": "apparent / noticeable",
-    "answer": "angemerkt"
-  },
-  {
-    "question": "alone",
-    "answer": "alleine"
-  },
-  {
-    "question": "definitely",
-    "answer": "definitiv"
-  },
-  {
-    "question": "sufficient",
-    "answer": "ausreichend"
-  },
-  {
-    "question": "whole / entire",
-    "answer": "ganz"
-  },
-  {
-    "question": "angry",
-    "answer": "wütend"
-  },
-  {
-    "question": "sad",
-    "answer": "traurig"
-  },
-  {
-    "question": "total",
-    "answer": "total"
-  },
-  {
-    "question": "present",
-    "answer": "präsent"
-  },
-  {
-    "question": "regretting",
-    "answer": "bereuend"
-  },
-  {
-    "question": "bad",
-    "answer": "schlecht"
-  },
-  {
-    "question": "social",
-    "answer": "gesellschaftlich"
-  },
-  {
-    "question": "professional",
-    "answer": "beruflich"
-  },
-  {
-    "question": "absurd",
-    "answer": "absurd"
-  },
-  {
-    "question": "accepted",
-    "answer": "akzeptiert"
-  },
-  {
-    "question": "physical",
-    "answer": "körperlich"
-  },
-  {
-    "question": "cold",
-    "answer": "kalt"
-  },
-  {
-    "question": "panicked",
-    "answer": "panisch"
-  },
-  {
-    "question": "quickly",
-    "answer": "schnell"
-  },
-  {
-    "question": "clear",
-    "answer": "klar"
-  },
-  {
-    "question": "absolutely / unconditionally",
-    "answer": "unbedingt"
-  },
-  {
-    "question": "self",
-    "answer": "selbst"
-  },
-  {
-    "question": "different / otherwise",
-    "answer": "anders"
-  },
-  {
-    "question": "accepted",
-    "answer": "angenommen"
-  },
-  {
-    "question": "most exhausting",
-    "answer": "anstrengendste"
-  },
-  {
-    "question": "great (colloquial)",
-    "answer": "super"
-  },
-  {
-    "question": "confirmed",
-    "answer": "bestätigt"
-  },
-  {
-    "question": "important",
-    "answer": "wichtig"
-  },
-  {
-    "question": "serious",
-    "answer": "ernst"
-  },
-  {
-    "question": "together / jointly",
-    "answer": "gemeinsam"
-  },
-  {
-    "question": "intense / crazy (colloquial)",
-    "answer": "krass"
-  },
-  {
-    "question": "hardest",
-    "answer": "schwersten"
-  },
-  {
-    "question": "responsible",
-    "answer": "verantwortlich"
-  },
-  {
-    "question": "therapeutic",
-    "answer": "therapeutisch"
-  },
-  {
-    "question": "artistic",
-    "answer": "künstlerisch"
-  },
-  {
-    "question": "clearly",
-    "answer": "deutlich"
-  },
-  {
-    "question": "better",
-    "answer": "besseren"
-  },
-  {
-    "question": "new",
-    "answer": "neu"
-  },
-  {
-    "question": "up-to-date",
-    "answer": "zeitgemäß"
-  },
-  {
-    "question": "content / satisfied",
-    "answer": "zufrieden"
-  },
-  {
-    "question": "necessary",
-    "answer": "notwendig"
-  },
-  {
-    "question": "affected",
-    "answer": "betroffen"
-  },
-  {
-    "question": "honest",
-    "answer": "ehrlich"
-  },
-  {
-    "question": "unhappy",
-    "answer": "unglücklich"
-  },
-  {
-    "question": "discontent / dissatisfied",
-    "answer": "unzufrieden"
-  },
-  {
-    "question": "constant / continuous",
-    "answer": "ständig"
-  },
-  {
-    "question": "similar",
-    "answer": "ähnlich"
-  },
-  {
-    "question": "single parent",
-    "answer": "alleinerziehend"
-  },
-  {
-    "question": "exciting",
-    "answer": "spannend"
-  },
-  {
-    "question": "certain",
-    "answer": "gewiss"
-  },
-  {
-    "question": "strong",
-    "answer": "stark"
-  },
-  {
-    "question": "weak",
-    "answer": "schwach"
-  },
-  {
-    "question": "huge",
-    "answer": "riesig"
-  },
-  {
-    "question": "extreme",
-    "answer": "extrem"
-  },
-  {
-    "question": "stressful",
-    "answer": "stressig"
-  },
-  {
-    "question": "relieved",
-    "answer": "erleichtert"
-  },
-  {
-    "question": "strengthened",
-    "answer": "gestärkt"
-  },
-  {
-    "question": "to give birth (infinitive)",
-    "answer": "gebären"
-  },
-  {
-    "question": "to give birth (present / er/sie/es)",
-    "answer": "gebiert"
-  },
-  {
-    "question": "to give birth (perfect / hat/ist + Partizip II)",
-    "answer": "hat geboren"
-  },
-  {
-    "question": "to be born (infinitive)",
-    "answer": "geboren werden"
-  },
-  {
-    "question": "to be born (present / er/sie/es)",
-    "answer": "wird geboren"
-  },
-  {
-    "question": "to be born (perfect / hat/ist + Partizip II)",
-    "answer": "ist geboren worden"
-  },
-  {
-    "question": "to think (infinitive)",
-    "answer": "denken"
-  },
-  {
-    "question": "to think (present / er/sie/es)",
-    "answer": "denkt"
-  },
-  {
-    "question": "to think (perfect / hat/ist + Partizip II)",
-    "answer": "hat gedacht"
-  },
-  {
-    "question": "to become (infinitive)",
-    "answer": "werden"
-  },
-  {
-    "question": "to become (present / er/sie/es)",
-    "answer": "wird"
-  },
-  {
-    "question": "to become (perfect / hat/ist + Partizip II)",
-    "answer": "ist geworden"
-  },
-  {
-    "question": "to make/do (infinitive)",
-    "answer": "machen"
-  },
-  {
-    "question": "to make/do (present / er/sie/es)",
-    "answer": "macht"
-  },
-  {
-    "question": "to make/do (perfect / hat/ist + Partizip II)",
-    "answer": "hat gemacht"
-  },
-  {
-    "question": "to be (infinitive)",
-    "answer": "sein"
-  },
-  {
-    "question": "to be (present / er/sie/es)",
-    "answer": "ist"
-  },
-  {
-    "question": "to be (perfect / hat/ist + Partizip II)",
-    "answer": "ist gewesen"
-  },
-  {
-    "question": "to fall (infinitive)",
-    "answer": "fallen"
-  },
-  {
-    "question": "to fall (present / er/sie/es)",
-    "answer": "fällt"
-  },
-  {
-    "question": "to fall (perfect / hat/ist + Partizip II)",
-    "answer": "ist gefallen"
-  },
-  {
-    "question": "can / to be able to (infinitive)",
-    "answer": "können"
-  },
-  {
-    "question": "can / to be able to (present / er/sie/es)",
-    "answer": "kann"
-  },
-  {
-    "question": "can / to be able to (perfect / hat/ist + Partizip II)",
-    "answer": "hat gekonnt"
-  },
-  {
-    "question": "to sit (infinitive)",
-    "answer": "sitzen"
-  },
-  {
-    "question": "to sit (present / er/sie/es)",
-    "answer": "sitzt"
-  },
-  {
-    "question": "to sit (perfect / hat/ist + Partizip II)",
-    "answer": "hat gesessen"
-  },
-  {
-    "question": "to leave sitting (infinitive)",
-    "answer": "sitzen lassen"
-  },
-  {
-    "question": "to leave sitting (present / er/sie/es)",
-    "answer": "lässt sitzen"
-  },
-  {
-    "question": "to leave sitting (perfect / hat/ist + Partizip II)",
-    "answer": "hat sitzen lassen"
-  },
-  {
-    "question": "to feel (infinitive)",
-    "answer": "fühlen"
-  },
-  {
-    "question": "to feel (present / er/sie/es)",
-    "answer": "fühlt (sich)"
-  },
-  {
-    "question": "to feel (perfect / hat/ist + Partizip II)",
-    "answer": "hat (sich) gefühlt"
-  },
-  {
-    "question": "to begin (infinitive)",
-    "answer": "anfangen"
-  },
-  {
-    "question": "to begin (present / er/sie/es)",
-    "answer": "fängt an"
-  },
-  {
-    "question": "to begin (perfect / hat/ist + Partizip II)",
-    "answer": "hat angefangen"
-  },
-  {
-    "question": "to regret (infinitive)",
-    "answer": "bereuen"
-  },
-  {
-    "question": "to regret (present / er/sie/es)",
-    "answer": "bereut"
-  },
-  {
-    "question": "to regret (perfect / hat/ist + Partizip II)",
-    "answer": "hat bereut"
-  },
-  {
-    "question": "to be called (infinitive)",
-    "answer": "heißen"
-  },
-  {
-    "question": "to be called (present / er/sie/es)",
-    "answer": "heißt"
-  },
-  {
-    "question": "to be called (perfect / hat/ist + Partizip II)",
-    "answer": "hat geheißen"
-  },
-  {
-    "question": "to have (infinitive)",
-    "answer": "haben"
-  },
-  {
-    "question": "to have (present / er/sie/es)",
-    "answer": "hat"
-  },
-  {
-    "question": "to have (perfect / hat/ist + Partizip II)",
-    "answer": "hat gehabt"
-  },
-  {
-    "question": "to become pregnant (infinitive)",
-    "answer": "schwanger werden"
-  },
-  {
-    "question": "to become pregnant (present / er/sie/es)",
-    "answer": "wird schwanger"
-  },
-  {
-    "question": "to become pregnant (perfect / hat/ist + Partizip II)",
-    "answer": "ist schwanger geworden"
-  },
-  {
-    "question": "to get to know (infinitive)",
-    "answer": "kennenlernen"
-  },
-  {
-    "question": "to get to know (present / er/sie/es)",
-    "answer": "lernt kennen"
-  },
-  {
-    "question": "to get to know (perfect / hat/ist + Partizip II)",
-    "answer": "hat kennengelernt"
-  },
-  {
-    "question": "to tell (infinitive)",
-    "answer": "erzählen"
-  },
-  {
-    "question": "to tell (present / er/sie/es)",
-    "answer": "erzählt"
-  },
-  {
-    "question": "to tell (perfect / hat/ist + Partizip II)",
-    "answer": "hat erzählt"
-  },
-  {
-    "question": "to remember (infinitive)",
-    "answer": "sich erinnern"
-  },
-  {
-    "question": "to remember (present / er/sie/es)",
-    "answer": "erinnert sich"
-  },
-  {
-    "question": "to remember (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich erinnert"
-  },
-  {
-    "question": "to notice / to be apparent (infinitive)",
-    "answer": "anmerken"
-  },
-  {
-    "question": "to notice / to be apparent (present / er/sie/es)",
-    "answer": "merkt an"
-  },
-  {
-    "question": "to notice / to be apparent (perfect / hat/ist + Partizip II)",
-    "answer": "hat angemerkt"
-  },
-  {
-    "question": "to see (infinitive)",
-    "answer": "sehen"
-  },
-  {
-    "question": "to see (present / er/sie/es)",
-    "answer": "sieht"
-  },
-  {
-    "question": "to see (perfect / hat/ist + Partizip II)",
-    "answer": "hat gesehen"
-  },
-  {
-    "question": "to come (infinitive)",
-    "answer": "kommen"
-  },
-  {
-    "question": "to come (present / er/sie/es)",
-    "answer": "kommt"
-  },
-  {
-    "question": "to come (perfect / hat/ist + Partizip II)",
-    "answer": "ist gekommen"
-  },
-  {
-    "question": "to manage / to create (infinitive)",
-    "answer": "schaffen"
-  },
-  {
-    "question": "to manage / to create (present / er/sie/es)",
-    "answer": "schafft"
-  },
-  {
-    "question": "to manage / to create (perfect / hat/ist + Partizip II)",
-    "answer": "hat geschafft"
-  },
-  {
-    "question": "to want (infinitive)",
-    "answer": "wollen"
-  },
-  {
-    "question": "to want (present / er/sie/es)",
-    "answer": "will"
-  },
-  {
-    "question": "to want (perfect / hat/ist + Partizip II)",
-    "answer": "hat gewollt"
-  },
-  {
-    "question": "to keep (infinitive)",
-    "answer": "behalten"
-  },
-  {
-    "question": "to keep (present / er/sie/es)",
-    "answer": "behält"
-  },
-  {
-    "question": "to keep (perfect / hat/ist + Partizip II)",
-    "answer": "hat behalten"
-  },
-  {
-    "question": "to happen (infinitive)",
-    "answer": "passieren"
-  },
-  {
-    "question": "to happen (present / er/sie/es)",
-    "answer": "passiert"
-  },
-  {
-    "question": "to happen (perfect / hat/ist + Partizip II)",
-    "answer": "ist passiert"
-  },
-  {
-    "question": "to be sufficient (infinitive)",
-    "answer": "ausreichen"
-  },
-  {
-    "question": "to be sufficient (present / er/sie/es)",
-    "answer": "reicht aus"
-  },
-  {
-    "question": "to be sufficient (perfect / hat/ist + Partizip II)",
-    "answer": "hat ausgereicht"
-  },
-  {
-    "question": "to live (infinitive)",
-    "answer": "leben"
-  },
-  {
-    "question": "to live (present / er/sie/es)",
-    "answer": "lebt"
-  },
-  {
-    "question": "to live (perfect / hat/ist + Partizip II)",
-    "answer": "hat gelebt"
-  },
-  {
-    "question": "to turn / to change (infinitive)",
-    "answer": "sich wenden"
-  },
-  {
-    "question": "to turn / to change (present / er/sie/es)",
-    "answer": "wendet sich"
-  },
-  {
-    "question": "to turn / to change (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich gewendet"
-  },
-  {
-    "question": "to let survive (infinitive)",
-    "answer": "überleben lassen"
-  },
-  {
-    "question": "to let survive (present / er/sie/es)",
-    "answer": "lässt überleben"
-  },
-  {
-    "question": "to let survive (perfect / hat/ist + Partizip II)",
-    "answer": "hat überleben lassen"
-  },
-  {
-    "question": "to break down (infinitive)",
-    "answer": "zusammenbrechen"
-  },
-  {
-    "question": "to break down (present / er/sie/es)",
-    "answer": "bricht zusammen"
-  },
-  {
-    "question": "to break down (perfect / hat/ist + Partizip II)",
-    "answer": "ist zusammengebrochen"
-  },
-  {
-    "question": "to determine / make out (infinitive)",
-    "answer": "ausmachen"
-  },
-  {
-    "question": "to determine / make out (present / er/sie/es)",
-    "answer": "macht aus"
-  },
-  {
-    "question": "to determine / make out (perfect / hat/ist + Partizip II)",
-    "answer": "hat ausgemacht"
-  },
-  {
-    "question": "to urge / to push (infinitive)",
-    "answer": "drängen"
-  },
-  {
-    "question": "to urge / to push (present / er/sie/es)",
-    "answer": "drängt"
-  },
-  {
-    "question": "to urge / to push (perfect / hat/ist + Partizip II)",
-    "answer": "hat gedrängt"
-  },
-  {
-    "question": "to suffer (infinitive)",
-    "answer": "leiden"
-  },
-  {
-    "question": "to suffer (present / er/sie/es)",
-    "answer": "leidet"
-  },
-  {
-    "question": "to suffer (perfect / hat/ist + Partizip II)",
-    "answer": "hat gelitten"
-  },
-  {
-    "question": "to accuse (infinitive)",
-    "answer": "vorwerfen"
-  },
-  {
-    "question": "to accuse (present / er/sie/es)",
-    "answer": "wirft vor"
-  },
-  {
-    "question": "to accuse (perfect / hat/ist + Partizip II)",
-    "answer": "hat vorgeworfen"
-  },
-  {
-    "question": "to accept (infinitive)",
-    "answer": "akzeptieren"
-  },
-  {
-    "question": "to accept (present / er/sie/es)",
-    "answer": "akzeptiert"
-  },
-  {
-    "question": "to accept (perfect / hat/ist + Partizip II)",
-    "answer": "hat akzeptiert"
-  },
-  {
-    "question": "to turn / to twist (infinitive)",
-    "answer": "drehen"
-  },
-  {
-    "question": "to turn / to twist (present / er/sie/es)",
-    "answer": "dreht"
-  },
-  {
-    "question": "to turn / to twist (perfect / hat/ist + Partizip II)",
-    "answer": "hat gedreht"
-  },
-  {
-    "question": "to grab / to pack (infinitive)",
-    "answer": "packen"
-  },
-  {
-    "question": "to grab / to pack (present / er/sie/es)",
-    "answer": "packt"
-  },
-  {
-    "question": "to grab / to pack (perfect / hat/ist + Partizip II)",
-    "answer": "hat gepackt"
-  },
-  {
-    "question": "to love (infinitive)",
-    "answer": "lieben"
-  },
-  {
-    "question": "to love (present / er/sie/es)",
-    "answer": "liebt"
-  },
-  {
-    "question": "to love (perfect / hat/ist + Partizip II)",
-    "answer": "hat geliebt"
-  },
-  {
-    "question": "to search (infinitive)",
-    "answer": "suchen"
-  },
-  {
-    "question": "to search (present / er/sie/es)",
-    "answer": "sucht"
-  },
-  {
-    "question": "to search (perfect / hat/ist + Partizip II)",
-    "answer": "hat gesucht"
-  },
-  {
-    "question": "to suffocate (infinitive)",
-    "answer": "ersticken"
-  },
-  {
-    "question": "to suffocate (present / er/sie/es)",
-    "answer": "erstickt"
-  },
-  {
-    "question": "to suffocate (perfect / hat/ist + Partizip II)",
-    "answer": "ist erstickt"
-  },
-  {
-    "question": "to fill out / to fulfill (infinitive)",
-    "answer": "ausfüllen"
-  },
-  {
-    "question": "to fill out / to fulfill (present / er/sie/es)",
-    "answer": "füllt aus"
-  },
-  {
-    "question": "to fill out / to fulfill (perfect / hat/ist + Partizip II)",
-    "answer": "hat ausgefüllt"
-  },
-  {
-    "question": "to notice (infinitive)",
-    "answer": "merken"
-  },
-  {
-    "question": "to notice (present / er/sie/es)",
-    "answer": "merkt"
-  },
-  {
-    "question": "to notice (perfect / hat/ist + Partizip II)",
-    "answer": "hat gemerkt"
-  },
-  {
-    "question": "to go crazy / to spin out (infinitive)",
-    "answer": "durchdrehen"
-  },
-  {
-    "question": "to go crazy / to spin out (present / er/sie/es)",
-    "answer": "dreht durch"
-  },
-  {
-    "question": "to go crazy / to spin out (perfect / hat/ist + Partizip II)",
-    "answer": "ist durchgedreht"
-  },
-  {
-    "question": "to take care of (infinitive)",
-    "answer": "sich kümmern"
-  },
-  {
-    "question": "to take care of (present / er/sie/es)",
-    "answer": "kümmert sich"
-  },
-  {
-    "question": "to take care of (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich gekümmert"
-  },
-  {
-    "question": "to take out / to get out (infinitive)",
-    "answer": "rausholen"
-  },
-  {
-    "question": "to take out / to get out (present / er/sie/es)",
-    "answer": "holt raus"
-  },
-  {
-    "question": "to take out / to get out (perfect / hat/ist + Partizip II)",
-    "answer": "hat rausgeholt"
-  },
-  {
-    "question": "to photograph (infinitive)",
-    "answer": "fotografieren"
-  },
-  {
-    "question": "to photograph (present / er/sie/es)",
-    "answer": "fotografiert"
-  },
-  {
-    "question": "to photograph (perfect / hat/ist + Partizip II)",
-    "answer": "hat fotografiert"
-  },
-  {
-    "question": "to represent (infinitive)",
-    "answer": "darstellen"
-  },
-  {
-    "question": "to represent (present / er/sie/es)",
-    "answer": "stellt dar"
-  },
-  {
-    "question": "to represent (perfect / hat/ist + Partizip II)",
-    "answer": "hat dargestellt"
-  },
-  {
-    "question": "to fulfill (infinitive)",
-    "answer": "erfüllen"
-  },
-  {
-    "question": "to fulfill (present / er/sie/es)",
-    "answer": "erfüllt"
-  },
-  {
-    "question": "to fulfill (perfect / hat/ist + Partizip II)",
-    "answer": "hat erfüllt"
-  },
-  {
-    "question": "to change diapers / to wrap (infinitive)",
-    "answer": "wickeln"
-  },
-  {
-    "question": "to change diapers / to wrap (present / er/sie/es)",
-    "answer": "wickelt"
-  },
-  {
-    "question": "to change diapers / to wrap (perfect / hat/ist + Partizip II)",
-    "answer": "hat gewickelt"
-  },
-  {
-    "question": "to breastfeed (infinitive)",
-    "answer": "stillen"
-  },
-  {
-    "question": "to breastfeed (present / er/sie/es)",
-    "answer": "stillt"
-  },
-  {
-    "question": "to breastfeed (perfect / hat/ist + Partizip II)",
-    "answer": "hat gestillt"
-  },
-  {
-    "question": "to comfort (infinitive)",
-    "answer": "trösten"
-  },
-  {
-    "question": "to comfort (present / er/sie/es)",
-    "answer": "tröstet"
-  },
-  {
-    "question": "to comfort (perfect / hat/ist + Partizip II)",
-    "answer": "hat getröstet"
-  },
-  {
-    "question": "to play (infinitive)",
-    "answer": "spielen"
-  },
-  {
-    "question": "to play (present / er/sie/es)",
-    "answer": "spielt"
-  },
-  {
-    "question": "to play (perfect / hat/ist + Partizip II)",
-    "answer": "hat gespielt"
-  },
-  {
-    "question": "to read aloud (infinitive)",
-    "answer": "vorlesen"
-  },
-  {
-    "question": "to read aloud (present / er/sie/es)",
-    "answer": "liest vor"
-  },
-  {
-    "question": "to read aloud (perfect / hat/ist + Partizip II)",
-    "answer": "hat vorgelesen"
-  },
-  {
-    "question": "to clean (infinitive)",
-    "answer": "putzen"
-  },
-  {
-    "question": "to clean (present / er/sie/es)",
-    "answer": "putzt"
-  },
-  {
-    "question": "to clean (perfect / hat/ist + Partizip II)",
-    "answer": "hat geputzt"
-  },
-  {
-    "question": "to cook (infinitive)",
-    "answer": "kochen"
-  },
-  {
-    "question": "to cook (present / er/sie/es)",
-    "answer": "kocht"
-  },
-  {
-    "question": "to cook (perfect / hat/ist + Partizip II)",
-    "answer": "hat gekocht"
-  },
-  {
-    "question": "to clean up (infinitive)",
-    "answer": "saubermachen"
-  },
-  {
-    "question": "to clean up (present / er/sie/es)",
-    "answer": "macht sauber"
-  },
-  {
-    "question": "to clean up (perfect / hat/ist + Partizip II)",
-    "answer": "hat saubergemacht"
-  },
-  {
-    "question": "to dust (infinitive)",
-    "answer": "staubwischen"
-  },
-  {
-    "question": "to dust (present / er/sie/es)",
-    "answer": "wischt Staub"
-  },
-  {
-    "question": "to dust (perfect / hat/ist + Partizip II)",
-    "answer": "hat staubgewischt"
-  },
-  {
-    "question": "to fill (infinitive)",
-    "answer": "füllen"
-  },
-  {
-    "question": "to fill (present / er/sie/es)",
-    "answer": "füllt"
-  },
-  {
-    "question": "to fill (perfect / hat/ist + Partizip II)",
-    "answer": "hat gefüllt"
-  },
-  {
-    "question": "to change (infinitive)",
-    "answer": "wechseln"
-  },
-  {
-    "question": "to change (present / er/sie/es)",
-    "answer": "wechselt"
-  },
-  {
-    "question": "to change (perfect / hat/ist + Partizip II)",
-    "answer": "hat gewechselt"
-  },
-  {
-    "question": "to declare (infinitive)",
-    "answer": "erklären"
-  },
-  {
-    "question": "to declare (present / er/sie/es)",
-    "answer": "erklärt"
-  },
-  {
-    "question": "to declare (perfect / hat/ist + Partizip II)",
-    "answer": "hat erklärt"
-  },
-  {
-    "question": "to burden with (infinitive)",
-    "answer": "aufbürden"
-  },
-  {
-    "question": "to burden with (present / er/sie/es)",
-    "answer": "bürdet auf"
-  },
-  {
-    "question": "to burden with (perfect / hat/ist + Partizip II)",
-    "answer": "hat aufgebürdet"
-  },
-  {
-    "question": "to withhold (infinitive)",
-    "answer": "vorenthalten"
-  },
-  {
-    "question": "to withhold (present / er/sie/es)",
-    "answer": "enthält vor"
-  },
-  {
-    "question": "to withhold (perfect / hat/ist + Partizip II)",
-    "answer": "hat vorenthalten"
-  },
-  {
-    "question": "should / are supposed to (infinitive)",
-    "answer": "sollen"
-  },
-  {
-    "question": "should / are supposed to (present / er/sie/es)",
-    "answer": "soll"
-  },
-  {
-    "question": "should / are supposed to (perfect / hat/ist + Partizip II)",
-    "answer": "hat gesollt"
-  },
-  {
-    "question": "to do / to handle (infinitive)",
-    "answer": "erledigen"
-  },
-  {
-    "question": "to do / to handle (present / er/sie/es)",
-    "answer": "erledigt"
-  },
-  {
-    "question": "to do / to handle (perfect / hat/ist + Partizip II)",
-    "answer": "hat erledigt"
-  },
-  {
-    "question": "to look (infinitive)",
-    "answer": "schauen"
-  },
-  {
-    "question": "to look (present / er/sie/es)",
-    "answer": "schaut"
-  },
-  {
-    "question": "to look (perfect / hat/ist + Partizip II)",
-    "answer": "hat geschaut"
-  },
-  {
-    "question": "to complain (infinitive)",
-    "answer": "sich beschweren"
-  },
-  {
-    "question": "to complain (present / er/sie/es)",
-    "answer": "beschwert sich"
-  },
-  {
-    "question": "to complain (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich beschwert"
-  },
-  {
-    "question": "to be considered (infinitive)",
-    "answer": "gelten"
-  },
-  {
-    "question": "to be considered (present / er/sie/es)",
-    "answer": "gilt"
-  },
-  {
-    "question": "to be considered (perfect / hat/ist + Partizip II)",
-    "answer": "hat gegolten"
-  },
-  {
-    "question": "to move / to pull (infinitive)",
-    "answer": "ziehen"
-  },
-  {
-    "question": "to move / to pull (present / er/sie/es)",
-    "answer": "zieht"
-  },
-  {
-    "question": "to move / to pull (perfect / hat/ist + Partizip II)",
-    "answer": "ist gezogen"
-  },
-  {
-    "question": "to live / to reside (infinitive)",
-    "answer": "wohnen"
-  },
-  {
-    "question": "to live / to reside (present / er/sie/es)",
-    "answer": "wohnt"
-  },
-  {
-    "question": "to live / to reside (perfect / hat/ist + Partizip II)",
-    "answer": "hat gewohnt"
-  },
-  {
-    "question": "to visit (infinitive)",
-    "answer": "besuchen"
-  },
-  {
-    "question": "to visit (present / er/sie/es)",
-    "answer": "besucht"
-  },
-  {
-    "question": "to visit (perfect / hat/ist + Partizip II)",
-    "answer": "hat besucht"
-  },
-  {
-    "question": "to say (infinitive)",
-    "answer": "sagen"
-  },
-  {
-    "question": "to say (present / er/sie/es)",
-    "answer": "sagt"
-  },
-  {
-    "question": "to say (perfect / hat/ist + Partizip II)",
-    "answer": "hat gesagt"
-  },
-  {
-    "question": "to get (infinitive)",
-    "answer": "kriegen"
-  },
-  {
-    "question": "to get (present / er/sie/es)",
-    "answer": "kriegt"
-  },
-  {
-    "question": "to get (perfect / hat/ist + Partizip II)",
-    "answer": "hat gekriegt"
-  },
-  {
-    "question": "to call (infinitive)",
-    "answer": "rufen"
-  },
-  {
-    "question": "to call (present / er/sie/es)",
-    "answer": "ruft"
-  },
-  {
-    "question": "to call (perfect / hat/ist + Partizip II)",
-    "answer": "hat gerufen"
-  },
-  {
-    "question": "to need (infinitive)",
-    "answer": "brauchen"
-  },
-  {
-    "question": "to need (present / er/sie/es)",
-    "answer": "braucht"
-  },
-  {
-    "question": "to need (perfect / hat/ist + Partizip II)",
-    "answer": "hat gebraucht"
-  },
-  {
-    "question": "must / to have to (infinitive)",
-    "answer": "müssen"
-  },
-  {
-    "question": "must / to have to (present / er/sie/es)",
-    "answer": "muss"
-  },
-  {
-    "question": "must / to have to (perfect / hat/ist + Partizip II)",
-    "answer": "hat gemusst"
-  },
-  {
-    "question": "to name (infinitive)",
-    "answer": "benennen"
-  },
-  {
-    "question": "to name (present / er/sie/es)",
-    "answer": "benennt"
-  },
-  {
-    "question": "to name (perfect / hat/ist + Partizip II)",
-    "answer": "hat benannt"
-  },
-  {
-    "question": "to take along (infinitive)",
-    "answer": "mitnehmen"
-  },
-  {
-    "question": "to take along (present / er/sie/es)",
-    "answer": "nimmt mit"
-  },
-  {
-    "question": "to take along (perfect / hat/ist + Partizip II)",
-    "answer": "hat mitgenommen"
-  },
-  {
-    "question": "to mean (infinitive)",
-    "answer": "bedeuten"
-  },
-  {
-    "question": "to mean (present / er/sie/es)",
-    "answer": "bedeutet"
-  },
-  {
-    "question": "to mean (perfect / hat/ist + Partizip II)",
-    "answer": "hat bedeutet"
-  },
-  {
-    "question": "to meet / to make (a decision) (infinitive)",
-    "answer": "treffen"
-  },
-  {
-    "question": "to meet / to make (a decision) (present / er/sie/es)",
-    "answer": "trifft"
-  },
-  {
-    "question": "to meet / to make (a decision) (perfect / hat/ist + Partizip II)",
-    "answer": "hat getroffen"
-  },
-  {
-    "question": "to undo (infinitive)",
-    "answer": "rückgängig machen"
-  },
-  {
-    "question": "to undo (present / er/sie/es)",
-    "answer": "macht rückgängig"
-  },
-  {
-    "question": "to undo (perfect / hat/ist + Partizip II)",
-    "answer": "hat rückgängig gemacht"
-  },
-  {
-    "question": "to appear / to set in (infinitive)",
-    "answer": "sich einstellen"
-  },
-  {
-    "question": "to appear / to set in (present / er/sie/es)",
-    "answer": "stellt sich ein"
-  },
-  {
-    "question": "to appear / to set in (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich eingestellt"
-  },
-  {
-    "question": "to accept (infinitive)",
-    "answer": "annehmen"
-  },
-  {
-    "question": "to accept (present / er/sie/es)",
-    "answer": "nimmt an"
-  },
-  {
-    "question": "to accept (perfect / hat/ist + Partizip II)",
-    "answer": "hat angenommen"
-  },
-  {
-    "question": "to continue (infinitive)",
-    "answer": "weitermachen"
-  },
-  {
-    "question": "to continue (present / er/sie/es)",
-    "answer": "macht weiter"
-  },
-  {
-    "question": "to continue (perfect / hat/ist + Partizip II)",
-    "answer": "hat weitergemacht"
-  },
-  {
-    "question": "to involve (infinitive)",
-    "answer": "einbeziehen"
-  },
-  {
-    "question": "to involve (present / er/sie/es)",
-    "answer": "bezieht ein"
-  },
-  {
-    "question": "to involve (perfect / hat/ist + Partizip II)",
-    "answer": "hat einbezogen"
-  },
-  {
-    "question": "to fight (infinitive)",
-    "answer": "kämpfen"
-  },
-  {
-    "question": "to fight (present / er/sie/es)",
-    "answer": "kämpft"
-  },
-  {
-    "question": "to fight (perfect / hat/ist + Partizip II)",
-    "answer": "hat gekämpft"
-  },
-  {
-    "question": "to find (infinitive)",
-    "answer": "finden"
-  },
-  {
-    "question": "to find (present / er/sie/es)",
-    "answer": "findet"
-  },
-  {
-    "question": "to find (perfect / hat/ist + Partizip II)",
-    "answer": "hat gefunden"
-  },
-  {
-    "question": "to develop (infinitive)",
-    "answer": "entwickeln"
-  },
-  {
-    "question": "to develop (present / er/sie/es)",
-    "answer": "entwickelt"
-  },
-  {
-    "question": "to develop (perfect / hat/ist + Partizip II)",
-    "answer": "hat entwickelt"
-  },
-  {
-    "question": "to run / to go (infinitive)",
-    "answer": "laufen"
-  },
-  {
-    "question": "to run / to go (present / er/sie/es)",
-    "answer": "läuft"
-  },
-  {
-    "question": "to run / to go (perfect / hat/ist + Partizip II)",
-    "answer": "ist gelaufen"
-  },
-  {
-    "question": "to confirm (infinitive)",
-    "answer": "bestätigen"
-  },
-  {
-    "question": "to confirm (present / er/sie/es)",
-    "answer": "bestätigt"
-  },
-  {
-    "question": "to confirm (perfect / hat/ist + Partizip II)",
-    "answer": "hat bestätigt"
-  },
-  {
-    "question": "to sit down (infinitive)",
-    "answer": "sich hinsetzen"
-  },
-  {
-    "question": "to sit down (present / er/sie/es)",
-    "answer": "setzt sich hin"
-  },
-  {
-    "question": "to sit down (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich hingesetzt"
-  },
-  {
-    "question": "to take seriously (infinitive)",
-    "answer": "ernst nehmen"
-  },
-  {
-    "question": "to take seriously (present / er/sie/es)",
-    "answer": "nimmt ernst"
-  },
-  {
-    "question": "to take seriously (perfect / hat/ist + Partizip II)",
-    "answer": "hat ernst genommen"
-  },
-  {
-    "question": "to listen (infinitive)",
-    "answer": "zuhören"
-  },
-  {
-    "question": "to listen (present / er/sie/es)",
-    "answer": "hört zu"
-  },
-  {
-    "question": "to listen (perfect / hat/ist + Partizip II)",
-    "answer": "hat zugehört"
-  },
-  {
-    "question": "to discuss (infinitive)",
-    "answer": "besprechen"
-  },
-  {
-    "question": "to discuss (present / er/sie/es)",
-    "answer": "bespricht"
-  },
-  {
-    "question": "to discuss (perfect / hat/ist + Partizip II)",
-    "answer": "hat besprochen"
-  },
-  {
-    "question": "to need (infinitive)",
-    "answer": "benötigen"
-  },
-  {
-    "question": "to need (present / er/sie/es)",
-    "answer": "benötigt"
-  },
-  {
-    "question": "to need (perfect / hat/ist + Partizip II)",
-    "answer": "hat benötigt"
-  },
-  {
-    "question": "to comply with (infinitive)",
-    "answer": "nachkommen"
-  },
-  {
-    "question": "to comply with (present / er/sie/es)",
-    "answer": "kommt nach"
-  },
-  {
-    "question": "to comply with (perfect / hat/ist + Partizip II)",
-    "answer": "ist nachgekommen"
-  },
-  {
-    "question": "to learn (infinitive)",
-    "answer": "lernen"
-  },
-  {
-    "question": "to learn (present / er/sie/es)",
-    "answer": "lernt"
-  },
-  {
-    "question": "to learn (perfect / hat/ist + Partizip II)",
-    "answer": "hat gelernt"
-  },
-  {
-    "question": "to forgive (infinitive)",
-    "answer": "vergeben"
-  },
-  {
-    "question": "to forgive (present / er/sie/es)",
-    "answer": "vergibt"
-  },
-  {
-    "question": "to forgive (perfect / hat/ist + Partizip II)",
-    "answer": "hat vergeben"
-  },
-  {
-    "question": "to feel (infinitive)",
-    "answer": "spüren"
-  },
-  {
-    "question": "to feel (present / er/sie/es)",
-    "answer": "spürt"
-  },
-  {
-    "question": "to feel (perfect / hat/ist + Partizip II)",
-    "answer": "hat gespürt"
-  },
-  {
-    "question": "to lie / to be located (infinitive)",
-    "answer": "liegen"
-  },
-  {
-    "question": "to lie / to be located (present / er/sie/es)",
-    "answer": "liegt"
-  },
-  {
-    "question": "to lie / to be located (perfect / hat/ist + Partizip II)",
-    "answer": "hat gelegen"
-  },
-  {
-    "question": "to perceive (infinitive)",
-    "answer": "wahrnehmen"
-  },
-  {
-    "question": "to perceive (present / er/sie/es)",
-    "answer": "nimmt wahr"
-  },
-  {
-    "question": "to perceive (perfect / hat/ist + Partizip II)",
-    "answer": "hat wahrgenommen"
-  },
-  {
-    "question": "to do (infinitive)",
-    "answer": "tun"
-  },
-  {
-    "question": "to do (present / er/sie/es)",
-    "answer": "tut"
-  },
-  {
-    "question": "to do (perfect / hat/ist + Partizip II)",
-    "answer": "hat getan"
-  },
-  {
-    "question": "to use (infinitive)",
-    "answer": "nutzen"
-  },
-  {
-    "question": "to use (present / er/sie/es)",
-    "answer": "nutzt"
-  },
-  {
-    "question": "to use (perfect / hat/ist + Partizip II)",
-    "answer": "hat genutzt"
-  },
-  {
-    "question": "to deal with (infinitive)",
-    "answer": "sich beschäftigen"
-  },
-  {
-    "question": "to deal with (present / er/sie/es)",
-    "answer": "beschäftigt sich"
-  },
-  {
-    "question": "to deal with (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich beschäftigt"
-  },
-  {
-    "question": "to process (infinitive)",
-    "answer": "verarbeiten"
-  },
-  {
-    "question": "to process (present / er/sie/es)",
-    "answer": "verarbeitet"
-  },
-  {
-    "question": "to process (perfect / hat/ist + Partizip II)",
-    "answer": "hat verarbeitet"
-  },
-  {
-    "question": "to recognize (infinitive)",
-    "answer": "erkennen"
-  },
-  {
-    "question": "to recognize (present / er/sie/es)",
-    "answer": "erkennt"
-  },
-  {
-    "question": "to recognize (perfect / hat/ist + Partizip II)",
-    "answer": "hat erkannt"
-  },
-  {
-    "question": "to implement (infinitive)",
-    "answer": "umsetzen"
-  },
-  {
-    "question": "to implement (present / er/sie/es)",
-    "answer": "setzt um"
-  },
-  {
-    "question": "to implement (perfect / hat/ist + Partizip II)",
-    "answer": "hat umgesetzt"
-  },
-  {
-    "question": "to work (infinitive)",
-    "answer": "arbeiten"
-  },
-  {
-    "question": "to work (present / er/sie/es)",
-    "answer": "arbeitet"
-  },
-  {
-    "question": "to work (perfect / hat/ist + Partizip II)",
-    "answer": "hat gearbeitet"
-  },
-  {
-    "question": "to pick up (infinitive)",
-    "answer": "abholen"
-  },
-  {
-    "question": "to pick up (present / er/sie/es)",
-    "answer": "holt ab"
-  },
-  {
-    "question": "to pick up (perfect / hat/ist + Partizip II)",
-    "answer": "hat abgeholt"
-  },
-  {
-    "question": "to provide / to achieve (infinitive)",
-    "answer": "erbringen"
-  },
-  {
-    "question": "to provide / to achieve (present / er/sie/es)",
-    "answer": "erbringt"
-  },
-  {
-    "question": "to provide / to achieve (perfect / hat/ist + Partizip II)",
-    "answer": "hat erbracht"
-  },
-  {
-    "question": "to finish (infinitive)",
-    "answer": "beenden"
-  },
-  {
-    "question": "to finish (present / er/sie/es)",
-    "answer": "beendet"
-  },
-  {
-    "question": "to finish (perfect / hat/ist + Partizip II)",
-    "answer": "hat beendet"
-  },
-  {
-    "question": "to demonstrate / to live by example (infinitive)",
-    "answer": "vorleben"
-  },
-  {
-    "question": "to demonstrate / to live by example (present / er/sie/es)",
-    "answer": "lebt vor"
-  },
-  {
-    "question": "to demonstrate / to live by example (perfect / hat/ist + Partizip II)",
-    "answer": "hat vorgelebt"
-  },
-  {
-    "question": "to rest (infinitive)",
-    "answer": "sich ausruhen"
-  },
-  {
-    "question": "to rest (present / er/sie/es)",
-    "answer": "ruht sich aus"
-  },
-  {
-    "question": "to rest (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich ausgeruht"
-  },
-  {
-    "question": "to lean back (infinitive)",
-    "answer": "sich zurücklehnen"
-  },
-  {
-    "question": "to lean back (present / er/sie/es)",
-    "answer": "lehnt sich zurück"
-  },
-  {
-    "question": "to lean back (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich zurückgelehnt"
-  },
-  {
-    "question": "to let be (infinitive)",
-    "answer": "sein lassen"
-  },
-  {
-    "question": "to let be (present / er/sie/es)",
-    "answer": "lässt sein"
-  },
-  {
-    "question": "to let be (perfect / hat/ist + Partizip II)",
-    "answer": "hat sein lassen"
-  },
-  {
-    "question": "to be allowed to (infinitive)",
-    "answer": "dürfen"
-  },
-  {
-    "question": "to be allowed to (present / er/sie/es)",
-    "answer": "darf"
-  },
-  {
-    "question": "to be allowed to (perfect / hat/ist + Partizip II)",
-    "answer": "hat gedurft"
-  },
-  {
-    "question": "to get out / to come out (infinitive)",
-    "answer": "rauskommen"
-  },
-  {
-    "question": "to get out / to come out (present / er/sie/es)",
-    "answer": "kommt raus"
-  },
-  {
-    "question": "to get out / to come out (perfect / hat/ist + Partizip II)",
-    "answer": "ist rausgekommen"
-  },
-  {
-    "question": "to long for (infinitive)",
-    "answer": "sich sehnen"
-  },
-  {
-    "question": "to long for (present / er/sie/es)",
-    "answer": "sehnt sich"
-  },
-  {
-    "question": "to long for (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich gesehnt"
-  },
-  {
-    "question": "to exchange / to discuss (infinitive)",
-    "answer": "sich austauschen"
-  },
-  {
-    "question": "to exchange / to discuss (present / er/sie/es)",
-    "answer": "tauscht sich aus"
-  },
-  {
-    "question": "to exchange / to discuss (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich ausgetauscht"
-  },
-  {
-    "question": "to continue / to go on (infinitive)",
-    "answer": "weitergehen"
-  },
-  {
-    "question": "to continue / to go on (present / er/sie/es)",
-    "answer": "geht weiter"
-  },
-  {
-    "question": "to continue / to go on (perfect / hat/ist + Partizip II)",
-    "answer": "ist weitergegangen"
-  },
-  {
-    "question": "to allow (infinitive)",
-    "answer": "erlauben"
-  },
-  {
-    "question": "to allow (present / er/sie/es)",
-    "answer": "erlaubt"
-  },
-  {
-    "question": "to allow (perfect / hat/ist + Partizip II)",
-    "answer": "hat erlaubt"
-  },
-  {
-    "question": "to fail / to drop out (infinitive)",
-    "answer": "ausfallen"
-  },
-  {
-    "question": "to fail / to drop out (present / er/sie/es)",
-    "answer": "fällt aus"
-  },
-  {
-    "question": "to fail / to drop out (perfect / hat/ist + Partizip II)",
-    "answer": "ist ausgefallen"
-  },
-  {
-    "question": "to get sick (infinitive)",
-    "answer": "krank werden"
-  },
-  {
-    "question": "to get sick (present / er/sie/es)",
-    "answer": "wird krank"
-  },
-  {
-    "question": "to get sick (perfect / hat/ist + Partizip II)",
-    "answer": "ist krank geworden"
-  },
-  {
-    "question": "to hate (infinitive)",
-    "answer": "hassen"
-  },
-  {
-    "question": "to hate (present / er/sie/es)",
-    "answer": "hasst"
-  },
-  {
-    "question": "to hate (perfect / hat/ist + Partizip II)",
-    "answer": "hat gehasst"
-  },
-  {
-    "question": "to steal (infinitive)",
-    "answer": "stehlen"
-  },
-  {
-    "question": "to steal (present / er/sie/es)",
-    "answer": "stiehlt"
-  },
-  {
-    "question": "to steal (perfect / hat/ist + Partizip II)",
-    "answer": "hat gestohlen"
-  },
-  {
-    "question": "to be missing (infinitive)",
-    "answer": "fehlen"
-  },
-  {
-    "question": "to be missing (present / er/sie/es)",
-    "answer": "fehlt"
-  },
-  {
-    "question": "to be missing (perfect / hat/ist + Partizip II)",
-    "answer": "hat gefehlt"
-  },
-  {
-    "question": "to breathe (infinitive)",
-    "answer": "atmen"
-  },
-  {
-    "question": "to breathe (present / er/sie/es)",
-    "answer": "atmet"
-  },
-  {
-    "question": "to breathe (perfect / hat/ist + Partizip II)",
-    "answer": "hat geatmet"
-  },
-  {
-    "question": "to serve (infinitive)",
-    "answer": "dienen"
-  },
-  {
-    "question": "to serve (present / er/sie/es)",
-    "answer": "dient"
-  },
-  {
-    "question": "to serve (perfect / hat/ist + Partizip II)",
-    "answer": "hat gedient"
-  },
-  {
-    "question": "to set in motion (infinitive)",
-    "answer": "in Gang setzen"
-  },
-  {
-    "question": "to set in motion (present / er/sie/es)",
-    "answer": "setzt in Gang"
-  },
-  {
-    "question": "to set in motion (perfect / hat/ist + Partizip II)",
-    "answer": "hat in Gang gesetzt"
-  },
-  {
-    "question": "to reflect (infinitive)",
-    "answer": "reflektieren"
-  },
-  {
-    "question": "to reflect (present / er/sie/es)",
-    "answer": "reflektiert"
-  },
-  {
-    "question": "to reflect (perfect / hat/ist + Partizip II)",
-    "answer": "hat reflektiert"
-  },
-  {
-    "question": "to reflect / to be mirrored (infinitive)",
-    "answer": "sich widerspiegeln"
-  },
-  {
-    "question": "to reflect / to be mirrored (present / er/sie/es)",
-    "answer": "spiegelt sich wider"
-  },
-  {
-    "question": "to reflect / to be mirrored (perfect / hat/ist + Partizip II)",
-    "answer": "hat sich widergespiegelt"
-  },
-  {
-    "question": "to trigger (infinitive)",
-    "answer": "auslösen"
-  },
-  {
-    "question": "to trigger (present / er/sie/es)",
-    "answer": "löst aus"
-  },
-  {
-    "question": "to trigger (perfect / hat/ist + Partizip II)",
-    "answer": "hat ausgelöst"
-  },
-  {
-    "question": "to feel / to perceive (infinitive)",
-    "answer": "empfinden"
-  },
-  {
-    "question": "to feel / to perceive (present / er/sie/es)",
-    "answer": "empfindet"
-  },
-  {
-    "question": "to feel / to perceive (perfect / hat/ist + Partizip II)",
-    "answer": "hat empfunden"
-  },
-  {
-    "question": "to evaluate (infinitive)",
-    "answer": "bewerten"
-  },
-  {
-    "question": "to evaluate (present / er/sie/es)",
-    "answer": "bewertet"
-  },
-  {
-    "question": "to evaluate (perfect / hat/ist + Partizip II)",
-    "answer": "hat bewertet"
-  },
-  {
-    "question": "to try (infinitive)",
-    "answer": "versuchen"
-  },
-  {
-    "question": "to try (present / er/sie/es)",
-    "answer": "versucht"
-  },
-  {
-    "question": "to try (perfect / hat/ist + Partizip II)",
-    "answer": "hat versucht"
-  },
-  {
-    "question": "to deal with (infinitive)",
-    "answer": "umgehen"
-  },
-  {
-    "question": "to deal with (present / er/sie/es)",
-    "answer": "geht um"
-  },
-  {
-    "question": "to deal with (perfect / hat/ist + Partizip II)",
-    "answer": "ist umgegangen"
-  },
-  {
-    "question": "to hope (infinitive)",
-    "answer": "hoffen"
-  },
-  {
-    "question": "to hope (present / er/sie/es)",
-    "answer": "hofft"
-  },
-  {
-    "question": "to hope (perfect / hat/ist + Partizip II)",
-    "answer": "hat gehofft"
-  },
-  {
-    "question": "to please (infinitive)",
-    "answer": "gefallen"
-  },
-  {
-    "question": "to please (present / er/sie/es)",
-    "answer": "gefällt"
-  },
-  {
-    "question": "to please (perfect / hat/ist + Partizip II)",
-    "answer": "hat gefallen"
-  },
-  {
-    "question": "to press (infinitive)",
-    "answer": "drücken"
-  },
-  {
-    "question": "to press (present / er/sie/es)",
-    "answer": "drückt"
-  },
-  {
-    "question": "to press (perfect / hat/ist + Partizip II)",
-    "answer": "hat gedrückt"
-  },
-  {
-    "question": "to interest (infinitive)",
-    "answer": "interessieren"
-  },
-  {
-    "question": "to interest (present / er/sie/es)",
-    "answer": "interessiert"
-  },
-  {
-    "question": "to interest (perfect / hat/ist + Partizip II)",
-    "answer": "hat interessiert"
-  },
-  {
-    "question": "to write (infinitive)",
-    "answer": "schreiben"
-  },
-  {
-    "question": "to write (present / er/sie/es)",
-    "answer": "schreibt"
-  },
-  {
-    "question": "to write (perfect / hat/ist + Partizip II)",
-    "answer": "hat geschrieben"
-  }
-]
+{ "Adjektive": [	{"question": "voll", "answer": "full"}, 	
+	{"question": "interessant", "answer": "interesting"}, 	
+	{"question": "kaputt", "answer": "broken"}, 	
+	{"question": "einfach", "answer": "simple"}, 	
+	{"question": "aufgeregt", "answer": "excited"}, 	
+	{"question": "verheiratet", "answer": "married"}, 	
+	{"question": "dunkel", "answer": "dark"}, 	
+	{"question": "normal", "answer": "normal"}, 	
+	{"question": "klein", "answer": "small"}, 	
+	{"question": "hilfreich", "answer": "helpful"}, 	
+	{"question": "schlecht", "answer": "bad"}, 	
+	{"question": "schwer", "answer": "heavy"}, 	
+	{"question": "fern", "answer": "far"}, 	
+	{"question": "alt", "answer": "old"}, 	
+	{"question": "geschieden", "answer": "divorced"}, 	
+	{"question": "höflich", "answer": "polite"}, 	
+	{"question": "weich", "answer": "soft"}, 	
+	{"question": "heiß", "answer": "hot"}, 	
+	{"question": "warm", "answer": "warm"}, 	
+	{"question": "laut", "answer": "loud"}, 	
+	{"question": "schön", "answer": "nice"}, 	
+	{"question": "nah", "answer": "close"}, 	
+	{"question": "genervt", "answer": "annoyed"}, 	
+	{"question": "befristet", "answer": "temporary"}, 	
+	{"question": "leicht", "answer": "light"}, 	
+	{"question": "unpünktlich", "answer": "unpunctual"}, 	
+	{"question": "wenig", "answer": "a few"}, 	
+	{"question": "jung", "answer": "young"}, 	
+	{"question": "sauber", "answer": "clean"}, 	
+	{"question": "leise", "answer": "quiet"}, 	
+	{"question": "selbstbewusst", "answer": "self-confident"}, 	
+	{"question": "verwirrend", "answer": "confusing"}, 	
+	{"question": "trocken", "answer": "dry"}, 	
+	{"question": "langsam", "answer": "slow"}, 	
+	{"question": "kühl", "answer": "cool"}, 	
+	{"question": "selbstsicher", "answer": "self-assured"}, 	
+	{"question": "viel", "answer": "a lot"}, 	
+	{"question": "krank", "answer": "sick"}, 	
+	{"question": "hässlich", "answer": "not nice"}, 	
+	{"question": "überrascht", "answer": "surprised"}, 	
+	{"question": "schnell", "answer": "fast"}, 	
+	{"question": "gut", "answer": "good"}, 	
+	{"question": "unbefristet", "answer": "permanent"}, 	
+	{"question": "groß", "answer": "big"}, 	
+	{"question": "kurz", "answer": "short"}, 	
+	{"question": "selbstständig", "answer": "self-employed"}, 	
+	{"question": "pünktlich", "answer": "punctual"}, 	
+	{"question": "richtig", "answer": "right"}, 	
+	{"question": "nervös", "answer": "nervous"}, 	
+	{"question": "glücklich", "answer": "happy"}, 	
+	{"question": "frisch", "answer": "fresch"}, 	
+	{"question": "früh", "answer": "early"}, 	
+	{"question": "dick", "answer": "thick"}, 	
+	{"question": "unbequem", "answer": "uncomfortable"}, 	
+	{"question": "lang", "answer": "long"}, 	
+	{"question": "modern", "answer": "modern"}, 	
+	{"question": "hart", "answer": "hard"}, 	
+	{"question": "nass", "answer": "wet"}, 	
+	{"question": "dünn", "answer": "thin"}, 	
+	{"question": "ängstlich", "answer": "anxious/fearful"}, 	
+	{"question": "unsicher", "answer": "insecure"}, 	
+	{"question": "gesund", "answer": "healthy"}, 	
+	{"question": "kalt", "answer": "cold"}, 	
+	{"question": "bequem", "answer": "comfortable"}, 	
+	{"question": "glücklich", "answer": "happy"}, 	
+	{"question": "traurig", "answer": "sad"}, 	
+	{"question": "neugierig", "answer": "curious"}, 	
+	{"question": "falsch", "answer": "wrong"}, 	
+	{"question": "mitversichert", "answer": "co-insured"}, 	
+	{"question": "schmutzig", "answer": "dirty"}, 	
+	{"question": "neu", "answer": "new"}, 	
+	{"question": "selbstversichert", "answer": "self-insured"}, 	
+	{"question": "verwitwet", "answer": "widow"}, 	
+	{"question": "ungesund", "answer": "unhealthy"}, 	
+	{"question": "ledig", "answer": "single"}, 	
+	{"question": "spät", "answer": "late"}, 	
+	{"question": "hell", "answer": "bright"}, 	
+	{"question": "erleichtert", "answer": "relieved"}, 	
+	{"question": "leer", "answer": "empty"}	],
+"Arbeit": [	{"question": "das Papier", "answer": "The paper"}, 	
+	{"question": "der Lohn", "answer": "wage (for workers)"}, 	
+	{"question": "das Vorstellungsgespräch", "answer": "the job interview"}, 	
+	{"question": "das Unternehmen", "answer": "the company"}, 	
+	{"question": "der Computer", "answer": "The computer"}, 	
+	{"question": "die Ergebnisse", "answer": "the results"}, 	
+	{"question": "der Termin", "answer": "the appointment"}, 	
+	{"question": "das Ergebnis", "answer": "the result"}, 	
+	{"question": "Computer", "answer": "computers"}, 	
+	{"question": "die Belohnung", "answer": "reward"}, 	
+	{"question": "der Durchschnitt", "answer": "average"}, 	
+	{"question": "die Pause", "answer": "the pause"}, 	
+	{"question": "die Angestellten", "answer": "the employees"}, 	
+	{"question": "die Lohnsteuer", "answer": "salary tax"}, 	
+	{"question": "der Dienstgeber", "answer": "the employer"}, 	
+	{"question": "das Büro", "answer": "the office"}, 	
+	{"question": "das Gehalt", "answer": "salary (for employees)"}, 	
+	{"question": "die Einkommensteuer", "answer": "income tax"}, 	
+	{"question": "die Geschichte", "answer": "story, history"}, 	
+	{"question": "die Sozialversicherung", "answer": "social insurance"}, 	
+	{"question": "der Stift", "answer": "The pencil"}	],
+"der Körper": [	{"question": "das Ohr", "answer": "the ear"}, 	
+	{"question": "der Knöchel", "answer": "the ankle"}, 	
+	{"question": "das Herz", "answer": "the heart"}, 	
+	{"question": "das Gehirn", "answer": "the brain"}, 	
+	{"question": "die Muskeln", "answer": "the muscles"}, 	
+	{"question": "das Bein", "answer": "the leg"}, 	
+	{"question": "die Brust", "answer": "the chest / breast"}, 	
+	{"question": "das Kinn", "answer": "the chin"}, 	
+	{"question": "der Kopf", "answer": "the head"}, 	
+	{"question": "der Nacken", "answer": "the nape"}, 	
+	{"question": "die Nase", "answer": "the nose"}, 	
+	{"question": "die Haut", "answer": "the skin"}, 	
+	{"question": "der Rücken", "answer": "the back"}, 	
+	{"question": "der Fuß", "answer": "the foot"}, 	
+	{"question": "die Knochen", "answer": "the bones"}, 	
+	{"question": "der Zahn", "answer": "the tooth"}, 	
+	{"question": "die Lunge", "answer": "the lung"}, 	
+	{"question": "der Nagel", "answer": "the nail"}, 	
+	{"question": "das Knie", "answer": "the knee"}, 	
+	{"question": "die Schulter", "answer": "the shoulder"}, 	
+	{"question": "der Rücken", "answer": "the back"}, 	
+	{"question": "die Zunge", "answer": "the tongue"}, 	
+	{"question": "die Zähne", "answer": "the teeth"}, 	
+	{"question": "das Bein", "answer": "the leg"}, 	
+	{"question": "die Arme", "answer": "the arms"}, 	
+	{"question": "die Hände", "answer": "the hands"}, 	
+	{"question": "die Füße", "answer": "the feet"}, 	
+	{"question": "das Blut", "answer": "the blood"}, 	
+	{"question": "die Ohren", "answer": "the ears"}, 	
+	{"question": "die Augen", "answer": "the eyes"}, 	
+	{"question": "die Finger", "answer": "the fingers"}, 	
+	{"question": "der Mund", "answer": "the mouth"}, 	
+	{"question": "der Finger", "answer": "the finger"}, 	
+	{"question": "das Gesicht", "answer": "the face"}, 	
+	{"question": "die Lippe", "answer": "the lip"}, 	
+	{"question": "die Hand", "answer": "the hand"}, 	
+	{"question": "das Knie", "answer": "the knee"}, 	
+	{"question": "der Arm", "answer": "the arm"}, 	
+	{"question": "der Bauch", "answer": "the belly / stomach"}, 	
+	{"question": "die Wange", "answer": "the cheek"}, 	
+	{"question": "der Hals", "answer": "the neck / throat"}, 	
+	{"question": "das Haar", "answer": "the hair"}, 	
+	{"question": "die Zehen", "answer": "the toes"}, 	
+	{"question": "die Zehe", "answer": "the toe"}, 	
+	{"question": "das Auge", "answer": "the eye"}, 	
+	{"question": "der Ellenbogen", "answer": "the elbow"}, 	
+	{"question": "die Beine", "answer": "the legs"}, 	
+	{"question": "die Schulter", "answer": "the shoulder"}, 	
+	{"question": "der Daumen", "answer": "the thumb"}	],
+"die Familie": [	{"question": "die Schwester", "answer": "the sister"}, 	
+	{"question": "die Ehefrau", "answer": "the wife"}, 	
+	{"question": "die Eltern", "answer": "the parents"}, 	
+	{"question": "die Cousine", "answer": "the (female) cousin"}, 	
+	{"question": "der Ehemann", "answer": "the husband"}, 	
+	{"question": "der Großvater", "answer": "the grandfather"}, 	
+	{"question": "die Großmutter / die Oma", "answer": "the grandmother"}, 	
+	{"question": "die Großeltern", "answer": "the grandparents"}, 	
+	{"question": "die Tochter", "answer": "the daughter"}, 	
+	{"question": "die Tante", "answer": "the aunt"}, 	
+	{"question": "der Neffe", "answer": "the nephew"}, 	
+	{"question": "die Geschwister", "answer": "the siblings"}, 	
+	{"question": "der Großvater (Opa)", "answer": "the grandfather"}, 	
+	{"question": "der Bruder", "answer": "the brother"}, 	
+	{"question": "die Nichte", "answer": "the niece"}, 	
+	{"question": "die Nichte", "answer": "the niece"}, 	
+	{"question": "die Enkelin", "answer": "the granddaughter"}, 	
+	{"question": "der Onkel", "answer": "the uncle"}, 	
+	{"question": "die Mutter", "answer": "the mother"}, 	
+	{"question": "der Onkel", "answer": "the uncle"}, 	
+	{"question": "die Verwandte", "answer": "the relative"}, 	
+	{"question": "die Großmutter (Oma)", "answer": "the grandmother"}, 	
+	{"question": "der Sohn", "answer": "the son"}, 	
+	{"question": "der Cousin", "answer": "the (male) cousin"}, 	
+	{"question": "die Enkelkinder", "answer": "the grandchildren"}, 	
+	{"question": "der Vater", "answer": "the father"}, 	
+	{"question": "der Enkel", "answer": "the grandson"}, 	
+	{"question": "die Familie", "answer": "the family"}, 	
+	{"question": "die Tante", "answer": "the aunt"}, 	
+	{"question": "der Neffe", "answer": "the nephew"}	],
+"Essen": [	{"question": "der Schnitzel", "answer": "schnitzel"}, 	
+	{"question": "die Wurst", "answer": "the sausage"}, 	
+	{"question": "der Paradeiser", "answer": "the tomato"}, 	
+	{"question": "der Joghurt", "answer": "the yogurt"}, 	
+	{"question": "das Öl", "answer": "the oil"}, 	
+	{"question": "Biere", "answer": "beers"}, 	
+	{"question": "das Salz", "answer": "the salt"}, 	
+	{"question": "der Reis", "answer": "the rice"}, 	
+	{"question": "der Zucker", "answer": "the sugar"}, 	
+	{"question": "der Kuchen", "answer": "the cake"}, 	
+	{"question": "der Wasserkocher", "answer": "the water boiler"}, 	
+	{"question": "der Salat", "answer": "the salad"}, 	
+	{"question": "die Birne", "answer": "the pear"}, 	
+	{"question": "das Stück", "answer": "the piece"}, 	
+	{"question": "das Bier", "answer": "the beer"}, 	
+	{"question": "der Käse", "answer": "the cheese"}, 	
+	{"question": "die Nudeln", "answer": "the noodles"}, 	
+	{"question": "Mangos", "answer": "mangoes"}, 	
+	{"question": "der Pfeffer", "answer": "the pepper"}, 	
+	{"question": "Säfte", "answer": "juices"}, 	
+	{"question": "die Milch", "answer": "the milk"}, 	
+	{"question": "das Gebäck", "answer": "the backed products"}, 	
+	{"question": "Salate", "answer": "salads"}, 	
+	{"question": "die Fisolen", "answer": "the green beans"}, 	
+	{"question": "das Gemüse", "answer": "the vegetables"}, 	
+	{"question": "der Apfel", "answer": "the apple"}, 	
+	{"question": "der Nachtisch", "answer": "the dessert"}, 	
+	{"question": "die Semmel", "answer": "the Austrian basic bread bun"}, 	
+	{"question": "der Saft", "answer": "the juice"}, 	
+	{"question": "die Banane", "answer": "the banana"}, 	
+	{"question": "das Rezept", "answer": "the recipe"}, 	
+	{"question": "die Butter", "answer": "the butter"}, 	
+	{"question": "das Hauptgericht", "answer": "the main course"}, 	
+	{"question": "das Kürbiskernöl", "answer": "the pumpkin seed oil"}, 	
+	{"question": "das Ei", "answer": "the egg"}, 	
+	{"question": "die Schokolade", "answer": "the chocolate"}, 	
+	{"question": "Ruculas", "answer": "ruculas"}, 	
+	{"question": "der Schinken", "answer": "the ham"}, 	
+	{"question": "das Hähnchen", "answer": "the chicken"}, 	
+	{"question": "Avocados", "answer": "avocadoes"}, 	
+	{"question": "das Wasser", "answer": "the water"}, 	
+	{"question": "das Brot", "answer": "the bread"}, 	
+	{"question": "die Speisekarte", "answer": "the menu"}, 	
+	{"question": "der Keks", "answer": "the cookies"}, 	
+	{"question": "der Kaffee", "answer": "the coffee"}, 	
+	{"question": "das Müsli", "answer": "musli cereal"}, 	
+	{"question": "die Erbsen", "answer": "the peas"}, 	
+	{"question": "das Getränk", "answer": "the drink"}, 	
+	{"question": "der Lachs", "answer": "the salmon"}, 	
+	{"question": "der Tee", "answer": "the tea"}, 	
+	{"question": "der Erdapfel", "answer": "the potato"}, 	
+	{"question": "die Marille", "answer": "the apricot"}, 	
+	{"question": "der Wein", "answer": "the wine"}, 	
+	{"question": "die Serviette", "answer": "the napkin"}, 	
+	{"question": "der Sauerrahm", "answer": "the sour cream"}, 	
+	{"question": "der Paprika", "answer": "the bell pepper"}, 	
+	{"question": "das Obst", "answer": "the fruit"}, 	
+	{"question": "die Schokolade", "answer": "the chocolate"}, 	
+	{"question": "das Fleisch", "answer": "the meat"}, 	
+	{"question": "das Produkt", "answer": "the product"}, 	
+	{"question": "das Sonderangebot", "answer": "the offer"}, 	
+	{"question": "Karten", "answer": "cards"}, 	
+	{"question": "Zahlen", "answer": "numbers (Zahl)"}, 	
+	{"question": "die Karte", "answer": "the map"}	],
+"Geographie/Kultur": [	{"question": "Russland", "answer": "Russia"}, 	
+	{"question": "das Bundesland", "answer": "federal state"}, 	
+	{"question": "Vereinigtes Königreich", "answer": "United Kingdom"}, 	
+	{"question": "Ägypten", "answer": "Egypt"}, 	
+	{"question": "Australien", "answer": "Australia"}, 	
+	{"question": "Belgien", "answer": "Belgium"}, 	
+	{"question": "Sprachen", "answer": "languages"}, 	
+	{"question": "Spanien", "answer": "Spain"}, 	
+	{"question": "die Sprache", "answer": "the language"}, 	
+	{"question": "Orte", "answer": "towns"}, 	
+	{"question": "Serbien", "answer": "Serbia"}, 	
+	{"question": "Japan", "answer": "Japan"}, 	
+	{"question": "Island", "answer": "Iceland"}, 	
+	{"question": "die Niederlande", "answer": "Netherlands"}, 	
+	{"question": "der Saudi-Arabien", "answer": "Saudi Arabia"}, 	
+	{"question": "die Bundesländer", "answer": "federal states"}, 	
+	{"question": "der Iran", "answer": "Iran"}, 	
+	{"question": "die Sprache", "answer": "the language"}, 	
+	{"question": "Polen", "answer": "Poland"}, 	
+	{"question": "Portugal", "answer": "Portugal"}, 	
+	{"question": "das Reich", "answer": "the empire / the realm"}, 	
+	{"question": "die Erde", "answer": "earth"}, 	
+	{"question": "die Schweiz", "answer": "Switzerland"}, 	
+	{"question": "die Ukraine", "answer": "Ukraine"}, 	
+	{"question": "der Kosovo", "answer": "Kosovo"}, 	
+	{"question": "Vereinigte Staaten", "answer": "United States"}, 	
+	{"question": "Mexiko", "answer": "Mexico"}, 	
+	{"question": "Kolumbien", "answer": "Colombia"}, 	
+	{"question": "Südafrika", "answer": "South Africa"}, 	
+	{"question": "der Ort", "answer": "the town, the city"}, 	
+	{"question": "die Welt", "answer": "world"}, 	
+	{"question": "die Stadt", "answer": "the city"}, 	
+	{"question": "Kanada", "answer": "Canada"}, 	
+	{"question": "die Hauptstadt", "answer": "capital"}, 	
+	{"question": "die Schweiz", "answer": "Switzerland"}, 	
+	{"question": "die Fremdsprache", "answer": "the foreign language"}, 	
+	{"question": "Länder", "answer": "countries"}, 	
+	{"question": "Ungarn", "answer": "Hungary"}, 	
+	{"question": "Schweden", "answer": "Sweden"}, 	
+	{"question": "China", "answer": "China"}, 	
+	{"question": "Frankreich", "answer": "France"}, 	
+	{"question": "das Land", "answer": "the country"}, 	
+	{"question": "Finnland", "answer": "Finland"}, 	
+	{"question": "der Frieden", "answer": "the peace"}, 	
+	{"question": "die Landeshauptstadt", "answer": "state capital"}, 	
+	{"question": "Griechenland", "answer": "Greece"}, 	
+	{"question": "die Türkei", "answer": "Turkey"}, 	
+	{"question": "Städte", "answer": "cities"}, 	
+	{"question": "Deutschland", "answer": "Germany"}, 	
+	{"question": "Italien", "answer": "Italy"}, 	
+	{"question": "die Amtssprache", "answer": "the official language"}, 	
+	{"question": "Österreich", "answer": "Austria"}, 	
+	{"question": "die Muttersprache", "answer": "the mother tongue"}	],
+"Gesunheit": [	{"question": "die Vakzine", "answer": "the vaccine"}, 	
+	{"question": "die Allergie", "answer": "the allergy"}, 	
+	{"question": "das Vitamin", "answer": "the vitamin"}, 	
+	{"question": "der Stress", "answer": "the stress"}, 	
+	{"question": "der Arzt", "answer": "the doctor"}	],
+"Haus": [	{"question": "die Küche", "answer": "the kitchen"}, 	
+	{"question": "der Installateur", "answer": "the plumber/the installer"}, 	
+	{"question": "die Kaffeemaschine", "answer": "The coffee machine"}, 	
+	{"question": "die Gabel", "answer": "the fork"}, 	
+	{"question": "Tische", "answer": "tables"}, 	
+	{"question": "Stiegen", "answer": "staircases"}, 	
+	{"question": "Löffel", "answer": "spoons"}, 	
+	{"question": "Küchen", "answer": "cakes"}, 	
+	{"question": "der Tisch", "answer": "The table"}, 	
+	{"question": "die Planze", "answer": "the plant"}, 	
+	{"question": "der Reiskocher", "answer": "the rice cooker"}, 	
+	{"question": "die Heizung", "answer": "the heating"}, 	
+	{"question": "der Löffel", "answer": "the spoon"}, 	
+	{"question": "die Tür", "answer": "The door"}, 	
+	{"question": "der Kasten", "answer": "The wardrobe"}, 	
+	{"question": "der Sessel", "answer": "the sofa chair"}, 	
+	{"question": "die Wohnung", "answer": "the apartment"}, 	
+	{"question": "der Kühlschrank", "answer": "The fridge"}, 	
+	{"question": "Schlüssel", "answer": "keys"}, 	
+	{"question": "das Notizbuch", "answer": "The notebook"}, 	
+	{"question": "das Fenster", "answer": "The window"}, 	
+	{"question": "das Sofa", "answer": "The sofa"}, 	
+	{"question": "das Regal", "answer": "The shelf"}, 	
+	{"question": "der Nachbar", "answer": "the neighbor"}, 	
+	{"question": "Toiletten", "answer": "toilets"}, 	
+	{"question": "das Zimmer", "answer": "the room"}, 	
+	{"question": "die Matratze", "answer": "the mattress"}, 	
+	{"question": "die Tasse", "answer": "the cup"}, 	
+	{"question": "Flaschen", "answer": "bottles"}, 	
+	{"question": "Bilder", "answer": "images"}, 	
+	{"question": "der Stuhl", "answer": "The chair"}, 	
+	{"question": "der Schlüssel", "answer": "The key"}, 	
+	{"question": "die Gabel", "answer": "the fork"}, 	
+	{"question": "Fernseher", "answer": "TV’s"}, 	
+	{"question": "der Wecker", "answer": "alarm clock"}, 	
+	{"question": "Tassen", "answer": "cups"}, 	
+	{"question": "der Geschirrspüler", "answer": "The dishwasher"}, 	
+	{"question": "Regale", "answer": "shelves"}, 	
+	{"question": "das Glas", "answer": "the glass"}, 	
+	{"question": "die Toilette", "answer": "the toilet"}, 	
+	{"question": "das Foto", "answer": "The photo"}, 	
+	{"question": "das Bett", "answer": "The bed"}, 	
+	{"question": "der Fernseher", "answer": "the TV"}, 	
+	{"question": "der Teller", "answer": "the plate"}, 	
+	{"question": "das Messer", "answer": "the knife"}, 	
+	{"question": "der Wecker", "answer": "the alarm clock"}, 	
+	{"question": "die Waschmaschine", "answer": "The washing machine"}, 	
+	{"question": "die Stiege", "answer": "the staircase"}, 	
+	{"question": "das Geschirr", "answer": "the dishes"}, 	
+	{"question": "Sofas", "answer": "couches"}, 	
+	{"question": "Stühle", "answer": "chairs"}, 	
+	{"question": "das Bild", "answer": "The image"}	],
+"Infinitiv": [	{"question": "einladen", "answer": "to invite"}, 	
+	{"question": "nehmen", "answer": "to take"}, 	
+	{"question": "kopieren", "answer": "to copy"}, 	
+	{"question": "legen", "answer": "to lay, to put"}, 	
+	{"question": "aufmachen", "answer": "to open"}, 	
+	{"question": "lachen", "answer": "to laugh"}, 	
+	{"question": "malen", "answer": "to paint"}, 	
+	{"question": "bilden", "answer": "to form (a sentence)"}, 	
+	{"question": "beten", "answer": "to pray"}, 	
+	{"question": "treffen", "answer": "to meet"}, 	
+	{"question": "möchten", "answer": "I would like to (infinitive)"}, 	
+	{"question": "radieren", "answer": "to erase"}, 	
+	{"question": "ausmachen", "answer": "to turn off, to make a difference"}, 	
+	{"question": "verbieten", "answer": "to forbid"}, 	
+	{"question": "reservieren", "answer": "to reserve"}, 	
+	{"question": "studieren", "answer": "to study (at university)"}, 	
+	{"question": "anfangen", "answer": "to start"}, 	
+	{"question": "steigen", "answer": "to climb"}, 	
+	{"question": "brauchen", "answer": "to need"}, 	
+	{"question": "anziehen", "answer": "to put on (clothes)"}, 	
+	{"question": "ausschauen", "answer": "to look out, to appear"}, 	
+	{"question": "verlieren", "answer": "to lose"}, 	
+	{"question": "waschen", "answer": "to wash"}, 	
+	{"question": "nennen", "answer": "to name, to call"}, 	
+	{"question": "ausziehen", "answer": "to take off (clothes)/to move out (of a house)"}, 	
+	{"question": "kennen", "answer": "to know (a person, place)"}, 	
+	{"question": "trinken", "answer": "to drink"}, 	
+	{"question": "streiten", "answer": "to argue"}, 	
+	{"question": "stehen", "answer": "to stand"}, 	
+	{"question": "stecken", "answer": "to put, to stick"}, 	
+	{"question": "weinen", "answer": "to cry"}, 	
+	{"question": "aufstehen", "answer": "to get up"}, 	
+	{"question": "sitzen", "answer": "to sit"}, 	
+	{"question": "analyzeren", "answer": "to analyze"}, 	
+	{"question": "zeigen", "answer": "to show"}, 	
+	{"question": "ankommen", "answer": "to arrive"}, 	
+	{"question": "zahlen", "answer": "to pay"}, 	
+	{"question": "brechen", "answer": "to break"}, 	
+	{"question": "kopieren", "answer": "to copy"}, 	
+	{"question": "buchen", "answer": "to book"}, 	
+	{"question": "brennen", "answer": "to burn"}, 	
+	{"question": "vorstellen", "answer": "to introduce, to imagine"}, 	
+	{"question": "schlafen", "answer": "to sleep"}, 	
+	{"question": "abreisen", "answer": "to depart"}, 	
+	{"question": "aufräumen", "answer": "to tidy up"}, 	
+	{"question": "anrufen", "answer": "to call"}, 	
+	{"question": "denken", "answer": "to think"}, 	
+	{"question": "sprechen", "answer": "to speak"}, 	
+	{"question": "einschlafen", "answer": "to fall asleep"}, 	
+	{"question": "essen", "answer": "to eat"}, 	
+	{"question": "kosten", "answer": "to cost"}, 	
+	{"question": "gefallen", "answer": "to like"}, 	
+	{"question": "kündigen", "answer": "to quit, to resign"}, 	
+	{"question": "kommen", "answer": "to come"}, 	
+	{"question": "ausgehen", "answer": "to go out"}, 	
+	{"question": "finden", "answer": "to find"}, 	
+	{"question": "weggehen", "answer": "to go away"}, 	
+	{"question": "unterschreiben", "answer": "to sign"}, 	
+	{"question": "zurückkommen", "answer": "to come back"}, 	
+	{"question": "warten", "answer": "to wait"}, 	
+	{"question": "antworten", "answer": "to answer"}, 	
+	{"question": "halten", "answer": "to stop, to hold"}, 	
+	{"question": "baden", "answer": "to bath"}, 	
+	{"question": "bleiben", "answer": "to stay"}, 	
+	{"question": "beginnen", "answer": "to begin"}, 	
+	{"question": "rennen", "answer": "to run"}, 	
+	{"question": "sehen", "answer": "to see"}, 	
+	{"question": "glauben", "answer": "to believe"}, 	
+	{"question": "fernsehen", "answer": "to watch television"}, 	
+	{"question": "leben", "answer": "to live (alive)"}, 	
+	{"question": "bedeuten", "answer": "to mean"}, 	
+	{"question": "arbeiten", "answer": "to work"}, 	
+	{"question": "vergessen", "answer": "to forget"}, 	
+	{"question": "heiraten", "answer": "to marry"}, 	
+	{"question": "lernen", "answer": "to learn"}, 	
+	{"question": "erklären", "answer": "to explain"}, 	
+	{"question": "anklicken", "answer": "to click on"}, 	
+	{"question": "verlieren", "answer": "to lose"}, 	
+	{"question": "fernsehen", "answer": "to watch television"}, 	
+	{"question": "werfen", "answer": "to throw"}, 	
+	{"question": "sinken", "answer": "to sink"}, 	
+	{"question": "ergänzen", "answer": "to complete"}, 	
+	{"question": "fangen", "answer": "to catch"}, 	
+	{"question": "gehen", "answer": "to go"}, 	
+	{"question": "kaufen", "answer": "to buy"}, 	
+	{"question": "fragen", "answer": "to ask"}, 	
+	{"question": "fütteren", "answer": "to feed"}, 	
+	{"question": "zählen", "answer": "to count"}, 	
+	{"question": "schließen", "answer": "to close"}, 	
+	{"question": "verwerten", "answer": "to utilize, to recycle"}, 	
+	{"question": "fliegen", "answer": "to fly"}, 	
+	{"question": "denken", "answer": "to think"}, 	
+	{"question": "drucken", "answer": "to print"}, 	
+	{"question": "erzählen", "answer": "to tell"}, 	
+	{"question": "vorziehen", "answer": "to prefer"}, 	
+	{"question": "kennen", "answer": "to know (a person or place)"}, 	
+	{"question": "verdienen", "answer": "to earn"}, 	
+	{"question": "fahren", "answer": "to ride"}, 	
+	{"question": "passieren", "answer": "to happen"}, 	
+	{"question": "losfahren", "answer": "to set off"}, 	
+	{"question": "wegräumen", "answer": "to put away"}, 	
+	{"question": "putzen", "answer": "to clean"}, 	
+	{"question": "machen", "answer": "to do"}, 	
+	{"question": "einkaufen", "answer": "to go shopping"}, 	
+	{"question": "aufstehen", "answer": "to get up"}, 	
+	{"question": "pendeln", "answer": "to commute"}, 	
+	{"question": "liefern", "answer": "to deliver"}, 	
+	{"question": "kochen", "answer": "to cook"}, 	
+	{"question": "vergleichen", "answer": "to compare"}, 	
+	{"question": "stehen", "answer": "to stand up"}, 	
+	{"question": "anschauen", "answer": "to look at"}, 	
+	{"question": "suchen", "answer": "to search"}, 	
+	{"question": "telefonieren", "answer": "to telephone"}, 	
+	{"question": "schlagen", "answer": "to beat"}, 	
+	{"question": "empfangen", "answer": "to receive"}, 	
+	{"question": "erleben", "answer": "to experience"}, 	
+	{"question": "übernachten", "answer": "to stay overnight"}, 	
+	{"question": "lügen", "answer": "to lie"}, 	
+	{"question": "wohnen", "answer": "to live in a place"}, 	
+	{"question": "warten", "answer": "to wait"}, 	
+	{"question": "tanzen", "answer": "to dance"}, 	
+	{"question": "besuchen", "answer": "to visit"}, 	
+	{"question": "singen", "answer": "to sing"}, 	
+	{"question": "hören", "answer": "to hear, to listen"}, 	
+	{"question": "stellen", "answer": "to put, to place"}, 	
+	{"question": "fotografieren", "answer": "to photograph"}, 	
+	{"question": "werden", "answer": "to become"}, 	
+	{"question": "rennen", "answer": "to run"}, 	
+	{"question": "speichern", "answer": "to save"}, 	
+	{"question": "schreiben", "answer": "to write"}, 	
+	{"question": "ziehen", "answer": "to pull/to move (residence)"}, 	
+	{"question": "laufen", "answer": "to run"}, 	
+	{"question": "lesen", "answer": "to read"}, 	
+	{"question": "öffnen", "answer": "to open"}, 	
+	{"question": "retten", "answer": "to save"}, 	
+	{"question": "aufessen", "answer": "to eat up"}, 	
+	{"question": "wissen", "answer": "to know (a fact)"}, 	
+	{"question": "schwimmen", "answer": "to swim"}, 	
+	{"question": "demonstrieren", "answer": "to demonstrate"}, 	
+	{"question": "dabeihaben", "answer": "to have with one"}, 	
+	{"question": "aussehen", "answer": "to look like"}, 	
+	{"question": "benutzen", "answer": "to use"}, 	
+	{"question": "senden", "answer": "to send"}, 	
+	{"question": "helfen", "answer": "to help"}, 	
+	{"question": "herunterladen", "answer": "to download"}, 	
+	{"question": "atmen", "answer": "to breathe"}, 	
+	{"question": "anbieten", "answer": "to offer"}, 	
+	{"question": "geben", "answer": "to give"}, 	
+	{"question": "springen", "answer": "to jump"}, 	
+	{"question": "abfahren", "answer": "to depart"}, 	
+	{"question": "buchstabieren", "answer": "to spell"}, 	
+	{"question": "spielen", "answer": "to play"}, 	
+	{"question": "rechnen", "answer": "to calculate"}, 	
+	{"question": "lieben", "answer": "to love"}, 	
+	{"question": "liegen", "answer": "to lay"}, 	
+	{"question": "frühstücken", "answer": "to eat breakfast"}, 	
+	{"question": "mitbringen", "answer": "to bring along"}, 	
+	{"question": "empfehlen", "answer": "to recommend"}, 	
+	{"question": "wählen", "answer": "to choose"}, 	
+	{"question": "wiederholen", "answer": "to repeat"}, 	
+	{"question": "verstehen", "answer": "to understand"}, 	
+	{"question": "reden", "answer": "to talk"}, 	
+	{"question": "messen", "answer": "to measure"}, 	
+	{"question": "vorbereiten", "answer": "to prepare"}, 	
+	{"question": "fasten", "answer": "to fast"}, 	
+	{"question": "sagen", "answer": "to say"}, 	
+	{"question": "tragen", "answer": "to carry"}, 	
+	{"question": "hängen", "answer": "to hang"}, 	
+	{"question": "gehören", "answer": "to belong"}, 	
+	{"question": "fallen", "answer": "to fall"}, 	
+	{"question": "wandern", "answer": "to hike"}, 	
+	{"question": "löschen", "answer": "to delete"}, 	
+	{"question": "üben", "answer": "to practice"}, 	
+	{"question": "schicken", "answer": "to send"}, 	
+	{"question": "zeichnen", "answer": "to draw"}, 	
+	{"question": "mitmachen", "answer": "to participate"}, 	
+	{"question": "bieten", "answer": "to offer"}, 	
+	{"question": "liegen", "answer": "to lie"}	],
+"Kleidung": [	{"question": "das Armband", "answer": "the bracelet"}, 	
+	{"question": "der Pullover", "answer": "the sweater"}, 	
+	{"question": "die Schuhe", "answer": "the shoes"}, 	
+	{"question": "der Anzug", "answer": "the suit"}, 	
+	{"question": "das Handtuch", "answer": "the towel"}, 	
+	{"question": "die Handschuhe", "answer": "the gloves"}, 	
+	{"question": "die Unterwäsche", "answer": "the underwear"}, 	
+	{"question": "die Brille", "answer": "the glasses"}, 	
+	{"question": "die Sandalen", "answer": "the sandals"}, 	
+	{"question": "die Hose", "answer": "the pants/trousers"}, 	
+	{"question": "der Gürtel", "answer": "the belt"}, 	
+	{"question": "die Ohrringe", "answer": "the earrings"}, 	
+	{"question": "der Schal", "answer": "the scarf"}, 	
+	{"question": "die Handtasche", "answer": "The purse"}, 	
+	{"question": "die Stiefel", "answer": "the boots"}, 	
+	{"question": "der Rucksack", "answer": "the backpack"}, 	
+	{"question": "die Badehose", "answer": "the swim trunks"}, 	
+	{"question": "der Ring", "answer": "the ring"}, 	
+	{"question": "der Regenschirm", "answer": "the umbrella"}, 	
+	{"question": "die Jeans", "answer": "the jeans"}, 	
+	{"question": "Taschen", "answer": "purses"}, 	
+	{"question": "die Socken", "answer": "the socks"}, 	
+	{"question": "der Badeanzug", "answer": "the swimsuit"}, 	
+	{"question": "die Bluse", "answer": "the blouse"}, 	
+	{"question": "die Mütze", "answer": "the beanie/cap"}, 	
+	{"question": "Rucksäcke", "answer": "backpacks"}, 	
+	{"question": "die Kappe", "answer": "the cap"}, 	
+	{"question": "die Jacke", "answer": "the jacket"}, 	
+	{"question": "der Rock", "answer": "the skirt"}, 	
+	{"question": "die Armbanduhr", "answer": "the wristwatch"}, 	
+	{"question": "der Mantel", "answer": "the coat"}, 	
+	{"question": "das Hemd", "answer": "the shirt (button up)"}, 	
+	{"question": "die Krawatte", "answer": "the tie"}, 	
+	{"question": "der Hut", "answer": "the hat"}, 	
+	{"question": "das Kleid", "answer": "the dress"}	],
+"Kontaktdaten": [	{"question": "die Postleitzahl", "answer": "the postcode"}, 	
+	{"question": "Adressen", "answer": "addresses"}, 	
+	{"question": "Namen", "answer": "names"}, 	
+	{"question": "der Name", "answer": "the name"}, 	
+	{"question": "die Adresse", "answer": "the address"}, 	
+	{"question": "Nummern", "answer": "numbers (Nummer)"}, 	
+	{"question": "die Telefonnummer", "answer": "the phone number"}	],
+"Natur": [	{"question": "das Meer", "answer": "sea"}, 	
+	{"question": "die Blume", "answer": "flower"}, 	
+	{"question": "die Blumen", "answer": "flowers"}, 	
+	{"question": "der See", "answer": "lake"}, 	
+	{"question": "der Baum", "answer": "the tree"}	],
+"Perfekt (zB hat gemacht / ist gegangen)": [	{"question": "ist losgefahren", "answer": "losfahren"}, 	
+	{"question": "hat gerechnet", "answer": "rechnen"}, 	
+	{"question": "hat gegeben", "answer": "geben"}, 	
+	{"question": "hat studiert", "answer": "studieren"}, 	
+	{"question": "hat gestritten", "answer": "streiten"}, 	
+	{"question": "ist gekommen", "answer": "kommen"}, 	
+	{"question": "hat geheiratet", "answer": "heiraten"}, 	
+	{"question": "hat mitgemacht", "answer": "mitmachen"}, 	
+	{"question": "hat gedacht", "answer": "denken"}, 	
+	{"question": "hat gesungen", "answer": "singen"}, 	
+	{"question": "ist aufgestanden", "answer": "aufstehen"}, 	
+	{"question": "hat gemacht", "answer": "machen"}, 	
+	{"question": "hat telefoniert", "answer": "telefonieren"}, 	
+	{"question": "hat gelernt", "answer": "lernen"}, 	
+	{"question": "hat geputzt", "answer": "putzen"}, 	
+	{"question": "hat motiviert", "answer": "motivieren"}, 	
+	{"question": "ist zurückgekommen", "answer": "zurückkommen"}, 	
+	{"question": "ist gefahren", "answer": "fahren"}, 	
+	{"question": "ist ausgegangen", "answer": "ausgehen"}, 	
+	{"question": "hat gesucht", "answer": "suchen"}, 	
+	{"question": "ist gesessen", "answer": "sitzen"}, 	
+	{"question": "ist aufgestanden", "answer": "aufstehen"}, 	
+	{"question": "hat erlebt", "answer": "erleben"}, 	
+	{"question": "ist gesprungen", "answer": "springen"}, 	
+	{"question": "ist eingeschlafen", "answer": "einschlafen"}, 	
+	{"question": "hat gehört", "answer": "hören"}, 	
+	{"question": "hat geantwortet", "answer": "antworten"}, 	
+	{"question": "ist geblieben", "answer": "bleiben"}, 	
+	{"question": "hat gefragt", "answer": "fragen"}, 	
+	{"question": "hat gewusst", "answer": "wissen"}, 	
+	{"question": "hat gehört", "answer": "gehören"}, 	
+	{"question": "hat geliebt", "answer": "lieben"}, 	
+	{"question": "hat gelesen", "answer": "lesen"}, 	
+	{"question": "hat gekostet", "answer": "kosten"}, 	
+	{"question": "hat geschrieben", "answer": "schreiben"}, 	
+	{"question": "hat verloren", "answer": "verlieren"}, 	
+	{"question": "hat geschlossen", "answer": "schließen"}, 	
+	{"question": "hat weggeräumt", "answer": "wegräumen"}, 	
+	{"question": "hat gegessen", "answer": "essen"}, 	
+	{"question": "hat begonnen", "answer": "beginnen"}, 	
+	{"question": "hat abgeholt", "answer": "abholen"}, 	
+	{"question": "hat angeboten", "answer": "anbieten"}, 	
+	{"question": "hat geübt", "answer": "üben"}, 	
+	{"question": "ist gefallen", "answer": "fallen"}, 	
+	{"question": "hat gewaschen", "answer": "waschen"}, 	
+	{"question": "hat gesagt", "answer": "sagen"}, 	
+	{"question": "hat gespielt", "answer": "spielen"}, 	
+	{"question": "hat gemocht", "answer": "möchten"}, 	
+	{"question": "ist gestiegen", "answer": "steigen"}, 	
+	{"question": "hat vergessen", "answer": "vergessen"}, 	
+	{"question": "hat gewonnen", "answer": "gewinnen"}, 	
+	{"question": "hat fotografiert", "answer": "fotografieren"}, 	
+	{"question": "hat geholfen", "answer": "helfen"}, 	
+	{"question": "hat notiert", "answer": "notieren"}, 	
+	{"question": "hat kopiert", "answer": "kopieren"}, 	
+	{"question": "hat gestanden", "answer": "stehen"}, 	
+	{"question": "hat demonstriert", "answer": "demonstrieren"}, 	
+	{"question": "ist gewandert", "answer": "wandern"}, 	
+	{"question": "hat gemalt", "answer": "malen"}, 	
+	{"question": "ist geschwommen", "answer": "schwimmen"}, 	
+	{"question": "hat eingeladen", "answer": "einladen"}, 	
+	{"question": "hat ferngesehen", "answer": "fernsehen"}, 	
+	{"question": "hat storniert", "answer": "stornieren"}, 	
+	{"question": "hat gewohnt", "answer": "wohnen"}, 	
+	{"question": "hat gezeigt", "answer": "zeigen"}, 	
+	{"question": "hat geschlagen", "answer": "schlagen"}, 	
+	{"question": "hat geredet", "answer": "reden"}, 	
+	{"question": "hat geschlafen", "answer": "schlafen"}, 	
+	{"question": "hat gefrühstückt", "answer": "frühstücken"}, 	
+	{"question": "hat erklärt", "answer": "erklären"}, 	
+	{"question": "hat gehalten", "answer": "halten"}, 	
+	{"question": "hat nostrifiziert", "answer": "nostrifizieren"}, 	
+	{"question": "hat gelegen", "answer": "liegen"}, 	
+	{"question": "hat eingekauft", "answer": "einkaufen"}, 	
+	{"question": "hat verboten", "answer": "verbieten"}, 	
+	{"question": "ist abgefahren", "answer": "abfahren"}, 	
+	{"question": "hat gelebt", "answer": "leben"}, 	
+	{"question": "hat geöffnet", "answer": "öffnen"}, 	
+	{"question": "hat gewählt", "answer": "wählen"}, 	
+	{"question": "ist passiert", "answer": "passieren"}, 	
+	{"question": "hat ferngesehen", "answer": "fernsehen"}, 	
+	{"question": "hat genommen", "answer": "nehmen"}, 	
+	{"question": "hat verstanden", "answer": "verstehen"}, 	
+	{"question": "hat aufgeräumt", "answer": "aufräumen"}, 	
+	{"question": "hat gezeichnet", "answer": "zeichnen"}, 	
+	{"question": "ist gegangen", "answer": "gehen"}, 	
+	{"question": "hat geweint", "answer": "weinen"}, 	
+	{"question": "hat ausgezogen", "answer": "ausziehen"}, 	
+	{"question": "hat bedeutet", "answer": "bedeuten"}, 	
+	{"question": "hat aufgegessen", "answer": "aufessen"}, 	
+	{"question": "hat gebetet", "answer": "beten"}, 	
+	{"question": "hat gewartet", "answer": "warten"}, 	
+	{"question": "hat getanzt", "answer": "tanzen"}, 	
+	{"question": "hat gesprochen", "answer": "sprechen"}, 	
+	{"question": "hat angeschaut", "answer": "anschauen"}, 	
+	{"question": "hat gekocht", "answer": "kochen"}, 	
+	{"question": "hat gekauft", "answer": "kaufen"}, 	
+	{"question": "hat angefangen", "answer": "anfangen"}, 	
+	{"question": "hat unterschrieben", "answer": "unterschreiben"}, 	
+	{"question": "hat gezogen", "answer": "ziehen"}, 	
+	{"question": "hat gekannt", "answer": "kennen"}, 	
+	{"question": "hat gewartet", "answer": "warten"}, 	
+	{"question": "hat gebadet", "answer": "baden"}, 	
+	{"question": "ist gesunken", "answer": "sinken"}, 	
+	{"question": "hat gerettet", "answer": "retten"}, 	
+	{"question": "ist angekommen", "answer": "ankommen"}, 	
+	{"question": "hat wiederholt", "answer": "wiederholen"}, 	
+	{"question": "hat radiert", "answer": "radieren"}, 	
+	{"question": "hat gelacht", "answer": "lachen"}, 	
+	{"question": "hat gebraucht", "answer": "brauchen"}, 	
+	{"question": "hat gefühlt", "answer": "fühlen"}, 	
+	{"question": "ist geworden", "answer": "werden"}, 	
+	{"question": "hat gefüttert", "answer": "füttern"}, 	
+	{"question": "hat getrunken", "answer": "trinken"}, 	
+	{"question": "ist weggegangen", "answer": "weggehen"}, 	
+	{"question": "hat gezählt", "answer": "zählen"}, 	
+	{"question": "ist gerannt", "answer": "rennen"}, 	
+	{"question": "hat geworfen", "answer": "werfen"}, 	
+	{"question": "hat analysiert", "answer": "analysieren"}, 	
+	{"question": "hat getroffen", "answer": "treffen"}, 	
+	{"question": "hat mitgebracht", "answer": "mitbringen"}, 	
+	{"question": "hat gearbeitet", "answer": "arbeiten"}, 	
+	{"question": "hat gezahlt", "answer": "zahlen"}, 	
+	{"question": "hat kennengelernt", "answer": "kennenlernen"}, 	
+	{"question": "hat empfangen", "answer": "empfangen"}, 	
+	{"question": "hat geatmet", "answer": "atmen"}, 	
+	{"question": "hat buchstabiert", "answer": "buchstabieren"}, 	
+	{"question": "hat geglaubt", "answer": "glauben"}, 	
+	{"question": "hat gebrochen", "answer": "brechen"}, 	
+	{"question": "hat angerufen", "answer": "anrufen"}, 	
+	{"question": "hat gemessen", "answer": "messen"}, 	
+	{"question": "hat gebildet", "answer": "bilden"}, 	
+	{"question": "hat gefastet", "answer": "fasten"}, 	
+	{"question": "hat getragen", "answer": "tragen"}, 	
+	{"question": "hat angezogen", "answer": "anziehen"}, 	
+	{"question": "hat ergänzt", "answer": "ergänzen"}, 	
+	{"question": "hat dabeigehabt", "answer": "dabeihaben"}, 	
+	{"question": "hat erzählt", "answer": "erzählen"}, 	
+	{"question": "ist geflogen", "answer": "fliegen"}, 	
+	{"question": "hat gefallen", "answer": "gefallen"}, 	
+	{"question": "hat gesehen", "answer": "sehen"}, 	
+	{"question": "hat empfohlen", "answer": "empfehlen"}, 	
+	{"question": "hat gefangen", "answer": "fangen"}, 	
+	{"question": "ist gelaufen", "answer": "laufen"}, 	
+	{"question": "hat gefunden", "answer": "finden"}, 	
+	{"question": "hat geboten", "answer": "bieten"}, 	
+	{"question": "hat besucht", "answer": "besuchen"}	],
+"Personen": [	{"question": "der Freund", "answer": "the friend"}, 	
+	{"question": "Papas", "answer": "dads"}, 	
+	{"question": "das Kind", "answer": "the child"}, 	
+	{"question": "der Name", "answer": "the name"}, 	
+	{"question": "die Menschen", "answer": "people"}, 	
+	{"question": "Mamas", "answer": "moms"}, 	
+	{"question": "Kinder", "answer": "children"}, 	
+	{"question": "die Gruppe", "answer": "the group"}, 	
+	{"question": "Omas", "answer": "grandmas"}, 	
+	{"question": "die Leute", "answer": "the people"}, 	
+	{"question": "die Freundschaft", "answer": "the friendship"}, 	
+	{"question": "Opas", "answer": "grandpas"}, 	
+	{"question": "die Person", "answer": "the person"}	],
+"Politk": [	{"question": "die Zukunft", "answer": "the future"}, 	
+	{"question": "der Krieg", "answer": "the war"}, 	
+	{"question": "das Mitglied", "answer": "the member"}, 	
+	{"question": "der Verein", "answer": "the club"}	],
+"Präsens": [	{"question": "glauben", "answer": "wir [glauben]"}, 	
+	{"question": "brecht", "answer": "ihr [brechen]"}, 	
+	{"question": "sehen fern", "answer": "wir [fernsehen]"}, 	
+	{"question": "hören", "answer": "wir [hören]"}, 	
+	{"question": "machen", "answer": "wir [machen]"}, 	
+	{"question": "fotografierst", "answer": "du [fotografieren]"}, 	
+	{"question": "heiraten", "answer": "wir [heiraten]"}, 	
+	{"question": "buchstabieren", "answer": "wir [buchstabieren]"}, 	
+	{"question": "fahren los", "answer": "wir [losfahren]"}, 	
+	{"question": "fährt ab", "answer": "er/sie/es [abfahren]"}, 	
+	{"question": "findest", "answer": "du [finden]"}, 	
+	{"question": "fliegen", "answer": "wir [fliegen]"}, 	
+	{"question": "gibt", "answer": "er/sie/es [geben]"}, 	
+	{"question": "weißt", "answer": "du [wissen]"}, 	
+	{"question": "gefällst", "answer": "du [gefallen]"}, 	
+	{"question": "zeichnet", "answer": "ihr [zeichnen]"}, 	
+	{"question": "habt dabei", "answer": "ihr [dabeihaben]"}, 	
+	{"question": "hältst", "answer": "du [halten]"}, 	
+	{"question": "nimmst", "answer": "du [nehmen]"}, 	
+	{"question": "erzählen", "answer": "wir [erzählen]"}, 	
+	{"question": "hören", "answer": "sie/Sie [hören]"}, 	
+	{"question": "rennen", "answer": "sie/Sie [rennen]"}, 	
+	{"question": "antwortet", "answer": "er/sie/es [antworten]"}, 	
+	{"question": "lesen", "answer": "sie/Sie [lesen]"}, 	
+	{"question": "heiraten", "answer": "sie/Sie [heiraten]"}, 	
+	{"question": "wirst", "answer": "du [werden]"}, 	
+	{"question": "werden", "answer": "sie/Sie [werden]"}, 	
+	{"question": "siehst fern", "answer": "du [fernsehen]"}, 	
+	{"question": "bleibt", "answer": "er/sie/es [bleiben]"}, 	
+	{"question": "kennst", "answer": "du [kennen]"}, 	
+	{"question": "hilft", "answer": "er/sie/es [helfen]"}, 	
+	{"question": "steht auf", "answer": "er/sie/es [aufstehen]"}, 	
+	{"question": "badet", "answer": "ihr [baden]"}, 	
+	{"question": "liegen", "answer": "sie/Sie [liegen]"}, 	
+	{"question": "füttere", "answer": "ich [füttern]"}, 	
+	{"question": "spreche", "answer": "ich [sprechen]"}, 	
+	{"question": "glauben", "answer": "sie/Sie [glauben]"}, 	
+	{"question": "ruft an", "answer": "ihr [anrufen]"}, 	
+	{"question": "räumt weg", "answer": "ihr [wegräumen]"}, 	
+	{"question": "radierst", "answer": "du [radieren]"}, 	
+	{"question": "schreiben", "answer": "sie/Sie [schreiben]"}, 	
+	{"question": "suchen", "answer": "wir [suchen]"}, 	
+	{"question": "seht fern", "answer": "ihr [fernsehen]"}, 	
+	{"question": "stehe auf", "answer": "ich [aufstehen]"}, 	
+	{"question": "erklärst", "answer": "du [erklären]"}, 	
+	{"question": "siehst", "answer": "du [sehen]"}, 	
+	{"question": "bringen mit", "answer": "wir [mitbringen]"}, 	
+	{"question": "zeichnest", "answer": "du [zeichnen]"}, 	
+	{"question": "schreibt", "answer": "ihr [schreiben]"}, 	
+	{"question": "bieten an", "answer": "wir [anbieten]"}, 	
+	{"question": "steige", "answer": "ich [steigen]"}, 	
+	{"question": "versteht", "answer": "ihr [verstehen]"}, 	
+	{"question": "schaut an", "answer": "er/sie/es [anschauen]"}, 	
+	{"question": "fliegen", "answer": "sie/Sie [fliegen]"}, 	
+	{"question": "breche", "answer": "ich [brechen]"}, 	
+	{"question": "öffne", "answer": "ich [öffnen]"}, 	
+	{"question": "fahrt ab", "answer": "ihr [abfahren]"}, 	
+	{"question": "geht aus", "answer": "ihr [ausgehen]"}, 	
+	{"question": "schließen", "answer": "sie/Sie [schließen]"}, 	
+	{"question": "kauft ein", "answer": "ihr [einkaufen]"}, 	
+	{"question": "studiere", "answer": "ich [studieren]"}, 	
+	{"question": "sagen", "answer": "sie/Sie [sagen]"}, 	
+	{"question": "sagen", "answer": "wir [sagen]"}, 	
+	{"question": "kommen an", "answer": "sie/Sie [ankommen]"}, 	
+	{"question": "ziehe aus", "answer": "ich [ausziehen]"}, 	
+	{"question": "üben", "answer": "wir [üben]"}, 	
+	{"question": "bietest", "answer": "du [bieten]"}, 	
+	{"question": "besucht", "answer": "er/sie/es [besuchen]"}, 	
+	{"question": "siehst fern", "answer": "du [fernsehen]"}, 	
+	{"question": "ziehen", "answer": "sie/Sie [ziehen]"}, 	
+	{"question": "empfiehlt", "answer": "er/sie/es [empfehlen]"}, 	
+	{"question": "retten", "answer": "wir [retten]"}, 	
+	{"question": "treffe", "answer": "ich [treffen]"}, 	
+	{"question": "fange an", "answer": "ich [anfangen]"}, 	
+	{"question": "passiert", "answer": "er/sie/es [passieren]"}, 	
+	{"question": "liest", "answer": "du [lesen]"}, 	
+	{"question": "treffen", "answer": "wir [treffen]"}, 	
+	{"question": "fragen", "answer": "sie/Sie [fragen]"}, 	
+	{"question": "empfangt", "answer": "ihr [empfangen]"}, 	
+	{"question": "esse", "answer": "ich [essen]"}, 	
+	{"question": "fahren", "answer": "sie/Sie [fahren]"}, 	
+	{"question": "bringe mit", "answer": "ich [mitbringen]"}, 	
+	{"question": "füttern", "answer": "sie/Sie [füttern]"}, 	
+	{"question": "werft", "answer": "ihr [werfen]"}, 	
+	{"question": "liebt", "answer": "ihr [lieben]"}, 	
+	{"question": "liegt", "answer": "ihr [liegen]"}, 	
+	{"question": "gehören", "answer": "wir [gehören]"}, 	
+	{"question": "fasten", "answer": "wir [fasten]"}, 	
+	{"question": "sinkt", "answer": "er/sie/es [sinken]"}, 	
+	{"question": "räumst auf", "answer": "du [aufräumen]"}, 	
+	{"question": "übt", "answer": "ihr [üben]"}, 	
+	{"question": "studierst", "answer": "du [studieren]"}, 	
+	{"question": "zeichnen", "answer": "sie/Sie [zeichnen]"}, 	
+	{"question": "atmen", "answer": "wir [atmen]"}, 	
+	{"question": "ziehen aus", "answer": "sie/Sie [ausziehen]"}, 	
+	{"question": "lauft", "answer": "ihr [laufen]"}, 	
+	{"question": "faste", "answer": "ich [fasten]"}, 	
+	{"question": "laden ein", "answer": "sie/Sie [einladen]"}, 	
+	{"question": "bietet", "answer": "ihr [bieten]"}, 	
+	{"question": "lernt", "answer": "er/sie/es [lernen]"}, 	
+	{"question": "zieht aus", "answer": "ihr [ausziehen]"}, 	
+	{"question": "ziehst aus", "answer": "du [ausziehen]"}, 	
+	{"question": "bietet an", "answer": "ihr [anbieten]"}, 	
+	{"question": "schlafen ein", "answer": "sie/Sie [einschlafen]"}, 	
+	{"question": "bietet an", "answer": "er/sie/es [anbieten]"}, 	
+	{"question": "schauen an", "answer": "sie/Sie [anschauen]"}, 	
+	{"question": "hält", "answer": "er/sie/es [halten]"}, 	
+	{"question": "kommen an", "answer": "wir [ankommen]"}, 	
+	{"question": "bildest", "answer": "du [bilden]"}, 	
+	{"question": "ziehen", "answer": "wir [ziehen]"}, 	
+	{"question": "gehören", "answer": "sie/Sie [gehören]"}, 	
+	{"question": "schaut an", "answer": "ihr [anschauen]"}, 	
+	{"question": "brechen", "answer": "sie/Sie [brechen]"}, 	
+	{"question": "laden ein", "answer": "wir [einladen]"}, 	
+	{"question": "studieren", "answer": "sie/Sie [studieren]"}, 	
+	{"question": "unterschreiben", "answer": "sie/Sie [unterschreiben]"}, 	
+	{"question": "spiele", "answer": "ich [spielen]"}, 	
+	{"question": "sinkt", "answer": "ihr [sinken]"}, 	
+	{"question": "leben", "answer": "wir [leben]"}, 	
+	{"question": "geben", "answer": "sie/Sie [geben]"}, 	
+	{"question": "zahle", "answer": "ich [zahlen]"}, 	
+	{"question": "redet", "answer": "ihr [reden]"}, 	
+	{"question": "gehe aus", "answer": "ich [ausgehen]"}, 	
+	{"question": "liest", "answer": "er/sie/es [lesen]"}, 	
+	{"question": "radieren", "answer": "wir [radieren]"}, 	
+	{"question": "kennen", "answer": "wir [kennen]"}, 	
+	{"question": "spielen", "answer": "wir [spielen]"}, 	
+	{"question": "liegst", "answer": "du [liegen]"}, 	
+	{"question": "bleibst", "answer": "du [bleiben]"}, 	
+	{"question": "sage", "answer": "ich [sagen]"}, 	
+	{"question": "wartet", "answer": "er/sie/es [warten]"}, 	
+	{"question": "werfen", "answer": "sie/Sie [werfen]"}, 	
+	{"question": "erzählt", "answer": "ihr [erzählen]"}, 	
+	{"question": "rede", "answer": "ich [reden]"}, 	
+	{"question": "mache", "answer": "ich [machen]"}, 	
+	{"question": "springst", "answer": "du [springen]"}, 	
+	{"question": "warten", "answer": "wir [warten]"}, 	
+	{"question": "zahlst", "answer": "du [zahlen]"}, 	
+	{"question": "schließt", "answer": "du [schließen]"}, 	
+	{"question": "stehen auf", "answer": "wir [aufstehen]"}, 	
+	{"question": "erzählst", "answer": "du [erzählen]"}, 	
+	{"question": "sprechen", "answer": "wir [sprechen]"}, 	
+	{"question": "baden", "answer": "sie/Sie [baden]"}, 	
+	{"question": "fange", "answer": "ich [fangen]"}, 	
+	{"question": "lachen", "answer": "wir [lachen]"}, 	
+	{"question": "trinken", "answer": "sie/Sie [trinken]"}, 	
+	{"question": "analysiert", "answer": "ihr [analysieren]"}, 	
+	{"question": "lebe", "answer": "ich [leben]"}, 	
+	{"question": "gehöre", "answer": "ich [gehören]"}, 	
+	{"question": "werdet", "answer": "ihr [werden]"}, 	
+	{"question": "sucht", "answer": "er/sie/es [suchen]"}, 	
+	{"question": "bilden", "answer": "sie/Sie [bilden]"}, 	
+	{"question": "studieren", "answer": "wir [studieren]"}, 	
+	{"question": "nehmt", "answer": "ihr [nehmen]"}, 	
+	{"question": "lieben", "answer": "wir [lieben]"}, 	
+	{"question": "triffst", "answer": "du [treffen]"}, 	
+	{"question": "fotografiert", "answer": "ihr [fotografieren]"}, 	
+	{"question": "gehen", "answer": "wir [gehen]"}, 	
+	{"question": "renne", "answer": "ich [rennen]"}, 	
+	{"question": "lest", "answer": "ihr [lesen]"}, 	
+	{"question": "messt", "answer": "ihr [messen]"}, 	
+	{"question": "fliegst", "answer": "du [fliegen]"}, 	
+	{"question": "singen", "answer": "sie/Sie [singen]"}, 	
+	{"question": "fasten", "answer": "sie/Sie [fasten]"}, 	
+	{"question": "arbeitest", "answer": "du [arbeiten]"}, 	
+	{"question": "bilden", "answer": "wir [bilden]"}, 	
+	{"question": "fangen an", "answer": "wir [anfangen]"}, 	
+	{"question": "wandert", "answer": "er/sie/es [wandern]"}, 	
+	{"question": "möchtest", "answer": "du [möchten]"}, 	
+	{"question": "lachen", "answer": "sie/Sie [lachen]"}, 	
+	{"question": "verbiete", "answer": "ich [verbieten]"}, 	
+	{"question": "springt", "answer": "er/sie/es [springen]"}, 	
+	{"question": "gibst", "answer": "du [geben]"}, 	
+	{"question": "telefonierst", "answer": "du [telefonieren]"}, 	
+	{"question": "kaufe ein", "answer": "ich [einkaufen]"}, 	
+	{"question": "findet", "answer": "er/sie/es [finden]"}, 	
+	{"question": "streitet", "answer": "er/sie/es [streiten]"}, 	
+	{"question": "malt", "answer": "ihr [malen]"}, 	
+	{"question": "verlierst", "answer": "du [verlieren]"}, 	
+	{"question": "stehen", "answer": "sie/Sie [stehen]"}, 	
+	{"question": "telefoniere", "answer": "ich [telefonieren]"}, 	
+	{"question": "schläft ein", "answer": "er/sie/es [einschlafen]"}, 	
+	{"question": "sehen fern", "answer": "wir [fernsehen]"}, 	
+	{"question": "denke", "answer": "ich [denken]"}, 	
+	{"question": "beginnen", "answer": "wir [beginnen]"}, 	
+	{"question": "steigen", "answer": "sie/Sie [steigen]"}, 	
+	{"question": "warten", "answer": "sie/Sie [warten]"}, 	
+	{"question": "kostet", "answer": "er/sie/es [kosten]"}, 	
+	{"question": "sehen fern", "answer": "sie/Sie [fernsehen]"}, 	
+	{"question": "kopieren", "answer": "sie/Sie [kopieren]"}, 	
+	{"question": "buchstabieren", "answer": "sie/Sie [buchstabieren]"}, 	
+	{"question": "füttert", "answer": "ihr [füttern]"}, 	
+	{"question": "zeigen", "answer": "wir [zeigen]"}, 	
+	{"question": "bedeuten", "answer": "wir [bedeuten]"}, 	
+	{"question": "isst", "answer": "du [essen]"}, 	
+	{"question": "weinen", "answer": "wir [weinen]"}, 	
+	{"question": "zeigen", "answer": "sie/Sie [zeigen]"}, 	
+	{"question": "fahren ab", "answer": "sie/Sie [abfahren]"}, 	
+	{"question": "kopiere", "answer": "ich [kopieren]"}, 	
+	{"question": "räumen weg", "answer": "wir [wegräumen]"}, 	
+	{"question": "glaubt", "answer": "ihr [glauben]"}, 	
+	{"question": "rechne", "answer": "ich [rechnen]"}, 	
+	{"question": "weinen", "answer": "sie/Sie [weinen]"}, 	
+	{"question": "gehen weg", "answer": "sie/Sie [weggehen]"}, 	
+	{"question": "sieht fern", "answer": "er/sie/es [fernsehen]"}, 	
+	{"question": "falle", "answer": "ich [fallen]"}, 	
+	{"question": "studiert", "answer": "ihr [studieren]"}, 	
+	{"question": "erkläre", "answer": "ich [erklären]"}, 	
+	{"question": "radiert", "answer": "ihr [radieren]"}, 	
+	{"question": "räumt weg", "answer": "er/sie/es [wegräumen]"}, 	
+	{"question": "demonstriere", "answer": "ich [demonstrieren]"}, 	
+	{"question": "erklärt", "answer": "er/sie/es [erklären]"}, 	
+	{"question": "singst", "answer": "du [singen]"}, 	
+	{"question": "fährst", "answer": "du [fahren]"}, 	
+	{"question": "gehen aus", "answer": "sie/Sie [ausgehen]"}, 	
+	{"question": "wiederholt", "answer": "er/sie/es [wiederholen]"}, 	
+	{"question": "ladet ein", "answer": "ihr [einladen]"}, 	
+	{"question": "springen", "answer": "sie/Sie [springen]"}, 	
+	{"question": "frage", "answer": "ich [fragen]"}, 	
+	{"question": "schlagen", "answer": "sie/Sie [schlagen]"}, 	
+	{"question": "kaufen ein", "answer": "wir [einkaufen]"}, 	
+	{"question": "fragen", "answer": "wir [fragen]"}, 	
+	{"question": "sitzt", "answer": "er/sie/es [sitzen]"}, 	
+	{"question": "schreibe", "answer": "ich [schreiben]"}, 	
+	{"question": "wäscht", "answer": "er/sie/es [waschen]"}, 	
+	{"question": "kommst", "answer": "du [kommen]"}, 	
+	{"question": "erklären", "answer": "sie/Sie [erklären]"}, 	
+	{"question": "putzt", "answer": "du [putzen]"}, 	
+	{"question": "fragst", "answer": "du [fragen]"}, 	
+	{"question": "zieht an", "answer": "ihr [anziehen]"}, 	
+	{"question": "streitest", "answer": "du [streiten]"}, 	
+	{"question": "wartest", "answer": "du [warten]"}, 	
+	{"question": "wohnt", "answer": "er/sie/es [wohnen]"}, 	
+	{"question": "schließe", "answer": "ich [schließen]"}, 	
+	{"question": "fliege", "answer": "ich [fliegen]"}, 	
+	{"question": "bleiben", "answer": "sie/Sie [bleiben]"}, 	
+	{"question": "ziehst an", "answer": "du [anziehen]"}, 	
+	{"question": "fährst los", "answer": "du [losfahren]"}, 	
+	{"question": "passieren", "answer": "sie/Sie [passieren]"}, 	
+	{"question": "analysierst", "answer": "du [analysieren]"}, 	
+	{"question": "waschen", "answer": "sie/Sie [waschen]"}, 	
+	{"question": "läufst", "answer": "du [laufen]"}, 	
+	{"question": "trinkt", "answer": "ihr [trinken]"}, 	
+	{"question": "hilfst", "answer": "du [helfen]"}, 	
+	{"question": "frühstückt", "answer": "ihr [frühstücken]"}, 	
+	{"question": "studiert", "answer": "er/sie/es [studieren]"}, 	
+	{"question": "habe dabei", "answer": "ich [dabeihaben]"}, 	
+	{"question": "atmest", "answer": "du [atmen]"}, 	
+	{"question": "fragt", "answer": "ihr [fragen]"}, 	
+	{"question": "stehe", "answer": "ich [stehen]"}, 	
+	{"question": "nehmen", "answer": "wir [nehmen]"}, 	
+	{"question": "gehen aus", "answer": "wir [ausgehen]"}, 	
+	{"question": "streiten", "answer": "sie/Sie [streiten]"}, 	
+	{"question": "rettest", "answer": "du [retten]"}, 	
+	{"question": "öffnet", "answer": "er/sie/es [öffnen]"}, 	
+	{"question": "läuft", "answer": "er/sie/es [laufen]"}, 	
+	{"question": "machen mit", "answer": "sie/Sie [mitmachen]"}, 	
+	{"question": "spricht", "answer": "er/sie/es [sprechen]"}, 	
+	{"question": "gehst aus", "answer": "du [ausgehen]"}, 	
+	{"question": "malt", "answer": "er/sie/es [malen]"}, 	
+	{"question": "tragen", "answer": "wir [tragen]"}, 	
+	{"question": "lade ein", "answer": "ich [einladen]"}, 	
+	{"question": "rechnen", "answer": "sie/Sie [rechnen]"}, 	
+	{"question": "springt", "answer": "ihr [springen]"}, 	
+	{"question": "weiß", "answer": "ich [wissen]"}, 	
+	{"question": "fährt", "answer": "er/sie/es [fahren]"}, 	
+	{"question": "demonstrierst", "answer": "du [demonstrieren]"}, 	
+	{"question": "lachst", "answer": "du [lachen]"}, 	
+	{"question": "wiederholst", "answer": "du [wiederholen]"}, 	
+	{"question": "lesen", "answer": "wir [lesen]"}, 	
+	{"question": "lacht", "answer": "er/sie/es [lachen]"}, 	
+	{"question": "gehst weg", "answer": "du [weggehen]"}, 	
+	{"question": "gefalle", "answer": "ich [gefallen]"}, 	
+	{"question": "antwortest", "answer": "du [antworten]"}, 	
+	{"question": "spielen", "answer": "sie/Sie [spielen]"}, 	
+	{"question": "zählt", "answer": "er/sie/es [zählen]"}, 	
+	{"question": "demonstriert", "answer": "er/sie/es [demonstrieren]"}, 	
+	{"question": "wählt", "answer": "ihr [wählen]"}, 	
+	{"question": "wohne", "answer": "ich [wohnen]"}, 	
+	{"question": "stehst auf", "answer": "du [aufstehen]"}, 	
+	{"question": "möchtet", "answer": "ihr [möchten]"}, 	
+	{"question": "betet", "answer": "er/sie/es [beten]"}, 	
+	{"question": "malen", "answer": "sie/Sie [malen]"}, 	
+	{"question": "machen", "answer": "sie/Sie [machen]"}, 	
+	{"question": "weiß", "answer": "er/sie/es [wissen]"}, 	
+	{"question": "trinkt", "answer": "er/sie/es [trinken]"}, 	
+	{"question": "wascht", "answer": "ihr [waschen]"}, 	
+	{"question": "kommst zurück", "answer": "du [zurückkommen]"}, 	
+	{"question": "verbietet", "answer": "er/sie/es [verbieten]"}, 	
+	{"question": "laufen", "answer": "sie/Sie [laufen]"}, 	
+	{"question": "passiert", "answer": "ihr [passieren]"}, 	
+	{"question": "wäschst", "answer": "du [waschen]"}, 	
+	{"question": "erlebst", "answer": "du [erleben]"}, 	
+	{"question": "atmen", "answer": "sie/Sie [atmen]"}, 	
+	{"question": "beten", "answer": "wir [beten]"}, 	
+	{"question": "singt", "answer": "ihr [singen]"}, 	
+	{"question": "kochst", "answer": "du [kochen]"}, 	
+	{"question": "fängt an", "answer": "er/sie/es [anfangen]"}, 	
+	{"question": "malen", "answer": "wir [malen]"}, 	
+	{"question": "passieren", "answer": "wir [passieren]"}, 	
+	{"question": "öffnen", "answer": "wir [öffnen]"}, 	
+	{"question": "ziehen an", "answer": "wir [anziehen]"}, 	
+	{"question": "demonstrieren", "answer": "sie/Sie [demonstrieren]"}, 	
+	{"question": "atme", "answer": "ich [atmen]"}, 	
+	{"question": "haltet", "answer": "ihr [halten]"}, 	
+	{"question": "denken", "answer": "sie/Sie [denken]"}, 	
+	{"question": "gehörst", "answer": "du [gehören]"}, 	
+	{"question": "rennt", "answer": "ihr [rennen]"}, 	
+	{"question": "zieht an", "answer": "er/sie/es [anziehen]"}, 	
+	{"question": "schließt", "answer": "er/sie/es [schließen]"}, 	
+	{"question": "fastest", "answer": "du [fasten]"}, 	
+	{"question": "findet", "answer": "ihr [finden]"}, 	
+	{"question": "schlagen", "answer": "wir [schlagen]"}, 	
+	{"question": "geht weg", "answer": "ihr [weggehen]"}, 	
+	{"question": "frühstücke", "answer": "ich [frühstücken]"}, 	
+	{"question": "haben dabei", "answer": "wir [dabeihaben]"}, 	
+	{"question": "schwimmst", "answer": "du [schwimmen]"}, 	
+	{"question": "schlafen", "answer": "wir [schlafen]"}, 	
+	{"question": "ergänze", "answer": "ich [ergänzen]"}, 	
+	{"question": "kocht", "answer": "ihr [kochen]"}, 	
+	{"question": "telefonieren", "answer": "sie/Sie [telefonieren]"}, 	
+	{"question": "lieben", "answer": "sie/Sie [lieben]"}, 	
+	{"question": "kommt zurück", "answer": "ihr [zurückkommen]"}, 	
+	{"question": "vergessen", "answer": "wir [vergessen]"}, 	
+	{"question": "suchst", "answer": "du [suchen]"}, 	
+	{"question": "bete", "answer": "ich [beten]"}, 	
+	{"question": "kaufen ein", "answer": "sie/Sie [einkaufen]"}, 	
+	{"question": "höre", "answer": "ich [hören]"}, 	
+	{"question": "trinke", "answer": "ich [trinken]"}, 	
+	{"question": "wählst", "answer": "du [wählen]"}, 	
+	{"question": "helfen", "answer": "wir [helfen]"}, 	
+	{"question": "kommt", "answer": "er/sie/es [kommen]"}, 	
+	{"question": "vergessen", "answer": "sie/Sie [vergessen]"}, 	
+	{"question": "singe", "answer": "ich [singen]"}, 	
+	{"question": "steigen", "answer": "wir [steigen]"}, 	
+	{"question": "schlagt", "answer": "ihr [schlagen]"}, 	
+	{"question": "isst", "answer": "er/sie/es [essen]"}, 	
+	{"question": "erlebt", "answer": "ihr [erleben]"}, 	
+	{"question": "machst mit", "answer": "du [mitmachen]"}, 	
+	{"question": "räumen weg", "answer": "sie/Sie [wegräumen]"}, 	
+	{"question": "rechnet", "answer": "er/sie/es [rechnen]"}, 	
+	{"question": "passiere", "answer": "ich [passieren]"}, 	
+	{"question": "wandern", "answer": "sie/Sie [wandern]"}, 	
+	{"question": "kommt zurück", "answer": "er/sie/es [zurückkommen]"}, 	
+	{"question": "macht", "answer": "ihr [machen]"}, 	
+	{"question": "retten", "answer": "sie/Sie [retten]"}, 	
+	{"question": "empfehle", "answer": "ich [empfehlen]"}, 	
+	{"question": "trinkst", "answer": "du [trinken]"}, 	
+	{"question": "treffen", "answer": "sie/Sie [treffen]"}, 	
+	{"question": "brauchen", "answer": "sie/Sie [brauchen]"}, 	
+	{"question": "wartest", "answer": "du [warten]"}, 	
+	{"question": "tanzen", "answer": "sie/Sie [tanzen]"}, 	
+	{"question": "wähle", "answer": "ich [wählen]"}, 	
+	{"question": "zählst", "answer": "du [zählen]"}, 	
+	{"question": "nehme", "answer": "ich [nehmen]"}, 	
+	{"question": "hört", "answer": "er/sie/es [hören]"}, 	
+	{"question": "wandern", "answer": "wir [wandern]"}, 	
+	{"question": "verlieren", "answer": "sie/Sie [verlieren]"}, 	
+	{"question": "betest", "answer": "du [beten]"}, 	
+	{"question": "ziehe", "answer": "ich [ziehen]"}, 	
+	{"question": "heiratet", "answer": "er/sie/es [heiraten]"}, 	
+	{"question": "füttert", "answer": "er/sie/es [füttern]"}, 	
+	{"question": "fährst ab", "answer": "du [abfahren]"}, 	
+	{"question": "wasche", "answer": "ich [waschen]"}, 	
+	{"question": "kochen", "answer": "wir [kochen]"}, 	
+	{"question": "öffnen", "answer": "sie/Sie [öffnen]"}, 	
+	{"question": "empfangen", "answer": "sie/Sie [empfangen]"}, 	
+	{"question": "geht weg", "answer": "er/sie/es [weggehen]"}, 	
+	{"question": "braucht", "answer": "ihr [brauchen]"}, 	
+	{"question": "geht aus", "answer": "er/sie/es [ausgehen]"}, 	
+	{"question": "antworte", "answer": "ich [antworten]"}, 	
+	{"question": "fällt", "answer": "er/sie/es [fallen]"}, 	
+	{"question": "möchten", "answer": "sie/Sie [möchten]"}, 	
+	{"question": "fallt", "answer": "ihr [fallen]"}, 	
+	{"question": "fangt", "answer": "ihr [fangen]"}, 	
+	{"question": "wartet", "answer": "er/sie/es [warten]"}, 	
+	{"question": "schwimmen", "answer": "wir [schwimmen]"}, 	
+	{"question": "bieten", "answer": "wir [bieten]"}, 	
+	{"question": "zahlt", "answer": "ihr [zahlen]"}, 	
+	{"question": "essen", "answer": "wir [essen]"}, 	
+	{"question": "braucht", "answer": "er/sie/es [brauchen]"}, 	
+	{"question": "sagt", "answer": "ihr [sagen]"}, 	
+	{"question": "arbeite", "answer": "ich [arbeiten]"}, 	
+	{"question": "empfange", "answer": "ich [empfangen]"}, 	
+	{"question": "unterschreiben", "answer": "wir [unterschreiben]"}, 	
+	{"question": "demonstrieren", "answer": "wir [demonstrieren]"}, 	
+	{"question": "helft", "answer": "ihr [helfen]"}, 	
+	{"question": "misst", "answer": "du [messen]"}, 	
+	{"question": "zieht", "answer": "ihr [ziehen]"}, 	
+	{"question": "stehe auf", "answer": "ich [aufstehen]"}, 	
+	{"question": "reden", "answer": "sie/Sie [reden]"}, 	
+	{"question": "kopierst", "answer": "du [kopieren]"}, 	
+	{"question": "sinken", "answer": "wir [sinken]"}, 	
+	{"question": "bleibe", "answer": "ich [bleiben]"}, 	
+	{"question": "frühstückt", "answer": "er/sie/es [frühstücken]"}, 	
+	{"question": "frühstücken", "answer": "sie/Sie [frühstücken]"}, 	
+	{"question": "gebe", "answer": "ich [geben]"}, 	
+	{"question": "laufe", "answer": "ich [laufen]"}, 	
+	{"question": "steigt", "answer": "ihr [steigen]"}, 	
+	{"question": "wählen", "answer": "sie/Sie [wählen]"}, 	
+	{"question": "steht", "answer": "ihr [stehen]"}, 	
+	{"question": "verbietest", "answer": "du [verbieten]"}, 	
+	{"question": "ergänzt", "answer": "du [ergänzen]"}, 	
+	{"question": "zeige", "answer": "ich [zeigen]"}, 	
+	{"question": "fallen", "answer": "wir [fallen]"}, 	
+	{"question": "denkt", "answer": "ihr [denken]"}, 	
+	{"question": "fallen", "answer": "sie/Sie [fallen]"}, 	
+	{"question": "liege", "answer": "ich [liegen]"}, 	
+	{"question": "verlieren", "answer": "wir [verlieren]"}, 	
+	{"question": "zählt", "answer": "ihr [zählen]"}, 	
+	{"question": "heirate", "answer": "ich [heiraten]"}, 	
+	{"question": "wissen", "answer": "wir [wissen]"}, 	
+	{"question": "öffnest", "answer": "du [öffnen]"}, 	
+	{"question": "besuchen", "answer": "wir [besuchen]"}, 	
+	{"question": "erzähle", "answer": "ich [erzählen]"}, 	
+	{"question": "kommt an", "answer": "er/sie/es [ankommen]"}, 	
+	{"question": "möchte", "answer": "er/sie/es [möchten]"}, 	
+	{"question": "heiratest", "answer": "du [heiraten]"}, 	
+	{"question": "wohnen", "answer": "wir [wohnen]"}, 	
+	{"question": "schauen an", "answer": "wir [anschauen]"}, 	
+	{"question": "zeichnet", "answer": "er/sie/es [zeichnen]"}, 	
+	{"question": "atmet", "answer": "ihr [atmen]"}, 	
+	{"question": "fangen an", "answer": "sie/Sie [anfangen]"}, 	
+	{"question": "kommt", "answer": "ihr [kommen]"}, 	
+	{"question": "halten", "answer": "sie/Sie [halten]"}, 	
+	{"question": "rettet", "answer": "er/sie/es [retten]"}, 	
+	{"question": "misst", "answer": "er/sie/es [messen]"}, 	
+	{"question": "lacht", "answer": "ihr [lachen]"}, 	
+	{"question": "kennt", "answer": "er/sie/es [kennen]"}, 	
+	{"question": "sehe fern", "answer": "ich [fernsehen]"}, 	
+	{"question": "bilde", "answer": "ich [bilden]"}, 	
+	{"question": "glaube", "answer": "ich [glauben]"}, 	
+	{"question": "schläft", "answer": "er/sie/es [schlafen]"}, 	
+	{"question": "kaufst", "answer": "du [kaufen]"}, 	
+	{"question": "fragt", "answer": "er/sie/es [fragen]"}, 	
+	{"question": "räumst weg", "answer": "du [wegräumen]"}, 	
+	{"question": "biete an", "answer": "ich [anbieten]"}, 	
+	{"question": "analysieren", "answer": "sie/Sie [analysieren]"}, 	
+	{"question": "unterschreibe", "answer": "ich [unterschreiben]"}, 	
+	{"question": "trifft", "answer": "er/sie/es [treffen]"}, 	
+	{"question": "schlafe ein", "answer": "ich [einschlafen]"}, 	
+	{"question": "kauft", "answer": "ihr [kaufen]"}, 	
+	{"question": "verstehen", "answer": "wir [verstehen]"}, 	
+	{"question": "möchten", "answer": "wir [möchten]"}, 	
+	{"question": "bieten an", "answer": "sie/Sie [anbieten]"}, 	
+	{"question": "unterschreibst", "answer": "du [unterschreiben]"}, 	
+	{"question": "rufe an", "answer": "ich [anrufen]"}, 	
+	{"question": "fotografieren", "answer": "sie/Sie [fotografieren]"}, 	
+	{"question": "bringt mit", "answer": "er/sie/es [mitbringen]"}, 	
+	{"question": "demonstriert", "answer": "ihr [demonstrieren]"}, 	
+	{"question": "bleiben", "answer": "wir [bleiben]"}, 	
+	{"question": "nehmen", "answer": "sie/Sie [nehmen]"}, 	
+	{"question": "trinken", "answer": "wir [trinken]"}, 	
+	{"question": "bedeuten", "answer": "sie/Sie [bedeuten]"}, 	
+	{"question": "verbieten", "answer": "wir [verbieten]"}, 	
+	{"question": "räumen auf", "answer": "sie/Sie [aufräumen]"}, 	
+	{"question": "putze", "answer": "ich [putzen]"}, 	
+	{"question": "gefallen", "answer": "sie/Sie [gefallen]"}, 	
+	{"question": "lernen", "answer": "sie/Sie [lernen]"}, 	
+	{"question": "schwimmt", "answer": "er/sie/es [schwimmen]"}, 	
+	{"question": "sehen fern", "answer": "sie/Sie [fernsehen]"}, 	
+	{"question": "wirft", "answer": "er/sie/es [werfen]"}, 	
+	{"question": "schlafen ein", "answer": "wir [einschlafen]"}, 	
+	{"question": "arbeiten", "answer": "wir [arbeiten]"}, 	
+	{"question": "finde", "answer": "ich [finden]"}, 	
+	{"question": "sagt", "answer": "er/sie/es [sagen]"}, 	
+	{"question": "kommen zurück", "answer": "wir [zurückkommen]"}, 	
+	{"question": "erlebt", "answer": "er/sie/es [erleben]"}, 	
+	{"question": "trägt", "answer": "er/sie/es [tragen]"}, 	
+	{"question": "schlaft", "answer": "ihr [schlafen]"}, 	
+	{"question": "gehört", "answer": "er/sie/es [gehören]"}, 	
+	{"question": "fahre los", "answer": "ich [losfahren]"}, 	
+	{"question": "empfehlen", "answer": "wir [empfehlen]"}, 	
+	{"question": "rechnet", "answer": "ihr [rechnen]"}, 	
+	{"question": "bietet", "answer": "er/sie/es [bieten]"}, 	
+	{"question": "wohnt", "answer": "ihr [wohnen]"}, 	
+	{"question": "zahlt", "answer": "er/sie/es [zahlen]"}, 	
+	{"question": "besuchen", "answer": "sie/Sie [besuchen]"}, 	
+	{"question": "wiederhole", "answer": "ich [wiederholen]"}, 	
+	{"question": "schlaft ein", "answer": "ihr [einschlafen]"}, 	
+	{"question": "denken", "answer": "wir [denken]"}, 	
+	{"question": "schaue an", "answer": "ich [anschauen]"}, 	
+	{"question": "ergänzt", "answer": "ihr [ergänzen]"}, 	
+	{"question": "bildet", "answer": "ihr [bilden]"}, 	
+	{"question": "wirfst", "answer": "du [werfen]"}, 	
+	{"question": "erlebe", "answer": "ich [erleben]"}, 	
+	{"question": "kochen", "answer": "sie/Sie [kochen]"}, 	
+	{"question": "fütterst", "answer": "du [füttern]"}, 	
+	{"question": "wartet", "answer": "ihr [warten]"}, 	
+	{"question": "sprecht", "answer": "ihr [sprechen]"}, 	
+	{"question": "fotografiert", "answer": "er/sie/es [fotografieren]"}, 	
+	{"question": "wartet", "answer": "ihr [warten]"}, 	
+	{"question": "haben dabei", "answer": "sie/Sie [dabeihaben]"}, 	
+	{"question": "zieht aus", "answer": "er/sie/es [ausziehen]"}, 	
+	{"question": "schlage", "answer": "ich [schlagen]"}, 	
+	{"question": "verstehst", "answer": "du [verstehen]"}, 	
+	{"question": "steht auf", "answer": "ihr [aufstehen]"}, 	
+	{"question": "kommen", "answer": "wir [kommen]"}, 	
+	{"question": "erleben", "answer": "sie/Sie [erleben]"}, 	
+	{"question": "gehe weg", "answer": "ich [weggehen]"}, 	
+	{"question": "kommen", "answer": "sie/Sie [kommen]"}, 	
+	{"question": "fotografiere", "answer": "ich [fotografieren]"}, 	
+	{"question": "werde", "answer": "ich [werden]"}, 	
+	{"question": "kauft ein", "answer": "er/sie/es [einkaufen]"}, 	
+	{"question": "gehe", "answer": "ich [gehen]"}, 	
+	{"question": "weint", "answer": "ihr [weinen]"}, 	
+	{"question": "kopiert", "answer": "er/sie/es [kopieren]"}, 	
+	{"question": "kommen zurück", "answer": "sie/Sie [zurückkommen]"}, 	
+	{"question": "lernt", "answer": "ihr [lernen]"}, 	
+	{"question": "suchen", "answer": "sie/Sie [suchen]"}, 	
+	{"question": "warte", "answer": "ich [warten]"}, 	
+	{"question": "male", "answer": "ich [malen]"}, 	
+	{"question": "beginne", "answer": "ich [beginnen]"}, 	
+	{"question": "steigt", "answer": "er/sie/es [steigen]"}, 	
+	{"question": "badest", "answer": "du [baden]"}, 	
+	{"question": "ergänzen", "answer": "sie/Sie [ergänzen]"}, 	
+	{"question": "empfiehlst", "answer": "du [empfehlen]"}, 	
+	{"question": "fängst an", "answer": "du [anfangen]"}, 	
+	{"question": "sitzt", "answer": "du [sitzen]"}, 	
+	{"question": "tanzen", "answer": "wir [tanzen]"}, 	
+	{"question": "macht mit", "answer": "ihr [mitmachen]"}, 	
+	{"question": "bricht", "answer": "er/sie/es [brechen]"}, 	
+	{"question": "schlägt", "answer": "er/sie/es [schlagen]"}, 	
+	{"question": "ergänzen", "answer": "wir [ergänzen]"}, 	
+	{"question": "erklären", "answer": "wir [erklären]"}, 	
+	{"question": "wandere", "answer": "ich [wandern]"}, 	
+	{"question": "tragt", "answer": "ihr [tragen]"}, 	
+	{"question": "bringen mit", "answer": "sie/Sie [mitbringen]"}, 	
+	{"question": "gefällt", "answer": "er/sie/es [gefallen]"}, 	
+	{"question": "räumt auf", "answer": "er/sie/es [aufräumen]"}, 	
+	{"question": "radiere", "answer": "ich [radieren]"}, 	
+	{"question": "heiratet", "answer": "ihr [heiraten]"}, 	
+	{"question": "schwimmt", "answer": "ihr [schwimmen]"}, 	
+	{"question": "analysiert", "answer": "er/sie/es [analysieren]"}, 	
+	{"question": "wisst", "answer": "ihr [wissen]"}, 	
+	{"question": "wandert", "answer": "ihr [wandern]"}, 	
+	{"question": "glaubst", "answer": "du [glauben]"}, 	
+	{"question": "sitze", "answer": "ich [sitzen]"}, 	
+	{"question": "sieht", "answer": "er/sie/es [sehen]"}, 	
+	{"question": "weine", "answer": "ich [weinen]"}, 	
+	{"question": "verliert", "answer": "ihr [verlieren]"}, 	
+	{"question": "schläfst", "answer": "du [schlafen]"}, 	
+	{"question": "buchstabiere", "answer": "ich [buchstabieren]"}, 	
+	{"question": "machen mit", "answer": "wir [mitmachen]"}, 	
+	{"question": "komme zurück", "answer": "ich [zurückkommen]"}, 	
+	{"question": "schwimmen", "answer": "sie/Sie [schwimmen]"}, 	
+	{"question": "kaufen", "answer": "wir [kaufen]"}, 	
+	{"question": "räume auf", "answer": "ich [aufräumen]"}, 	
+	{"question": "wiederholt", "answer": "ihr [wiederholen]"}, 	
+	{"question": "empfehlen", "answer": "sie/Sie [empfehlen]"}, 	
+	{"question": "kocht", "answer": "er/sie/es [kochen]"}, 	
+	{"question": "steigst", "answer": "du [steigen]"}, 	
+	{"question": "sehen", "answer": "sie/Sie [sehen]"}, 	
+	{"question": "rennst", "answer": "du [rennen]"}, 	
+	{"question": "fliegt", "answer": "er/sie/es [fliegen]"}, 	
+	{"question": "warte", "answer": "ich [warten]"}, 	
+	{"question": "liebt", "answer": "er/sie/es [lieben]"}, 	
+	{"question": "wohnen", "answer": "sie/Sie [wohnen]"}, 	
+	{"question": "malst", "answer": "du [malen]"}, 	
+	{"question": "fährt los", "answer": "er/sie/es [losfahren]"}, 	
+	{"question": "esse auf", "answer": "ich [aufessen]"}, 	
+	{"question": "übst", "answer": "du [üben]"}, 	
+	{"question": "sprechen", "answer": "sie/Sie [sprechen]"}, 	
+	{"question": "fastet", "answer": "er/sie/es [fasten]"}, 	
+	{"question": "wanderst", "answer": "du [wandern]"}, 	
+	{"question": "räume weg", "answer": "ich [wegräumen]"}, 	
+	{"question": "gehen weg", "answer": "wir [weggehen]"}, 	
+	{"question": "fällst", "answer": "du [fallen]"}, 	
+	{"question": "verbieten", "answer": "sie/Sie [verbieten]"}, 	
+	{"question": "kennen", "answer": "sie/Sie [kennen]"}, 	
+	{"question": "bedeute", "answer": "ich [bedeuten]"}, 	
+	{"question": "esst auf", "answer": "ihr [aufessen]"}, 	
+	{"question": "räumt auf", "answer": "ihr [aufräumen]"}, 	
+	{"question": "lädst ein", "answer": "du [einladen]"}, 	
+	{"question": "isst auf", "answer": "er/sie/es [aufessen]"}, 	
+	{"question": "zahlen", "answer": "sie/Sie [zahlen]"}, 	
+	{"question": "schließt", "answer": "ihr [schließen]"}, 	
+	{"question": "buchstabierst", "answer": "du [buchstabieren]"}, 	
+	{"question": "rettet", "answer": "ihr [retten]"}, 	
+	{"question": "wählen", "answer": "wir [wählen]"}, 	
+	{"question": "koste", "answer": "ich [kosten]"}, 	
+	{"question": "sehe", "answer": "ich [sehen]"}, 	
+	{"question": "seht", "answer": "ihr [sehen]"}, 	
+	{"question": "brauche", "answer": "ich [brauchen]"}, 	
+	{"question": "bildet", "answer": "er/sie/es [bilden]"}, 	
+	{"question": "rennen", "answer": "wir [rennen]"}, 	
+	{"question": "singen", "answer": "wir [singen]"}, 	
+	{"question": "üben", "answer": "sie/Sie [üben]"}, 	
+	{"question": "warten", "answer": "wir [warten]"}, 	
+	{"question": "macht", "answer": "er/sie/es [machen]"}, 	
+	{"question": "putzt", "answer": "er/sie/es [putzen]"}, 	
+	{"question": "komme", "answer": "ich [kommen]"}, 	
+	{"question": "schwimme", "answer": "ich [schwimmen]"}, 	
+	{"question": "denkst", "answer": "du [denken]"}, 	
+	{"question": "nimmt", "answer": "er/sie/es [nehmen]"}, 	
+	{"question": "kopieren", "answer": "wir [kopieren]"}, 	
+	{"question": "putzen", "answer": "sie/Sie [putzen]"}, 	
+	{"question": "rette", "answer": "ich [retten]"}, 	
+	{"question": "zählen", "answer": "wir [zählen]"}, 	
+	{"question": "empfehlt", "answer": "ihr [empfehlen]"}, 	
+	{"question": "sitzen", "answer": "sie/Sie [sitzen]"}, 	
+	{"question": "badet", "answer": "er/sie/es [baden]"}, 	
+	{"question": "warten", "answer": "sie/Sie [warten]"}, 	
+	{"question": "buchstabiert", "answer": "er/sie/es [buchstabieren]"}, 	
+	{"question": "räumen auf", "answer": "wir [aufräumen]"}, 	
+	{"question": "esst", "answer": "ihr [essen]"}, 	
+	{"question": "messen", "answer": "wir [messen]"}, 	
+	{"question": "schlafen", "answer": "sie/Sie [schlafen]"}, 	
+	{"question": "geht", "answer": "ihr [gehen]"}, 	
+	{"question": "übt", "answer": "er/sie/es [üben]"}, 	
+	{"question": "trägst", "answer": "du [tragen]"}, 	
+	{"question": "fahrt los", "answer": "ihr [losfahren]"}, 	
+	{"question": "ruft an", "answer": "er/sie/es [anrufen]"}, 	
+	{"question": "laufen", "answer": "wir [laufen]"}, 	
+	{"question": "brechen", "answer": "wir [brechen]"}, 	
+	{"question": "sehen", "answer": "wir [sehen]"}, 	
+	{"question": "telefoniert", "answer": "er/sie/es [telefonieren]"}, 	
+	{"question": "stehen auf", "answer": "sie/Sie [aufstehen]"}, 	
+	{"question": "tanzt", "answer": "ihr [tanzen]"}, 	
+	{"question": "trefft", "answer": "ihr [treffen]"}, 	
+	{"question": "übe", "answer": "ich [üben]"}, 	
+	{"question": "buchstabiert", "answer": "ihr [buchstabieren]"}, 	
+	{"question": "stehen", "answer": "wir [stehen]"}, 	
+	{"question": "werfen", "answer": "wir [werfen]"}, 	
+	{"question": "halte", "answer": "ich [halten]"}, 	
+	{"question": "liegt", "answer": "er/sie/es [liegen]"}, 	
+	{"question": "betet", "answer": "ihr [beten]"}, 	
+	{"question": "bade", "answer": "ich [baden]"}, 	
+	{"question": "spielst", "answer": "du [spielen]"}, 	
+	{"question": "schlafe", "answer": "ich [schlafen]"}, 	
+	{"question": "halten", "answer": "wir [halten]"}, 	
+	{"question": "brichst", "answer": "du [brechen]"}, 	
+	{"question": "fahre ab", "answer": "ich [abfahren]"}, 	
+	{"question": "steht auf", "answer": "ihr [aufstehen]"}, 	
+	{"question": "streiten", "answer": "wir [streiten]"}, 	
+	{"question": "weinst", "answer": "du [weinen]"}, 	
+	{"question": "redet", "answer": "er/sie/es [reden]"}, 	
+	{"question": "bedeutet", "answer": "ihr [bedeuten]"}, 	
+	{"question": "kaufen", "answer": "sie/Sie [kaufen]"}, 	
+	{"question": "rufst an", "answer": "du [anrufen]"}, 	
+	{"question": "erzählen", "answer": "sie/Sie [erzählen]"}, 	
+	{"question": "liegen", "answer": "wir [liegen]"}, 	
+	{"question": "arbeiten", "answer": "sie/Sie [arbeiten]"}, 	
+	{"question": "gehört", "answer": "ihr [gehören]"}, 	
+	{"question": "antwortet", "answer": "ihr [antworten]"}, 	
+	{"question": "stehst", "answer": "du [stehen]"}, 	
+	{"question": "springen", "answer": "wir [springen]"}, 	
+	{"question": "unterschreibt", "answer": "er/sie/es [unterschreiben]"}, 	
+	{"question": "gehst", "answer": "du [gehen]"}, 	
+	{"question": "lebt", "answer": "er/sie/es [leben]"}, 	
+	{"question": "kennt", "answer": "ihr [kennen]"}, 	
+	{"question": "rufen an", "answer": "sie/Sie [anrufen]"}, 	
+	{"question": "bringt mit", "answer": "ihr [mitbringen]"}, 	
+	{"question": "verstehen", "answer": "sie/Sie [verstehen]"}, 	
+	{"question": "schlägst", "answer": "du [schlagen]"}, 	
+	{"question": "wird", "answer": "er/sie/es [werden]"}, 	
+	{"question": "bringst mit", "answer": "du [mitbringen]"}, 	
+	{"question": "komme an", "answer": "ich [ankommen]"}, 	
+	{"question": "lerne", "answer": "ich [lernen]"}, 	
+	{"question": "mache mit", "answer": "ich [mitmachen]"}, 	
+	{"question": "sieht fern", "answer": "er/sie/es [fernsehen]"}, 	
+	{"question": "redest", "answer": "du [reden]"}, 	
+	{"question": "kenne", "answer": "ich [kennen]"}, 	
+	{"question": "antworten", "answer": "sie/Sie [antworten]"}, 	
+	{"question": "stehen auf", "answer": "wir [aufstehen]"}, 	
+	{"question": "sagst", "answer": "du [sagen]"}, 	
+	{"question": "geben", "answer": "wir [geben]"}, 	
+	{"question": "spielt", "answer": "er/sie/es [spielen]"}, 	
+	{"question": "werden", "answer": "wir [werden]"}, 	
+	{"question": "schaust an", "answer": "du [anschauen]"}, 	
+	{"question": "empfängst", "answer": "du [empfangen]"}, 	
+	{"question": "messen", "answer": "sie/Sie [messen]"}, 	
+	{"question": "antworten", "answer": "wir [antworten]"}, 	
+	{"question": "brauchen", "answer": "wir [brauchen]"}, 	
+	{"question": "weint", "answer": "er/sie/es [weinen]"}, 	
+	{"question": "gefallt", "answer": "ihr [gefallen]"}, 	
+	{"question": "besuche", "answer": "ich [besuchen]"}, 	
+	{"question": "vergesse", "answer": "ich [vergessen]"}, 	
+	{"question": "hört", "answer": "ihr [hören]"}, 	
+	{"question": "beginnen", "answer": "sie/Sie [beginnen]"}, 	
+	{"question": "singt", "answer": "er/sie/es [singen]"}, 	
+	{"question": "lese", "answer": "ich [lesen]"}, 	
+	{"question": "ziehst", "answer": "du [ziehen]"}, 	
+	{"question": "telefoniert", "answer": "ihr [telefonieren]"}, 	
+	{"question": "zeigt", "answer": "ihr [zeigen]"}, 	
+	{"question": "lache", "answer": "ich [lachen]"}, 	
+	{"question": "stehen auf", "answer": "sie/Sie [aufstehen]"}, 	
+	{"question": "arbeitet", "answer": "ihr [arbeiten]"}, 	
+	{"question": "zeigst", "answer": "du [zeigen]"}, 	
+	{"question": "schließen", "answer": "wir [schließen]"}, 	
+	{"question": "ergänzt", "answer": "er/sie/es [ergänzen]"}, 	
+	{"question": "frühstücken", "answer": "wir [frühstücken]"}, 	
+	{"question": "kostet", "answer": "ihr [kosten]"}, 	
+	{"question": "schläfst ein", "answer": "du [einschlafen]"}, 	
+	{"question": "vergisst", "answer": "du [vergessen]"}, 	
+	{"question": "zeichne", "answer": "ich [zeichnen]"}, 	
+	{"question": "zählen", "answer": "sie/Sie [zählen]"}, 	
+	{"question": "trage", "answer": "ich [tragen]"}, 	
+	{"question": "tanzt", "answer": "er/sie/es [tanzen]"}, 	
+	{"question": "bedeutest", "answer": "du [bedeuten]"}, 	
+	{"question": "zahlen", "answer": "wir [zahlen]"}, 	
+	{"question": "helfe", "answer": "ich [helfen]"}, 	
+	{"question": "wiederholen", "answer": "wir [wiederholen]"}, 	
+	{"question": "wissen", "answer": "sie/Sie [wissen]"}, 	
+	{"question": "frühstückst", "answer": "du [frühstücken]"}, 	
+	{"question": "helfen", "answer": "sie/Sie [helfen]"}, 	
+	{"question": "schreibt", "answer": "er/sie/es [schreiben]"}, 	
+	{"question": "rechnest", "answer": "du [rechnen]"}, 	
+	{"question": "reden", "answer": "wir [reden]"}, 	
+	{"question": "fängst", "answer": "du [fangen]"}, 	
+	{"question": "kopiert", "answer": "ihr [kopieren]"}, 	
+	{"question": "lernen", "answer": "wir [lernen]"}, 	
+	{"question": "brauchst", "answer": "du [brauchen]"}, 	
+	{"question": "streite", "answer": "ich [streiten]"}, 	
+	{"question": "bleibt", "answer": "ihr [bleiben]"}, 	
+	{"question": "putzen", "answer": "wir [putzen]"}, 	
+	{"question": "erzählt", "answer": "er/sie/es [erzählen]"}, 	
+	{"question": "verbietet", "answer": "ihr [verbieten]"}, 	
+	{"question": "sinken", "answer": "sie/Sie [sinken]"}, 	
+	{"question": "finden", "answer": "wir [finden]"}, 	
+	{"question": "besuchst", "answer": "du [besuchen]"}, 	
+	{"question": "erleben", "answer": "wir [erleben]"}, 	
+	{"question": "fangen", "answer": "wir [fangen]"}, 	
+	{"question": "telefonieren", "answer": "wir [telefonieren]"}, 	
+	{"question": "sitzen", "answer": "wir [sitzen]"}, 	
+	{"question": "schreibst", "answer": "du [schreiben]"}, 	
+	{"question": "kosten", "answer": "wir [kosten]"}, 	
+	{"question": "finden", "answer": "sie/Sie [finden]"}, 	
+	{"question": "ziehe an", "answer": "ich [anziehen]"}, 	
+	{"question": "kauft", "answer": "er/sie/es [kaufen]"}, 	
+	{"question": "liebe", "answer": "ich [lieben]"}, 	
+	{"question": "putzt", "answer": "ihr [putzen]"}, 	
+	{"question": "erklärt", "answer": "ihr [erklären]"}, 	
+	{"question": "fahren los", "answer": "sie/Sie [losfahren]"}, 	
+	{"question": "lernst", "answer": "du [lernen]"}, 	
+	{"question": "denkt", "answer": "er/sie/es [denken]"}, 	
+	{"question": "essen auf", "answer": "wir [aufessen]"}, 	
+	{"question": "essen", "answer": "sie/Sie [essen]"}, 	
+	{"question": "sinkst", "answer": "du [sinken]"}, 	
+	{"question": "sehe fern", "answer": "ich [fernsehen]"}, 	
+	{"question": "verliert", "answer": "er/sie/es [verlieren]"}, 	
+	{"question": "essen auf", "answer": "sie/Sie [aufessen]"}, 	
+	{"question": "wiederholen", "answer": "sie/Sie [wiederholen]"}, 	
+	{"question": "tanzt", "answer": "du [tanzen]"}, 	
+	{"question": "hast dabei", "answer": "du [dabeihaben]"}, 	
+	{"question": "fotografieren", "answer": "wir [fotografieren]"}, 	
+	{"question": "tanze", "answer": "ich [tanzen]"}, 	
+	{"question": "arbeitet", "answer": "er/sie/es [arbeiten]"}, 	
+	{"question": "fängt", "answer": "er/sie/es [fangen]"}, 	
+	{"question": "fahren", "answer": "wir [fahren]"}, 	
+	{"question": "rennt", "answer": "er/sie/es [rennen]"}, 	
+	{"question": "waschen", "answer": "wir [waschen]"}, 	
+	{"question": "zähle", "answer": "ich [zählen]"}, 	
+	{"question": "beginnt", "answer": "ihr [beginnen]"}, 	
+	{"question": "kaufe", "answer": "ich [kaufen]"}, 	
+	{"question": "zeigt", "answer": "er/sie/es [zeigen]"}, 	
+	{"question": "seht fern", "answer": "ihr [fernsehen]"}, 	
+	{"question": "fliegt", "answer": "ihr [fliegen]"}, 	
+	{"question": "steht auf", "answer": "er/sie/es [aufstehen]"}, 	
+	{"question": "wählt", "answer": "er/sie/es [wählen]"}, 	
+	{"question": "streitet", "answer": "ihr [streiten]"}, 	
+	{"question": "analysiere", "answer": "ich [analysieren]"}, 	
+	{"question": "füttern", "answer": "wir [füttern]"}, 	
+	{"question": "steht", "answer": "er/sie/es [stehen]"}, 	
+	{"question": "passierst", "answer": "du [passieren]"}, 	
+	{"question": "zieht", "answer": "er/sie/es [ziehen]"}, 	
+	{"question": "kosten", "answer": "sie/Sie [kosten]"}, 	
+	{"question": "fangen", "answer": "sie/Sie [fangen]"}, 	
+	{"question": "gefallen", "answer": "wir [gefallen]"}, 	
+	{"question": "springe", "answer": "ich [springen]"}, 	
+	{"question": "verliere", "answer": "ich [verlieren]"}, 	
+	{"question": "liebst", "answer": "du [lieben]"}, 	
+	{"question": "fahre", "answer": "ich [fahren]"}, 	
+	{"question": "wohnst", "answer": "du [wohnen]"}, 	
+	{"question": "vergisst", "answer": "er/sie/es [vergessen]"}, 	
+	{"question": "stehst auf", "answer": "du [aufstehen]"}, 	
+	{"question": "sprichst", "answer": "du [sprechen]"}, 	
+	{"question": "fastet", "answer": "ihr [fasten]"}, 	
+	{"question": "koche", "answer": "ich [kochen]"}, 	
+	{"question": "tragen", "answer": "sie/Sie [tragen]"}, 	
+	{"question": "bedeutet", "answer": "er/sie/es [bedeuten]"}, 	
+	{"question": "hörst", "answer": "du [hören]"}, 	
+	{"question": "unterschreibt", "answer": "ihr [unterschreiben]"}, 	
+	{"question": "sitzt", "answer": "ihr [sitzen]"}, 	
+	{"question": "atmet", "answer": "er/sie/es [atmen]"}, 	
+	{"question": "ziehen an", "answer": "sie/Sie [anziehen]"}, 	
+	{"question": "zeichnen", "answer": "wir [zeichnen]"}, 	
+	{"question": "spielt", "answer": "ihr [spielen]"}, 	
+	{"question": "machst", "answer": "du [machen]"}, 	
+	{"question": "beginnst", "answer": "du [beginnen]"}, 	
+	{"question": "beten", "answer": "sie/Sie [beten]"}, 	
+	{"question": "gehen", "answer": "sie/Sie [gehen]"}, 	
+	{"question": "analysieren", "answer": "wir [analysieren]"}, 	
+	{"question": "öffnet", "answer": "ihr [öffnen]"}, 	
+	{"question": "fangt an", "answer": "ihr [anfangen]"}, 	
+	{"question": "gebt", "answer": "ihr [geben]"}, 	
+	{"question": "fahren ab", "answer": "wir [abfahren]"}, 	
+	{"question": "radieren", "answer": "sie/Sie [radieren]"}, 	
+	{"question": "macht mit", "answer": "er/sie/es [mitmachen]"}, 	
+	{"question": "empfängt", "answer": "er/sie/es [empfangen]"}, 	
+	{"question": "messe", "answer": "ich [messen]"}, 	
+	{"question": "hat dabei", "answer": "er/sie/es [dabeihaben]"}, 	
+	{"question": "geht", "answer": "er/sie/es [gehen]"}, 	
+	{"question": "verstehe", "answer": "ich [verstehen]"}, 	
+	{"question": "biete", "answer": "ich [bieten]"}, 	
+	{"question": "besucht", "answer": "ihr [besuchen]"}, 	
+	{"question": "rufen an", "answer": "wir [anrufen]"}, 	
+	{"question": "rechnen", "answer": "wir [rechnen]"}, 	
+	{"question": "sinke", "answer": "ich [sinken]"}, 	
+	{"question": "lebt", "answer": "ihr [leben]"}, 	
+	{"question": "isst auf", "answer": "du [aufessen]"}, 	
+	{"question": "sucht", "answer": "ihr [suchen]"}, 	
+	{"question": "bietest an", "answer": "du [anbieten]"}, 	
+	{"question": "beginnt", "answer": "er/sie/es [beginnen]"}, 	
+	{"question": "ziehen aus", "answer": "wir [ausziehen]"}, 	
+	{"question": "glaubt", "answer": "er/sie/es [glauben]"}, 	
+	{"question": "lebst", "answer": "du [leben]"}, 	
+	{"question": "leben", "answer": "sie/Sie [leben]"}, 	
+	{"question": "versteht", "answer": "er/sie/es [verstehen]"}, 	
+	{"question": "fahrt", "answer": "ihr [fahren]"}, 	
+	{"question": "radiert", "answer": "er/sie/es [radieren]"}, 	
+	{"question": "suche", "answer": "ich [suchen]"}, 	
+	{"question": "lädt ein", "answer": "er/sie/es [einladen]"}, 	
+	{"question": "kommt an", "answer": "ihr [ankommen]"}, 	
+	{"question": "bieten", "answer": "sie/Sie [bieten]"}, 	
+	{"question": "baden", "answer": "wir [baden]"}, 	
+	{"question": "möchte", "answer": "ich [möchten]"}, 	
+	{"question": "werfe", "answer": "ich [werfen]"}, 	
+	{"question": "empfangen", "answer": "wir [empfangen]"}, 	
+	{"question": "kostest", "answer": "du [kosten]"}, 	
+	{"question": "kommst an", "answer": "du [ankommen]"}, 	
+	{"question": "schreiben", "answer": "wir [schreiben]"}, 	
+	{"question": "kaufst ein", "answer": "du [einkaufen]"}, 	
+	{"question": "vergesst", "answer": "ihr [vergessen]"}	],
+"Schule": [	{"question": "der Kurs", "answer": "course"}, 	
+	{"question": "die Tafel", "answer": "The board"}, 	
+	{"question": "der Radiergummi", "answer": "the eraser"}, 	
+	{"question": "die Schere", "answer": "the scissors"}, 	
+	{"question": "die List", "answer": "the list"}, 	
+	{"question": "Spitzer", "answer": "sharpeners"}, 	
+	{"question": "der Punkt", "answer": "the dot, period"}, 	
+	{"question": "die Schülerin", "answer": "the (female) student"}, 	
+	{"question": "Scheren", "answer": "scissors (plural)"}, 	
+	{"question": "der Kurs", "answer": "the course"}, 	
+	{"question": "der Spitzer", "answer": "the sharpener"}, 	
+	{"question": "der Kugelschreiber", "answer": "the pen"}, 	
+	{"question": "Stifte", "answer": "pencils"}, 	
+	{"question": "das Studium", "answer": "studies"}, 	
+	{"question": "die Hauseaufgaben", "answer": "the homework"}, 	
+	{"question": "der Schüler", "answer": "the (male) student"}, 	
+	{"question": "Kugelschreiber", "answer": "pens"}, 	
+	{"question": "das Buch", "answer": "the book"}, 	
+	{"question": "das Video", "answer": "the video"}	],
+"Stadt": [	{"question": "die Post", "answer": "the post"}, 	
+	{"question": "der Spielplatz", "answer": "the playground"}, 	
+	{"question": "der Sondermüll", "answer": "hazardous waste"}, 	
+	{"question": "die Ausstellung", "answer": "the exhibition"}, 	
+	{"question": "der Müllcontainer", "answer": "waste container"}, 	
+	{"question": "der Markt", "answer": "the market"}, 	
+	{"question": "das Erdgeschoss", "answer": "the ground floor"}, 	
+	{"question": "der Mistkübel", "answer": "trash bin (austrian german)"}, 	
+	{"question": "das Schwimmbad", "answer": "the swimming pool"}, 	
+	{"question": "der Kindergarten", "answer": "the Kindergarten"}, 	
+	{"question": "der Platz", "answer": "the square"}, 	
+	{"question": "das Rotes Kreuze", "answer": "Red Cross"}, 	
+	{"question": "der Zoo", "answer": "The zoo"}, 	
+	{"question": "die Apotheke", "answer": "the pharmacy"}, 	
+	{"question": "die Bar", "answer": "the bar"}, 	
+	{"question": "die Bank", "answer": "The bank"}, 	
+	{"question": "das Amt", "answer": "the government office"}, 	
+	{"question": "der Stock", "answer": "the floor (of a building)"}, 	
+	{"question": "der Sperrmüll", "answer": "bulky waste"}, 	
+	{"question": "der Bahnhof", "answer": "the train station"}, 	
+	{"question": "der Papierkorb", "answer": "paper basket"}, 	
+	{"question": "Bahnhöfe", "answer": "train stations"}, 	
+	{"question": "das Spital", "answer": "the hospital (Austria)"}, 	
+	{"question": "der Berzik", "answer": "Berzik"}, 	
+	{"question": "die Ampel", "answer": "the traffic lights"}, 	
+	{"question": "das Dorf", "answer": "the village"}, 	
+	{"question": "Bänke", "answer": "banks"}, 	
+	{"question": "der Lärm", "answer": "the noise"}, 	
+	{"question": "das Postamt", "answer": "the post office"}, 	
+	{"question": "die Bücherei", "answer": "the library"}, 	
+	{"question": "der Restmüll", "answer": "residual waste"}, 	
+	{"question": "die Station", "answer": "station"}, 	
+	{"question": "die Straße", "answer": "street"}, 	
+	{"question": "der Salon", "answer": "living room"}, 	
+	{"question": "der Flughafen", "answer": "the airport"}, 	
+	{"question": "das Krankenhaus", "answer": "the hospital (Germany)"}, 	
+	{"question": "das Rathaus", "answer": "the city hall"}, 	
+	{"question": "das Kino", "answer": "the cinema"}, 	
+	{"question": "das Hotel", "answer": "the hotel"}, 	
+	{"question": "die Schule", "answer": "the school"}, 	
+	{"question": "der Biomüll", "answer": "organic waste"}, 	
+	{"question": "die Polizeistation", "answer": "the police station"}, 	
+	{"question": "der Park", "answer": "the park"}, 	
+	{"question": "das Restaurant", "answer": "the restaurant"}, 	
+	{"question": "die Haltestelle", "answer": "the stop"}, 	
+	{"question": "der Supermarkt", "answer": "the supermarket"}	],
+"Supermarkt": [	{"question": "der Becher", "answer": "the cup (e.g. yogurt)"}, 	
+	{"question": "das Glas", "answer": "the glass (e.g. mermelade)"}, 	
+	{"question": "die Verkäuferin", "answer": "the female seller"}, 	
+	{"question": "die Flasche", "answer": "The bottle"}, 	
+	{"question": "das Bier", "answer": "the beer"}, 	
+	{"question": "das Packerl", "answer": "the packet (small)"}, 	
+	{"question": "die Dose", "answer": "the can"}, 	
+	{"question": "500 Gramm", "answer": "500 grams"}, 	
+	{"question": "der Kunde", "answer": "the male client"}, 	
+	{"question": "der Liter", "answer": "one liter"}, 	
+	{"question": "der Verkäufer", "answer": "the make seller"}, 	
+	{"question": "die Kiste", "answer": "the crate"}, 	
+	{"question": "das Sackerl", "answer": "the bag (of chips)"}, 	
+	{"question": "die Scheiben", "answer": "the slices"}, 	
+	{"question": "die Packung", "answer": "the packet (big)"}, 	
+	{"question": "die Flasche", "answer": "the bottle"}, 	
+	{"question": "das Kilo", "answer": "the kilo"}, 	
+	{"question": "die Kundin", "answer": "the female client"}, 	
+	{"question": "die Kassa", "answer": "The cash register"}	],
+"Tag und Zeit": [	{"question": "die Zeit", "answer": "The time"}, 	
+	{"question": "die Woche", "answer": "the week"}, 	
+	{"question": "Juli", "answer": "July"}, 	
+	{"question": "Februar", "answer": "February"}, 	
+	{"question": "Freitag", "answer": "Friday"}, 	
+	{"question": "die Uhr", "answer": "The clock"}, 	
+	{"question": "der Tag", "answer": "The day"}, 	
+	{"question": "der Frühling ", "answer": "The spring"}, 	
+	{"question": "November", "answer": "November"}, 	
+	{"question": "August", "answer": "August"}, 	
+	{"question": "in der Früh", "answer": "in the early morning"}, 	
+	{"question": "Nächte", "answer": "nights"}, 	
+	{"question": "Sonntag", "answer": "Sunday"}, 	
+	{"question": "der Monat", "answer": "the month"}, 	
+	{"question": "der Herbst", "answer": "The autumn"}, 	
+	{"question": "in der Nacht", "answer": "At night"}, 	
+	{"question": "Dezember", "answer": "December"}, 	
+	{"question": "Minuten", "answer": "minutes"}, 	
+	{"question": "der Regen", "answer": "the rain"}, 	
+	{"question": "die Stunde", "answer": "The hour"}, 	
+	{"question": "Mai", "answer": "May"}, 	
+	{"question": "Monate", "answer": "months"}, 	
+	{"question": "Dienstag", "answer": "Tuesday"}, 	
+	{"question": "die Verspätung", "answer": "the delay"}, 	
+	{"question": "April", "answer": "April"}, 	
+	{"question": "am Mittag", "answer": "At noon"}, 	
+	{"question": "der Winter", "answer": "The winter"}, 	
+	{"question": "Stunden", "answer": "hours"}, 	
+	{"question": "Montag", "answer": "Monday"}, 	
+	{"question": "Juni", "answer": "June"}, 	
+	{"question": "die Nacht", "answer": "The night"}, 	
+	{"question": "die Minute", "answer": "The minute"}, 	
+	{"question": "September ", "answer": "September"}, 	
+	{"question": "die Sekunde", "answer": "The second"}, 	
+	{"question": "Jänner", "answer": "January"}, 	
+	{"question": "am Vormittag", "answer": "in the morning (before noon)"}, 	
+	{"question": "Uhren", "answer": "clocks"}, 	
+	{"question": "am Nachmittag", "answer": "in the afternoon"}, 	
+	{"question": "am Morgen", "answer": "in the morning"}, 	
+	{"question": "Sekunden", "answer": "seconds"}, 	
+	{"question": "Samstag", "answer": "Saturday"}, 	
+	{"question": "Donnerstag", "answer": "Thursday"}, 	
+	{"question": "der Schnee", "answer": "the snow"}, 	
+	{"question": "am Abend", "answer": "in the evening"}, 	
+	{"question": "der Sommer", "answer": "The summer"}, 	
+	{"question": "Mittwoch", "answer": "Wednesday"}, 	
+	{"question": "das Jahr", "answer": "the year"}, 	
+	{"question": "März", "answer": "March"}, 	
+	{"question": "Oktober", "answer": "October"}, 	
+	{"question": "Tage", "answer": "days"}],	
+"Tech": [	{"question": "der Bildschirm", "answer": "the screen"},
+	{"question": "der Drucker", "answer": "the printer"}, 	
+	{"question": "das Handy", "answer": "The phone"}, 	
+	{"question": "die Tastatur", "answer": "the keyboard"}, 	
+	{"question": "die Maus", "answer": "the mouse"}, 	
+	{"question": "der Projektor", "answer": "the projector (video)"}, 	
+	{"question": "Maschinen", "answer": "machines"}, 	
+	{"question": "der Laptop", "answer": "The laptop"}, 	
+	{"question": "die Taste", "answer": "the key (button)"}	],
+"Verkehrsmittel": [	{"question": "die Autobahn", "answer": "the highway"}, 	
+	{"question": "der Bus", "answer": "the bus"}, 	
+	{"question": "die Haltegriffe", "answer": "handrails"}, 	
+	{"question": "das Taxi", "answer": "the taxi"}, 	
+	{"question": "Autos", "answer": "cars"}, 	
+	{"question": "das Wohnmobil", "answer": "the RV"}, 	
+	{"question": "das Motorrad", "answer": "the motorbike"}, 	
+	{"question": "die Notbremsung", "answer": "emergency brake"}, 	
+	{"question": "das Auto", "answer": "the car"}, 	
+	{"question": "das Fahrrad", "answer": "the bike"}, 	
+	{"question": "das Schiff", "answer": "the ship"}, 	
+	{"question": "die Tankstelle", "answer": "the gas station"}, 	
+	{"question": "die Bahn", "answer": "the railway"}, 	
+	{"question": "das Schild", "answer": "the sign"}, 	
+	{"question": "die Baustelle", "answer": "the construction site"}, 	
+	{"question": "das Flugzeug", "answer": "the airplane"}, 	
+	{"question": "der Stau", "answer": "the traffic jam"}, 	
+	{"question": "Bahnen", "answer": "railways"}, 	
+	{"question": "die Umleitung", "answer": "the detour"}, 	
+	{"question": "die Ausfahrt", "answer": "the exit (road)"}, 	
+	{"question": "der Zug", "answer": "the train"}, 	
+	{"question": "die Kurve", "answer": "the curve"}, 	
+	{"question": "der Knoten", "answer": "the knot/junction"}, 	
+	{"question": "Taxis", "answer": "taxis"}, 	
+	{"question": "das Boot", "answer": "the boat"}, 	
+	{"question": "der Unfall", "answer": "the accident"}, 	
+	{"question": "die Richtung", "answer": "the direction"}	],
+"Wissen": [	{"question": "die Regel", "answer": "the rule"}, 	
+	{"question": "die Schätzung", "answer": "estimate"}, 	
+	{"question": "die Bedeutung", "answer": "the meaning"}, 	
+	{"question": "die Frage", "answer": "the question"}, 	
+	{"question": "der Grund", "answer": "reason"}, 	
+	{"question": "die Lust", "answer": "desire"}, 	
+	{"question": "Wörter", "answer": "words"}, 	
+	{"question": "Fragen", "answer": "questions"}, 	
+	{"question": "das Wort", "answer": "the word"}, 	
+	{"question": "die Gründe", "answer": "reasons"}, 	
+	{"question": "die Wahl", "answer": "choice"}, 	
+	{"question": "das Ding", "answer": "the thing (D)"}, 	
+	{"question": "Enden", "answer": "finales"}, 	
+	{"question": "Projekte", "answer": "projects"}, 	
+	{"question": "das Ende", "answer": "the end"}, 	
+	{"question": "Gegenteile", "answer": "the opposite nouns"}, 	
+	{"question": "die Sache", "answer": "the thing (S)"}, 	
+	{"question": "das Gegenteil", "answer": "the opposite word"}, 	
+	{"question": "der Unterschied", "answer": "the difference"}, 	
+	{"question": "die Geschichte", "answer": "history"}, 	
+	{"question": "die Frustration", "answer": "the frustration"}, 	
+	{"question": "das Talent", "answer": "the talent"}	]
+}
