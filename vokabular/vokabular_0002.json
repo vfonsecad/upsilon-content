@@ -1,3 +1,21 @@
-{ "Test": [	{"answer": "begehrt", "question": "Dieses Produkt ist weltweit sehr ___ \n\n\n\n\n\n\n\n desirable / codiciado / پرطرفدار / 受欢迎的"}, 	
-	{"answer": "der Schatz, die Schätze", "question": "Die Piraten suchen nach einem ... . / treasure / tesoro / گنج / 宝藏 "}
-	]}
+{ "https://www.zdf.de/play/dokus/zdfzeit-106/das-war-dann-mal-weg-118":
+[
+  {
+    "answer": "begehrt",
+    "question": "Dieses Produkt ist sehr ____. [EN: sought-after | ES: codiciado | FA: پرطرفدار | ZH: 受欢迎的]"
+  },
+  {
+    "answer": "der Schatz (Singular), die Schätze (Plural)",
+    "question": "Der Pirat hat einen ____ gefunden. [EN: treasure | ES: tesoro | FA: گنج | ZH: 宝藏]"
+  },
+  {
+    "answer": "die Folter (Singular), die Foltern (Plural)",
+    "question": "Der Gefangene hat die ____ nicht ertragen. [EN: torture | ES: tortura | FA: شکنجه | ZH: 折磨]"
+  },
+  {
+    "answer": "die Dauerwelle (Singular), die Dauerwellen (Plural)",
+    "question": "Sie hat sich gestern eine ____ machen lassen. [EN: perm | ES: permanente | FA: فر دائم | ZH: 烫发]"
+  }
+]}
+
+
