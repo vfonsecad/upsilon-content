@@ -15,7 +15,43 @@
   {
     "answer": "die Dauerwelle (Singular), die Dauerwellen (Plural)",
     "question": "Sie hat sich gestern eine ____ machen lassen. [EN: perm | ES: permanente | FA: فر دائم | ZH: 烫发]"
+  },
+    {
+    "answer": "aufwendig",
+    "question": "Die Renovierung war sehr ____. [EN: elaborate/costly | ES: costoso/elaborado | FA: پرهزینه/پیچیده | ZH: 耗费的/繁琐的]"
+  },
+  {
+    "answer": "sich nennen",
+    "question": "Er darf sich jetzt Experte ____. [EN: to call oneself | ES: llamarse | FA: نامیدن خود | ZH: 自称]"
+  },
+    {
+    "answer": "der Friseur (Singular), die Friseure (Plural)",
+    "question": "Ich gehe morgen zum ____. [EN: hairdresser | ES: peluquero | FA: آرایشگر | ZH: 理发师]"
+  },
+  {
+    "answer": "erfunden",
+    "question": "Das Telefon wurde von Bell _____. [EN: invented | ES: inventado | FA: اختراع شده | ZH: 发明的]"
+  },
+  {
+    "answer": "das Verfahren (Singular), die Verfahren (Plural)",
+    "question": "Das Gericht beginnt morgen mit dem ____. [EN: procedure/process | ES: procedimiento | FA: روند/فرآیند | ZH: 程序/过程]"
+  },
+    {
+    "answer": "der Renner (Singular), die Renner (Plural)",
+    "question": "Das neue Spielzeug ist der ____ im Laden. [EN: hit | ES: éxito | FA: پرفروش | ZH: 畅销品]"
+  },
+  {
+    "answer": "das Vorbild (Singular), die Vorbilder (Plural)",
+    "question": "Sie sieht ihre Lehrerin als ____. [EN: role model | ES: modelo a seguir | FA: الگو | ZH: 榜样]"
+  },
+  {
+    "answer": "geformt",
+    "question": "Die Figuren sind aus Ton ____ worden. [EN: shaped | ES: moldeado | FA: شکل داده شده | ZH: 被塑造的]"
   }
+  
+
+
+
 ]}
 
 
