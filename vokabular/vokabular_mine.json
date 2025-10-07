@@ -1,0 +1,365 @@
+{"mein":[
+  {
+    "answer": "erstellen - Wir erstellen einen detaillierten Bericht über das Projekt.",
+    "question": "Wir ___ einen detaillierten Bericht über das Projekt. [ crear, elaborar (to create, to draft) ]"
+  },
+  {
+    "answer": "anpassen - Das Design lässt sich leicht an unterschiedliche Bildschirmgrößen anpassen.",
+    "question": "Das Design lässt sich leicht an unterschiedliche Bildschirmgrößen ___. [ adaptar, ajustar (to adapt, to adjust) ]"
+  },
+  {
+    "answer": "darstellen - Diese Grafik soll die Entwicklung der Aktienkurse darstellen.",
+    "question": "Diese Grafik soll die Entwicklung der Aktienkurse ___. [ representar, exponer (to represent, to depict) ]"
+  },
+  {
+    "answer": "der Vortrag - Der Vortrag des Gastredners war sehr inspirierend.",
+    "question": "Der ___ des Gastredners war sehr inspirierend. [ la conferencia, la ponencia (the lecture, the presentation) ]"
+  },
+  {
+    "answer": "der Fall - In diesem Fall benötigen wir zusätzliche Informationen.",
+    "question": "In diesem ___ benötigen wir zusätzliche Informationen. [ el caso (the case, the instance) ]"
+  },
+  {
+    "answer": "begleiten - Ich werde dich zum Bahnhof begleiten.",
+    "question": "Ich werde dich zum Bahnhof ___. [ acompañar, escoltar (to accompany, to escort) ]"
+  },
+  {
+    "answer": "die Eskalation - Wir müssen alles tun, um eine weitere Eskalation des Konflikts zu verhindern.",
+    "question": "Wir müssen alles tun, um eine weitere Die ___ des Konflikts zu verhindern. [ la escalada, la intensificación (the escalation, the intensification) ]"
+  },
+  {
+    "answer": "erwähnen - Ich möchte dieses Detail in meinem Bericht kurz erwähnen.",
+    "question": "Ich möchte dieses Detail in meinem Bericht kurz ___. [ mencionar (to mention) ]"
+  },
+  {
+    "answer": "die verzerrte Wahrnehmung - Er litt unter einer verzerrten Wahrnehmung der Realität.",
+    "question": "Er litt unter einer Die ___ der Realität. [ la percepción distorsionada (the distorted perception) ]"
+  },
+  {
+    "answer": "die Ansteckung - Das Tragen einer Maske reduziert das Risiko einer Ansteckung.",
+    "question": "Das Tragen einer Maske reduziert das Risiko einer Die ___. [ el contagio, la infección (the contagion, the infection) ]"
+  },
+  {
+    "answer": "betreiben - Sie betreiben einen kleinen Online-Shop für handgemachte Produkte.",
+    "question": "Sie ___ einen kleinen Online-Shop für handgemachte Produkte. [ operar, gestionar (to operate, to run, to conduct) ]"
+  },
+  {
+    "answer": "allerdings - Ich stimme dir zu, allerdings gibt es noch ein Problem.",
+    "question": "Ich stimme dir zu, ___ gibt es noch ein Problem. [ sin embargo, no obstante (however, yet, admittedly) ]"
+  },
+  {
+    "answer": "die Gewalt - Wir lehnen jegliche Form von Gewalt ab.",
+    "question": "Wir lehnen jegliche Form von Die ___ ab. [ la violencia, la fuerza (the violence, the force) ]"
+  },
+  {
+    "answer": "die Ebene - Die Diskussion muss auf einer professionellen Ebene geführt werden.",
+    "question": "Die Diskussion muss auf einer professionellen Die ___ geführt werden. [ el nivel, el plano (the level, the plane) ]"
+  },
+  {
+    "answer": "das Fazit - Das Fazit der Studie ist eindeutig.",
+    "question": "Das ___ der Studie ist eindeutig. [ la conclusión, el resumen (the conclusion, the summary) ]"
+  },
+  {
+    "answer": "die Forderung - Die Gewerkschaften stellten klare Forderungen an die Geschäftsleitung.",
+    "question": "Die Gewerkschaften stellten klare Die ___ an die Geschäftsleitung. [ la demanda, la exigencia (the demand, the claim) ]"
+  },
+  {
+    "answer": "die Bitte - Er richtete seine dringende Bitte direkt an den Bürgermeister.",
+    "question": "Er richtete seine dringende Die ___ direkt an den Bürgermeister. [ la solicitud, el ruego (the request, the plea) ]"
+  },
+  {
+    "answer": "lassen - Er lässt die Tür offen, damit die Katze jederzeit hineinkann.",
+    "question": "Er ___ die Tür offen, damit die Katze jederzeit hineinkann. [ dejar, permitir (to let, to allow, to have something done) ]"
+  },
+  {
+    "answer": "abwehren - Der Torwart konnte den Ball in letzter Sekunde abwehren.",
+    "question": "Der Torwart konnte den Ball in letzter Sekunde ___. [ rechazar, defenderse de (to ward off, to fend off, to defend) ]"
+  },
+  {
+    "answer": "bewerten - Die Jury wird die Kunstwerke nach Kreativität bewerten.",
+    "question": "Die Jury wird die Kunstwerke nach Kreativität ___. [ evaluar, calificar (to evaluate, to rate, to assess) ]"
+  },
+  {
+    "answer": "die Bewertung - Die positive Bewertung des Kunden freut uns sehr.",
+    "question": "Die positive Die ___ des Kunden freut uns sehr. [ la evaluación, la calificación (the evaluation, the rating) ]"
+  },
+  {
+    "answer": "der Wert - Der Wert der Immobilie ist in den letzten Jahren gestiegen.",
+    "question": "Der ___ der Immobilie ist in den letzten Jahren gestiegen. [ el valor (the value, the worth) ]"
+  },
+  {
+    "answer": "zweifeln - Sie beginnt, an seiner Ehrlichkeit zu zweifeln.",
+    "question": "Sie beginnt, an seiner Ehrlichkeit zu ___. [ dudar (to doubt) ]"
+  },
+  {
+    "answer": "kämpfen - Die Ärzte kämpfen gegen die Ausbreitung der Krankheit.",
+    "question": "Die Ärzte ___ gegen die Ausbreitung der Krankheit. [ luchar, combatir (to fight, to struggle) ]"
+  },
+  {
+    "answer": "spiegeln - Das ruhige Wasser spiegelt die Wolken wider.",
+    "question": "Das ruhige Wasser ___ die Wolken wider. [ reflejar (to reflect, to mirror) ]"
+  },
+  {
+    "answer": "mitauffangen - Wir müssen die psychischen Folgen der Krise mitauffangen.",
+    "question": "Wir müssen die psychischen Folgen der Krise ___. [ ayudar a amortiguar/absorber (to help absorb, to help cushion/catch) ]"
+  },
+  {
+    "answer": "umsetzen - Es ist wichtig, die Theorie in die Praxis umzusetzen.",
+    "question": "Es ist wichtig, die Theorie in die Praxis ___. [ implementar, realizar (to implement, to realize, to convert) ]"
+  },
+  {
+    "answer": "übrig - Es ist nur noch ein Stück Kuchen übrig.",
+    "question": "Es ist nur noch ein Stück Kuchen ___. [ restante, sobrante (remaining, left over) ]"
+  },
+  {
+    "answer": "stürzen - Er stürzte von der Leiter und verletzte sich.",
+    "question": "Er ___ von der Leiter und verletzte sich. [ caer, precipitarse (to fall, to plunge) ]"
+  },
+  {
+    "answer": "das Handgelenk - Sie hat sich beim Sport das Handgelenk verstaucht.",
+    "question": "Sie hat sich beim Sport das ___ verstaucht. [ la muñeca (the wrist) ]"
+  },
+  {
+    "answer": "abwarten - Wir müssen die Ergebnisse abwarten, bevor wir entscheiden.",
+    "question": "Wir müssen die Ergebnisse ___, bevor wir entscheiden. [ esperar (to wait and see, to bide one's time) ]"
+  },
+  {
+    "answer": "ausschließen - Wir können einen Fehler in der Berechnung nicht ausschließen.",
+    "question": "Wir können einen Fehler in der Berechnung nicht ___. [ excluir, descartar (to exclude, to rule out) ]"
+  },
+  {
+    "answer": "die Spannung - Die Spannung im Raum war deutlich spürbar.",
+    "question": "Die ___ im Raum war deutlich spürbar. [ la tensión, el voltaje (the tension, the suspense) ]"
+  },
+  {
+    "answer": "abgegriffen - Das Buch sah sehr abgegriffen und alt aus.",
+    "question": "Das Buch sah sehr ___ und alt aus. [ gastado, manoseado (worn out, well-thumbed) ]"
+  },
+  {
+    "answer": "das Unvernünftige - Manchmal tun wir alle etwas Unvernünftiges.",
+    "question": "Manchmal tun wir alle etwas Das ___. [ la insensatez, algo irracional (the irrational thing, the folly) ]"
+  },
+  {
+    "answer": "ausgerechnet - Ausgerechnet heute muss mein Auto eine Panne haben.",
+    "question": "___ heute muss mein Auto eine Panne haben. [ precisamente, justo hoy (of all days, exactly) ]"
+  },
+  {
+    "answer": "durchstehen - Er musste eine schwere Zeit durchstehen.",
+    "question": "Er musste eine schwere Zeit ___. [ superar, aguantar (to get through, to endure) ]"
+  },
+  {
+    "answer": "umgedreht - Sie hat das Bild umgedreht, sodass es zur Wand zeigte.",
+    "question": "Sie hat das Bild ___, sodass es zur Wand zeigte. [ invertido, al revés (turned around, reversed) ]"
+  },
+  {
+    "answer": "beruhigt - Sie war beruhigt, als sie die gute Nachricht hörte.",
+    "question": "Sie war ___, als sie die gute Nachricht hörte. [ calmado, tranquilizado (calm, relieved, reassured) ]"
+  },
+  {
+    "answer": "heftig - Es gab einen heftigen Streit zwischen den Nachbarn.",
+    "question": "Es gab einen ___ Streit zwischen den Nachbarn. [ intenso, violento (fierce, intense, violent) ]"
+  },
+  {
+    "answer": "nachgeben - Nach langer Diskussion musste eine Seite nachgeben.",
+    "question": "Nach langer Diskussion musste eine Seite ____________. [ ceder, rendirse / to give in, to concede ]"
+  },
+  {
+    "answer": "durchsetzen - Er konnte seinen Vorschlag im Meeting durchsetzen.",
+    "question": "Er konnte seinen Vorschlag im Meeting ______________. [ imponer, hacer valer / to enforce, to assert oneself ]"
+  },
+  {
+    "answer": "verhandeln - Die beiden Parteien werden morgen über den Vertrag verhandeln.",
+    "question": "Die beiden Parteien werden morgen über den Vertrag _____________. [ negociar / to negotiate ]"
+  },
+  {
+    "answer": "glaubwürdig drohen - Es ist schwer, in dieser Situation glaubwürdig zu drohen.",
+    "question": "Es ist schwer, in dieser Situation _______________________________. [ amenazar creíblemente / to credibly threaten ]"
+  },
+  {
+    "answer": "stiften - Sie wollen Geld für den Tierschutz stiften.",
+    "question": "Sie wollen Geld für den Tierschutz ___________. [ donar, fundar, causar / to donate, to establish, to cause ]"
+  },
+  {
+    "answer": "der Nutzen - Der Nutzen dieser Investition ist schwer abzuschätzen.",
+    "question": "Der _______ dieser Investition ist schwer abzuschätzen. [ el beneficio, la utilidad / the benefit, the use ]"
+  },
+  {
+    "answer": "führen - Sie wird das Projekt zum Erfolg führen.",
+    "question": "Sie wird das Projekt zum Erfolg __________. [ guiar, dirigir, liderar / to lead, to guide, to conduct ]"
+  },
+  {
+    "answer": "aufzeigen - Wir müssen dem Management die Risiken aufzeigen.",
+    "question": "Wir müssen dem Management die Risiken ___________. [ señalar, mostrar / to point out, to show ]"
+  },
+  {
+    "answer": "die Belastung - Die hohe Arbeitslast führt zu psychischen Belastungen.",
+    "question": "Die hohe Arbeitslast führt zu psychischen ____________. [ la carga, el estrés / the burden, the strain, the stress ]"
+  },
+  {
+    "answer": "der Ärger - Er verspürte großen Ärger über das verlorene Spiel.",
+    "question": "Er verspürte großen ______ über das verlorene Spiel. [ el enfado, la molestia / the annoyance, the trouble ]"
+  },
+  {
+    "answer": "die Erschöpfung - Nach der langen Reise litt er unter starker Erschöpfung.",
+    "question": "Nach der langen Reise litt er unter starker _____________. [ el agotamiento, la fatiga / the exhaustion, the fatigue ]"
+  },
+  {
+    "answer": "anstoßen - Lass uns auf den Erfolg mit einem Glas Sekt anstoßen.",
+    "question": "Lass uns auf den Erfolg mit einem Glas Sekt ____________. [ chocar, brindar, iniciar / to toast, to nudge, to initiate ]"
+  },
+  {
+    "answer": "die Anwendung - Diese Anwendung ist sehr benutzerfreundlich.",
+    "question": "Diese ____________ ist sehr benutzerfreundlich. [ la aplicación, el uso / the application, the use ]"
+  },
+  {
+    "answer": "die Spannung - Zwischen den Abteilungen gibt es eine große Spannung.",
+    "question": "Zwischen den Abteilungen gibt es eine große __________. [ la tensión / the tension, the excitement ]"
+  },
+  {
+    "answer": "sachlich - Er blieb trotz der Kritik sachlich und ruhig.",
+    "question": "Er blieb trotz der Kritik ________ und ruhig. [ objetivo, factual / factual, objective ]"
+  },
+  {
+    "answer": "die Verteilung - Die Verteilung der Ressourcen muss gerechter erfolgen.",
+    "question": "Die _____________ der Ressourcen muss gerechter erfolgen. [ la distribución, el reparto / the distribution, the allocation ]"
+  },
+  {
+    "answer": "als je zuvor - Sie ist glücklicher als je zuvor in ihrem Leben.",
+    "question": "Sie ist glücklicher ________________ in ihrem Leben. [ que nunca antes / than ever before ]"
+  },
+  {
+    "answer": "absagen - Er musste den Termin kurzfristig absagen.",
+    "question": "Er musste den Termin kurzfristig _________. [ cancelar, anular / to cancel, to call off ]"
+  },
+  {
+    "answer": "die Einheit - Die politische Einheit ist in dieser Situation notwendig.",
+    "question": "Die politische ________ ist in dieser Situation notwendig. [ la unidad / the unity, the unit ]"
+  },
+  {
+    "answer": "völlig - Ich bin mit dem Ergebnis völlig zufrieden.",
+    "question": "Ich bin mit dem Ergebnis ________ zufrieden. [ completamente, totalmente / completely, totally ]"
+  },
+  {
+    "answer": "riechen - Ich kann von hier aus das Meer riechen.",
+    "question": "Ich kann von hier aus das Meer ________. [ oler / to smell ]"
+  },
+  {
+    "answer": "angucken - Du solltest dir das Video unbedingt mal angucken.",
+    "question": "Du solltest dir das Video unbedingt mal __________. [ mirar, observar (informal) / to look at, to watch (informal) ]"
+  },
+  {
+    "answer": "das Meerschweinchen - Mein Kind wünscht sich ein Meerschweinchen als Haustier.",
+    "question": "Mein Kind wünscht sich ein ________________ als Haustier. [ el conejillo de Indias / the guinea pig ]"
+  },
+  {
+    "answer": "viel zu lange her - Mein letzter Urlaub ist schon viel zu lange her.",
+    "question": "Mein letzter Urlaub ist schon __________________________. [ hace demasiado tiempo / too long ago ]"
+  },
+  {
+    "answer": "ewig - Es hat sich wie ewig angefühlt, bis die Bahn kam.",
+    "question": "Es hat sich wie ______ angefühlt, bis die Bahn kam. [ eternamente, muy largo / forever, ages ]"
+  },
+  {
+    "answer": "vorziehen - Ich würde einen Urlaub am Meer dem in den Bergen vorziehen.",
+    "question": "Ich würde einen Urlaub am Meer dem in den Bergen ____________. [ preferir / to prefer, to favor ]"
+  },
+  {
+    "answer": "die Erneuerung - Die Erneuerung der Software ist für das nächste Quartal geplant.",
+    "question": "Die ______________ der Software ist für das nächste Quartal geplant. [ la renovación / the renewal, the renovation ]"
+  },
+  {
+    "answer": "die Ermäßigung - Mit dem Studentenausweis bekommen Sie eine Ermäßigung.",
+    "question": "Mit dem Studentenausweis bekommen Sie eine _____________. [ el descuento, la reducción / the discount, the reduction ]"
+  },
+  {
+    "answer": "der Einsatz - Sein voller Einsatz hat zum Erfolg des Projekts beigetragen.",
+    "question": "Sein voller ________ hat zum Erfolg des Projekts beigetragen. [ el esfuerzo, la dedicación, el uso / the commitment, the effort, the use ]"
+  },
+  {
+    "answer": "das Gebäude - Das alte Gebäude wird momentan renoviert.",
+    "question": "Das alte _________ wird momentan renoviert. [ el edificio / the building ]"
+  },
+  {
+    "answer": "die Stadtverwaltung - Alle Formulare müssen bei der Stadtverwaltung eingereicht werden.",
+    "question": "Alle Formulare müssen bei der _________________ eingereicht werden. [ la administración municipal / the city administration ]"
+  },
+  {
+    "answer": "leise - Sie baten darum, die Musik etwas leise zu stellen.",
+    "question": "Sie baten darum, die Musik etwas _______ zu stellen. [ bajo, silencioso / quiet, soft ]"
+  },
+  {
+    "answer": "die Einheit - Die militärische Einheit wurde in den Süden verlegt.",
+    "question": "Die militärische ________ wurde in den Süden verlegt. [ la unidad / the unit ]"
+  },
+  {
+    "answer": "vergeben - Wir werden den Auftrag an das beste Team vergeben.",
+    "question": "Wir werden den Auftrag an das beste Team __________. [ conceder, otorgar / to award, to allocate ]"
+  },
+  {
+    "answer": "vertonen - Er plant, ein Gedicht musikalisch zu vertonen.",
+    "question": "Er plant, ein Gedicht musikalisch zu __________. [ musicalizar, sonorizar / to set to music, to score (a film) ]"
+  },
+  {
+    "answer": "die Teilhabe - Das Gesetz soll die Teilhabe von Menschen mit Behinderung stärken.",
+    "question": "Das Gesetz soll die __________ von Menschen mit Behinderung stärken. [ la participación, la inclusión / the participation, the inclusion ]"
+  },
+  {
+    "answer": "die Einrichtung - Diese soziale Einrichtung unterstützt Familien in Not.",
+    "question": "Diese soziale ____________ unterstützt Familien in Not. [ la institución, el centro / the institution, the facility ]"
+  },
+  {
+    "answer": "eng - Die Straße ist sehr eng und schwierig zu befahren.",
+    "question": "Die Straße ist sehr ______ und schwierig zu befahren. [ estrecho, ajustado / narrow, tight ]"
+  },
+  {
+    "answer": "gestalten - Wir können unseren Lebensraum aktiv gestalten.",
+    "question": "Wir können unseren Lebensraum aktiv __________. [ diseñar, dar forma a / to design, to shape ]"
+  },
+  {
+    "answer": "entlang - Wir sind den ganzen Fluss entlang gelaufen.",
+    "question": "Wir sind den ganzen Fluss ________ gelaufen. [ a lo largo de / along ]"
+  },
+  {
+    "answer": "zusätzlich - Sie erhielt zusätzlich ein kleines Bonusgehalt.",
+    "question": "Sie erhielt _____________ ein kleines Bonusgehalt. [ adicionalmente / additionally, extra ]"
+  },
+  {
+    "answer": "der Förderbedarf - Bei ihm wurde ein spezieller Förderbedarf festgestellt.",
+    "question": "Bei ihm wurde ein spezieller ______________ festgestellt. [ la necesidad de apoyo / the need for (special) support ]"
+  },
+  {
+    "answer": "künftig - Künftig werden wir alle Prozesse digitalisieren.",
+    "question": "_________ werden wir alle Prozesse digitalisieren. [ en el futuro, futuro / future (adj.), in the future (adv.) ]"
+  },
+  {
+    "answer": "die Sprachförderkraft - Die Sprachförderkraft unterstützt die Kinder beim Spracherwerb.",
+    "question": "Die ____________________ unterstützt die Kinder beim Spracherwerb. [ el/la especialista en apoyo lingüístico / the language support specialist ]"
+  },
+  {
+    "answer": "zudem - Der Kaffee ist heiß und zudem sehr stark.",
+    "question": "Der Kaffee ist heiß und ______ sehr stark. [ además, asimismo / furthermore, in addition ]"
+  },
+  {
+    "answer": "ausbilden - Der Betrieb kann dieses Jahr fünf neue Fachkräfte ausbilden.",
+    "question": "Der Betrieb kann dieses Jahr fünf neue Fachkräfte ____________. [ formar, capacitar / to train, to educate ]"
+  },
+  {
+    "answer": "der Schatz - Die Piraten suchten auf der Insel nach einem verborgenen Schatz.",
+    "question": "Die Piraten suchten auf der Insel nach einem verborgenen _______. [ el tesoro / the treasure ]"
+  },
+  {
+    "answer": "vielfältig - Die Region bietet vielfältige Möglichkeiten für Wanderer.",
+    "question": "Die Region bietet ____________ Möglichkeiten für Wanderer. [ diverso, variado / diverse, varied ]"
+  },
+  {
+    "answer": "gezielt - Wir müssen die Probleme gezielt und schnell angehen.",
+    "question": "Wir müssen die Probleme ________ und schnell angehen. [ dirigido, específico / targeted, specifically ]"
+  },
+  {
+    "answer": "die Verfügung - Die nötigen Dokumente stehen Ihnen zur Verfügung.",
+    "question": "Die nötigen Dokumente stehen Ihnen zur ____________. [ la disposición / the disposal, the provision ]"
+  }
+]
+
+
+}
