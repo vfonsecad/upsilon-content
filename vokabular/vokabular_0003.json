@@ -1,127 +1,127 @@
 { "Trennbare Verben / SP-EN / Präsens": [
   {
     "answer": "anrufen - Ich rufe meinen Bruder morgen an.",
-    "question": " Ich -- meinen Bruder morgen ---. [ llamar / to call ]"
+    "question": " Ich _ meinen Bruder morgen _-. [ llamar / to call ]"
   },
   {
     "answer": "mitkommen - Kommst du heute Abend ins Kino mit?",
-    "question": " -- du heute Abend ins Kino ---? [ acompañar/venir con / to come along ]"
+    "question": " _ du heute Abend ins Kino _-? [ acompañar/venir con / to come along ]"
   },
   {
     "answer": "aufstehen - Sie steht jeden Tag um sieben Uhr auf.",
-    "question": " Sie -- jeden Tag um sieben Uhr ---. [ levantarse / to get up ]"
+    "question": " Sie _ jeden Tag um sieben Uhr _-. [ levantarse / to get up ]"
   },
   {
     "answer": "aufwachen - Ich wache früh am Morgen auf.",
-    "question": " Ich -- früh am Morgen ---. [ despertarse / to wake up ]"
+    "question": " Ich _ früh am Morgen _-. [ despertarse / to wake up ]"
   },
   {
     "answer": "eintragen - Bitte tragen Sie Ihren Namen in die Liste ein.",
-    "question": " Bitte -- Sie Ihren Namen in die Liste ---. [ registrar/inscribir / to register ]"
+    "question": " Bitte _ Sie Ihren Namen in die Liste _-. [ registrar/inscribir / to register ]"
   },
   {
     "answer": "einkaufen - Wir kaufen am Samstag Lebensmittel ein.",
-    "question": " Wir -- am Samstag Lebensmittel ---. [ hacer la compra / to shop ]"
+    "question": " Wir _ am Samstag Lebensmittel _-. [ hacer la compra / to shop ]"
   },
   {
     "answer": "mitbringen - Kannst du mir ein Glas Wasser mitbringen?",
-    "question": " Kannst du mir ein Glas Wasser --? [ traer consigo / to bring along ]"
+    "question": " Kannst du mir ein Glas Wasser _? [ traer consigo / to bring along ]"
   },
   {
     "answer": "mitnehmen - Er nimmt seinen Hund in den Park mit.",
-    "question": " Er -- seinen Hund in den Park ---. [ llevar consigo / to take along ]"
+    "question": " Er _ seinen Hund in den Park _-. [ llevar consigo / to take along ]"
   },
   {
     "answer": "zumachen - Er macht die Tür leise zu.",
-    "question": " Er -- die Tür leise ---. [ cerrar / to close ]"
+    "question": " Er _ die Tür leise _-. [ cerrar / to close ]"
   },
   {
-    "answer": "anmachen - Mach bitte das Licht an.",
-    "question": " -- bitte das Licht ---. [ encender / to turn on ]"
+    "answer": "anmachen - Ich mache das Licht an.",
+    "question": "Ich _ das Licht _-. [ encender / to turn on ]"
   },
   {
     "answer": "anschalten - Ich schalte den Fernseher an, um Nachrichten zu sehen.",
-    "question": " Ich -- den Fernseher --, um Nachrichten zu sehen. [ encender/conectar / to switch on ]"
+    "question": " Ich _ den Fernseher _, um Nachrichten zu sehen. [ encender/conectar / to switch on ]"
   },
   {
     "answer": "ankommen - Der Zug kommt pünktlich in Berlin an.",
-    "question": " Der Zug -- pünktlich in Berlin ---. [ llegar / to arrive ]"
+    "question": " Der Zug _ pünktlich in Berlin _-. [ llegar / to arrive ]"
   },
   {
     "answer": "umziehen - Sie zieht nächste Woche nach München um.",
-    "question": " Sie -- nächste Woche nach München ---. [ mudarse / to move house ]"
+    "question": " Sie _ nächste Woche nach München _-. [ mudarse / to move house ]"
   },
   {
     "answer": "zustellen - Der Postbote stellt das Paket heute zu.",
-    "question": " Der Postbote -- das Paket heute ---. [ entregar/repartir / to deliver ]"
+    "question": " Der Postbote _ das Paket heute _-. [ entregar/repartir / to deliver ]"
   },
   {
     "answer": "darstellen - Das Gemälde stellt eine Szene aus der Geschichte dar.",
-    "question": " Das Gemälde -- eine Szene aus der Geschichte ---. [ representar / to represent/depict ]"
+    "question": " Das Gemälde _ eine Szene aus der Geschichte _-. [ representar / to represent/depict ]"
   },
   {
     "answer": "hinzufügen - Bitte fügen Sie Salz zu der Suppe hinzu.",
-    "question": " Bitte -- Sie Salz zu der Suppe ---. [ añadir/agregar / to add ]"
+    "question": " Bitte _ Sie Salz zu der Suppe _-. [ añadir/agregar / to add ]"
   },
   {
     "answer": "anfangen - Wann fängst du mit der Arbeit an?",
-    "question": " Wann -- du mit der Arbeit ---? [ empezar/comenzar / to begin/start ]"
+    "question": " Wann _ du mit der Arbeit _-? [ empezar/comenzar / to begin/start ]"
   },
   {
     "answer": "herausfinden - Wir müssen die Wahrheit herausfinden.",
-    "question": " Wir müssen die Wahrheit ---. [ descubrir/averiguar / to find out ]"
+    "question": " Wir müssen die Wahrheit _-. [ descubrir/averiguar / to find out ]"
   },
   {
     "answer": "kennenlernen - Ich möchte ihre Eltern kennenlernen.",
-    "question": " Ich möchte ihre Eltern ---. [ conocer (a alguien) / to get to know/meet ]"
+    "question": " Ich möchte ihre Eltern _-. [ conocer (a alguien) / to get to know/meet ]"
   },
   {
-    "answer": "einsteigen - Bitte steig schnell in den Bus ein!",
-    "question": " Bitte -- schnell in den Bus --! [ subir (a un vehículo) / to get in/on ]"
+    "answer": "einsteigen - Bitte steigen Sie schnell in den Bus ein!",
+    "question": " Bitte _ Sie schnell in den Bus _! [ subir (a un vehículo) / to get in/on ]"
   },
   {
     "answer": "aussteigen - Wir steigen an der nächsten Haltestelle aus.",
-    "question": " Wir -- an der nächsten Haltestelle ---. [ bajar (de un vehículo) / to get out/off ]"
+    "question": " Wir _ an der nächsten Haltestelle _-. [ bajar (de un vehículo) / to get out/off ]"
   },
   {
     "answer": "umsteigen - In Frankfurt muss man umsteigen.",
-    "question": " In Frankfurt muss man ---. [ hacer transbordo / to change (transit) ]"
+    "question": " In Frankfurt muss man _-. [ hacer transbordo / to change (transit) ]"
   },
   {
     "answer": "eingeben - Kannst du dein Passwort jetzt eingeben?",
-    "question": " Kannst du dein Passwort jetzt --? [ introducir/ingresar (datos) / to enter (data) ]"
+    "question": " Kannst du dein Passwort jetzt _? [ introducir/ingresar (datos) / to enter (data) ]"
   },
   {
     "answer": "abgeben - Er gibt seine Hausaufgaben morgen ab.",
-    "question": " Er -- seine Hausaufgaben morgen ---. [ entregar / to hand in/submit ]"
+    "question": " Er _ seine Hausaufgaben morgen _-. [ entregar / to hand in/submit ]"
   },
   {
     "answer": "absagen - Sie sagt das Treffen in letzter Minute ab.",
-    "question": " Sie -- das Treffen in letzter Minute ---. [ cancelar / to cancel ]"
+    "question": " Sie _ das Treffen in letzter Minute _-. [ cancelar / to cancel ]"
   },
   {
     "answer": "vorbereiten - Wir bereiten das große Fest vor.",
-    "question": " Wir -- das große Fest ---. [ preparar (general) / to prepare (general) ]"
+    "question": " Wir _ das große Fest _-. [ preparar (general) / to prepare (general) ]"
   },
   {
     "answer": "zubereiten - Ich bereite das Abendessen für die Familie zu.",
-    "question": " Ich -- das Abendessen für die Familie ---. [ preparar (comida) / to prepare (food) ]"
+    "question": " Ich _ das Abendessen für die Familie _-. [ preparar (comida) / to prepare (food) ]"
   },
   {
     "answer": "aufnehmen - Wir nehmen das Gespräch auf.",
-    "question": " Wir -- das Gespräch ---. [ grabar/registrar / to record/to take in ]"
+    "question": " Wir _ das Gespräch _-. [ grabar/registrar / to record/to take in ]"
   },
   {
     "answer": "nachdenken - Ich muss über deinen Vorschlag nachdenken.",
-    "question": " Ich muss über deinen Vorschlag ---. [ reflexionar/pensar en / to think about ]"
+    "question": " Ich muss über deinen Vorschlag _-. [ reflexionar/pensar en / to think about ]"
   },
   {
     "answer": "anbieten - Ich biete dir meine Hilfe an.",
-    "question": " Ich -- dir meine Hilfe ---. [ ofrecer / to offer ]"
+    "question": " Ich _ dir meine Hilfe _-. [ ofrecer / to offer ]"
   },
   {
     "answer": "aussehen - Wie sieht er heute aus?",
-    "question": " Wie -- er heute ---? [ parecer/tener aspecto de / to look/to appear ]"
+    "question": " Wie _ er heute _-? [ parecer/tener aspecto de / to look/to appear ]"
   }
 ],
 "Modalverben / SP-EN / Präsens" :[
