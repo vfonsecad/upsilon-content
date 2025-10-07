@@ -22,7 +22,7 @@
   },
   {
     "answer": "sich nennen",
-    "question": "Er darf sich jetzt Experte ____. [EN: to call oneself | ES: llamarse | FA: نامیدن خود | ZH: 自称]"
+    "question": "Er darf ____ jetzt Experte ____. [EN: to call oneself | ES: llamarse | FA: نامیدن خود | ZH: 自称]"
   },
     {
     "answer": "der Friseur (Singular), die Friseure (Plural)",
@@ -47,7 +47,38 @@
   {
     "answer": "geformt",
     "question": "Die Figuren sind aus Ton ____ worden. [EN: shaped | ES: moldeado | FA: شکل داده شده | ZH: 被塑造的]"
+  },
+  [
+  {
+    "answer": "an etwas feilen, hat an etwas gefeilt",
+    "question": "Er ____ lange ____ seinem Projekt. [EN: to work on sth./polish | ES: perfeccionar algo | FA: روی چیزی کار کردن/صیقل دادن | ZH: 打磨/改进某事]"
+  },
+  {
+    "answer": "getränkt",
+    "question": "Das Tuch ist mit Wasser ____. [EN: soaked | ES: empapado | FA: خیس | ZH: 浸湿的]"
+  },
+  {
+    "answer": "die Zange (Singular), die Zangen (Plural)",
+    "question": "Der Mechaniker benutzt eine ____. [EN: pliers | ES: tenaza | FA: انبردست | ZH: 钳子]"
+  },
+  {
+    "answer": "ermittels",
+    "question": "Er löst das Problem ____ einer Methode. [EN: by means of | ES: mediante | FA: به‌وسیله‌ی | ZH: 通过]"
+  },
+   {
+    "answer": "stülpen, hat gestülpt",
+    "question": "Er ____ den Hut über den Kopf ____. [EN: to pull/turn inside out/over | ES: volcar/poner encima | FA: واژگون کردن/روی چیزی کشیدن | ZH: 套上/翻转]"
+  },
+    {
+    "answer": "erhitzen, hat erhitzt",
+    "question": "Sie ____ die Suppe auf dem Herd ____. [EN: to heat | ES: calentar | FA: گرم کردن | ZH: 加热]"
+  },
+    {
+    "answer": "die Haarsträhne (Singular), die Haarsträhnen (Plural)",
+    "question": "Sie färbt sich ein paar ____. [EN: hair strand | ES: mechón de pelo | FA: رشته مو | ZH: 发丝]"
   }
+]
+
   
 
 

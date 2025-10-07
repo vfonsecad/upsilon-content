@@ -1,0 +1,300 @@
+{ "Trennbare Verben / SP-EN / Präsens": [
+  {
+    "answer": "anrufen - Ich rufe meinen Bruder morgen an.",
+    "question": " Ich -- meinen Bruder morgen ---. [ llamar / to call ]"
+  },
+  {
+    "answer": "mitkommen - Kommst du heute Abend ins Kino mit?",
+    "question": " -- du heute Abend ins Kino ---? [ acompañar/venir con / to come along ]"
+  },
+  {
+    "answer": "aufstehen - Sie steht jeden Tag um sieben Uhr auf.",
+    "question": " Sie -- jeden Tag um sieben Uhr ---. [ levantarse / to get up ]"
+  },
+  {
+    "answer": "aufwachen - Ich wache früh am Morgen auf.",
+    "question": " Ich -- früh am Morgen ---. [ despertarse / to wake up ]"
+  },
+  {
+    "answer": "eintragen - Bitte tragen Sie Ihren Namen in die Liste ein.",
+    "question": " Bitte -- Sie Ihren Namen in die Liste ---. [ registrar/inscribir / to register ]"
+  },
+  {
+    "answer": "einkaufen - Wir kaufen am Samstag Lebensmittel ein.",
+    "question": " Wir -- am Samstag Lebensmittel ---. [ hacer la compra / to shop ]"
+  },
+  {
+    "answer": "mitbringen - Kannst du mir ein Glas Wasser mitbringen?",
+    "question": " Kannst du mir ein Glas Wasser --? [ traer consigo / to bring along ]"
+  },
+  {
+    "answer": "mitnehmen - Er nimmt seinen Hund in den Park mit.",
+    "question": " Er -- seinen Hund in den Park ---. [ llevar consigo / to take along ]"
+  },
+  {
+    "answer": "zumachen - Er macht die Tür leise zu.",
+    "question": " Er -- die Tür leise ---. [ cerrar / to close ]"
+  },
+  {
+    "answer": "anmachen - Mach bitte das Licht an.",
+    "question": " -- bitte das Licht ---. [ encender / to turn on ]"
+  },
+  {
+    "answer": "anschalten - Ich schalte den Fernseher an, um Nachrichten zu sehen.",
+    "question": " Ich -- den Fernseher --, um Nachrichten zu sehen. [ encender/conectar / to switch on ]"
+  },
+  {
+    "answer": "ankommen - Der Zug kommt pünktlich in Berlin an.",
+    "question": " Der Zug -- pünktlich in Berlin ---. [ llegar / to arrive ]"
+  },
+  {
+    "answer": "umziehen - Sie zieht nächste Woche nach München um.",
+    "question": " Sie -- nächste Woche nach München ---. [ mudarse / to move house ]"
+  },
+  {
+    "answer": "zustellen - Der Postbote stellt das Paket heute zu.",
+    "question": " Der Postbote -- das Paket heute ---. [ entregar/repartir / to deliver ]"
+  },
+  {
+    "answer": "darstellen - Das Gemälde stellt eine Szene aus der Geschichte dar.",
+    "question": " Das Gemälde -- eine Szene aus der Geschichte ---. [ representar / to represent/depict ]"
+  },
+  {
+    "answer": "hinzufügen - Bitte fügen Sie Salz zu der Suppe hinzu.",
+    "question": " Bitte -- Sie Salz zu der Suppe ---. [ añadir/agregar / to add ]"
+  },
+  {
+    "answer": "anfangen - Wann fängst du mit der Arbeit an?",
+    "question": " Wann -- du mit der Arbeit ---? [ empezar/comenzar / to begin/start ]"
+  },
+  {
+    "answer": "herausfinden - Wir müssen die Wahrheit herausfinden.",
+    "question": " Wir müssen die Wahrheit ---. [ descubrir/averiguar / to find out ]"
+  },
+  {
+    "answer": "kennenlernen - Ich möchte ihre Eltern kennenlernen.",
+    "question": " Ich möchte ihre Eltern ---. [ conocer (a alguien) / to get to know/meet ]"
+  },
+  {
+    "answer": "einsteigen - Bitte steig schnell in den Bus ein!",
+    "question": " Bitte -- schnell in den Bus --! [ subir (a un vehículo) / to get in/on ]"
+  },
+  {
+    "answer": "aussteigen - Wir steigen an der nächsten Haltestelle aus.",
+    "question": " Wir -- an der nächsten Haltestelle ---. [ bajar (de un vehículo) / to get out/off ]"
+  },
+  {
+    "answer": "umsteigen - In Frankfurt muss man umsteigen.",
+    "question": " In Frankfurt muss man ---. [ hacer transbordo / to change (transit) ]"
+  },
+  {
+    "answer": "eingeben - Kannst du dein Passwort jetzt eingeben?",
+    "question": " Kannst du dein Passwort jetzt --? [ introducir/ingresar (datos) / to enter (data) ]"
+  },
+  {
+    "answer": "abgeben - Er gibt seine Hausaufgaben morgen ab.",
+    "question": " Er -- seine Hausaufgaben morgen ---. [ entregar / to hand in/submit ]"
+  },
+  {
+    "answer": "absagen - Sie sagt das Treffen in letzter Minute ab.",
+    "question": " Sie -- das Treffen in letzter Minute ---. [ cancelar / to cancel ]"
+  },
+  {
+    "answer": "vorbereiten - Wir bereiten das große Fest vor.",
+    "question": " Wir -- das große Fest ---. [ preparar (general) / to prepare (general) ]"
+  },
+  {
+    "answer": "zubereiten - Ich bereite das Abendessen für die Familie zu.",
+    "question": " Ich -- das Abendessen für die Familie ---. [ preparar (comida) / to prepare (food) ]"
+  },
+  {
+    "answer": "aufnehmen - Wir nehmen das Gespräch auf.",
+    "question": " Wir -- das Gespräch ---. [ grabar/registrar / to record/to take in ]"
+  },
+  {
+    "answer": "nachdenken - Ich muss über deinen Vorschlag nachdenken.",
+    "question": " Ich muss über deinen Vorschlag ---. [ reflexionar/pensar en / to think about ]"
+  },
+  {
+    "answer": "anbieten - Ich biete dir meine Hilfe an.",
+    "question": " Ich -- dir meine Hilfe ---. [ ofrecer / to offer ]"
+  },
+  {
+    "answer": "aussehen - Wie sieht er heute aus?",
+    "question": " Wie -- er heute ---? [ parecer/tener aspecto de / to look/to appear ]"
+  }
+],
+"Modalverben / SP-EN / Präsens" :[
+  {
+    "answer": "Ich möchte - Ich möchte ein Eis essen.",
+    "question": "Ich ________ ein Eis essen. [querer (cortés), would like to]"
+  },
+  {
+    "answer": "Du möchtest - Du möchtest heute Abend ins Kino gehen.",
+    "question": "Du ________ heute Abend ins Kino gehen. [querer (cortés), would like to]"
+  },
+  {
+    "answer": "Er/sie/es möchte - Er möchte jetzt schlafen.",
+    "question": "Er ________ jetzt schlafen. [querer (cortés), would like to]"
+  },
+  {
+    "answer": "Wir möchten - Wir möchten euch besuchen.",
+    "question": "Wir ________ euch besuchen. [querer (cortés), would like to]"
+  },
+  {
+    "answer": "Ihr möchtet - Ihr möchtet ein neues Auto kaufen.",
+    "question": "Ihr ________ ein neues Auto kaufen. [querer (cortés), would like to]"
+  },
+  {
+    "answer": "Sie/Sie möchten - Sie möchten den Chef sprechen.",
+    "question": "Sie ________ den Chef sprechen. [querer (cortés), would like to]"
+  },
+  {
+    "answer": "Ich mag - Ich mag deine neue Frisur.",
+    "question": "Ich ____ deine neue Frisur. [gustar, to like]"
+  },
+  {
+    "answer": "Du magst - Du magst keinen Kaffee.",
+    "question": "Du ____ keinen Kaffee. [gustar, to like]"
+  },
+  {
+    "answer": "Er/sie/es mag - Es mag Katzen.",
+    "question": "Es ____ Katzen. [gustar, to like]"
+  },
+  {
+    "answer": "Wir mögen - Wir mögen am Wochenende ausschlafen.",
+    "question": "Wir ______ am Wochenende ausschlafen. [gustar, to like]"
+  },
+  {
+    "answer": "Ihr mögt - Ihr mögt Pizza sehr gern.",
+    "question": "Ihr ____ Pizza sehr gern. [gustar, to like]"
+  },
+  {
+    "answer": "Sie/Sie mögen - Sie mögen klassische Musik.",
+    "question": "Sie ______ klassische Musik. [gustar, to like]"
+  },
+  {
+    "answer": "Ich will - Ich will das jetzt wissen!",
+    "question": "Ich ____ das jetzt wissen! [querer, to want to]"
+  },
+  {
+    "answer": "Du willst - Willst du heute trainieren?",
+    "question": "______ du heute trainieren? [querer, to want to]"
+  },
+  {
+    "answer": "Er/sie/es will - Er will Arzt werden.",
+    "question": "Er ____ Arzt werden. [querer, to want to]"
+  },
+  {
+    "answer": "Wir wollen - Wir wollen in den Urlaub fahren.",
+    "question": "Wir ______ in den Urlaub fahren. [querer, to want to]"
+  },
+  {
+    "answer": "Ihr wollt - Ihr wollt morgen früh aufstehen.",
+    "question": "Ihr ____ morgen früh aufstehen. [querer, to want to]"
+  },
+  {
+    "answer": "Sie/Sie wollen - Sie wollen mehr Geld verdienen.",
+    "question": "Sie ______ mehr Geld verdienen. [querer, to want to]"
+  },
+  {
+    "answer": "Ich soll - Ich soll meine Hausaufgaben machen.",
+    "question": "Ich ____ meine Hausaufgaben machen. [deber (suave/consejo), should, to be supposed to]"
+  },
+  {
+    "answer": "Du sollst - Sollst du das wirklich tun?",
+    "question": "______ du das wirklich tun? [deber (suave/consejo), should, to be supposed to]"
+  },
+  {
+    "answer": "Er/sie/es soll - Sie soll ihn anrufen.",
+    "question": "Sie ____ ihn anrufen. [deber (suave/consejo), should, to be supposed to]"
+  },
+  {
+    "answer": "Wir sollen - Wir sollen pünktlich sein.",
+    "question": "Wir ______ pünktlich sein. [deber (suave/consejo), should, to be supposed to]"
+  },
+  {
+    "answer": "Ihr sollt - Ihr sollt leiser sprechen.",
+    "question": "Ihr ____ leiser sprechen. [deber (suave/consejo), should, to be supposed to]"
+  },
+  {
+    "answer": "Sie/Sie sollen - Sie sollen das Formular unterschreiben.",
+    "question": "Sie ______ das Formular unterschreiben. [deber (suave/consejo), should, to be supposed to]"
+  },
+  {
+    "answer": "Ich darf - Ich darf hier parken.",
+    "question": "Ich ____ hier parken. [poder (permiso), may, to be allowed to]"
+  },
+  {
+    "answer": "Du darfst - Darfst du das Smartphone benutzen?",
+    "question": "______ du das Smartphone benutzen? [poder (permiso), may, to be allowed to]"
+  },
+  {
+    "answer": "Er/sie/es darf - Es darf nicht ins Haus.",
+    "question": "Es ____ nicht ins Haus. [poder (permiso), may, to be allowed to]"
+  },
+  {
+    "answer": "Wir dürfen - Wir dürfen heute länger aufbleiben.",
+    "question": "Wir ______ heute länger aufbleiben. [poder (permiso), may, to be allowed to]"
+  },
+  {
+    "answer": "Ihr dürft - Dürft ihr schon Auto fahren?",
+    "question": "____ ihr schon Auto fahren? [poder (permiso), may, to be allowed to]"
+  },
+  {
+    "answer": "Sie/Sie dürfen - Sie dürfen die Prüfung wiederholen.",
+    "question": "Sie ______ die Prüfung wiederholen. [poder (permiso), may, to be allowed to]"
+  },
+  {
+    "answer": "Ich kann - Ich kann sehr gut kochen.",
+    "question": "Ich ____ sehr gut kochen. [poder (habilidad/posibilidad), can, to be able to]"
+  },
+  {
+    "answer": "Du kannst - Kannst du mir helfen?",
+    "question": "______ du mir helfen? [poder (habilidad/posibilidad), can, to be able to]"
+  },
+  {
+    "answer": "Er/sie/es kann - Er kann morgen kommen.",
+    "question": "Er ____ morgen kommen. [poder (habilidad/posibilidad), can, to be able to]"
+  },
+  {
+    "answer": "Wir können - Wir können das schaffen!",
+    "question": "Wir ______ das schaffen! [poder (habilidad/posibilidad), can, to be able to]"
+  },
+  {
+    "answer": "Ihr könnt - Könnt ihr bitte warten?",
+    "question": "____ ihr bitte warten? [poder (habilidad/posibilidad), can, to be able to]"
+  },
+  {
+    "answer": "Sie/Sie können - Sie können fließend Spanisch sprechen.",
+    "question": "Sie ______ fließend Spanisch sprechen. [poder (habilidad/posibilidad), can, to be able to]"
+  },
+  {
+    "answer": "Ich muss - Ich muss zur Arbeit gehen.",
+    "question": "Ich ____ zur Arbeit gehen. [deber (fuerte/necesidad), must, to have to]"
+  },
+  {
+    "answer": "Du musst - Musst du das wirklich machen?",
+    "question": "______ du das wirklich machen? [deber (fuerte/necesidad), must, to have to]"
+  },
+  {
+    "answer": "Er/sie/es muss - Sie muss ihre Medizin nehmen.",
+    "question": "Sie ____ ihre Medizin nehmen. [deber (fuerte/necesidad), must, to have to]"
+  },
+  {
+    "answer": "Wir müssen - Wir müssen den Zug erreichen.",
+    "question": "Wir ______ den Zug erreichen. [deber (fuerte/necesidad), must, to have to]"
+  },
+  {
+    "answer": "Ihr müsst - Ihr müsst heute Abend nicht kochen.",
+    "question": "Ihr ______ heute Abend nicht kochen. [deber (fuerte/necesidad), must, to have to]"
+  },
+  {
+    "answer": "Sie/Sie müssen - Sie müssen eine Entscheidung treffen.",
+    "question": "Sie ______ eine Entscheidung treffen. [deber (fuerte/necesidad), must, to have to]"
+  }
+]
+
+
+}
+
