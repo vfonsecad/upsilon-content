@@ -1,0 +1,46 @@
+[
+  {
+    "answer": "Ich bin gefallen. Mein Knöchel tut weh. Der Knöchel ist geschwollen. Ich kann auf den Knöchel nicht stehen. Ich muss den Knöchel kühlen. Der Arzt schaut sich den Knöchel an. Der Knöchel braucht eine Pause.",
+    "question": "Ich bin gefallen. Mein __ tut weh. Der __ ist geschwollen. Ich kann auf den __ nicht stehen. Ich muss den __ kühlen. Der Arzt schaut sich den __ an. Der __ braucht eine Pause."
+  },
+  {
+    "answer": "Mein Herz schlägt schnell. Das Herz ist ein wichtiges Organ. Das Herz pumpt das Blut. Ich spüre mein Herz im Brustkorb. Sport ist gut für das Herz. Das Herz arbeitet Tag und Nacht.",
+    "question": "Mein __ schlägt schnell. Das __ ist ein wichtiges Organ. Das __ pumpt das Blut. Ich spüre mein __ im Brustkorb. Sport ist gut für das __. Das __ arbeitet Tag und Nacht."
+  },
+  {
+    "answer": "Das Gehirn denkt. Das Gehirn steuert den Körper. Das Gehirn ist im Kopf. Ich lerne neue Wörter mit dem Gehirn. Das Gehirn braucht viel Schlaf. Das ist mein Gehirn.",
+    "question": "Das __ denkt. Das __ steuert den Körper. Das __ ist im Kopf. Ich lerne neue Wörter mit dem __. Das __ braucht viel Schlaf. Das ist mein __."
+  },
+  {
+    "answer": "Ich trainiere meine Muskeln im Fitnessstudio. Starke Muskeln sind wichtig. Meine Beine haben viele Muskeln. Ich spüre meine Muskeln nach dem Sport. Die Muskeln wachsen langsam. Ich esse Proteine für meine Muskeln.",
+    "question": "Ich trainiere meine __ im Fitnessstudio. Starke __ sind wichtig. Meine Beine haben viele __. Ich spüre meine __ nach dem Sport. Die __ wachsen langsam. Ich esse Proteine für meine __."
+  },
+  {
+    "answer": "Ich habe einen langen Tag gestanden. Mein Bein ist müde. Ich setze mein Bein jetzt hin. Das rechte Bein ist stärker. Das Bein tut weh. Ich muss das Bein hochlegen. Ich bewege mein Bein beim Gehen.",
+    "question": "Ich habe einen langen Tag gestanden. Mein __ ist müde. Ich setze mein __ jetzt hin. Das rechte __ ist stärker. Das __ tut weh. Ich muss das __ hochlegen. Ich bewege mein __ beim Gehen."
+  },
+  {
+    "answer": "Ich atme tief ein. Meine Brust hebt sich. Der Arzt hört meine Brust ab. Mein Herz ist in der Brust. Die Brust schmerzt ein bisschen. Ich halte meine Hände vor die Brust. Ich trainiere die Brustmuskulatur.",
+    "question": "Ich atme tief ein. Meine __ hebt sich. Der Arzt hört meine __ ab. Mein Herz ist in der __. Die __ schmerzt ein bisschen. Ich halte meine Hände vor die __. Ich trainiere die __muskulatur."
+  },
+  {
+    "answer": "Ich halte die Hand unter mein Kinn. Das Kinn ist unter dem Mund. Ich sehe mein Kinn im Spiegel. Das Kinn ist spitz. Ich berühre mein Kinn nachdenklich. Ich wasche mein Kinn am Morgen.",
+    "question": "Ich halte die Hand unter mein __. Das __ ist unter dem Mund. Ich sehe mein __ im Spiegel. Das __ ist spitz. Ich berühre mein __ nachdenklich. Ich wasche mein __ am Morgen."
+  },
+  {
+    "answer": "Mein Kopf ist groß. Ich trage einen Hut auf dem Kopf. Der Kopf ist oben. Ich drehe meinen Kopf nach links. Ich habe Kopfschmerzen. Der Kopf denkt viel. Ich wasche meinen Kopf.",
+    "question": "Mein __ ist groß. Ich trage einen Hut auf dem __. Der __ ist oben. Ich drehe meinen __ nach links. Ich habe __schmerzen. Der __ denkt viel. Ich wasche meinen __."
+  },
+  {
+    "answer": "Ich sitze lange am Schreibtisch. Mein Nacken ist steif. Ich bewege meinen Nacken langsam. Ich massiere meinen Nacken. Der Nacken hält den Kopf. Ich strecke den Nacken. Der Nacken tut weh.",
+    "question": "Ich sitze lange am Schreibtisch. Mein __ ist steif. Ich bewege meinen __ langsam. Ich massiere meinen __. Der __ hält den Kopf. Ich strecke den __. Der __ tut weh."
+  },
+  {
+    "answer": "Ich atme durch meine Nase. Die Nase riecht Blumen. Die Nase ist rot im Winter. Meine Nase ist klein. Ich putze meine Nase mit einem Tuch. Die Nase sitzt in der Mitte vom Gesicht.",
+    "question": "Ich atme durch meine __. Die __ riecht Blumen. Die __ ist rot im Winter. Meine __ ist klein. Ich putze meine __ mit einem Tuch. Die __ sitzt in der Mitte vom Gesicht."
+  },
+  {
+    "answer": "Ich schlucke Wasser. Das Wasser geht durch den Hals. Mein Hals kratzt. Ich trage einen Schal um den Hals. Ich habe Halsschmerzen. Ich muss den Hals warm halten. Der Hals verbindet Kopf und Brust.",
+    "question": "Ich schlucke Wasser. Das Wasser geht durch den __. Mein __ kratzt. Ich trage einen Schal um den __. Ich habe __schmerzen. Ich muss den __ warm halten. Der __ verbindet Kopf und Brust."
+  }
+]
