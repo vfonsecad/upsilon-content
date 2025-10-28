@@ -1,0 +1,910 @@
+{ "der Körper":
+[
+  {
+    "answer": "Der Kopf ist rund. Ich habe Haare auf dem Kopf. Der Kopf sitzt auf dem Hals. Mit dem Kopf denke ich. Mir tut der Kopf weh.",
+    "question": "Der ___ ist rund. Ich habe Haare auf dem ___. Der ___ sitzt auf dem Hals. Mit dem ___ denke ich. Mir tut der ___ weh."
+  },
+  {
+    "answer": "Das Gesicht ist vorne am Kopf. Im Gesicht sind die Augen und die Nase. Ich wasche mein Gesicht jeden Morgen. Das Gesicht kann lachen. Das Gesicht kann weinen.",
+    "question": "Das ___ ist vorne am Kopf. Im ___ sind die Augen und die Nase. Ich wasche mein ___ jeden Morgen. Das ___ kann lachen. Das ___ kann weinen."
+  },
+  {
+    "answer": "Das Auge ist zum Sehen da. Ich habe zwei Augen. Meine Augen sind braun. Die Augen sind sehr wichtig. Ich schließe meine Augen jetzt.",
+    "question": "Das ___ ist zum Sehen da. Ich habe zwei ___. Meine ___ sind braun. Die ___ sind sehr wichtig. Ich schließe meine ___ jetzt."
+  },
+  {
+    "answer": "Die Nase ist zum Riechen da. Die Nase ist in der Mitte vom Gesicht. Ich putze mir die Nase. Durch die Nase atme ich.",
+    "question": "Die ___ ist zum Riechen da. Die ___ ist in der Mitte vom Gesicht. Ich putze mir die ___. Durch die ___ atme ich."
+  },
+  {
+    "answer": "Der Mund ist zum Sprechen da. Der Mund ist zum Essen da. Ich öffne den Mund. Im Mund sind die Zähne. Ich putze mir den Mund nach dem Essen.",
+    "question": "Der ___ ist zum Sprechen da. Der ___ ist zum Essen da. Ich öffne den ___. Im ___ sind die Zähne. Ich putze mir den ___ nach dem Essen."
+  },
+  {
+    "answer": "Das Ohr ist zum Hören da. Ich habe zwei Ohren. Ich trage einen Ohrring am Ohr. Die Ohren sind links am Kopf. Die Ohren sind rechts am Kopf.",
+    "question": "Das ___ ist zum Hören da. Ich habe zwei ___. Ich trage einen Ohrring am ___. Die ___ sind links am Kopf. Die ___ sind rechts am Kopf."
+  },
+  {
+    "answer": "Der Hals verbindet den Kopf und den Körper. Der Hals kann sich bewegen. Ich trage einen Schal um den Hals. Mir tut der Hals weh.",
+    "question": "Der ___ verbindet den Kopf und den Körper. Der ___ kann sich bewegen. Ich trage einen Schal um den ___. Mir tut der ___ weh."
+  },
+  {
+    "answer": "Die Schulter ist ein Gelenk. Die Schultern tragen die Arme. Ich habe breite Schultern. Ich trage eine Tasche über der Schulter.",
+    "question": "Die ___ ist ein Gelenk. Die ___ tragen die Arme. Ich habe breite ___. Ich trage eine Tasche über der ___."
+  },
+  {
+    "answer": "Ich habe zwei Arme. Der Arm hat die Hand. Ich bewege meinen Arm. Mit dem Arm kann ich heben.",
+    "question": "Ich habe zwei ___. Der ___ hat die Hand. Ich bewege meinen ___. Mit dem ___ kann ich heben."
+  },
+  {
+    "answer": "Die Hand hat fünf Finger. Ich wasche meine Hände oft. Mit der Hand schreibe ich. Ich gebe dir meine Hand.",
+    "question": "Die ___ hat fünf Finger. Ich wasche meine ___ oft. Mit der ___ schreibe ich. Ich gebe dir meine ___."
+  },
+  {
+    "answer": "Die Hand hat Finger. Die Finger sind klein. Ich zeige mit dem Finger. Ich schneide meine Fingernägel.",
+    "question": "Die Hand hat ___. Die ___ sind klein. Ich zeige mit dem ___. Ich schneide meine Fingernägel."
+  },
+  {
+    "answer": "Der Bauch ist die Körpermitte. Im Bauch ist der Magen. Mein Bauch knurrt oft. Nach dem Essen ist mein Bauch voll.",
+    "question": "Der ___ ist die Körpermitte. Im ___ ist der Magen. Mein ___ knurrt oft. Nach dem Essen ist mein ___ voll."
+  },
+  {
+    "answer": "Der Rücken ist die hintere Seite des Körpers. Ich trage einen Rucksack auf dem Rücken. Mein Rücken tut oft weh. Der Rücken ist lang und stark.",
+    "question": "Der ___ ist die hintere Seite des Körpers. Ich trage einen Rucksack auf dem ___. Mein ___ tut oft weh. Der ___ ist lang und stark."
+  },
+  {
+    "answer": "Ich habe zwei Beine. Die Beine tragen den Körper. Ich laufe mit den Beinen. Meine Beine sind lang.",
+    "question": "Ich habe zwei ___. Die ___ tragen den Körper. Ich laufe mit den ___. Meine ___ sind lang."
+  },
+  {
+    "answer": "Der Fuß ist am Ende vom Bein. Ich trage Schuhe am Fuß. Mit den Füßen stehe ich. Ich habe zehn Zehen am Fuß.",
+    "question": "Der ___ ist am Ende vom Bein. Ich trage Schuhe am ___. Mit den ___ stehe ich. Ich habe zehn Zehen am ___."
+  },
+  {
+    "answer": "Das Knie ist ein Gelenk im Bein. Ich kann mein Knie beugen. Manchmal tut mein Knie weh. Ich falle auf die Knie.",
+    "question": "Das ___ ist ein Gelenk im Bein. Ich kann mein ___ beugen. Manchmal tut mein ___ weh. Ich falle auf die ___."
+  },
+  {
+    "answer": "Mein Herz schlägt schnell. Das Herz ist ein wichtiges Organ. Das Herz pumpt das Blut. Ich spüre mein Herz im Brustkorb. Sport ist gut für das Herz.",
+    "question": "Mein ___ schlägt schnell. Das ___ ist ein wichtiges Organ. Das ___ pumpt das Blut. Ich spüre mein ___ im Brustkorb. Sport ist gut für das ___."
+  },
+  {
+    "answer": "Das Blut ist rot. Das Blut fließt durch den Körper. Das Herz pumpt das Blut. Ich sehe das Blut jetzt.",
+    "question": "Das ___ ist rot. Das ___ fließt durch den Körper. Das Herz pumpt das ___. Ich sehe das ___ jetzt."
+  },
+  {
+    "answer": "Die Haut ist groß. Die Haut bedeckt den ganzen Körper. Die Haut schützt uns. Meine Haut ist trocken.",
+    "question": "Die ___ ist groß. Die ___ bedeckt den ganzen Körper. Die ___ schützt uns. Meine ___ ist trocken."
+  },
+  {
+    "answer": "Die Knochen sind hart. Die Knochen stützen den Körper. Ein Skelett besteht aus Knochen. Ich habe viele Knochen im Körper.",
+    "question": "Die ___ sind hart. Die ___ stützen den Körper. Ein Skelett besteht aus ___. Ich habe viele ___ im Körper."
+  }
+],
+
+"die Arbeit":
+
+[
+  {
+    "answer": "Ich gehe jeden Tag zur Arbeit. Die Arbeit ist im Büro. Ich mag meine Arbeit. Die Arbeit ist manchmal schwer. Ich lerne viel bei der Arbeit.",
+    "question": "Ich gehe jeden Tag zur ____. Die ____ ist im Büro. Ich mag meine ____. Die ____ ist manchmal schwer. Ich lerne viel bei der ____."
+  },
+  {
+    "answer": "Ich habe einen Chef. Der Chef ist freundlich. Der Chef gibt mir Aufgaben. Der Chef spricht mit den Mitarbeitern. Ich höre auf den Chef.",
+    "question": "Ich habe einen ____. Der ____ ist freundlich. Der ____ gibt mir Aufgaben. Der ____ spricht mit den Mitarbeitern. Ich höre auf den ____."
+  },
+  {
+    "answer": "Ich bin Mitarbeiter. Der Mitarbeiter arbeitet im Team. Ein Mitarbeiter hilft dem anderen. Der Mitarbeiter hat viele Aufgaben. Der Mitarbeiter lernt jeden Tag.",
+    "question": "Ich bin ____. Der ____ arbeitet im Team. Ein ____ hilft dem anderen. Der ____ hat viele Aufgaben. Der ____ lernt jeden Tag."
+  },
+  {
+    "answer": "Ich arbeite im Büro. Das Büro ist groß. Im Büro steht ein Tisch. Ich schreibe im Büro E-Mails. Ich Handyiere im Büro.",
+    "question": "Ich arbeite im ____. Das ____ ist groß. Im ____ steht ein Tisch. Ich schreibe im ____ E-Mails. Ich Handyiere im ____."
+  },
+  {
+    "answer": "Ich bekomme Geld für meine Arbeit. Das Geld ist mein Lohn. Ich bekomme den Lohn jeden Monat. Der Lohn ist auf meinem Konto. Ich spare meinen Lohn.",
+    "question": "Ich bekomme Geld für meine Arbeit. Das Geld ist mein ___. Ich bekomme den ____ jeden Monat. Der ____ ist auf meinem Konto. Ich spare meinen ____."
+  },
+  {
+    "answer": "Ich mache eine Pause. Die Pause ist kurz. In der Pause esse ich. Ich trinke Kaffee in der Pause. Ich spreche mit Kollegen in der Pause.",
+    "question": "Ich mache eine ____. Die ____ ist kurz. In der ____ esse ich. Ich trinke Kaffee in der ____. Ich spreche mit Kollegen in der ____."
+  },
+  {
+    "answer": "Ich schreibe eine E-Mail. Die E-Mail geht an den Chef. Ich lese die E-Mail vom Kunden. Ich bekomme viele E-Mails. Ich lösche alte E-Mails.",
+    "question": "Ich schreibe eine ____. Die ____ geht an den Chef. Ich lese die ____ vom Kunden. Ich bekomme viele ____. Ich lösche alte ____."
+  },
+  {
+    "answer": "Ich habe einen Computer. Der Computer steht auf dem Tisch. Ich arbeite am Computer. Ich schreibe mit dem Computer. Ich lerne mit dem Computer.",
+    "question": "Ich habe einen ____. Der ____ steht auf dem Tisch. Ich arbeite am ____. Ich schreibe mit dem ____. Ich lerne mit dem ____."
+  },
+  {
+    "answer": "Ich habe einen Tisch. Der Tisch ist im Büro. Auf dem Tisch steht ein Computer. Ich schreibe am Tisch. Ich trinke am Tisch Wasser.",
+    "question": "Ich habe einen ____. Der ____ ist im Büro. Auf dem ____ steht ein Computer. Ich schreibe am ____. Ich trinke am ____ Wasser."
+  },
+  {
+    "answer": "Ich habe viele Aufgaben. Eine Aufgabe ist leicht. Eine Aufgabe ist schwer. Ich mache die Aufgaben jeden Tag. Ich beende die Aufgaben pünktlich.",
+    "question": "Ich habe viele ____. Eine ____ ist leicht. Eine ____ ist schwer. Ich mache die ____ jeden Tag. Ich beende die ____ pünktlich."
+  },
+  {
+    "answer": "Ich habe einen Termin. Der Termin ist um neun Uhr. Ich schreibe den Termin in den Kalender. Ich gehe pünktlich zum Termin. Der Termin ist mit dem Chef.",
+    "question": "Ich habe einen ____. Der ____ ist um neun Uhr. Ich schreibe den ____ in den Kalender. Ich gehe pünktlich zum ____. Der ____ ist mit dem Chef."
+  },
+  {
+    "answer": "Ich habe Kollegen. Die Kollegen sind nett. Ich arbeite mit Kollegen. Ich spreche mit Kollegen. Ich esse mit Kollegen zu Mittag.",
+    "question": "Ich habe ____. Die ____ sind nett. Ich arbeite mit ____. Ich spreche mit ____. Ich esse mit ____ zu Mittag."
+  },
+  {
+    "answer": "Ich mache ein Meeting. Das Meeting ist um zehn Uhr. Alle Kollegen kommen zum Meeting. Wir sprechen im Meeting über die Arbeit. Das Meeting dauert eine Stunde.",
+    "question": "Ich mache ein ____. Das ____ ist um zehn Uhr. Alle Kollegen kommen zum ____. Wir sprechen im ____ über die Arbeit. Das ____ dauert eine Stunde."
+  },
+  {
+    "answer": "Ich habe einen Beruf. Der Beruf ist interessant. Ich lerne viel in meinem Beruf. Mein Beruf ist Lehrer. Ich liebe meinen Beruf.",
+    "question": "Ich habe einen ____. Der ____ ist interessant. Ich lerne viel in meinem ____. Mein ____ ist Lehrer. Ich liebe meinen ____."
+  },
+  {
+    "answer": "Ich schreibe mit einem Stift. Der Stift ist blau. Ich habe einen roten Stift. Der Stift liegt auf dem Tisch. Ich brauche den Stift für meine Arbeit.",
+    "question": "Ich schreibe mit einem ____. Der ____ ist blau. Ich habe einen roten ____. Der ____ liegt auf dem Tisch. Ich brauche den ____ für meine Arbeit."
+  },
+  {
+    "answer": "Ich habe ein Handy. Ich Handyiere mit dem Kunden. Ich rufe den Chef an. Das Handy klingelt oft. Ich spreche jeden Tag am Handy.",
+    "question": "Ich habe ein ____. Ich Handyiere mit dem Kunden. Ich rufe den Chef an. Das ____ klingelt oft. Ich spreche jeden Tag am ____."
+  },
+  {
+    "answer": "Ich habe ein Projekt. Das Projekt ist neu. Ich arbeite am Projekt mit Kollegen. Das Projekt dauert zwei Monate. Ich beende das Projekt im Dezember.",
+    "question": "Ich habe ein ____. Das ____ ist neu. Ich arbeite am ____ mit Kollegen. Das ____ dauert zwei Monate. Ich beende das ____ im Dezember."
+  },
+  {
+    "answer": "Ich habe einen Vertrag. Der Vertrag ist wichtig. Ich unterschreibe den Vertrag. Der Vertrag ist mit der Firma. Ich lese den Vertrag genau.",
+    "question": "Ich habe einen ____. Der ____ ist wichtig. Ich unterschreibe den ____. Der ____ ist mit der Firma. Ich lese den ____ genau."
+  },
+  {
+    "answer": "Ich gehe in die Firma. Die Firma ist groß. Ich arbeite in der Firma. Die Firma hat viele Mitarbeiter. Ich mag meine Firma.",
+    "question": "Ich gehe in die ____. Die ____ ist groß. Ich arbeite in der ____. Die ____ hat viele Mitarbeiter. Ich mag meine ____."
+  }
+  ],
+  
+  "die Familie":
+  
+[
+  {
+    "answer": "Meine Mutter ist eine Frau. Sie ist die Mutter von mir. Die Eltern von mir sind meine Mutter und mein Vater.",
+    "question": "Meine ____ ist eine Frau. Sie ist die Mutter von mir. Die Eltern von mir sind meine ____ und mein Vater."
+  },
+  {
+    "answer": "Mein Vater ist ein Mann. Er ist der Vater von mir. Die Eltern von mir sind mein Vater und meine Mutter.",
+    "question": "Mein ____ ist ein Mann. Er ist der Vater von mir. Die Eltern von mir sind mein ____ und meine Mutter."
+  },
+  {
+    "answer": "Meine Schwester ist eine Frau. Die Eltern von meiner Schwester sind auch meine Eltern. Meine Schwester ist meine Geschwister.",
+    "question": "Meine ____ ist eine Frau. Die Eltern von meiner ____ sind auch meine Eltern. Meine ____ ist meine Geschwister."
+  },
+  {
+    "answer": "Mein Bruder ist ein Mann. Die Eltern von meinem Bruder sind auch meine Eltern. Mein Bruder ist meine Geschwister.",
+    "question": "Mein ____ ist ein Mann. Die Eltern von meinem ____ sind auch meine Eltern. Mein ____ ist meine Geschwister."
+  },
+  {
+    "answer": "Meine Oma/Großmutter ist die Mutter von meiner Mutter oder meinem Vater.",
+    "question": "Meine ____ ist die Mutter von meiner Mutter oder meinem Vater."
+  },
+  {
+    "answer": "Mein Opa/Großvater ist der Vater von meiner Mutter oder meinem Vater.",
+    "question": "Mein ____ ist der Vater von meiner Mutter oder meinem Vater."
+  },
+  {
+    "answer": "Mein Onkel ist der Bruder von meiner Mutter oder meinem Vater.",
+    "question": "Mein ____ ist der Bruder von meiner Mutter oder meinem Vater. "
+  },
+  {
+    "answer": "Meine Tante ist die Schwester von meiner Mutter oder meinem Vater.",
+    "question": "Meine ____ ist die Schwester von meiner Mutter oder meinem Vater."
+  },
+  {
+    "answer": "Mein Cousin ist der Sohn von meinem Onkel oder meiner Tante.",
+    "question": "Mein ____ ist der Sohn von meinem Onkel oder meiner Tante."
+  },
+  {
+    "answer": "Meine Cousine ist die Tochter von meinem Onkel oder meiner Tante.",
+    "question": "Meine ____ ist die Tochter von meinem Onkel oder meiner Tante."
+  },
+    {
+    "answer": "Mein Neffe ist der Sohn von meiner Schwester oder meinem Bruder.",
+    "question": "Mein ____ ist der Sohn von meiner Schwester oder meinem Bruder."
+  },
+  {
+    "answer": "Meine Nichte ist die Tochter von meiner Schwester oder meinem Bruder. ",
+    "question": "Meine ____ ist die Tochter von meiner Schwester oder meinem Bruder. "
+  },
+  {
+    "answer": "Mein Enkel ist der Sohn von meinem Sohn oder meiner Tochter.",
+    "question": "Mein ____ ist der Sohn von meinem Sohn oder meiner Tochter."
+  },
+  {
+    "answer": "Meine Enkelin ist die Tochter von meinem Sohn oder meiner Tochter.",
+    "question": "Meine ____ ist die Tochter von meinem Sohn oder meiner Tochter."
+  },
+  {
+    "answer": "Mein Kind ist mein Sohn oder meine Tochter.",
+    "question": "Mein ____ ist mein Sohn oder meine Tochter."
+  },
+  {
+    "answer": "Mein Sohn ist ein Junge. Mein Sohn ist mein Kind.",
+    "question": "Mein ____ ist ein Junge. Mein ____ ist mein Kind."
+  },
+  {
+    "answer": "Meine Tochter ist ein Mädchen. Meine Tochter ist mein Kind.",
+    "question": "Meine ____ ist ein Mädchen. Meine ____ ist mein Kind."
+  }
+  ],
+  
+  "das Haus":
+  
+  [
+  {
+    "answer": "Ich gehe in das Haus. Das Haus ist groß. Das Haus hat viele Fenster. Ich wohne in einem Haus. Das Haus ist alt.",
+    "question": "Ich gehe in das _____. Das _____ ist groß. Das _____ hat viele Fenster. Ich wohne in einem _____. Das _____ ist alt."
+  },
+  {
+    "answer": "Die Tür ist rot. Ich öffne die Tür. Die Tür ist geschlossen. Die Tür geht nach draußen. Ich klopfe an die Tür.",
+    "question": "Die _____ ist rot. Ich öffne die _____. Die _____ ist geschlossen. Die _____ geht nach draußen. Ich klopfe an die _____."
+  },
+  {
+    "answer": "Das Fenster ist sauber. Ich sehe durch das Fenster. Das Fenster ist offen. Ich öffne das Fenster. Das Fenster ist groß.",
+    "question": "Das _____ ist sauber. Ich sehe durch das _____. Das _____ ist offen. Ich öffne das _____. Das _____ ist groß."
+  },
+  {
+    "answer": "Die Küche ist hell. Ich koche in der Küche. Die Küche hat einen Tisch. In der Küche gibt es einen Herd. Ich esse in der Küche.",
+    "question": "Die _____ ist hell. Ich koche in der _____. Die _____ hat einen Tisch. In der _____ gibt es einen Herd. Ich esse in der _____."
+  },
+  {
+    "answer": "Das Schlafzimmer ist ruhig. Ich schlafe im Schlafzimmer. Das Schlafzimmer hat ein Bett. Das Schlafzimmer ist groß. Ich lese im Schlafzimmer.",
+    "question": "Das _____ ist ruhig. Ich schlafe im _____. Das _____ hat ein Bett. Das _____ ist groß. Ich lese im _____."
+  },
+  {
+    "answer": "Das Badezimmer ist sauber. Ich dusche im Badezimmer. Das Badezimmer hat eine Badewanne. Ich putze mir die Zähne im Badezimmer. Das Badezimmer ist klein.",
+    "question": "Das _____ ist sauber. Ich dusche im _____. Das _____ hat eine Badewanne. Ich putze mir die Zähne im _____. Das _____ ist klein."
+  },
+  {
+    "answer": "Das Wohnzimmer ist groß. Ich sehe fern im Wohnzimmer. Das Wohnzimmer hat ein Sofa. Ich spiele im Wohnzimmer. Das Wohnzimmer hat einen Tisch.",
+    "question": "Das _____ ist groß. Ich sehe fern im _____. Das _____ hat ein Sofa. Ich spiele im _____. Das _____ hat einen Tisch."
+  },
+  {
+    "answer": "Der Garten ist grün. Ich gehe in den Garten. Im Garten sind Blumen. Im Garten ist ein Baum. Ich spiele im Garten.",
+    "question": "Der _____ ist grün. Ich gehe in den _____. Im _____ sind Blumen. Im _____ ist ein Baum. Ich spiele im _____."
+  },
+  {
+    "answer": "Die Treppe ist steil. Ich gehe die Treppe hoch. Die Treppe ist aus Holz. Ich rutsche nicht auf der Treppe. Die Treppe verbindet zwei Stockwerke.",
+    "question": "Die _____ ist steil. Ich gehe die _____ hoch. Die _____ ist aus Holz. Ich rutsche nicht auf der _____. Die _____ verbindet zwei Stockwerke."
+  },
+  {
+    "answer": "Das Dach ist rot. Das Dach schützt das Haus. Auf dem Dach ist ein Schornstein. Das Dach ist hoch. Ich sehe das Dach von draußen.",
+    "question": "Das _____ ist rot. Das _____ schützt das Haus. Auf dem _____ ist ein Schornstein. Das _____ ist hoch. Ich sehe das _____ von draußen."
+  },
+  {
+    "answer": "Der Keller ist dunkel. Ich gehe in den Keller. Im Keller sind Kisten. Der Keller ist unter dem Haus. Ich lagere Dinge im Keller.",
+    "question": "Der _____ ist dunkel. Ich gehe in den _____. Im _____ sind Kisten. Der _____ ist unter dem Haus. Ich lagere Dinge im _____."
+  },
+  {
+    "answer": "Die Wand ist weiß. Ich hänge ein Bild an die Wand. Die Wand ist glatt. Die Wand ist hoch. Ich male auf die Wand.",
+    "question": "Die _____ ist weiß. Ich hänge ein Bild an die _____. Die _____ ist glatt. Die _____ ist hoch. Ich male auf die _____."
+  },
+  {
+    "answer": "Der Boden ist sauber. Ich gehe auf dem Boden. Der Boden ist aus Holz. Ich lege den Teppich auf den Boden. Der Boden ist fest.",
+    "question": "Der _____ ist sauber. Ich gehe auf dem _____. Der _____ ist aus Holz. Ich lege den Teppich auf den _____. Der _____ ist fest."
+  },
+  {
+    "answer": "Die Lampe ist hell. Ich schalte die Lampe an. Die Lampe hängt an der Decke. Die Lampe gibt Licht. Ich lese unter der Lampe.",
+    "question": "Die _____ ist hell. Ich schalte die _____ an. Die _____ hängt an der Decke. Die _____ gibt Licht. Ich lese unter der _____."
+  },
+  {
+    "answer": "Der Tisch ist rund. Ich lege Teller auf den Tisch. Der Tisch steht im Wohnzimmer. Ich esse am Tisch. Der Tisch ist groß.",
+    "question": "Der _____ ist rund. Ich lege Teller auf den _____. Der _____ steht im Wohnzimmer. Ich esse am _____. Der _____ ist groß."
+  },
+  {
+    "answer": "Der Stuhl ist bequem. Ich sitze auf dem Stuhl. Der Stuhl ist aus Holz. Der Stuhl steht am Tisch. Ich lehne mich auf den Stuhl.",
+    "question": "Der _____ ist bequem. Ich sitze auf dem _____. Der _____ ist aus Holz. Der _____ steht am Tisch. Ich lehne mich auf den _____."
+  },
+  {
+    "answer": "Die Garage ist groß. Ich parke das Auto in der Garage. Die Garage hat ein Tor. Die Garage ist neben dem Haus. In der Garage ist mein Fahrrad.",
+    "question": "Die _____ ist groß. Ich parke das Auto in der _____. Die _____ hat ein Tor. Die _____ ist neben dem Haus. In der _____ ist mein Fahrrad."
+  },
+  {
+    "answer": "Die Heizung ist warm. Ich schalte die Heizung an. Die Heizung macht das Zimmer warm. Ich friere nicht mit der Heizung.",
+    "question": "Die _____ ist warm. Ich schalte die _____ an. Die _____ macht das Zimmer warm. Ich friere nicht mit der _____."
+  },
+  {
+    "answer": "Das Sofa ist weich. Ich sitze auf dem Sofa. Das Sofa steht im Wohnzimmer. Ich lege mich auf das Sofa. Das Sofa ist groß.",
+    "question": "Das _____ ist weich. Ich sitze auf dem _____. Das _____ steht im Wohnzimmer. Ich lege mich auf das _____. Das _____ ist groß."
+  }
+],
+
+"Gesundheit und Medizin":
+
+[
+    {
+        "answer": "Mein Herz schlägt schnell. Das Herz ist ein wichtiges Organ. Das Herz pumpt das Blut. Ich spüre mein Herz im Brustkorb. Sport ist gut für das Herz.",
+        "question": "Mein ___ schlägt schnell. Das ___ ist ein wichtiges Organ. Das ___ pumpt das Blut. Ich spüre mein ___ im Brustkorb. Sport ist gut für das ___."
+    },
+    {
+        "answer": "Der Arzt hilft den Patienten. Ich bin krank, deswegen gehe ich zum Arzt. Der Arzt untersucht mich. Ich spreche mit dem Arzt über meine Gesundheit. Der Arzt gibt mir Medizin.",
+        "question": "Der ___ hilft den Patienten. Ich bin krank, deswegen gehe ich zum ___. Der ___ untersucht mich. Ich spreche mit dem ___ über meine Gesundheit. Der ___ gibt mir Medizin."
+    },
+    {
+        "answer": "Die Krankenschwester arbeitet im Krankenhaus. Die Krankenschwester hilft den Patienten. Die Krankenschwester misst die Temperatur. Ich sehe die Krankenschwester oft. Die Krankenschwester gibt Medikamente.",
+        "question": "Die ___ arbeitet im Krankenhaus. Die ___ hilft den Patienten. Die ___ misst die Temperatur. Ich sehe die ___ oft. Die ___ gibt Medikamente."
+    },
+    {
+        "answer": "Ich habe Fieber. Fieber ist ein Zeichen von Krankheit. Ich messe meine Temperatur. Fieber macht mich müde. Der Arzt sagt, das Fieber ist hoch.",
+        "question": "Ich habe ___. ___ ist ein Zeichen von Krankheit. Ich messe meine ___. ___ macht mich müde. Der Arzt sagt, das ___ ist hoch."
+    },
+    {
+        "answer": "Ich habe Husten. Husten ist ein Symptom (durch den Mund). Der Husten ist stark. Ich trinke Tee gegen den Husten. Der Arzt sagt, der Husten wird besser.",
+        "question": "Ich habe ___. ___ ist ein Symptom (durch den Mund). Der ___ ist stark. Ich trinke Tee gegen den ___. Der Arzt sagt, der ___ wird besser."
+    },
+    {
+        "answer": "Der Schmerz ist stark. Ich habe Bauchschmerzen. Ich nehme Medizin gegen den Schmerz. Der Arzt untersucht den Schmerz. Der Schmerz geht langsam weg.",
+        "question": "Der ___ ist stark. Ich habe Bauch___. Ich nehme Medizin gegen den ___. Der Arzt untersucht den ___. Der ___ geht langsam weg."
+    },
+    {
+        "answer": "Die Medizin hilft mir. Ich nehme die Medizin täglich. Die Medizin macht mich gesund. Der Arzt verschreibt die Medizin. Die Medizin ist wichtig.",
+        "question": "Die ___ hilft mir. Ich nehme die ___ täglich. Die ___ macht mich gesund. Der Arzt verschreibt die ___. Die ___ ist wichtig."
+    },
+    {
+        "answer": "Ich habe einen Termin beim Zahnarzt. Der Zahnarzt untersucht meine Zähne. Ich putze meine Zähne jeden Tag. Der Zahnarzt sagt, die Zähne sind gesund. Ich gehe regelmäßig zum Zahnarzt.",
+        "question": "Ich habe einen Termin beim ___. Der ___ untersucht meine Zähne. Ich putze meine Zähne jeden Tag. Der ___ sagt, die Zähne sind gesund. Ich gehe regelmäßig zum ___."
+    },
+    {
+        "answer": "Ich bin krank. Krankheit macht mich müde. Ich bleibe im Bett. Der Arzt untersucht die Krankheit. Ich will keine Krankheit haben.",
+        "question": "Ich bin krank. ___ macht mich müde. Ich bleibe im Bett. Der Arzt untersucht die ___. Ich will keine ___ haben."
+    },
+    {
+        "answer": "Das Krankenhaus ist groß. Im Krankenhaus arbeiten viele Ärzte. Die Patienten sind im Krankenhaus. Ich gehe ins Krankenhaus. Das Krankenhaus hilft den Menschen. Manchmal müssen die Patienten mit dem Krankenwagen ins Krankenhaus fahren.",
+        "question": "Das ___ ist groß. Im ___ arbeiten viele Ärzte. Die Patienten sind im ___. Ich gehe ins ___. Das ___ hilft den Menschen. Manchmal müssen die Patienten mit dem Krankenwagen ins ___ fahren."
+    },
+    {
+        "answer": "Ich habe eine Erkältung. Die Erkältung ist unangenehm. Ich huste und niese wegen der Erkältung. Ich trinke Tee gegen die Erkältung. Die Erkältung geht nach ein paar Tagen weg.",
+        "question": "Ich habe eine ___. Die ___ ist unangenehm. Ich huste und niese wegen der ___. Ich trinke Tee gegen die ___. Die ___ geht nach ein paar Tagen weg."
+    },
+    {
+        "answer": "Ich mache Sport für die Gesundheit. Gesundheit ist sehr wichtig. Ich achte auf meine Gesundheit. Ich esse gesund für meine Gesundheit.",
+        "question": "Ich mache Sport für die ___. ___ ist sehr wichtig. Ich achte auf meine ___. Ich esse gesund für meine ___."
+    },
+    {
+        "answer": "Das Blut fließt im Körper. Das Herz pumpt das Blut. Blut ist rot. Man kann Blut spenden.",
+        "question": "Das ___ fließt im Körper. Das Herz pumpt das ___. ___ ist rot. Man kann ___ spenden."
+    },
+    {
+        "answer": "Ich habe Kopfschmerzen. Der Kopf tut weh. Ich lege mich hin wegen der Kopfschmerzen. Ich nehme Medizin gegen Kopfschmerzen. Der Schmerz geht weg.",
+        "question": "Ich habe ___. Der Kopf tut weh. Ich lege mich hin wegen der ___. Ich nehme Medizin gegen ___. Der Schmerz geht weg."
+    },
+    {
+        "answer": "Ich atme tief. Die Lunge hilft mir zu atmen. Die Lunge ist ein Organ. Ich spüre meine Lunge beim Sport. Die Lunge ist wichtig für die Gesundheit.",
+        "question": "Ich atme tief. Die ___ hilft mir zu atmen. Die ___ ist ein Organ. Ich spüre meine ___ beim Sport. Die ___ ist wichtig für die Gesundheit."
+    },
+    {
+        "answer": "Ich habe meinen Knöchel verstaucht. Ich habe eine Verletzung. Die Verletzung tut weh, aber es gibt kein Blut.",
+        "question": "Ich habe meinen Knöchel verstaucht. Ich habe eine ___. Die ___ tut weh, aber es gibt kein Blut. "
+    }
+],
+"Geographie / Politik":
+
+[
+  {
+    "answer": "Österreich hat viele Bergen. Ein Berg ist hoch. Der Berg ist steinig. Viele Menschen klettern auf den Berg. Im Winter liegt Schnee auf dem Berg. Der Berg ist schön.",
+    "question": "Österreich hat viele ___. Ein ____ ist hoch. Der ____ ist steinig. Viele Menschen klettern auf den ____. Im Winter liegt Schnee auf dem ____. Der ____ ist schön."
+  },
+  {
+    "answer": "Ein Fluss ist lang. Der Fluss fließt ins Meer. Viele Fische leben im Fluss. Kinder spielen am Fluss. Der Fluss ist wichtig.",
+    "question": "Ein ____ ist lang. Der ____ fließt ins Meer. Viele Fische leben im ____. Kinder spielen am ____. Der ____ ist wichtig."
+  },
+  {
+    "answer": "Ein See ist groß. Das Wasser im See ist klar. Viele Vögel leben am See. Man kann am See angeln. Der See ist ruhig.",
+    "question": "Ein ____ ist groß. Das Wasser im ____ ist klar. Viele Vögel leben am ____. Man kann am ____ angeln. Der ____ ist ruhig."
+  },
+  {
+    "answer": "Ein Ozean ist sehr groß. Das Wasser im Ozean ist salzig. Schiffe fahren auf dem Ozean. Viele Fische leben im Ozean. Der Ozean ist tief.",
+    "question": "Ein ____ ist sehr groß. Das Wasser im ____ ist salzig. Schiffe fahren auf dem ____. Viele Fische leben im ____. Der ____ ist tief."
+  },
+  {
+    "answer": "Eine Insel ist klein. Die Insel liegt im Meer. Auf der Insel wachsen Palmen. Die Insel ist schön. Touristen besuchen die Insel.",
+    "question": "Eine ____ ist klein. Die ____ liegt im Meer. Auf der ____ wachsen Palmen. Die ____ ist schön. Touristen besuchen die ____."
+  },
+  {
+    "answer": "Ein Meer ist groß. Das Meer hat Wellen. Viele Fische leben im Meer. Boote fahren auf dem Meer. Das Meer ist schön.",
+    "question": "Ein ____ ist groß. Das ____ hat Wellen. Viele Fische leben im ____. Boote fahren auf dem ____. Das ____ ist schön."
+  },
+  {
+    "answer": "Ein Wald ist groß. Im Wald wachsen viele Bäume. Tiere leben im Wald. Kinder spielen im Wald. Der Wald ist grün.",
+    "question": "Ein ____ ist groß. Im ____ wachsen viele Bäume. Tiere leben im ____. Kinder spielen im ____. Der ____ ist grün."
+  },
+  {
+    "answer": "Eine Stadt ist groß. In der Stadt wohnen viele Menschen. Die Stadt hat viele Straßen. Autos fahren in der Stadt. Die Stadt ist laut.",
+    "question": "Eine ____ ist groß. In der ____ wohnen viele Menschen. Die ____ hat viele Straßen. Autos fahren in der ____. Die ____ ist laut."
+  },
+  {
+    "answer": "Österreich ist ein Land. Das Land hat viele Städte. Menschen leben im Land. Das Land hat Flüsse und Berge. Das Land ist schön.",
+    "question": "Österreich ist ein ____. Das ____ hat viele Städte. Menschen leben im ____. Das ____ hat Flüsse und Berge. Das ____ ist schön."
+  },
+  {
+    "answer": "Europa ist ein Kontinent. Der Kontinent hat viele Länder. Menschen leben auf dem Kontinent. Es gibt viele Tiere auf dem Kontinent. Der Kontinent ist vielfältig.",
+    "question": "Europa ist ein ____. Der ____ hat viele Länder. Menschen leben auf dem ____. Es gibt viele Tiere auf dem ____. Der ____ ist vielfältig."
+  },
+    {
+    "answer": "Eine Stadt ist ein Ort mit vielen Häusern. Eine Stadt hat Straßen. Eine Stadt hat Menschen. In der Stadt gibt es Schulen. In der Stadt gibt es Geschäfte.",
+    "question": "Eine _____ ist ein Ort mit vielen Häusern. Eine _____ hat Straßen. Eine _____ hat Menschen. In der _____ gibt es Schulen. In der _____ gibt es Geschäfte."
+  },
+  {
+    "answer": "Die Welt ist groß. Die Welt hat viele Länder. Die Welt hat viele Städte. Die Welt hat Ozeane. Die Welt hat Berge.",
+    "question": "Die _____ ist groß. Die _____ hat viele Länder. Die _____ hat viele Städte. Die _____ hat Ozeane. Die _____ hat Berge."
+  },
+  {
+    "answer": "Ein Bundesland ist ein Teil von Deutschland. Ein Bundesland hat eine Hauptstadt. Ein Bundesland hat Menschen. Ein Bundesland hat Städte. Ein Bundesland hat Schulen.",
+    "question": "Ein _____ ist ein Teil von Deutschland. Ein _____ hat eine Hauptstadt. Ein _____ hat Menschen. Ein _____ hat Städte. Ein _____ hat Schulen."
+  },
+  {
+    "answer": "Die Verfassung ist das wichtigste Gesetz. Die Verfassung regelt das Land. Die Verfassung schützt die Menschen. Die Verfassung ist alt. Die Verfassung ist wichtig.",
+    "question": "Die _____ ist das wichtigste Gesetz. Die _____ regelt das Land. Die _____ schützt die Menschen. Die _____ ist alt. Die _____ ist wichtig."
+  },
+  {
+    "answer": "Das Parlament ist ein Ort für Politiker. Das Parlament macht Gesetze. Das Parlament entscheidet über das Land. Das Parlament hat Räume. Das Parlament hat Menschen.",
+    "question": "Das _____ ist ein Ort für Politiker. Das _____ macht Gesetze. Das _____ entscheidet über das Land. Das _____ hat Räume. Das _____ hat Menschen."
+  } 
+],
+
+"Länder und Städte":
+[
+  {
+    "answer": "Spanien ist ein Land. Die Hauptstadt von Spanien ist Madrid. Spanien liegt in Europa. Spanien grenzt an Frankreich. Spanien grenzt an Portugal. Die Sprache ist Spanisch. Die Flagge ist rot, gelb, rot.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Madrid. _____ liegt in Europa. _____ grenzt an Frankreich. _____ grenzt an Portugal. Die Sprache ist Spanisch. Die Flagge ist rot, gelb, rot."
+  },
+  {
+    "answer": "Deutschland ist ein Land. Die Hauptstadt von Deutschland ist Berlin. Deutschland liegt in Europa. Deutschland grenzt an Frankreich. Deutschland grenzt an Polen. Die Sprache ist Deutsch. Die Flagge ist schwarz, rot, gelb.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Berlin. _____ liegt in Europa. _____ grenzt an Frankreich. _____ grenzt an Polen. Die Sprache ist Deutsch. Die Flagge ist schwarz, rot, gelb."
+  },
+  {
+    "answer": "Frankreich ist ein Land. Die Hauptstadt von Frankreich ist Paris. Frankreich liegt in Europa. Frankreich grenzt an Deutschland. Frankreich grenzt an Spanien. Die Sprache ist Französisch. Die Flagge ist blau, weiß, rot.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Paris. _____ liegt in Europa. _____ grenzt an Deutschland. _____ grenzt an Spanien. Die Sprache ist Französisch. Die Flagge ist blau, weiß, rot."
+  },
+  {
+    "answer": "Italien ist ein Land. Die Hauptstadt von Italien ist Rom. Italien liegt in Europa. Italien grenzt an Frankreich. Italien grenzt an die Schweiz. Die Sprache ist Italienisch. Die Flagge ist grün, weiß, rot.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Rom. _____ liegt in Europa. _____ grenzt an Frankreich. _____ grenzt an die Schweiz. Die Sprache ist Italienisch. Die Flagge ist grün, weiß, rot."
+  },
+  {
+    "answer": "Die Schweiz ist ein Land. Die Hauptstadt von der Schweiz ist Bern. Die Schweiz liegt in Europa. Die Schweiz grenzt an Deutschland. Die Schweiz grenzt an Italien. Die Sprache ist Deutsch, Französisch, Italienisch. Die Flagge ist rot mit weißem Kreuz.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Bern. _____ liegt in Europa. _____ grenzt an Deutschland. _____ grenzt an Italien. Die Sprache ist Deutsch, Französisch, Italienisch. Die Flagge ist rot mit weißem Kreuz."
+  },
+  {
+    "answer": "Die Türkei ist ein Land. Die Hauptstadt von der Türkei ist Ankara. Die Türkei liegt in Europa und Asien. Die Türkei grenzt an Griechenland. Die Türkei grenzt an Syrien. Die Sprache ist Türkisch. Die Flagge ist rot mit weißem Stern.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Ankara. _____ liegt in Europa und Asien. _____ grenzt an Griechenland. _____ grenzt an Syrien. Die Sprache ist Türkisch. Die Flagge ist rot mit weißem Stern."
+  },
+  {
+    "answer": "Die Ukraine ist ein Land. Die Hauptstadt von der Ukraine ist Kiew. Die Ukraine liegt in Europa. Die Ukraine grenzt an Polen. Die Ukraine grenzt an Russland. Die Sprache ist Ukrainisch. Die Flagge ist blau und gelb.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Kiew. _____ liegt in Europa. _____ grenzt an Polen. _____ grenzt an Russland. Die Sprache ist Ukrainisch. Die Flagge ist blau und gelb."
+  },
+  {
+    "answer": "Die USA ist ein Land. Die Hauptstadt von den USA ist Washington. Die USA liegen in Nordamerika. Die USA grenzen an Kanada. Die USA grenzen an Mexiko. Die Sprache ist Englisch. Die Flagge ist rot, weiß, blau.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Washington. _____ liegen in Nordamerika. _____ grenzen an Kanada. _____ grenzen an Mexiko. Die Sprache ist Englisch. Die Flagge ist rot, weiß, blau."
+  },
+  {
+    "answer": "Kanada ist ein Land. Die Hauptstadt von Kanada ist Ottawa. Kanada liegt in Nordamerika. Kanada grenzt an USA. Die Sprache ist Englisch und Französisch. Die Flagge ist rot und weiß.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Ottawa. _____ liegt in Nordamerika. _____ grenzt an USA. Die Sprache ist Englisch und Französisch. Die Flagge ist rot und weiß."
+  },
+  {
+    "answer": "China ist ein Land. Die Hauptstadt von China ist Peking. China liegt in Asien. China grenzt an Russland. China grenzt an Indien. Die Sprache ist Chinesisch. Die Flagge ist rot mit gelben Sternen.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Peking. _____ liegt in Asien. _____ grenzt an Russland. _____ grenzt an Indien. Die Sprache ist Chinesisch. Die Flagge ist rot mit gelben Sternen."
+  },
+  {
+    "answer": "Japan ist ein Land. Die Hauptstadt von Japan ist Tokio. Japan liegt in Asien. Japan ist eine Insel. Die Sprache ist Japanisch. Die Flagge ist weiß mit rotem Kreis.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Tokio. _____ liegt in Asien. _____ ist eine Insel. Die Sprache ist Japanisch. Die Flagge ist weiß mit rotem Kreis."
+  },
+  {
+    "answer": "Australien ist ein Land. Die Hauptstadt von Australien ist Canberra. Australien liegt in Ozeanien. Australien ist ein Kontinent. Die Sprache ist Englisch. Die Flagge ist blau, rot, weiß.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Canberra. _____ liegt in Ozeanien. _____ ist ein Kontinent. Die Sprache ist Englisch. Die Flagge ist blau, rot, weiß."
+  },
+  {
+    "answer": "Brasilien ist ein Land. Die Hauptstadt von Brasilien ist Brasília. Brasilien liegt in Südamerika. Brasilien grenzt an Argentinien. Die Sprache ist Portugiesisch. Die Flagge ist grün, gelb, blau.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Brasília. _____ liegt in Südamerika. _____ grenzt an Argentinien. Die Sprache ist Portugiesisch. Die Flagge ist grün, gelb, blau."
+  },
+  {
+    "answer": "Argentinien ist ein Land. Die Hauptstadt von Argentinien ist Buenos Aires. Argentinien liegt in Südamerika. Argentinien grenzt an Chile. Die Sprache ist Spanisch. Die Flagge ist hellblau, weiß, hellblau.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Buenos Aires. _____ liegt in Südamerika. _____ grenzt an Chile. Die Sprache ist Spanisch. Die Flagge ist hellblau, weiß, hellblau."
+  },
+  {
+    "answer": "Kolumbien ist ein Land. Die Hauptstadt von Kolumbien ist Bogotá. Kolumbien liegt in Südamerika. Kolumbien grenzt an Venezuela. Die Sprache ist Spanisch. Die Flagge ist gelb, blau, rot.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Bogotá. _____ liegt in Südamerika. _____ grenzt an Venezuela. Die Sprache ist Spanisch. Die Flagge ist gelb, blau, rot."
+  },
+  {
+    "answer": "Vietnam ist ein Land. Die Hauptstadt von Vietnam ist Hanoi. Vietnam liegt in Asien. Vietnam grenzt an China. Die Sprache ist Vietnamesisch. Die Flagge ist rot mit gelbem Stern.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Hanoi. _____ liegt in Asien. _____ grenzt an China. Die Sprache ist Vietnamesisch. Die Flagge ist rot mit gelbem Stern."
+  },
+  {
+    "answer": "Ägypten ist ein Land. Die Hauptstadt von Ägypten ist Kairo. Ägypten liegt in Afrika. Ägypten grenzt an Libyen. Die Sprache ist Arabisch. Die Flagge ist rot, weiß, schwarz.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Kairo. _____ liegt in Afrika. _____ grenzt an Libyen. Die Sprache ist Arabisch. Die Flagge ist rot, weiß, schwarz."
+  },
+  {
+    "answer": "Südafrika ist ein Land. Die Hauptstadt von Südafrika ist Pretoria. Südafrika liegt in Afrika. Südafrika grenzt an Namibia. Die Sprache ist Englisch. Die Flagge ist bunt.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Pretoria. _____ liegt in Afrika. _____ grenzt an Namibia. Die Sprache ist Englisch. Die Flagge ist bunt."
+  },
+  {
+    "answer": "Indien ist ein Land. Die Hauptstadt von Indien ist Neu-Delhi. Indien liegt in Asien. Indien grenzt an Pakistan. Die Sprache ist Hindi. Die Flagge ist orange, weiß, grün.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Neu-Delhi. _____ liegt in Asien. _____ grenzt an Pakistan. Die Sprache ist Hindi. Die Flagge ist orange, weiß, grün."
+  },
+  {
+    "answer": "Thailand ist ein Land. Die Hauptstadt von Thailand ist Bangkok. Thailand liegt in Asien. Thailand grenzt an Laos. Thailand grenzt an Kambodscha. Die Sprache ist Thai. Die Flagge ist rot, weiß, blau.",
+    "question": "_____ ist ein Land. Die Hauptstadt von _____ ist Bangkok. _____ liegt in Asien. _____ grenzt an Laos. _____ grenzt an Kambodscha. Die Sprache ist Thai. Die Flagge ist rot, weiß, blau."
+  }
+],
+
+"die Kleidung":
+[
+    {
+        "answer": "Ich trage einen Mantel am Oberkörper. Die Mäntel sind lang. Im Winter tragen wir Mäntel.",
+        "question": "Ich trage einen ___ am Oberkörper. Die ___ sind lang. Im Winter tragen wir ___."
+    },
+    {
+        "answer": "Ich trage eine Jacke am Oberkörper. Die Jacken sind nicht lang, aber warm. Im Sommer tragen wir keine Jacken.",
+        "question": "Ich trage eine ___ am Oberkörper. Die ___ sind nicht lang, aber warm. Im Sommer tragen wir keine ___."
+    },
+    {
+        "answer": "Ich trage ein Hemd am Oberkörper. Die Hemden sind leicht. Im Sommer tragen wir Hemden.",
+        "question": "Ich trage ein ___ am Oberkörper. Die ___ sind leicht. Im Sommer tragen wir ___."
+    },
+    {
+        "answer": "Ich trage eine Bluse am Oberkörper. Die Blusen sind leicht. Im Sommer tragen wir Blusen.",
+        "question": "Ich trage eine ___ am Oberkörper. Die ___ sind leicht. Im Sommer tragen wir ___."
+    },
+    {
+        "answer": "Ich trage eine Hose an den Beinen. Die Hosen sind lang. Im Winter tragen wir Hosen.",
+        "question": "Ich trage eine ___ an den Beinen. Die ___ sind lang. Im Winter tragen wir ___."
+    },
+    {
+        "answer": "Ich trage Schuhe an den Füßen. Die Schuhe sind fest. Im Winter tragen wir Schuhe.",
+        "question": "Ich trage ___ an den Füßen. Die ___ sind fest. Im Winter tragen wir ___."
+    },
+    {
+        "answer": "Ich trage Sandalen an den Füßen. Die Sandalen sind leicht. Im Sommer tragen wir Sandalen.",
+        "question": "Ich trage ___ an den Füßen. Die ___ sind leicht. Im Sommer tragen wir ___."
+    },
+    {
+        "answer": "Ich trage Socken an den Füßen. Die Socken sind warm. Im Winter tragen wir Socken.",
+        "question": "Ich trage ___ an den Füßen. Die ___ sind warm. Im Winter tragen wir ___."
+    },
+    {
+        "answer": "Ich trage einen Pullover am Oberkörper. Die Pullover sind warm. Im Winter tragen wir Pullover.",
+        "question": "Ich trage einen ___ am Oberkörper. Die ___ sind warm. Im Winter tragen wir ___."
+    },
+    {
+        "answer": "Ich trage ein Kleid am Oberkörper und an den Beinen. Die Kleider sind lang. Im Sommer tragen wir Kleider. Kleider können elegant oder informell sein.",
+        "question": "Ich trage ein ___ am Oberkörper und an den Beinen. Die ___ sind lang. Im Sommer tragen wir ___. ___ können elegant oder informell sein."
+    },
+    {
+        "answer": "Ich trage einen Rock an den Beinen. Die Röcke sind kurz. Im Sommer tragen wir Röcke.",
+        "question": "Ich trage einen ___ an den Beinen. Die ___ sind kurz. Im Sommer tragen wir ___."
+    },
+    {
+        "answer": "Ich trage Handschuhe an den Händen. Die Handschuhe sind warm. Im Winter tragen wir Handschuhe.",
+        "question": "Ich trage ___ an den Händen. Die ___ sind warm. Im Winter tragen wir ___."
+    },
+    {
+        "answer": "Ich trage eine Mütze auf dem Kopf. Die Mützen sind warm. Im Winter tragen wir Mützen.",
+        "question": "Ich trage eine ___ auf dem Kopf. Die ___ sind warm. Im Winter tragen wir ___."
+    },
+    {
+        "answer": "Ich trage einen Schal um den Hals. Die Schals sind warm. Im Winter tragen wir Schals.",
+        "question": "Ich trage einen ___ um den Hals. Die ___ sind warm. Im Winter tragen wir ___."
+    },
+    {
+        "answer": "Ich trage einen Gürtel an der Taille. Die Gürtel sind fest. Wir tragen Gürtel immer bei Hosen.",
+        "question": "Ich trage einen ___ an der Taille. Die ___ sind fest. Wir tragen ___ immer bei Hosen."
+    },
+    {
+        "answer": "Ich trage einen Anzug am Oberkörper und an den Beinen. Die Anzüge sind lang. Im Winter tragen wir Anzüge. Normalerweise ist ein Anzug elegant.",
+        "question": "Ich trage einen ___ am Oberkörper und an den Beinen. Die ___ sind lang. Im Winter tragen wir ___. Normalerweise ist ein ___ elegant."
+    },
+    {
+        "answer": "Ich trage einen Badeanzug am Oberkörper und an den Beinen. Die Badeanzüge sind kurz. Im Sommer tragen wir Badeanzüge. So können wir schwimmen.",
+        "question": "Ich trage einen ___ am Oberkörper und an den Beinen. Die ___ sind kurz. Im Sommer tragen wir ___. So können wir schwimmen."
+    }
+],
+
+"Zeit / Tage / Monate":
+
+[
+  {"answer": "Der Morgen kommt nach der Nacht. Der Morgen beginnt früh. Die Morgen sind hell.", "question": "Der ___ kommt nach der Nacht. Der ___ beginnt früh. Die ___ sind hell."},
+  {"answer": "Der Tag kommt nach dem Morgen. Der Tag endet am Abend. Die Tage sind lang.", "question": "Der ___ kommt nach dem Morgen. Der ___ endet am Abend. Die ___ sind lang."},
+  {"answer": "Der Abend kommt nach dem Tag. Der Abend endet in der Nacht. Die Abende sind ruhig.", "question": "Der ___ kommt nach dem Tag. Der ___ endet in der Nacht. Die ___ sind ruhig."},
+  {"answer": "Die Nacht kommt nach dem Abend. Die Nacht beginnt spät. Die Nächte sind dunkel.", "question": "Die ___ kommt nach dem Abend. Die ___ beginnt spät. Die ___ sind dunkel."},
+  {"answer": "Der Mittag kommt nach dem Morgen. Der Mittag ist um zwölf Uhr. Die Mittage sind hell.", "question": "Der ___ kommt nach dem Morgen. Der ___ ist um zwölf Uhr. Die ___ sind hell."},
+  {"answer": "Der Vormittag kommt nach dem Morgen. Der Vormittag endet vor dem Mittag. Die Vormittage sind kurz.", "question": "Der ___ kommt nach dem Morgen. Der ___ endet vor dem Mittag. Die ___ sind kurz."},
+  {"answer": "Der Nachmittag kommt nach dem Mittag. Der Nachmittag endet am Abend. Die Nachmittage sind ruhig.", "question": "Der ___ kommt nach dem Mittag. Der ___ endet am Abend. Die ___ sind ruhig."},
+  {"answer": "Die Woche kommt nach dem Sonntag. Die Woche hat sieben Tage. Die Wochen sind lang.", "question": "Die ___ kommt nach dem Sonntag. Die ___ hat sieben Tage. Die ___ sind lang."},
+  {"answer": "Das Wochenende kommt nach der Woche. Das Wochenende beginnt am Samstag. Die Wochenenden sind frei.", "question": "Das ___ kommt nach der Woche. Das ___ beginnt am Samstag. Die ___ sind frei."},
+  
+  {
+    "answer": "Montag kommt nach Sonntag.",
+    "question": "___ kommt nach Sonntag."
+  },
+  {
+    "answer": "Dienstag kommt nach Montag.",
+    "question": "___ kommt nach Montag."
+  },
+  {
+    "answer": "Mittwoch kommt nach Dienstag.",
+    "question": "___ kommt nach Dienstag."
+  },
+  {
+    "answer": "Donnerstag kommt nach Mittwoch.",
+    "question": "___ kommt nach Mittwoch."
+  },
+  {
+    "answer": "Freitag kommt nach Donnerstag.",
+    "question": "___ kommt nach Donnerstag."
+  },
+  {
+    "answer": "Samstag kommt nach Freitag.",
+    "question": "___ kommt nach Freitag."
+  },
+  {
+    "answer": "Sonntag kommt nach Samstag.",
+    "question": "___ kommt nach Samstag."
+  }
+
+  {"answer": "Die Stunde dauert sechzig Minuten. Die Stunden sind lang.", "question": "Die ___ dauert sechzig Minuten. Die ___ sind lang."},
+  {"answer": "Die Minute dauert sechzig Sekunden. Die Minuten sind kurz.", "question": "Die ___ dauert sechzig Sekunden. Die ___ sind kurz."},
+  {"answer": "Die Sekunde ist kurz. Eine Minute hat sechzig Sekunden.", "question": "Die ___ ist kurz. Eine Minute hat sechzig ___ ."},
+  {"answer": "Die Uhrzeit zeigt die Stunde und Minute.", "question": "Die ___ zeigt die Stunde und Minute."},
+
+{
+    "answer": "Januar kommt nach Dezember.",
+    "question": "___ kommt nach Dezember."
+  },
+  {
+    "answer": "Februar kommt nach Januar.",
+    "question": "___ kommt nach Januar."
+  },
+  {
+    "answer": "März kommt nach Februar.",
+    "question": "___ kommt nach Februar."
+  },
+  {
+    "answer": "April kommt nach März.",
+    "question": "___ kommt nach März."
+  },
+  {
+    "answer": "Mai kommt nach April.",
+    "question": "___ kommt nach April."
+  },
+  {
+    "answer": "Juni kommt nach Mai.",
+    "question": "___ kommt nach Mai."
+  },
+  {
+    "answer": "Juli kommt nach Juni.",
+    "question": "___ kommt nach Juni."
+  },
+  {
+    "answer": "August kommt nach Juli.",
+    "question": "___ kommt nach Juli."
+  },
+  {
+    "answer": "September kommt nach August.",
+    "question": "___ kommt nach August."
+  },
+  {
+    "answer": "Oktober kommt nach September.",
+    "question": "___ kommt nach September."
+  },
+  {
+    "answer": "November kommt nach Oktober.",
+    "question": "___ kommt nach Oktober."
+  },
+  {
+    "answer": "Dezember kommt nach November.",
+    "question": "___ kommt nach November."
+  }
+  ],
+  
+  "Kontaktdaten":
+ [ 
+  {"answer": "Ich wohne in Haustraße 15. Die Postleitzahl ist 1550, Wien.", "question": "Ich wohne in Haustraße 15. Die ___ ist 1550, Wien."}, 		   {"answer": "Meine Adresse ist Haustraße 15, 1550 Wien.", "question": "Meine ___ ist Haustraße 15, 1550 Wien."}, 	
+  {"answer": "Mein Name ist Julia Müller. Mein Vorname ist Julia und mein Familiename ist Müller.", "question": "Mein ___ ist Julia Müller. Mein ___ ist Julia und mein ___ ist Müller."}, 	
+	{"answer": "Meine Telefonnumer ist 06785458596", "question": "Meine ___ ist 06785458596"}
+],
+
+"Stadtorte":
+
+[
+  {
+    "answer": "In der Bibliothek gibt es viele Bücher. Die Menschen lesen in der Bibliothek.",
+    "question": "In der ___ gibt es viele Bücher. Die Menschen lesen in der ___."
+  },
+  {
+    "answer": "Im Supermarkt gibt es Obst, Gemüse, Getränke, Fleisch, Brot, Eis ... . Die Menschen kaufen im Supermarkt ein.",
+    "question": "Im ___ gibt es Obst, Gemüse, Getränke, Fleisch, Brot, Eis ... . Die Menschen kaufen im ___ ein."
+  },
+  {
+    "answer": "In der Schule lernen die Kinder. Die Lehrer arbeiten in der Schule.",
+    "question": "In der ___ lernen die Kinder. Die Lehrer arbeiten in der ___."
+  },
+  {
+    "answer": "Im Park gibt es viele Bäume. Die Menschen gehen im Park spazieren.",
+    "question": "Im ___ gibt es viele Bäume. Die Menschen gehen im ___ spazieren."
+  },
+  {
+    "answer": "Im Krankenhaus helfen die Ärzte den Menschen. Die Menschen sind im Krankenhaus gesund.",
+    "question": "Im ___ helfen die Ärzte den Menschen. Die Menschen sind im ___ gesund."
+  },
+  {
+    "answer": "Im Restaurant gibt es Essen und Getränke. Die Menschen essen im Restaurant.",
+    "question": "Im ___ gibt es Essen und Getränke. Die Menschen essen im ___."
+  },
+  {
+    "answer": "An der Bushaltestelle warten die Menschen auf den Bus. Die Busse fahren an der Bushaltestelle.",
+    "question": "An der ___ warten die Menschen auf den Bus. Die Busse fahren an der ___."
+  },
+  {
+    "answer": "Im Kino sehen die Menschen Filme. Es gibt große Leinwände im Kino.",
+    "question": "Im ___ sehen die Menschen Filme. Es gibt große Leinwände im ___."
+  },
+  {
+    "answer": "Auf dem Spielplatz spielen Kinder. Es gibt Rutschen und Schaukeln auf dem Spielplatz.",
+    "question": "Auf dem ___ spielen Kinder. Es gibt Rutschen und Schaukeln auf dem ___."
+  },
+  {
+    "answer": "Im Schwimmbad schwimmen die Menschen. Kinder springen ins Wasser im Schwimmbad.",
+    "question": "Im ___ schwimmen die Menschen. Kinder springen ins Wasser im ___."
+  },
+  {
+    "answer": "Im Bahnhof warten die Menschen auf den Zug. Die Züge fahren vom Bahnhof ab.",
+    "question": "Im ___ warten die Menschen auf den Zug. Die Züge fahren vom ___ ab."
+  },
+  {
+    "answer": "Im Hotel schlafen die Gäste. Die Gäste essen im Hotel Frühstück.",
+    "question": "Im ___ schlafen die Gäste. Die Gäste essen im ___ Frühstück."
+  },
+  {
+    "answer": "In der Apotheke kaufen die Menschen Medikamente. Die Apotheke hat viele Tabletten.",
+    "question": "In der ___ kaufen die Menschen Medikamente. Die ___ hat viele Tabletten."
+  },
+  {
+    "answer": "Im Museum sehen die Menschen Bilder und Skulpturen. Die Menschen lernen im Museum.",
+    "question": "Im ___ sehen die Menschen Bilder und Skulpturen. Die Menschen lernen im ___."
+  },
+  {
+    "answer": "Im Zoo gibt es viele Tiere. Die Kinder schauen die Tiere im Zoo.",
+    "question": "Im ___ gibt es viele Tiere. Die Kinder schauen die Tiere im ___."
+  },
+  {
+    "answer": "Im Café trinken die Menschen Kaffee. Die Menschen essen Kuchen im Café.",
+    "question": "Im ___ trinken die Menschen Kaffee. Die Menschen essen Kuchen im ___."
+  },
+  {
+    "answer": "Im Theater sehen die Menschen ein Stück. Die Schauspieler arbeiten im Theater.",
+    "question": "Im ___ sehen die Menschen ein Stück. Die Schauspieler arbeiten im ___."
+  },
+  {
+    "answer": "Auf dem Markt gibt es Obst, Gemüse und Blumen. Die Menschen kaufen auf dem Markt ein.",
+    "question": "Auf dem ___ gibt es Obst, Gemüse und Blumen. Die Menschen kaufen auf dem ___ ein."
+  },
+  {
+    "answer": "Im Kino essen die Menschen Popcorn. Die Menschen schauen einen Film im Kino.",
+    "question": "Im ___ essen die Menschen Popcorn. Die Menschen schauen einen Film im ___."
+  },
+  {
+    "answer": "Im Postamt schicken die Menschen Briefe. Die Menschen holen Pakete im Postamt ab.",
+    "question": "Im ___ schicken die Menschen Briefe. Die Menschen holen Pakete im ___ ab."
+  },
+  {
+    "answer": "Im Magistrat/Rathaus arbeiten viele Menschen. Die Menschen erledigen Dokumente im Magistrat/Rathaus.",
+    "question": "Im ___ arbeiten viele Menschen. Die Menschen erledigen Dokumente im ___."
+  },
+  {
+    "answer": "Bei der Polizei arbeiten Polizisten. Die Polizei hilft den Menschen.",
+    "question": "Bei der ___ arbeiten Polizisten. Die ___ hilft den Menschen."
+  }
+],
+
+"Verkehrsmittel":
+
+[
+  {
+    "answer": "Das Auto fährt auf der Straße. Die Menschen fahren mit dem Auto. Die Menschen können ein Auto kaufen.",
+    "question": "Das ___ fährt auf der Straße. Die Menschen fahren mit dem ___. Die Menschen können ein ___ kaufen."
+  },
+  {
+    "answer": "Der Bus fährt an der Haltestelle. Die Menschen warten auf den Bus.",
+    "question": "Der ___ fährt an der Haltestelle. Die Menschen warten auf den ___."
+  },
+  {
+    "answer": "Die Straßenbahn fährt auf den Schienen innerhalb der Stadt.",
+    "question": "Die ___ fährt auf den Schienen innerhalb der Stadt."
+  },
+  {
+    "answer": "Der Zug fährt schnell. Die Menschen fahren mit dem Zug zwischen Städten oder Ländern. Manchmal gibt es ein Restaurant im Zug.",
+    "question": "Der ___ fährt schnell. Die Menschen fahren mit dem ___ zwischen Städten oder Ländern. Manchmal gibt es ein Restaurant im ___ ."
+  },
+  {
+    "answer": "Das Fahrrad fährt auf dem Fahrradweg. Das Fahrrad hat 2 Räde.",
+    "question": "Das ___ fährt auf dem Fahrradweg. Das ___ hat 2 Räde."
+  },
+  {
+    "answer": "Das Motorrad fährt auf der Straße wie ein Auto, aber es hat 2 Räde.",
+    "question": "Das ___ fährt auf der Straße wie ein Auto, aber es hat 2 Räde."
+  },
+  {
+    "answer": "Das Flugzeug fliegt am Himmel. Die Menschen fliegen mit dem Flugzeug.",
+    "question": "Das ___ fliegt am Himmel. Die Menschen fliegen mit dem ___."
+  },
+  {
+    "answer": "Das Schiff fährt auf dem Wasser.",
+    "question": "Das ___ fährt auf dem Wasser."
+  },
+  {
+    "answer": "Das Taxi fährt die Menschen. Die Menschen rufen ein Taxi an.",
+    "question": "Das ___ fährt die Menschen. Die Menschen rufen ein ___ an."
+  }
+],
+
+"Essen und Getränke":
+
+[
+  {"answer": "der Apfel / Äpfel: Obst, rot oder grün, süß, viele Menschen essen sie jeden Tag", "question": "___ / ___: Obst, rot oder grün, süß, viele Menschen essen sie jeden Tag"},
+  {"answer": "die Banane / Bananen: Obst, gelb, süß, lang, weich.", "question": "___ / ___: Obst, gelb, süß, lang, weich."},
+  {"answer": "die Orange / Orangen: Obst, orange, saftig, süß, viele Menschen essen sie im Winter", "question": "___ / ___: Obst, orange, saftig, süß, viele Menschen essen sie im Winter"},
+  {"answer": "die Erdbeere / Erdbeeren: Obst, rot, klein, süß, oft in Desserts", "question": "___ / ___: Obst, rot, klein, süß, oft in Desserts"},
+  {"answer": "die Traube / Trauben: Obst, klein, rund, süß, grün oder lila", "question": "___ / ___: Obst, klein, rund, süß, grün oder lila"},
+  {"answer": "die Kirsche / Kirschen: Obst, rot, klein, süß, oft im Sommer", "question": "___ / ___: Obst, rot, klein, süß, oft im Sommer"},
+  {"answer": "die Birne / Birnen: Obst, grün oder braun, süß, saftig, oft im Herbst", "question": "___ / ___: Obst, grün oder braun, süß, saftig, oft im Herbst"},
+  {"answer": "die Mango / Mangos: Obst, gelb mit rot oder grün, süß, tropisch, in Indien und Afrika beliebt", "question": "___ / ___: Obst, gelb mit rot oder grün, süß, tropisch, in Indien und Afrika beliebt"},
+  {"answer": "die Ananas / Ananas: Obst, gelb, süß, tropisch, oft in Saft oder Desserts", "question": "___ / ___: Obst, gelb, süß, tropisch, oft in Saft oder Desserts"},
+  {"answer": "die Zitrone / Zitronen: Obst, gelb, sauer, klein, man macht Saft daraus", "question": "___ / ___: Obst, gelb, sauer, klein, man macht Saft daraus"},
+  {"answer": "die Karotte / Karotten: Gemüse, orange, knackig, man kann sie roh oder gekocht essen", "question": "___ / ___: Gemüse, orange, knackig, man kann sie roh oder gekocht essen"},
+  {"answer": "die Tomate / Tomaten: Gemüse, rot, saftig, oft in Salaten oder auf Pizza", "question": "___ / ___: Gemüse, rot, saftig, oft in Salaten oder auf Pizza"},
+  {"answer": "die Gurke / Gurken: Gemüse, grün, lang, frisch, oft in Salaten", "question": "___ / ___: Gemüse, grün, lang, frisch, oft in Salaten"},
+  {"answer": "der Salat / Salate: Gemüse, grün, Blätter, oft mit Öl und Essig", "question": "___ / ___: Gemüse, grün, Blätter, oft mit Öl und Essig"},
+  {"answer": "die Paprika / Paprikas: Gemüse, rot, gelb oder grün, süß, knackig", "question": "___ / ___: Gemüse, rot, gelb oder grün, süß, knackig"},
+  {"answer": "der Brokkoli / Brokkolis: Gemüse, grün, klein und rund, oft gekocht gegessen", "question": "___ / ___: Gemüse, grün, klein und rund, oft gekocht gegessen"},
+  {"answer": "der Blumenkohl / Blumenkohle: Gemüse, weiß, rund, oft gekocht gegessen", "question": "___ / ___: Gemüse, weiß, rund, oft gekocht gegessen"},
+  {"answer": "die Zwiebel / Zwiebeln: Gemüse, rund, braun oder rot, scharf, oft beim Kochen verwendet", "question": "___ / ___: Gemüse, rund, braun oder rot, scharf, oft beim Kochen verwendet"},
+  {"answer": "der Knoblauch / Knoblauchzehen: Gemüse, weiß, klein, sehr aromatisch, oft beim Kochen benutzt", "question": "___ / ___: Gemüse, weiß, klein, sehr aromatisch, oft beim Kochen benutzt"},
+  {"answer": "die Kartoffel / Kartoffeln: Gemüse, braun oder gelb, rund oder oval, oft gekocht oder gebraten", "question": "___ / ___: Gemüse, braun oder gelb, rund oder oval, oft gekocht oder gebraten"},
+  {"answer": "die Nudel / Nudeln: Lebensmittel, lang, gelb, aus Weizen, oft mit Soße gegessen", "question": "___ / ___: Lebensmittel, lang, gelb, aus Weizen, oft mit Soße gegessen"},
+  {"answer": "der Reis / Reissorten: Lebensmittel, klein, weiß oder braun, aus Getreide, oft gekocht gegessen", "question": "___ / ___: Lebensmittel, klein, weiß oder braun, aus Getreide, oft gekocht gegessen"},
+  {"answer": "das Brot / Brote: Lebensmittel, braun oder weiß, rund oder eckig, viele Menschen essen es täglich", "question": "___ / ___: Lebensmittel, braun oder weiß, rund oder eckig, viele Menschen essen es täglich"},
+  {"answer": "der Käse / Käse: Lebensmittel, weiß oder gelb, salzig, aus Milch, fest oder weich", "question": "___ / ___: Lebensmittel, weiß oder gelb, salzig, aus Milch, fest oder weich"},
+  {"answer": "der Joghurt / Joghurts: Lebensmittel, cremig oder flüssig, aus Milch, süß oder Natur", "question": "___ / ___: Lebensmittel, cremig oder flüssig, aus Milch, süß oder Natur"},
+  {"answer": "die Butter / Butter: Lebensmittel, gelb, aus Milch, weich, man kann es auf Brot streichen", "question": "___ / ___: Lebensmittel, gelb, aus Milch, weich, man kann es auf Brot streichen"},
+  {"answer": "das Öl / Öle: Lebensmittel, flüssig, aus Oliven oder Sonnenblumen, zum Kochen benutzt", "question": "___ / ___: Lebensmittel, flüssig, aus Oliven oder Sonnenblumen, zum Kochen benutzt"},
+  {"answer": "der Zucker / Zucker: Lebensmittel, weiß, klein, süß, oft in Kuchen oder Desserts", "question": "___ / ___: Lebensmittel, weiß, klein, süß, oft in Kuchen oder Desserts"},
+  {"answer": "der Honig / Honige: Lebensmittel, süß, flüssig, gelb, von Bienen hergestellt", "question": "___ / ___: Lebensmittel, süß, flüssig, gelb, von Bienen hergestellt"},
+  {"answer": "der Pfeffer / Pfeffer: Gewürz, schwarz, klein, scharf, oft in Suppen oder auf Fleisch", "question": "___ / ___: Gewürz, schwarz, klein, scharf, oft in Suppen oder auf Fleisch"},
+  {"answer": "das Salz / Salze: Gewürz, weiß, klein, salzig, oft zum Kochen benutzt", "question": "___ / ___: Gewürz, weiß, klein, salzig, oft zum Kochen benutzt"},
+  {"answer": "die Petersilie / Petersilien: Kraut, grün, aromatisch, oft in Suppen oder Salaten", "question": "___ / ___: Kraut, grün, aromatisch, oft in Suppen oder Salaten"},
+  {"answer": "das Basilikum / Basilikums: Kraut, grün, aromatisch, oft auf Pizza oder in Salaten", "question": "___ / ___: Kraut, grün, aromatisch, oft auf Pizza oder in Salaten"},
+  {"answer": "der Thymian / Thymiane: Kraut, grün, aromatisch, klein, oft in Fleischgerichten benutzt", "question": "___ / ___: Kraut, grün, aromatisch, klein, oft in Fleischgerichten benutzt"},
+  {"answer": "der Rosmarin / Rosmarine: Kraut, grün, aromatisch, oft auf Fleisch oder Kartoffeln", "question": "___ / ___: Kraut, grün, aromatisch, oft auf Fleisch oder Kartoffeln"},
+  {"answer": "die Minze / Minzen: Kraut, grün, aromatisch, frisch, oft in Tee oder Getränken", "question": "___ / ___: Kraut, grün, aromatisch, frisch, oft in Tee oder Getränken"},
+  {"answer": "das Bier / Biere: Getränk, gold oder braun, alkoholisch, viele Menschen trinken es in der Bar", "question": "___ / ___: Getränk, gold oder braun, alkoholisch, viele Menschen trinken es in der Bar"},
+  {"answer": "der Wein / Weine: Getränk, rot oder weiß, alkoholisch, oft in Restaurants getrunken", "question": "___ / ___: Getränk, rot oder weiß, alkoholisch, oft in Restaurants getrunken"},
+  {"answer": "das Wasser / Wasser: Getränk, klar, viele Menschen trinken es jeden Tag", "question": "___ / ___: Getränk, klar, viele Menschen trinken es jeden Tag"},
+  {"answer": "der Saft / Säfte: Getränk, süß, flüssig, aus Früchten, oft im Frühstück getrunken", "question": "___ / ___: Getränk, süß, flüssig, aus Früchten, oft im Frühstück getrunken"},
+  {"answer": "die Milch / Milchen: Getränk, weiß, flüssig, oft für Kinder und Erwachsene", "question": "___ / ___: Getränk, weiß, flüssig, oft für Kinder und Erwachsene"},
+  {"answer": "der Kaffee / Kaffees: Getränk, braun, heiß, viele Erwachsene trinken es am Morgen", "question": "___ / ___: Getränk, braun, heiß, viele Erwachsene trinken es am Morgen"},
+  {"answer": "der Tee / Tees: Getränk, warm oder kalt, oft aus Kräutern oder Blättern", "question": "___ / ___: Getränk, warm oder kalt, oft aus Kräutern oder Blättern"},
+  {"answer": "die Himbeere / Himbeeren: Obst, rot, klein, süß, oft in Kuchen", "question": "___ / ___: Obst, rot, klein, süß, oft in Kuchen"},
+  {"answer": "die Heidelbeere / Heidelbeeren: Obst, blau, klein, süß, oft in Joghurt", "question": "___ / ___: Obst, blau, klein, süß, oft in Joghurt"},
+  {"answer": "die Avocado / Avocados: Obst, grün, cremig, oft in Salaten", "question": "___ / ___: Obst, grün, cremig, oft in Salaten"},
+  {"answer": "die Zucchini / Zucchinis: Gemüse, grün, lang, oft gekocht", "question": "___ / ___: Gemüse, grün, lang, oft gekocht"},
+  {"answer": "der Spinat / Spinate: Gemüse, grün, oft gekocht oder in Salaten", "question": "___ / ___: Gemüse, grün, oft gekocht oder in Salaten"},
+  {"answer": "die Aubergine / Auberginen: Gemüse, lila, oft gekocht oder gebraten", "question": "___ / ___: Gemüse, lila, oft gekocht oder gebraten"},
+  {"answer": "der Pilz / Pilze: Gemüse, klein, braun oder weiß, oft gekocht oder gebraten", "question": "___ / ___: Gemüse, klein, braun oder weiß, oft gekocht oder gebraten"},
+  {"answer": "der Ingwer / Ingwer: Gewürz, braun, scharf, klein, oft in Tee oder beim Kochen", "question": "___ / ___: Gewürz, braun, scharf, klein, oft in Tee oder beim Kochen"},
+  {"answer": "die Vanille / Vanillen: Gewürz, braun, süß, aromatisch, oft in Kuchen oder Desserts", "question": "___ / ___: Gewürz, braun, süß, aromatisch, oft in Kuchen oder Desserts"},
+]
+
+
+
+
+
+
+
+}
