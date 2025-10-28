@@ -1,0 +1,250 @@
+{"A1-A2" : [
+  {
+    "answer": "Ich mache eine Party zu meinem Geburtstag. Ich möchte meine Freunde einladen. Ich lade meine Freundin ein. Ich lade meinen Kollegen ein.",
+    "question": "Ich mache eine Party zu meinem Geburtstag. Ich möchte meine Freunde ___. Ich ___ meine Freundin ___. Ich ___ meinen Kollegen ___." 
+  },
+  {
+    "answer": "Ich nehme einen Apfel aus dem Korb. Mein Bruder nimmt einen Ball. Wir nehmen auch die Bücher mit. Ich nehme den Stift.",
+    "question": "Ich ___ einen Apfel aus dem Korb. Mein Bruder ___ einen Ball. Wir ___ auch die Bücher mit. Ich ___ den Stift."
+  },
+  {
+    "answer": "Ich kopiere die Datei auf meinen Computer. Jetzt habe ich zwei gleiche Dateien.",
+    "question": "Ich ___ die Datei auf meinen Computer. Jetzt habe ich zwei gleiche Dateien."
+  },
+  {
+    "answer": "Ich lege das Buch auf den Tisch. Ich lege den Stift in die Schachtel. Ich lege meine Tasche auf den Stuhl.",
+    "question": "Ich ___ das Buch auf den Tisch. Ich ___ den Stift in die Schachtel. Ich ___ meine Tasche auf den Stuhl."
+  },
+  {
+    "answer": "Est ist kalt. Ich mache die Tür auf. Ich mache das Fenster auf.",
+    "question": "Est ist kalt. Ich ___ die Tür ___. Ich ___ das Fenster ___."
+  },
+  {
+    "answer": "Ich lache über den Witz. Ich lache mit meiner Freundin. Ich lache laut.",
+    "question": "Ich ___ über den Witz. Ich ___ mit meiner Freundin. Ich ___ laut."
+  },
+  {
+    "answer": "Ich male ein Bild mit Farben.",
+    "question": "Ich ___ ein Bild mit Farben."
+  },
+  {
+    "answer": "Ich bilde einen Satz. Ich bilde eine Gruppe. Ich bilde eine Reihe.",
+    "question": "Ich ___ einen Satz. Ich ___ eine Gruppe. Ich ___ eine Reihe."
+  },
+  {
+    "answer": "Ich treffe meinen Freund im Park. Ich treffe meine Kollegen im Büro.",
+    "question": "Ich ___ meinen Freund im Park. Ich ___ meine Kollegen im Büro."
+  },
+  {
+    "answer": "Das ist ein Fehler, aber ich schreibe mit einem Stift. Ich kann den Fehler radieren.",
+    "question": "Das ist ein Fehler, aber ich schreibe mit einem Stift. Ich kann den Fehler ___."
+  },
+  {
+    "answer": "Ich möchte ruhig schlafen. Ich mache das Licht aus. Ich mache den Fernseher aus. Ich mache mein Handy aus.",
+    "question": "Ich möchte ruhig schlafen. Ich ___ das Licht ___. Ich ___ den Fernseher ___. Ich ___ mein Handy ___."
+  },
+  {
+    "answer": "Meine Eltern verbieten das Spiel. Der Lehrer verbietet das Handy. Ich verbiete das Rauchen hier.",
+    "question": "Meine Eltern ___ das Spiel. Der Lehrer ___ das Handy. Ich ___ das Rauchen hier."
+  },
+  {
+    "answer": "Ich reserviere einen Tisch im Restaurant. Ich möchte ein Zimmer im Hotel reservieren.",
+    "question": "Ich ___ einen Tisch im Restaurant. Ich möchte ein Zimmer im Hotel ___."
+  },
+  {
+    "answer": "Ich studiere an der Universität. Ich möchte Medizin studieren.",
+    "question": "Ich ___ an der Universität. Ich möchte Medizin ___."
+  },
+  {
+    "answer": "Ich fange heute einen neuen Job an. Nächstes Jahr möchten wir ein Projekt anfangen.",
+    "question": "Ich ___ heute einen neuen Job ___. Nächstes Jahr möchten wir ein Projekt ___."
+  },
+  {
+    "answer": "Die Zahlen steigen. Wir verkaufen viel!",
+    "question": "Die Zahlen ___. Wir verkaufen viel!"
+  },
+  {
+    "answer": "Ich brauche Hilfe. Ich kann das nicht allein machen.",
+    "question": "Ich ___ Hilfe. Ich kann das nicht allein machen."
+  },
+  {
+    "answer": "Im Winter ziehen die Leute eine Jacke an. Nach dem Duschen ziehen die Leute die Kleidung an.",
+    "question": "Im Winter ___ die Leute eine Jacke ___. Nach dem Duschen ___ die Leute die Kleidung ___."
+  },
+  {
+    "answer": "Ich nenne meinen Hund Bello. Ich nenne meine Katze Mimi. Wir nennen das Baby Anna.",
+    "question": "Ich ___ meinen Hund Bello. Ich ___ meine Katze Mimi. Wir ___ das Baby Anna."
+  },
+  {
+    "answer": "Ich gehe schlafen. Ich ziehe meine Hose aus. Ich ziehe meine Schuhe aus. Ich ziehe mein Hemd aus. Ich ziehe mein Pajama an.",
+    "question": "Ich gehe schlafen. Ich ___ meine Hose ___. Ich ___ meine Schuhe ___. Ich ___ mein Hemd ___. Ich ziehe mein Pajama an."
+  },
+  {
+    "answer": "Ich trinke Wasser. Ich trinke Kaffee. Ich trinke Saft.",
+    "question": "Ich ___ Wasser. Ich ___ Kaffee. Ich ___ Saft."
+  },
+  {
+    "answer": "Ich bin genervt und wütend. Ich streite mit meinem Bruder.",
+    "question": "Ich bin genervt und wütend. Ich ___ mit meinem Bruder."
+  },
+  {
+    "answer": "Ich stecke den Schlüssel in die Tür. Ich stecke das Handy in die Tasche. Ich stecke das Buch in den Rucksack.",
+    "question": "Ich ___ den Schlüssel in die Tür. Ich ___ das Handy in die Tasche. Ich ___ das Buch in den Rucksack."
+  },
+  {
+    "answer": "Ich weine. Ich bin traurig. Das Kind weint laut. Ich weine oft bei Filmen.",
+    "question": "Ich ___. Ich bin traurig. Das Kind ___ laut. Ich ___ oft bei Filmen."
+  },
+  {
+    "answer": "Ich stehe jeden Morgen um sieben Uhr auf. Mein Bruder steht später auf. Am Sonntag stehe ich spät auf.",
+    "question": "Ich ___ jeden Morgen um sieben Uhr ___. Mein Bruder ___ später ___. Am Sonntag ___ ich spät ___."
+  },
+  {
+    "answer": "Ich sitze auf dem Stuhl. Ich sitze im Bus. Ich sitze im Garten.",
+    "question": "Ich ___ auf dem Stuhl. Ich ___ im Bus. Ich ___ im Garten."
+  },
+  {
+    "answer": "Ich analysiere die Daten. Ich analysiere die Zahlen. Ich analysiere die Ergebnisse.",
+    "question": "Ich ___ die Daten. Ich ___ die Zahlen. Ich ___ die Ergebnisse."
+  },
+  {
+    "answer": "Ich zeige dir mein Zimmer. Ich zeige meiner Freundin ein Foto. Ich zeige meinem Bruder das Buch.",
+    "question": "Ich ___ dir mein Zimmer. Ich ___ meiner Freundin ein Foto. Ich ___ meinem Bruder das Buch."
+  },
+  {
+    "answer": "Ich zahle im Supermarkt. Ich zahle mit Karte. Ich zahle meine Rechnung.",
+    "question": "Ich ___ im Supermarkt. Ich ___ mit Karte. Ich ___ meine Rechnung."
+  },
+  {
+    "answer": "Ich schreibe in meinem Notizbuch mit einem Stift.",
+    "question": "Ich ___ in meinem Notizbuch mit einem Stift."
+  },
+  {
+    "answer": "Ich lese ein Buch. Ich lese die Zeitung. Ich lese ein Magazin.",
+    "question": "Ich ___ ein Buch. Ich ___ die Zeitung. Ich ___ ein Magazin."
+  },
+  {
+    "answer": "Der Supermarkt öffnet um 8 Uhr von Montag bis Samstag.",
+    "question": "Der Supermarkt öffnet um 8 Uhr von Montag bis Samstag."
+  },
+  {
+    "answer": "Was ist 25 mal 8? Ich weiß es nicht. Ich muss es rechnen.",
+    "question": "Was ist 25 mal 8? Ich ___ es nicht. Ich muss es rechnen."
+  },
+  {
+    "answer": "Am Meer schwimme ich. Im Schwimmbad schwimmen die Leute. Kinder schwimmen gern.",
+    "question": "Am Meer ___ ich. Im Schwimmbad ___ die Leute. Kinder ___ gern."
+  },
+  {
+    "answer": "Viele Leute demonstrieren auf der Straße. Ich demonstriere für Frieden. Wir demonstrieren zusammen.",
+    "question": "Viele Leute ___ auf der Straße. Ich ___ für Frieden. Wir ___ zusammen."
+  },
+  {
+    "answer": "Bin ich bereit? Ich habe mein Handy dabei. Ich habe meinen Ausweis dabei. Ich habe Wasser dabei. Ja!",
+    "question": "Bin ich bereit? Ich habe mein Handy ___. Ich habe meinen Ausweis ___. Ich habe Wasser ___. Ja!"
+  },
+  {
+    "answer": "Du siehst müde aus. Heute sehe ich gut aus. Mein Freund sieht glücklich aus.",
+    "question": "Du ___ müde ___. Heute ___ ich gut ___. Mein Freund ___ glücklich ___."
+  },
+  {
+    "answer": "Die Menschen brauchen Hilfe. Ich helfe meiner Mutter. Ich helfe meinem Freund. Ich helfe einem Kind.",
+    "question": "Die Menschen brauchen Hilfe. Ich ___ meiner Mutter. Ich ___ meinem Freund. Ich ___ einem Kind."
+  },
+  {
+    "answer": "Viele Sachen kann man aus dem Internet herunterladen. Ich lade ein Video herunter. Ich lade ein Lied herunter. Ich lade ein Dokument herunter.",
+    "question": "Viele Sachen kann man aus dem Internet herunterladen. Ich ___ ein Video ___. Ich ___ ein Lied ___. Ich ___ ein Dokument ___."
+  },
+  {
+    "answer": "Ich atme tief. Ich atme ruhig. Ich atme frische Luft.",
+    "question": "Ich ___ tief. Ich ___ ruhig. Ich ___ frische Luft."
+  },
+  {
+    "answer": "Ich kaufe Blumen. Ich gebe dem Verkäufer das Geld und er gibt mir die Blumen.",
+    "question": "Ich kaufe Blumen. Ich ___ dem Verkäufer das Geld und er ___ mir die Blumen."
+  },
+  {
+    "answer": "Der Zug fährt ab. Dann steigen die Passagiere ein. Dann fährt der Zug ab.",
+    "question": "Der Zug ___ ___. Dann steigen die Passagiere ein. Dann ___ der Zug ___."
+  },
+  {
+    "answer": "Ich verstehe Ihren Namen nicht. Können Sie bitte ihn buchstabieren?",
+    "question": "Ich verstehe Ihren Namen nicht. Können Sie bitte ihn ___?"
+  },
+  {
+    "answer": "Die Kinder spielen Fußball. Ich spiele Klavier. Wir spielen Karten.",
+    "question": "Die Kinder ___ Fußball. Ich ___ Klavier. Wir ___ Karten."
+  },
+  {
+    "answer": "Was ist 25 mal 8? Ich weiß es nicht. Ich muss es rechnen.",
+    "question": "Was ist 25 mal 8? Ich weiß es nicht. Ich muss es ___."
+  },
+  {
+    "answer": "Ich liebe dich <3. Ich liebe meine Familie. Ich liebe mein Leben.",
+    "question": "Ich ___ dich <3. Ich ___ meine Familie. Ich ___ mein Leben."
+  },
+  {
+    "answer": "Ich frühstücke jeden Morgen um acht Uhr. Ich esse Brot mit Kaffee.",
+    "question": "Ich ___ jeden Morgen um acht Uhr. Ich esse Brot mit Kaffee."
+  },
+  {
+    "answer": "Es gibt zwei Möglichkeiten. Ich muss eine wählen / aussuchen.",
+    "question": "Es gibt zwei Möglichkeiten. Ich muss eine ___."
+  },
+  {
+    "answer": "Ich verstehe nicht. Können Sie das wiederholen?",
+    "question": "Ich verstehe nicht. Können Sie das ___?"
+  },
+  {
+    "answer": "Ja, ich verstehe. Alles klar.",
+    "question": "Ja, ich ___. Alles klar."
+  },
+  {
+    "answer": "Ich kaufe neue Möbel. Ich muss die Fläche im Wohnzimmer messen.",
+    "question": "Ich kaufe neue Möbel. Ich muss die Fläche im Wohnzimmer ___."
+  },
+  {
+    "answer": "Ich bereite eine Präsentation über ein Projekt vor. Ich bereite das Abendessen vor.",
+    "question": "Ich ___ eine Präsentation über ein Projekt ___. Ich ___ das Abendessen ___."
+  },
+  {
+    "answer": "Ich trage eine Jacke. Ich trage eine Hose. Ich trage Schuhe.",
+    "question": "Ich ___ eine Jacke. Ich ___ eine Hose. Ich ___ Schuhe."
+  },
+  {
+    "answer": "Ich hänge das Bild an die Wand. Ich hänge die Lampe an die Decke.",
+    "question": "Ich ___ das Bild an die Wand. Ich ___ die Lampe an die Decke."
+  },
+  {
+    "answer": "Das ist meine Tasche. Die Tasche gehört mir. Ich kaufe eine Wohnung. Diese Wohnung gehört mir.",
+    "question": "Das ist meine Tasche. Die Tasche ___ mir. Ich kaufe eine Wohnung. Diese Wohnung ___ mir."
+  },
+  {
+    "answer": "Ich wandere im Wald. Wir wandern in den Bergen. Ich wandere mit Freunden.",
+    "question": "Ich ___ im Wald. Wir ___ in den Bergen. Ich ___ mit Freunden."
+  },
+  {
+    "answer": "Mein Computer ist voll. Ich lösche Fotos und Dateien.",
+    "question": "Mein Computer ist voll. Ich ___ Fotos und Dateien."
+  },
+  {
+    "answer": "Ich schicke / sende dir eine Nachricht. Ich schicke / sende meinem Chef eine E-Mail. Ich schicke / sende meiner Mutter ein Paket.",
+    "question": "Ich ___ dir eine Nachricht. Ich ___  meinem Chef eine E-Mail. Ich ___ meiner Mutter ein Paket."
+  },
+  {
+    "answer": "Ich bin Architektin. Ich muss meine Idee zeichnen. Ich zeichne jeden Tag.",
+    "question": "Ich bin Architektin. Ich muss meine Idee ___. Ich ___ jeden Tag."
+  },
+  {
+    "answer": "Du brauchst Hilfe. Ich möchte dir meine Hilfe bieten.",
+    "question": "Du brauchst Hilfe. Ich möchte dir meine Hilfe ___."
+  },
+  {
+    "answer": "Ich bin müde. Ich liege auf dem Bett. Mein Hund liegt auf dem Teppich.",
+    "question": "Ich bin müde. Ich ___ auf dem Bett. Mein Hund ___ auf dem Teppich."
+  }
+]
+
+}
+
+	
