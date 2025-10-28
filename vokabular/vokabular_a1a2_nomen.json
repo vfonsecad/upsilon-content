@@ -646,7 +646,7 @@
   {
     "answer": "Sonntag kommt nach Samstag.",
     "question": "___ kommt nach Samstag."
-  }
+  },
 
   {"answer": "Die Stunde dauert sechzig Minuten. Die Stunden sind lang.", "question": "Die ___ dauert sechzig Minuten. Die ___ sind lang."},
   {"answer": "Die Minute dauert sechzig Sekunden. Die Minuten sind kurz.", "question": "Die ___ dauert sechzig Sekunden. Die ___ sind kurz."},
