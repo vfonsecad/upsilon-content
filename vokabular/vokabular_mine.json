@@ -358,7 +358,115 @@
   {
     "answer": "die Verfügung - Die nötigen Dokumente stehen Ihnen zur Verfügung.",
     "question": "Die nötigen Dokumente stehen Ihnen zur ____________. [ la disposición / the disposal, the provision ]"
-  }
+  },
+      {
+        "answer": "Die Regel wurde gestern aufgehoben. Manche Gesetze werden nach einigen Jahren aufgehoben. Ich finde es gut, dass das Verbot aufgehoben worden ist. Er möchte die Entscheidung nicht aufheben.",
+        "question": "Die Regel wurde gestern ____. Manche Gesetze werden nach einigen Jahren ____. Ich finde es gut, dass das Verbot ____ worden ist. Er möchte die Entscheidung nicht ____."
+    },
+    {
+        "answer": "Er fühlt sich heute sehr schwach. Nach der Krankheit war sie noch immer schwach. Ich versuche, nicht schwach zu wirken. Schwach zu sein ist manchmal auch menschlich.",
+        "question": "Er fühlt sich heute sehr ____. Nach der Krankheit war sie noch immer ____. Ich versuche, nicht ____ zu wirken. ____ zu sein ist manchmal auch menschlich."
+    },
+    {
+        "answer": "Der Auslöser für den Streit war ein Missverständnis. Was war der Auslöser dieser Reaktion? Ein lautes Geräusch kann ein Auslöser für Angst sein. Ich suche nach dem Auslöser des Problems.",
+        "question": "Der ____ für den Streit war ein Missverständnis. Was war der ____ dieser Reaktion? Ein lautes Geräusch kann ein ____ für Angst sein. Ich suche nach dem ____ des Problems."
+    },
+    {
+        "answer": "Das Kind fühlt sich von seiner Mutter gut beschützt. Sie hat mich vor der Gefahr beschützt. Ich möchte dich vor allem Bösen beschützen. Beschützt zu werden gibt ein gutes Gefühl.",
+        "question": "Das Kind fühlt sich von seiner Mutter gut ____. Sie hat mich vor der Gefahr ____. Ich möchte dich vor allem Bösen ____. ____ zu werden gibt ein gutes Gefühl."
+    },
+    {
+        "answer": "Der Kampf um Gerechtigkeit dauert an. Ich habe den Kampf gegen meine Angst aufgenommen. Sie kämpften tapfer bis zum Ende. Nach dem langen Kampf fühlten sich alle erschöpft.",
+        "question": "Der ____ um Gerechtigkeit dauert an. Ich habe den ____ gegen meine Angst aufgenommen. Sie ____ tapfer bis zum Ende. Nach dem langen ____ fühlten sich alle erschöpft."
+    },
+    {
+        "answer": "Die Richtung war umgekehrt. In umgekehrter Reihenfolge versteht man es besser. Er hat den Prozess umgekehrt. Umgekehrt würde ich genauso handeln.",
+        "question": "Die Richtung war ____. In ____ Reihenfolge versteht man es besser. Er hat den Prozess ____. ____ würde ich genauso handeln."
+    },
+        {
+        "answer": "Der Schatten des Baumes fiel auf den Boden. Im Schatten ist es angenehm kühl. Ich habe Angst vor meinem eigenen Schatten. Der Schatten bewegt sich, wenn das Licht sich ändert.",
+        "question": "Der ____ des Baumes fiel auf den Boden. Im ____ ist es angenehm kühl. Ich habe Angst vor meinem eigenen ____. Der ____ bewegt sich, wenn das Licht sich ändert."
+    },
+    {
+        "answer": "Ich möchte mich ein bisschen ablenken. Musik hilft mir, mich abzulenken. Er hat sich mit einem Buch abgelenkt. Ablenken ist wichtig, wenn man gestresst ist.",
+        "question": "Ich möchte mich ein bisschen ____. Musik hilft mir, mich ____. Er hat sich mit einem Buch ____. ____ ist wichtig, wenn man gestresst ist."
+    },
+    {
+        "answer": "Das war aber doof von mir. Ich finde diese Idee ziemlich doof. Sie hat doof gelacht. So doof ist er eigentlich nicht.",
+        "question": "Das war aber ____ von mir. Ich finde diese Idee ziemlich ____. Sie hat ____ gelacht. So ____ ist er eigentlich nicht."
+    },
+    {
+        "answer": "Das Geld reicht nicht für den Urlaub. Mir reicht es, ich gehe jetzt. Der Vorrat hat eine Woche gereicht. Es reicht, wenn du morgen kommst.",
+        "question": "Das Geld ____ nicht für den Urlaub. Mir ____ es, ich gehe jetzt. Der Vorrat hat eine Woche ____. Es ____ , wenn du morgen kommst."
+    },
+    {
+        "answer": "Er hat etwas Neues erschaffen. Die Künstlerin hat eine wunderbare Welt erschaffen. Gott hat die Erde erschaffen. Wir möchten gemeinsam etwas Schönes erschaffen.",
+        "question": "Er hat etwas Neues ____. Die Künstlerin hat eine wunderbare Welt ____. Gott hat die Erde ____. Wir möchten gemeinsam etwas Schönes ____."
+    },
+    {
+        "answer": "Weder du noch ich haben recht. Ich mag weder Kaffee noch Tee. Weder das Wetter noch die Stimmung war gut. Er hat weder Zeit noch Lust.",
+        "question": "____ du ____ ich haben recht. Ich mag ____ Kaffee ____ Tee. ____ das Wetter ____ die Stimmung war gut. Er hat ____ Zeit ____ Lust."
+    },
+    {
+        "answer": "Entweder du kommst mit, oder du bleibst hier. Ich nehme entweder den Bus oder das Fahrrad. Entweder oder – eine andere Möglichkeit gibt es nicht. Entweder wir machen es jetzt oder nie.",
+        "question": "____ du kommst mit, ____ du bleibst hier. Ich nehme ____ den Bus ____ das Fahrrad. ____ ____ – eine andere Möglichkeit gibt es nicht. ____ wir machen es jetzt ____ nie."
+    },
+    {
+        "answer": "Ich wollte gehen, jedoch war es zu spät. Sie hat viel gelernt, jedoch die Prüfung nicht bestanden. Das klingt schön, jedoch ist es schwierig. Er ist müde, jedoch zufrieden.",
+        "question": "Ich wollte gehen, ____, war es zu spät. Sie hat viel gelernt, ____ die Prüfung nicht bestanden. Das klingt schön, ____ ist es schwierig. Er ist müde, ____ zufrieden."
+    },
+    {
+        "answer": "Ich nehme jede Veränderung wahr. Er hat die Gefahr nicht wahrgenommen. Sie kann feine Unterschiede gut wahrnehmen. Wahrzunehmen, was passiert, ist der erste Schritt.",
+        "question": "Ich nehme jede Veränderung ____. Er hat die Gefahr nicht ____. Sie kann feine Unterschiede gut ____. ____ , was passiert, ist der erste Schritt."
+    },
+    {
+        "answer": "Sie griffen nach den Sternen. Ich habe nach seiner Hand gegriffen. Er griff zum Telefon. Alle griffen gleichzeitig nach dem Ball.",
+        "question": "Sie ____ nach den Sternen. Ich habe nach seiner Hand ____. Er ____ zum Telefon. Alle ____ gleichzeitig nach dem Ball."
+    },
+    {
+        "answer": "Das ist völlig wertlos. Er fühlte sich nach dem Streit wertlos. Wertlose Dinge sollte man nicht aufheben. Ich finde, nichts ist wirklich wertlos.",
+        "question": "Das ist völlig ____. Er fühlte sich nach dem Streit ____. ____ Dinge sollte man nicht aufheben. Ich finde, nichts ist wirklich ____."
+    },
+    {
+        "answer": "Wir müssen Vertrauen aufbauen. Er hat eine starke Beziehung aufgebaut. Ich möchte eine neue Routine aufbauen. Aufzubauen, was zerstört wurde, dauert lange.",
+        "question": "Wir müssen Vertrauen ____. Er hat eine starke Beziehung ____. Ich möchte eine neue Routine ____. ____ , was zerstört wurde, dauert lange."
+    },
+    {
+        "answer": "Ich trinke eher Tee als Kaffee. Er kommt eher spät nach Hause. Das ist eher unwahrscheinlich. Eher würde ich das selbst machen.",
+        "question": "Ich trinke ____ Tee als Kaffee. Er kommt ____ spät nach Hause. Das ist ____ unwahrscheinlich. ____ würde ich das selbst machen."
+    },
+    {
+        "answer": "Die Bedingung für den Vertrag ist klar. Unter dieser Bedingung mache ich mit. Es gibt mehrere Bedingungen, die erfüllt werden müssen. Ich habe die Bedingung akzeptiert.",
+        "question": "Die ____ für den Vertrag ist klar. Unter dieser ____ mache ich mit. Es gibt mehrere ____ , die erfüllt werden müssen. Ich habe die ____ akzeptiert."
+    },
+    {
+        "answer": "Ich beobachte gern die Natur. Der Lehrer beobachtet die Schüler. Wir haben das Verhalten genau beobachtet. Beobachten hilft, mehr zu verstehen.",
+        "question": "Ich ____ gern die Natur. Der Lehrer ____ die Schüler. Wir haben das Verhalten genau ____. ____ hilft, mehr zu verstehen."
+    },
+    {
+        "answer": "Wir müssen das Thema aufarbeiten. Sie hat ihre Vergangenheit aufarbeitet. Ich habe viele Erinnerungen aufarbeiten müssen. Aufarbeiten ist manchmal schmerzhaft, aber notwendig.",
+        "question": "Wir müssen das Thema ____. Sie hat ihre Vergangenheit ____. Ich habe viele Erinnerungen ____ müssen. ____ ist manchmal schmerzhaft, aber notwendig."
+    },
+    {
+        "answer": "Ich betrachte das Bild lange. Er betrachtet die Situation anders. Wir haben den Fall genau betrachtet. Betrachtet man es genauer, ist es logisch.",
+        "question": "Ich ____ das Bild lange. Er ____ die Situation anders. Wir haben den Fall genau ____. ____ man es genauer, ist es logisch."
+    },
+    {
+        "answer": "Es kostet viel Überwindung, ehrlich zu sein. Ich brauche Überwindung, um das zu tun. Sie hat ihre Angst mit großer Überwindung besiegt. Mit Überwindung schafft man vieles.",
+        "question": "Es kostet viel ____ , ehrlich zu sein. Ich brauche ____ , um das zu tun. Sie hat ihre Angst mit großer ____ besiegt. Mit ____ schafft man vieles."
+    },
+    {
+        "answer": "Der Himmel war völlig überdeckt. Die Sonne wurde von Wolken überdeckt. Schnee überdeckt die Landschaft. Alles war mit Staub überdeckt.",
+        "question": "Der Himmel war völlig ____. Die Sonne wurde von Wolken ____. Schnee ____ die Landschaft. Alles war mit Staub ____."
+    },
+    {
+        "answer": "Das Kind ist verschwunden. Mein Schlüssel ist spurlos verschwunden. Er war plötzlich einfach verschwunden. Verschwunden zu sein war seine Entscheidung.",
+        "question": "Das Kind ist ____. Mein Schlüssel ist spurlos ____. Er war plötzlich einfach ____. ____ zu sein war seine Entscheidung."
+    },
+    {
+        "answer": "Er hat das Zimmer betreten. Niemand darf den Raum betreten. Sie hat das Haus leise betreten. Betreten wurde nur mit Erlaubnis erlaubt.",
+        "question": "Er hat das Zimmer ____. Niemand darf den Raum ____. Sie hat das Haus leise ____. ____ wurde nur mit Erlaubnis erlaubt."
+    }
 ]
 
 
