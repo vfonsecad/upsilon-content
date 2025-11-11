@@ -1,155 +1,309 @@
-{"hoeren_a1_0011" : [
-{
- "answer": "Normalerweise öffnen die Supermärkte von Montag bis Samstag. In Österreich schließen sie am Samstag um 18 Uhr.",
- "question": "Normalerweise ___ die Supermärkte von Montag bis Samstag. In Österreich ___ sie am Samstag um 18 Uhr."
-
-    },
-    {"answer": "Eine Person hat viele Einheiten, viele Stücke von etwas. Zum Beispiel: viele Steine, viele Figuren, viele Bücher. Das heißt: Die Person sammelt Steine. Die Person sammelt Figuren, ... ",
-"question": "Eine Person hat viele Einheiten, viele Stücke von etwas. Zum Beispiel: viele Steine, viele Figuren, viele Bücher. Das heißt: Die Person ___ Steine. Die Person ___ Figuren, ... "
-
+{"hoeren_a1_0011": [
+    {
+      "answer": "öffnen/schließen: Normalerweise öffnen die Supermärkte von Montag bis Samstag. In Österreich schließen sie am Samstag um 18 Uhr.",
+      "question": "__/__: Normalerweise ___ die Supermärkte von Montag bis Samstag. In Österreich ___ sie am Samstag um 18 Uhr."
     },
     {
-
- "answer": "Ein Produkt kostet 50 Euro, aber es gibt 10% Rabatt. Das heißt: Du bezahlst 45 Euro. Du sparst 5 Euro." ,
- "question": "Ein Produkt kostet 50 Euro, aber es gibt 10% Rabatt. Das heißt: Du bezahlst 45 Euro. Du ___ 5 Euro." 
-
+      "answer": "sammeln: Eine Person hat viele Einheiten, viele Stücke von etwas. Zum Beispiel: viele Steine, viele Figuren, viele Bücher. Das heißt: Die Person sammelt Steine. Die Person sammelt Figuren, ...",
+      "question": "__: Eine Person hat viele Einheiten, viele Stücke von etwas. Zum Beispiel: viele Steine, viele Figuren, viele Bücher. Das heißt: Die Person ___ Steine. Die Person ___ Figuren, ... "
     },
     {
-
- "answer": "Er bietet mir seine Hilfe an. Das Hotel bietet viele Aktivitäten an. Hast du ein Problem? Wir bieten dir viele Alternativen an.",
- "question": "Er ___ mir seine Hilfe ___. Das Hotel ___ viele Aktivitäten ___. Hast du ein Problem? Wir ___ dir viele Alternativen ___."
-
+      "answer": "sparen: Ein Produkt kostet 50 Euro, aber es gibt 10% Rabatt. Das heißt: Du bezahlst 45 Euro. Du sparst 5 Euro.",
+      "question": "__: Ein Produkt kostet 50 Euro, aber es gibt 10% Rabatt. Das heißt: Du bezahlst 45 Euro. Du ___ 5 Euro."
     },
     {
-
- "answer": "Mein Handy ist kaputt, es funktioniert nicht. Kann ich dein Handy benutzen? Ich muss meine Mutter anrufen.",
- "question": "Mein Handy ist kaputt, es funktioniert nicht. Kann ich dein Handy ___? Ich muss meine Mutter anrufen."
-
+      "answer": "anbieten: Er bietet mir seine Hilfe an. Das Hotel bietet viele Aktivitäten an. Hast du ein Problem? Wir bieten dir viele Alternativen an.",
+      "question": "__: Er ___ mir seine Hilfe ___. Das Hotel ___ viele Aktivitäten ___. Hast du ein Problem? Wir ___ dir viele Alternativen ___."
     },
     {
-
- "answer": "Ein Produkt kostet 50 Euro, aber es gibt 10% Rabatt. Das heißt: Du bezahlst 45 Euro. Du sparst 5 Euro.",
- "question": "Ein Produkt kostet 50 Euro, aber es gibt 10% ___. Das heißt: Du bezahlst 45 Euro. Du sparst 5 Euro."
-
+      "answer": "benutzen: Mein Handy ist kaputt, es funktioniert nicht. Kann ich dein Handy benutzen? Ich muss meine Mutter anrufen.",
+      "question": "__: Mein Handy ist kaputt, es funktioniert nicht. Kann ich dein Handy ___? Ich muss meine Mutter anrufen."
     },
     {
-
- "answer": "Du musst etwas kaufen, aber du hast kein Geld. Deswegen kannst du nichts kaufen.",
- "question": "Du musst etwas kaufen, aber du hast kein ___. Deswegen kannst du nichts kaufen."
-
+      "answer": "der Rabatt: Ein Produkt kostet 50 Euro, aber es gibt 10% Rabatt. Das heißt: Du bezahlst 45 Euro. Du sparst 5 Euro.",
+      "question": "der __: Ein Produkt kostet 50 Euro, aber es gibt 10% ___. Das heißt: Du bezahlst 45 Euro. Du sparst 5 Euro."
     },
     {
-
- "answer": "Du putzt dein Haus. Dein Haus ist jetzt sauber.",
- "question": "Du putzt dein Haus. Dein Haus ist jetzt ___."
+      "answer": "das Geld: Du musst etwas kaufen, aber du hast kein Geld. Deswegen kannst du nichts kaufen.",
+      "question": "das __: Du musst etwas kaufen, aber du hast kein ___. Deswegen kannst du nichts kaufen."
+    },
+    {
+      "answer": "sauber: Du putzt dein Haus. Dein Haus ist jetzt sauber.",
+      "question": "__: Du putzt dein Haus. Dein Haus ist jetzt ___."
     }
-],
-
-"hoeren_a1_0012" : [
+  ],
+  "hoeren_a1_0012": [
+    {
+      "answer": "wenig: Nicht viel, sondern wenig",
+      "question": "__: Nicht viel, sondern _______"
+    },
+    {
+      "answer": "werfen: Plastik müssen wir in die gelbe Tonne werfen. Papier werfen wir in die rote Tonne.",
+      "question": "__: Plastik müssen wir in die gelbe Tonne _______. Papier _______ wir in die rote Tonne."
+    },
+    {
+      "answer": "trennen: Meine Eltern sind verheiratet, aber sie wohnen nicht zusammen. Sie sind getrennt. / Wie können wir recyceln? Zuerst trennen wir Restmüll, Plastik, Biomüll und Glas.",
+      "question": "__: Meine Eltern sind verheiratet, aber sie wohnen nicht zusammen. Sie sind ge_______. / Wie können wir recyceln? Zuerst _______ wir Restmüll, Plastik, Biomüll und Glas."
+    },
+    {
+      "answer": "enthalten: Was enthält Wasser? H2O",
+      "question": "__: Was _______ Wasser? H2O"
+    },
+    {
+      "answer": "ausspülen: Nach dem Zähneputzen solltest du dir den Mund gut ausspülen. / Wir spülen uns das Shampoo aus den Haaren aus.",
+      "question": "__: Nach dem Zähneputzen solltest du dir den Mund gut _______. / Wir _______ uns das Shampoo aus den Haaren _______."
+    },
+    {
+      "answer": "abmachen: Ich muss das Preisschild vom Geschenk abmachen. / Ich hatte eine Wunde, aber jetzt bin ich okay. Ich kann den Verband abmachen.",
+      "question": "__: Ich muss das Preisschild vom Geschenk _______. / Ich hatte eine Wunde, aber jetzt bin ich okay. Ich kann den Verband _______."
+    },
+    {
+      "answer": "legen: Ich lege den Teppich unter den Tisch.",
+      "question": "__: Ich _______ den Teppich unter den Tisch."
+    },
+    {
+      "answer": "stören: Die laute Musik stört. / Entschuldigung, darf ich stören? ich habe eine Frage.",
+      "question": "__: Die laute Musik _______. / Entschuldigung, darf ich _______? ich habe eine Frage."
+    },
+    {
+      "answer": "schützen: Eltern schützen ihre Kinder. / Wir müssen die Umwelt schützen.",
+      "question": "__: Eltern _______ ihre Kinder. / Wir müssen die Umwelt _______."
+    },
+    {
+      "answer": "schonen: Bitte schone dich! Du bist noch nicht wieder ganz fit. / Wir müssen die Natur schonen.",
+      "question": "__: Bitte _______ dich! Du bist noch nicht wieder ganz fit. / Wir müssen die Natur _______."
+    },
+    {
+      "answer": "verdecken: Es ist bewölkt. Die Wolken verdecken heute die Sonne.",
+      "question": "__: Es ist bewölkt. Die Wolken _______ heute die Sonne."
+    },
+    {
+      "answer": "die Natur: Tiere und Pflanzen sind die Natur. Flora und Fauna ist die Natur.",
+      "question": "die __: Tiere und Pflanzen sind die _______. Flora und Fauna ist die _______."
+    },
+    {
+      "answer": "der Stoff: Substanz. Seife, Shampoo, Lebensmittel, ... enthalten Stoffe.",
+      "question": "der __: Substanz. Seife, Shampoo, Lebensmittel, ... enthalten _______."
+    },
+    {
+      "answer": "der Schaden: Ich bin zu Hause angekommen und das Fenster war kaputt. Es gibt keinen anderen Schaden. Wir sind okay.",
+      "question": "der __: Ich bin zu Hause angekommen und das Fenster war kaputt. Es gibt keinen anderen _______. Wir sind okay."
+    },
+    {
+      "answer": "das Papier: Ich möchte einen Brief schreiben. Ich brauche einen Stift und Papier. / Die Zeitung ist aus Papier.",
+      "question": "das __: Ich möchte einen Brief schreiben. Ich brauche einen Stift und _______. / Die Zeitung ist aus _______."
+    },
+    {
+      "answer": "das Plastik: Eine Flasche kann aus Glas, Plastik, oder Metal sein.",
+      "question": "das __: Eine Flasche kann aus Glas, _______, oder Metal sein."
+    },
+    {
+      "answer": "die Tonne: Wir werfen Papier, Plastik und Restmüll in die Tonne.",
+      "question": "die __: Wir werfen Papier, Plastik und Restmüll in die _______."
+    },
+    {
+      "answer": "der Biomüll: Aus dem Biomüll machen wir Kompost.",
+      "question": "der __: Aus dem _______ machen wir Kompost."
+    },
+    {
+      "answer": "die Batterie: Manche Geräte brauchen eine Batterie. Sonst funktionieren sie nicht.",
+      "question": "die __: Manche Geräte brauchen eine _______. Sonst funktionieren sie nicht."
+    },
+    {
+      "answer": "die Elektrogeräte: Kühlschrank, Herd, Fernseher, Computer ... sind Elektrogeräte.",
+      "question": "die __: Kühlschrank, Herd, Fernseher, Computer ... sind _______."
+    },
+    {
+      "answer": "der Deckel: Der Jogurt hat einen Deckel. Eine Flasche hat einen Deckel. Sonst sind sie nicht verdeckt.",
+      "question": "der __: Der Jogurt hat einen _______. Eine Flasche hat einen _______. Sonst sind sie nicht verdeckt."
+    },
+    {
+      "answer": "das Material: Aus welchem Material ist die Flasche? Die Flasche ist aus Plastik.",
+      "question": "das __: Aus welchem _______ ist die Flasche? Die Flasche ist aus Plastik."
+    },
+    {
+      "answer": "die Tüte: ein Sackerl. Nach dem Einkaufen stecken wir die Produkte in die Tüte.",
+      "question": "die __: ein Sackerl. Nach dem Einkaufen stecken wir die Produkte in die _______."
+    },
+    {
+      "answer": "das Produkt: Nach dem Einkaufen stecken wir die Produkte ins Sackerl.",
+      "question": "das __: Nach dem Einkaufen stecken wir die _______ ins Sackerl."
+    },
+    {
+      "answer": "die Umwelt: Die Natur, die Welt, die Umwelt. Wir müssen die Umwelt schützen.",
+      "question": "die __: Die Natur, die Welt, die _______. Wir müssen die _______ schützen."
+    },
+    {
+      "answer": "der Abfall: Was sollen wir beim Recycling machen? Wie soll man den Abfall trennen?",
+      "question": "der __: Was sollen wir beim Recycling machen? Wie soll man den _______ trennen?"
+    }
+  ],
+  "hoeren_a1_0013":[
   {
-    "answer": "Nicht viel, sondern wenig",
-    "question": "Nicht viel, sondern _______"
+    "answer": "empfangen: bekommen, erhalten.",
+    "question": "__: bekommen, erhalten."
+  },
+  {"answer" : "die Liebe",
+   "question": "❤️❤️❤️❤️" },
+  {
+    "answer": "erleben: Wie war deine Reise? Hast du etwas neues erlebt? ",
+    "question": "__: Wie war deine Reise? Hast du etwas neues __? "
   },
   {
-    "answer": "Plastik müssen wir in die gelbe Tonne werfen. Papier werfen wir in die rote Tonne.",
-    "question": "Plastik müssen wir in die gelbe Tonne _______. Papier _______ wir in die rote Tonne."
+    "answer": "sehen: Du bist da. Ich kann dich mit meinen Augen sehen.",
+    "question": "__: Du bist da. Ich kann dich mit meinen Augen __."
   },
   {
-    "answer": "Meine Eltern sind verheiratet, aber sie wohnen nicht zusammen. Sie sind getrennt. / Wie können wir recyceln? Zuerst trennen wir Restmüll, Plastik, Biomüll und Glas.",
-    "question": "Meine Eltern sind verheiratet, aber sie wohnen nicht zusammen. Sie sind ge_______. / Wie können wir recyceln? Zuerst _______ wir Restmüll, Plastik, Biomüll und Glas."
+    "answer": "hören: Du bist da. Ich kann dich mit meinen Ohren hören.",
+    "question": "__: Du bist da. Ich kann dich mit meinen Ohren __."
   },
   {
-    "answer": "Was enthält Wasser? H2O",
-    "question": "Was _______ Wasser? H2O"
+    "answer": "besuchen: Ich wohne nicht bei meinen Eltern, aber ich besuche sie am Wochenende.",
+    "question": "__: Ich wohne nicht bei meinen Eltern, aber ich __ sie am Wochenende."
   },
   {
-    "answer": "Nach dem Zähneputzen solltest du dir den Mund gut ausspülen. / Wir spülen uns das Shampoo aus den Haaren aus.",
-    "question": "Nach dem Zähneputzen solltest du dir den Mund gut _______. / Wir _______ uns das Shampoo aus den Haaren _______."
+    "answer": "schreien: Auf der Achterbahn schreien die Leute.",
+    "question": "__: Auf der Achterbahn __ die Leute."
   },
   {
-    "answer": "Ich muss das Preisschild vom Geschenk abmachen. / Ich hatte eine Wunde, aber jetzt bin ich okay. Ich kann den Verband abmachen.",
-    "question": "Ich muss das Preisschild vom Geschenk _______. / Ich hatte eine Wunde, aber jetzt bin ich okay. Ich kann den Verband _______."
+    "answer": "starten: beginnen, anfangen.",
+    "question": "__: beginnen, anfangen."
   },
   {
-    "answer": "Ich lege den Teppich unter den Tisch.",
-    "question": "Ich _______ den Teppich unter den Tisch."
+    "answer": "ausprobieren: Oh, was kochst du? Indisch? Ich will es ausprobieren!",
+    "question": "__: Oh, was kochst du? Indisch? Ich will es __!"
   },
   {
-    "answer": "Die laute Musik stört.  / Entschuldigung, darf ich stören? ich habe eine Frage.",
-    "question": "Die laute Musik _______.  / Entschuldigung, darf ich _______? ich habe eine Frage."
+    "answer": "surfen: Ein typisches Hobby in Australien am Meer.",
+    "question": "__: Ein typisches Hobby in Australien am Meer."
   },
   {
-    "answer": "Eltern schützen ihre Kinder. / Wir müssen die Umwelt schützen.",
-    "question": "Eltern _______ ihre Kinder. / Wir müssen die Umwelt _______."
+    "answer": "reiten: Man fährt mit dem Auto oder dem Zug, aber man reite ein Pferd.",
+    "question": "__: Man fährt mit dem Auto oder dem Zug, aber man __ ein Pferd."
   },
   {
-    "answer": "Bitte schone dich! Du bist noch nicht wieder ganz fit. /  Wir müssen die Natur schonen.",
-    "question": "Bitte _______ dich! Du bist noch nicht wieder ganz fit. /  Wir müssen die Natur _______."
+    "answer": "klettern: Ein Sport im Fitnessstudio oder auf den Bergen.",
+    "question": "__: Ein Sport im Fitnessstudio oder auf den Bergen."
   },
   {
-    "answer": "Es ist bewölkt. Die Wolken verdecken heute die Sonne.",
-    "question": "Es ist bewölkt. Die Wolken _______ heute die Sonne."
+    "answer": "genießen: Ich finde dieses Essen sehr lecker. Ich genieße dieses Essen.",
+    "question": "__: Ich finde dieses Essen sehr lecker. Ich __ dieses Essen."
   },
   {
-    "answer": "Tiere und Pflanzen sind die Natur. Flora und Fauna ist die Natur.",
-    "question": "Tiere und Pflanzen sind die _______. Flora und Fauna ist die _______."
+    "answer": "entdecken: Die Menschen sagen: „Christopher Columbus entdeckt Amerika 1492.“",
+    "question": "__: Die Menschen sagen: „Christopher Columbus __ Amerika 1492.“"
   },
   {
-    "answer": "Substanz. Seife, Shampoo, Lebensmittel, ... enthalten Stoffe.",
-    "question": "Substanz. Seife, Shampoo, Lebensmittel, ... enthalten _______."
+    "answer": "sitzen: Im Sommer sitzen wir am Wochenende auf der Terrasse.",
+    "question": "__: Im Sommer __ wir am Wochenende auf der Terrasse."
   },
   {
-    "answer": "Ich bin zu Hause angekommen und das Fenster war kaputt. Es gibt keinen anderen Schaden. Wir sind okay.",
-    "question": "Ich bin zu Hause angekommen und das Fenster war kaputt. Es gibt keinen anderen _______. Wir sind okay."
+    "answer": "lachen: Das ist so lustig! Wir lachen viel und unser Bauch tut weh!",
+    "question": "__: Das ist so lustig! Wir __ viel und unser Bauch tut weh!"
   },
   {
-    "answer": "Ich möchte einen Brief schreiben. Ich brauche einen Stift und Papier. / Die Zeitung ist aus Papier.",
-    "question": "Ich möchte einen Brief schreiben. Ich brauche einen Stift und _______. / Die Zeitung ist aus _______."
+    "answer": "tanzen: Musik hören, singen und tanzen.",
+    "question": "__: Musik hören, singen und __."
   },
   {
-    "answer": "Eine Flasche kann aus Glas, Plastik, oder Metal sein.",
-    "question": "Eine Flasche kann aus Glas, _______, oder Metal sein."
+    "answer": "kennenlernen: Wie war die Reise? Super gut! Ich habe viele Städte und Menschen kennengelernt.",
+    "question": "__: Wie war die Reise? Super gut! Ich habe viele Städte und Menschen __."
   },
   {
-    "answer": "Wir werfen Papier, Plastik und Restmüll in die Tonne.",
-    "question": "Wir werfen Papier, Plastik und Restmüll in die _______."
+    "answer": "aufgehen: Die Sonne geht morgens auf.",
+    "question": "__: Die Sonne geht morgens __."
   },
   {
-    "answer": "Aus dem Biomüll machen wir Kompost.",
-    "question": "Aus dem _______ machen wir Kompost."
+    "answer": "das Gespräch: eine Konversation, eine Diskussion.",
+    "question": "das __: eine Konversation, eine Diskussion."
   },
   {
-    "answer": "Manche Geräte brauchen eine Batterie. Sonst funktionieren sie nicht.",
-    "question": "Manche Geräte brauchen eine _______. Sonst funktionieren sie nicht."
+    "answer": "die Freunde: nicht Kollegen, nicht Familie, nicht Nachbarn, sondern Freunde.",
+    "question": "die __: nicht Kollegen, nicht Familie, nicht Nachbarn, sondern __."
   },
   {
-    "answer": "Kühlschrank, Herd, Fernseher, Computer ... sind Elektrogeräte.",
-    "question": "Kühlschrank, Herd, Fernseher, Computer ... sind _______."
+    "answer": "die Freundschaft: Zwei Freunde haben eine Freundschaft.",
+    "question": "die __: Zwei Freunde haben eine __."
   },
   {
-    "answer": "Der Jogurt hat einen Deckel. Eine Flasche hat einen Deckel. Sonst sind sie nicht verdeckt.",
-    "question": "Der Jogurt hat einen _______. Eine Flasche hat einen _______. Sonst sind sie nicht verdeckt."
+    "answer": "die Familie: Deine Eltern, Geschwister, Großeltern … sind deine Familie.",
+    "question": "die __: Deine Eltern, Geschwister, Großeltern … sind deine __."
   },
   {
-    "answer": "Aus welchem Material ist die Flasche? Die Flasche ist aus Plastik.",
-    "question": "Aus welchem _______ ist die Flasche? Die Flasche ist aus Plastik."
+    "answer": "die Partnerschaft: Du und dein(e) Partner:in haben eine Partnerschaft.",
+    "question": "die __: Du und dein(e) Partner:in haben eine __."
   },
   {
-    "answer": "ein Sackerl. Nach dem Einkaufen stecken wir die Produkte in die Tüte.",
-    "question": "ein Sackerl. Nach dem Einkaufen stecken wir die Produkte in die _______."
+    "answer": "die Natur: Tiere und Pflanzen sind die Natur. Flora und Fauna ist die Natur.",
+    "question": "die __: Tiere und Pflanzen sind die __. Flora und Fauna ist die __."
   },
   {
-    "answer": "Nach dem Einkaufen stecken wir die Produkte ins Sackerl.",
-    "question": "Nach dem Einkaufen stecken wir die _______ ins Sackerl."
+    "answer": "der Blick: Du siehst etwas. Zum Beispiel: der Blick auf das Meer.",
+    "question": "der __: Du siehst etwas. Zum Beispiel: der __ auf das Meer."
   },
   {
-    "answer": "Die Natur, die Welt, die Umwelt. Wir müssen die Umwelt schützen.",
-    "question": "Die Natur, die Welt, die _______. Wir müssen die _______ schützen."
+    "answer": "das Meer: nicht See, nicht Ozean, nicht Fluss, sondern das Meer.",
+    "question": "das __: nicht See, nicht Ozean, nicht Fluss, sondern das __."
   },
   {
-    "answer": "Was sollen wir beim Recycling machen? Wie soll man den Abfall trennen?",
-    "question": "Was sollen wir beim Recycling machen? Wie soll man den _______ trennen?"
+    "answer": "die Musik: In Konzerten gibt es Musik. Ich höre Musik und singe.",
+    "question": "die __: In Konzerten gibt es __. Ich höre __ und singe."
+  },
+  {
+    "answer": "der Freizeitpark: Ein Park mit vielen Attraktionen für Kinder und Erwachsene, z. B. Prater.",
+    "question": "der __: Ein Park mit vielen Attraktionen für Kinder und Erwachsene, z. B. Prater."
+  },
+  {
+    "answer": "die Achterbahn: Eine häufige Attraktion in einem Freizeitpark.",
+    "question": "die __: Eine häufige Attraktion in einem Freizeitpark."
+  },
+  {
+    "answer": "die Reise: Ich fliege nach Mexiko in 2 Monaten. Ich muss die Reise planen.",
+    "question": "die __: Ich fliege nach Mexiko in 2 Monaten. Ich muss die __ planen."
+  },
+  {
+    "answer": "der Roadtrip: Eine Reise mit einem Auto. Man besucht viele Orte mit dem Auto auf dieser Reise.",
+    "question": "der __: Eine Reise mit einem Auto. Man besucht viele Orte mit dem Auto auf dieser __."
+  },
+  {
+    "answer": "das Restaurant: Nicht zu Hause essen, sondern im Restaurant.",
+    "question": "das __: Nicht zu Hause essen, sondern im __."
+  },
+  {
+    "answer": "der Geschmack: Du isst etwas Neues. Du entdeckst einen neuen Geschmack.",
+    "question": "der __: Du isst etwas Neues. Du entdeckst einen neuen __."
+  },
+  {
+    "answer": "die Terrasse: Die Wohnung hat eine kleine Terrasse. Sie ist praktisch. Dort stellen wir Pflanzen hin und sitzen im Sommer.",
+    "question": "die __: Die Wohnung hat eine kleine __. Sie ist praktisch. Dort stellen wir Pflanzen hin und sitzen im Sommer."
+  },
+  {
+    "answer": "der Moment: Warte nicht! Der Moment ist jetzt.",
+    "question": "der __: Warte nicht! Der __ ist jetzt."
+  },
+  {
+    "answer": "die Hochzeit: Wir heiraten und feiern! Wir möchten euch zu unserer Hochzeit einladen!",
+    "question": "die __: Wir heiraten und feiern! Wir möchten euch zu unserer __ einladen!"
+  },
+  {
+    "answer": "das Festival: Konzert, Stadtparty.",
+    "question": "das __: Konzert, Stadtparty."
+  },
+  {
+    "answer": "das Konzert: Festival mit Musik und Sänger:innen.",
+    "question": "das __: Festival mit Musik und Sänger:innen."
+  },
+  {
+    "answer": "das Projekt: Idee → Geld → Planung → Umsetzung → Ergebnis.",
+    "question": "das __: Idee → Geld → Planung → Umsetzung → Ergebnis."
+  },
+  {
+    "answer": "die Menschen: Leute, Personen.",
+    "question": "die __: Leute, Personen."
+  },
+  {
+    "answer": "die Kulturen: Traditionen + Geschichten + Sprachen.",
+    "question": "die __: Traditionen + Geschichten + Sprachen."
   }
-]
-
+]  
 }
