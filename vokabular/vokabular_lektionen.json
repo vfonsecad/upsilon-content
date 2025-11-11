@@ -43,6 +43,113 @@
  "answer": "Du putzt dein Haus. Dein Haus ist jetzt sauber.",
  "question": "Du putzt dein Haus. Dein Haus ist jetzt ___."
     }
+],
+
+"hoeren_a1_0012" : [
+  {
+    "answer": "Nicht viel, sondern wenig",
+    "question": "Nicht viel, sondern _______"
+  },
+  {
+    "answer": "Plastik müssen wir in die gelbe Tonne werfen. Papier werfen wir in die rote Tonne.",
+    "question": "Plastik müssen wir in die gelbe Tonne _______. Papier _______ wir in die rote Tonne."
+  },
+  {
+    "answer": "Meine Eltern sind verheiratet, aber sie wohnen nicht zusammen. Sie sind getrennt. / Wie können wir recyceln? Zuerst trennen wir Restmüll, Plastik, Biomüll und Glas.",
+    "question": "Meine Eltern sind verheiratet, aber sie wohnen nicht zusammen. Sie sind ge_______. / Wie können wir recyceln? Zuerst _______ wir Restmüll, Plastik, Biomüll und Glas."
+  },
+  {
+    "answer": "Was enthält Wasser? H2O",
+    "question": "Was _______ Wasser? H2O"
+  },
+  {
+    "answer": "Nach dem Zähneputzen solltest du dir den Mund gut ausspülen. / Wir spülen uns das Shampoo aus den Haaren aus.",
+    "question": "Nach dem Zähneputzen solltest du dir den Mund gut _______. / Wir _______ uns das Shampoo aus den Haaren _______."
+  },
+  {
+    "answer": "Ich muss das Preisschild vom Geschenk abmachen. / Ich hatte eine Wunde, aber jetzt bin ich okay. Ich kann den Verband abmachen.",
+    "question": "Ich muss das Preisschild vom Geschenk _______. / Ich hatte eine Wunde, aber jetzt bin ich okay. Ich kann den Verband _______."
+  },
+  {
+    "answer": "Ich lege den Teppich unter den Tisch.",
+    "question": "Ich _______ den Teppich unter den Tisch."
+  },
+  {
+    "answer": "Die laute Musik stört.  / Entschuldigung, darf ich stören? ich habe eine Frage.",
+    "question": "Die laute Musik _______.  / Entschuldigung, darf ich _______? ich habe eine Frage."
+  },
+  {
+    "answer": "Eltern schützen ihre Kinder. / Wir müssen die Umwelt schützen.",
+    "question": "Eltern _______ ihre Kinder. / Wir müssen die Umwelt _______."
+  },
+  {
+    "answer": "Bitte schone dich! Du bist noch nicht wieder ganz fit. /  Wir müssen die Natur schonen.",
+    "question": "Bitte _______ dich! Du bist noch nicht wieder ganz fit. /  Wir müssen die Natur _______."
+  },
+  {
+    "answer": "Es ist bewölkt. Die Wolken verdecken heute die Sonne.",
+    "question": "Es ist bewölkt. Die Wolken _______ heute die Sonne."
+  },
+  {
+    "answer": "Tiere und Pflanzen sind die Natur. Flora und Fauna ist die Natur.",
+    "question": "Tiere und Pflanzen sind die _______. Flora und Fauna ist die _______."
+  },
+  {
+    "answer": "Substanz. Seife, Shampoo, Lebensmittel, ... enthalten Stoffe.",
+    "question": "Substanz. Seife, Shampoo, Lebensmittel, ... enthalten _______."
+  },
+  {
+    "answer": "Ich bin zu Hause angekommen und das Fenster war kaputt. Es gibt keinen anderen Schaden. Wir sind okay.",
+    "question": "Ich bin zu Hause angekommen und das Fenster war kaputt. Es gibt keinen anderen _______. Wir sind okay."
+  },
+  {
+    "answer": "Ich möchte einen Brief schreiben. Ich brauche einen Stift und Papier. / Die Zeitung ist aus Papier.",
+    "question": "Ich möchte einen Brief schreiben. Ich brauche einen Stift und _______. / Die Zeitung ist aus _______."
+  },
+  {
+    "answer": "Eine Flasche kann aus Glas, Plastik, oder Metal sein.",
+    "question": "Eine Flasche kann aus Glas, _______, oder Metal sein."
+  },
+  {
+    "answer": "Wir werfen Papier, Plastik und Restmüll in die Tonne.",
+    "question": "Wir werfen Papier, Plastik und Restmüll in die _______."
+  },
+  {
+    "answer": "Aus dem Biomüll machen wir Kompost.",
+    "question": "Aus dem _______ machen wir Kompost."
+  },
+  {
+    "answer": "Manche Geräte brauchen eine Batterie. Sonst funktionieren sie nicht.",
+    "question": "Manche Geräte brauchen eine _______. Sonst funktionieren sie nicht."
+  },
+  {
+    "answer": "Kühlschrank, Herd, Fernseher, Computer ... sind Elektrogeräte.",
+    "question": "Kühlschrank, Herd, Fernseher, Computer ... sind _______."
+  },
+  {
+    "answer": "Der Jogurt hat einen Deckel. Eine Flasche hat einen Deckel. Sonst sind sie nicht verdeckt.",
+    "question": "Der Jogurt hat einen _______. Eine Flasche hat einen _______. Sonst sind sie nicht verdeckt."
+  },
+  {
+    "answer": "Aus welchem Material ist die Flasche? Die Flasche ist aus Plastik.",
+    "question": "Aus welchem _______ ist die Flasche? Die Flasche ist aus Plastik."
+  },
+  {
+    "answer": "ein Sackerl. Nach dem Einkaufen stecken wir die Produkte in die Tüte.",
+    "question": "ein Sackerl. Nach dem Einkaufen stecken wir die Produkte in die _______."
+  },
+  {
+    "answer": "Nach dem Einkaufen stecken wir die Produkte ins Sackerl.",
+    "question": "Nach dem Einkaufen stecken wir die _______ ins Sackerl."
+  },
+  {
+    "answer": "Die Natur, die Welt, die Umwelt. Wir müssen die Umwelt schützen.",
+    "question": "Die Natur, die Welt, die _______. Wir müssen die _______ schützen."
+  },
+  {
+    "answer": "Was sollen wir beim Recycling machen? Wie soll man den Abfall trennen?",
+    "question": "Was sollen wir beim Recycling machen? Wie soll man den _______ trennen?"
+  }
 ]
 
 }
